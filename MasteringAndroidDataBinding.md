@@ -75,7 +75,7 @@
 
 目标效果:文本框内容跟随输入框内容同步变化
 
-![](imgs/1.gif)
+![](imgs/databinding/1.gif)
 
 1.定义一个对象实现BaseObservable,要观察的字段添加@Bindable注解
 
@@ -177,7 +177,7 @@
 
 展示人物姓名年龄,名字首字母大写,如果大于18岁展示"成人标记"
 
-![](imgs/1.png)
+![](imgs/databinding/1.png)
 
 1.定义人物实体类
 
