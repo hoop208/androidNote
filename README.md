@@ -1,6 +1,6 @@
 # Android笔记
 
-* [自定义控件](cutom-views.md)
+* [自定义控件](chapter1.md)
 
 * [系统api](xi-tong-api.md)
 
