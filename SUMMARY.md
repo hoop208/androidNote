@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [索引](README.md)
 * [自定义控件](chapter1.md)
 * [系统API](xi-tong-api.md)
 * [框架](kuang-jia.md)
