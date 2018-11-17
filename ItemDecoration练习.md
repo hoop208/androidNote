@@ -1,7 +1,7 @@
 # ItemDecoration练习 #
 
 ## 设置padding ##
-![](imgs/itemdecotation/1.gif)
+![](imgs/itemdecotation/itemdecoration1.gif)
 
     private class PaddingDecoration extends RecyclerView.ItemDecoration{
 
