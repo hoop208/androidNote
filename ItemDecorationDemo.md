@@ -47,7 +47,6 @@
 
 
 ## 绘制标签 ##
-![](imgs/itemdecoration/ItemDecoration3.gif)
 ![](/imgs/itemdecoration/ItemDecoration3.gif)
 
     private class LabelDecoration extends RecyclerView.ItemDecoration {
