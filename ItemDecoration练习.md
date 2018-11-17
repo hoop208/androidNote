@@ -1,7 +1,7 @@
 # ItemDecoration练习 #
 
 ## 设置padding ##
-![](imgs/itemdecotation/itemdecoration1.gif)
+![](imgs/itemdecoration/ItemDecoration1.gif)
 
     private class PaddingDecoration extends RecyclerView.ItemDecoration{
 
@@ -14,7 +14,7 @@
     }
 
 ## 分割线 ##
-![](imgs/ItemDecoration2.gif)
+![](imgs/itemdecoration/ItemDecoration2.gif)
 
 实现思路:	要实现分割线效果需要 getItemOffsets()和 onDraw()2个方法，首先用 getItemOffsets给item下方空出一定高度的空间，然后用onDraw绘制这个空间
 
@@ -47,7 +47,7 @@
 
 
 ## 绘制标签 ##
-![](imgs/ItemDecoration3.gif)
+![](imgs/itemdecoration/ItemDecoration3.gif)
 
     private class LabelDecoration extends RecyclerView.ItemDecoration {
 
@@ -90,7 +90,7 @@
 
 
 ## 分组 ##
-![](imgs/ItemDecoration4.gif)
+![](imgs/itemdecoration/ItemDecoration4.gif)
 
 先定义接口获取组id和首字母
 
@@ -175,7 +175,7 @@
 
 
 ## Sticky ##
-![](imgs/ItemDecoration5.gif)
+![](imgs/itemdecoration/ItemDecoration5.gif)
 
 实现思路:	header不动是绘制在item内容之上的，需要重写onDrawOver()方法，其他地方和section实现一样
 
