@@ -2,6 +2,7 @@
 
 * [索引](README.md)
 * [自定义控件](customview.md)
+  * [播放暂停动画](播放暂停动画.md)
 * [sdk源码](xi-tong-api.md)
   * [ItemDecoration](xi-tong-api/itemdecorationh.md)
     * [基本使用](ItemDecorationDemo.md)
