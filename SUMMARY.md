@@ -3,6 +3,7 @@
 * [索引](README.md)
 * [自定义控件](customview.md)
 * [系统API](xi-tong-api.md)
+  * [ItemDecoration](xi-tong-api/itemdecorationh.md)
 * [框架](kuang-jia.md)
   * [dagger2](dagger2.md)
     * [基本使用](dagger2demo.md)
