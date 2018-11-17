@@ -1,7 +1,7 @@
 # Summary
 
 * [索引](README.md)
-* [自定义控件](chapter1.md)
+* [自定义控件](customview.md)
 * [系统API](xi-tong-api.md)
 * [框架](kuang-jia.md)
   * [dagger2](dagger2.md)
