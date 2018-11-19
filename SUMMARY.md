@@ -32,4 +32,5 @@
 * [动画](dong-hua.md)
 * [开源项目学习](xiang-mu-xue-xi.md)
 * [资料收藏](zi-liao-shou-cang.md)
+  * [view的绘制流程](zi-liao-shou-cang/viewde-hui-zhi-liu-cheng.md)
 
