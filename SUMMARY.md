@@ -12,6 +12,7 @@
   * [source/Scroller](source/Scroller.md)
   * [source/SwipeRefreshLayout](source/SwipeRefreshLayout.md)
   * [source/TextView](source/TextView.md)
+  * [AsyncTask](xi-tong-api/asynctask.md)
 * [框架](kuang-jia.md)
   * [dagger2](dagger2.md)
     * [基本使用](dagger2demo.md)
