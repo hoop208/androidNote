@@ -109,7 +109,7 @@ private void dispatchTakePictureIntent() {
 }
 ```
 
-在android7.0以上,跨应用的文件uri会导致异常FileUriExposedException,FileProvider是通用的模式
+在android7.0以上,跨应用的文件uri会导致异常FileUriExposedException,FileProvider是更通用的模式.
 
 在清单文件中声明
 
@@ -130,10 +130,70 @@ private void dispatchTakePictureIntent() {
 </application>
 ```
 
+android:authorities属性值需要和getUriForFile(Context, String, File)方法的第二个参数匹配.
+专用的路径文件配置:
+
+
+```
+
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="my_images" path="Android/data/com.example.package.name/files/Pictures" />
+</paths>
+```
+
+
 
 # 添加图片到相册
 
+让图片对相册和其他应用可见:
+
+
+
+```
+private void galleryAddPic() {
+    Intent mediaScanIntent = new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE);
+    File f = new File(mCurrentPhotoPath);
+    Uri contentUri = Uri.fromFile(f);
+    mediaScanIntent.setData(contentUri);
+    this.sendBroadcast(mediaScanIntent);
+}
+```
+
+
+
 # 解压压缩后的图片
+
+将图片按控件尺寸缩放:
+
+```
+
+private void setPic() {
+    // Get the dimensions of the View
+    int targetW = mImageView.getWidth();
+    int targetH = mImageView.getHeight();
+
+    // Get the dimensions of the bitmap
+    BitmapFactory.Options bmOptions = new BitmapFactory.Options();
+    bmOptions.inJustDecodeBounds = true;
+    BitmapFactory.decodeFile(mCurrentPhotoPath, bmOptions);
+    int photoW = bmOptions.outWidth;
+    int photoH = bmOptions.outHeight;
+
+    // Determine how much to scale down the image
+    int scaleFactor = Math.min(photoW/targetW, photoH/targetH);
+
+    // Decode the image file into a Bitmap sized to fill the View
+    bmOptions.inJustDecodeBounds = false;
+    bmOptions.inSampleSize = scaleFactor;
+    bmOptions.inPurgeable = true;
+
+    Bitmap bitmap = BitmapFactory.decodeFile(mCurrentPhotoPath, bmOptions);
+    mImageView.setImageBitmap(bitmap);
+}
+```
+
+
 
 
 
