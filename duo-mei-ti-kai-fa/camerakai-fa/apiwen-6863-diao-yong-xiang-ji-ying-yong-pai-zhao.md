@@ -28,6 +28,21 @@ private void dispatchTakePictureIntent() {
 
 # 获取缩略图
 
+android相机应用在onActivityResult发放中将压缩后的小图返回,通过extra对象里的"data"键获取.
+
+```
+
+@Override
+protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+    if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == RESULT_OK) {
+        Bundle extras = data.getExtras();
+        Bitmap imageBitmap = (Bitmap) extras.get("data");
+        mImageView.setImageBitmap(imageBitmap);
+    }
+}
+```
+
+
 # 按原图保存图片
 
 # 添加图片到相册
