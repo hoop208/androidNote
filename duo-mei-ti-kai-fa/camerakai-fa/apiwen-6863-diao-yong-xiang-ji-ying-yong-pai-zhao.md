@@ -45,7 +45,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
 # 按原图保存图片
 
-如果提供一个保存的文件,android相机应用保存原图.需要提供保存图片的全路径.
+如果提供一个保存的文件,android相机应用会保存原图.需要提供保存图片的全路径.
 
 声明读写权限:
 
