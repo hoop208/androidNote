@@ -45,6 +45,71 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
 # 按原图保存图片
 
+如果提供一个保存的文件,android相机应用保存原图.需要提供保存图片的全路径.
+
+声明读写权限:
+
+```
+<manifest ...>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    ...
+</manifest>
+```
+
+创建保存图片的文件,基于时间创建唯一的文件名
+
+
+
+```
+String mCurrentPhotoPath;
+
+private File createImageFile() throws IOException {
+    // Create an image file name
+    String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+    String imageFileName = "JPEG_" + timeStamp + "_";
+    File storageDir = getExternalFilesDir(Environment.DIRECTORY_PICTURES);
+    File image = File.createTempFile(
+        imageFileName,  /* prefix */
+        ".jpg",         /* suffix */
+        storageDir      /* directory */
+    );
+
+    // Save a file: path for use with ACTION_VIEW intents
+    mCurrentPhotoPath = image.getAbsolutePath();
+    return image;
+}
+```
+
+在intent中带上文件路径参数
+
+```
+static final int REQUEST_TAKE_PHOTO = 1;
+
+private void dispatchTakePictureIntent() {
+    Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+    // Ensure that there's a camera activity to handle the intent
+    if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
+        // Create the File where the photo should go
+        File photoFile = null;
+        try {
+            photoFile = createImageFile();
+        } catch (IOException ex) {
+            // Error occurred while creating the File
+            ...
+        }
+        // Continue only if the File was successfully created
+        if (photoFile != null) {
+            Uri photoURI = FileProvider.getUriForFile(this,
+                                                  "com.example.android.fileprovider",
+                                                  photoFile);
+            takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);
+            startActivityForResult(takePictureIntent, REQUEST_TAKE_PHOTO);
+        }
+    }
+}
+```
+
+
 # 添加图片到相册
 
 # 解压压缩后的图片
