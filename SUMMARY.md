@@ -39,4 +39,8 @@
 * [开源项目学习](xiang-mu-xue-xi.md)
 * [资料收藏](zi-liao-shou-cang.md)
   * [view的绘制流程](zi-liao-shou-cang/viewde-hui-zhi-liu-cheng.md)
+* [多媒体开发](duo-mei-ti-kai-fa.md)
+  * [camera开发](duo-mei-ti-kai-fa/camerakai-fa.md)
+    * 资料收集
+    * 源码解析
 
