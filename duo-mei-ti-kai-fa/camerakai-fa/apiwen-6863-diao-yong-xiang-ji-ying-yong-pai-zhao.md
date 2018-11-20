@@ -109,6 +109,27 @@ private void dispatchTakePictureIntent() {
 }
 ```
 
+在android7.0以上,跨应用的文件uri会导致异常FileUriExposedException,FileProvider是通用的模式
+
+在清单文件中声明
+
+
+```
+<application>
+   ...
+   <provider
+        android:name="android.support.v4.content.FileProvider"
+        android:authorities="com.example.android.fileprovider"
+        android:exported="false"
+        android:grantUriPermissions="true">
+        <meta-data
+            android:name="android.support.FILE_PROVIDER_PATHS"
+            android:resource="@xml/file_paths"></meta-data>
+    </provider>
+    ...
+</application>
+```
+
 
 # 添加图片到相册
 
