@@ -44,6 +44,7 @@
 * [多媒体开发](duo-mei-ti-kai-fa.md)
   * [camera开发](duo-mei-ti-kai-fa/camerakai-fa.md)
     * [学习笔记](duo-mei-ti-kai-fa/camerakai-fa/zi-liao-shou-ji.md)
-    * 源码解析
+    * [源码解析](duo-mei-ti-kai-fa/camerakai-fa/yuan-ma-jie-xi.md)
     * [api文档-调用相机应用拍照](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-diao-yong-xiang-ji-ying-yong-pai-zhao.md)
+    * [api文档-视频录制](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-shi-pin-lu-zhi.md)
 
