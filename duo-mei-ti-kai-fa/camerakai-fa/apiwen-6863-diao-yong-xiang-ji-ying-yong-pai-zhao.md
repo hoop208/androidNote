@@ -1,3 +1,7 @@
+# 原文地址
+
+[api文档--拍照](https://developer.android.com/training/camera/photobasics)
+
 # 声明需要相机功能
     
 限制在Google Play只有具备相机功能的设备可见
