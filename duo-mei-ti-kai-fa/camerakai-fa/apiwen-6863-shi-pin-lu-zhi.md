@@ -36,6 +36,9 @@ private void dispatchTakeVideoIntent() {
 
 # 播放录制的视频
 
+
+
+```
 @Override
 protected void onActivityResult(int requestCode, int resultCode, Intent intent) {
     if (requestCode == REQUEST_VIDEO_CAPTURE && resultCode == RESULT_OK) {
@@ -43,5 +46,8 @@ protected void onActivityResult(int requestCode, int resultCode, Intent intent) 
         mVideoView.setVideoURI(videoUri);
     }
 }
+```
+
+
 
 
