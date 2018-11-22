@@ -4,6 +4,7 @@
 * [自定义控件](customview.md)
   * [播放暂停动画](播放暂停动画.md)
   * [侧滑菜单](customview/用ItemTouchHelper简单实现侧滑菜单.md)
+  * [资料](zi-liao.md)
 * [sdk源码](xi-tong-api.md)
   * [ItemDecoration](xi-tong-api/itemdecorationh.md)
     * [基本使用](ItemDecorationDemo.md)
