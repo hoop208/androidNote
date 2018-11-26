@@ -1,7 +1,7 @@
 # Summary
 
 * [索引](README.md)
-* [自定义控件](customview.md)
+* [自定义控件&动画](customview.md)
   * [播放暂停动画](播放暂停动画.md)
   * [侧滑菜单](customview/用ItemTouchHelper简单实现侧滑菜单.md)
   * [资料](zi-liao.md)
@@ -37,7 +37,6 @@
       * [六Flowable的使用](六Flowable的使用.md)
       * [七BackPressure策略](七BackPressure策略.md)
     * [源码学习](yuan-ma-xue-xi.md)
-* [动画](dong-hua.md)
 * [开源项目学习](xiang-mu-xue-xi.md)
 * [Android OS](zi-liao-shou-cang.md)
   * [view的绘制流程](zi-liao-shou-cang/viewde-hui-zhi-liu-cheng.md)
@@ -47,4 +46,5 @@
     * [源码解析](duo-mei-ti-kai-fa/camerakai-fa/yuan-ma-jie-xi.md)
     * [api文档-调用相机应用拍照](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-diao-yong-xiang-ji-ying-yong-pai-zhao.md)
     * [api文档-视频录制](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-shi-pin-lu-zhi.md)
+    * [api文档-控制相机](duo-mei-ti-kai-fa/camerakai-fa/kong-zhi-xiang-ji.md)
 
