@@ -108,6 +108,10 @@ public void surfaceChanged(SurfaceHolder holder, int format, int w, int h) {
 }
 ```
 
+# 设置相机方向
+
+setCameraDisplayOrientation()
+
 
 
 
