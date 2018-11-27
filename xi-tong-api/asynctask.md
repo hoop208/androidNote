@@ -8,5 +8,7 @@ FutureTask:
 
 Runnable:
 
+Runnable和Thread的区别:    https://blog.csdn.net/wwww1988600/article/details/7309070
+
 Callable:
 
