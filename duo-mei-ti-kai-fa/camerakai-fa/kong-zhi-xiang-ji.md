@@ -31,4 +31,66 @@ private void releaseCameraAndPreview() {
 
 # 创建相机预览
 
+Preview类:
+
+
+
+```
+class Preview extends ViewGroup implements SurfaceHolder.Callback {
+
+    SurfaceView mSurfaceView;
+    SurfaceHolder mHolder;
+
+    Preview(Context context) {
+        super(context);
+
+        mSurfaceView = new SurfaceView(context);
+        addView(mSurfaceView);
+
+        // Install a SurfaceHolder.Callback so we get notified when the
+        // underlying surface is created and destroyed.
+        mHolder = mSurfaceView.getHolder();
+        mHolder.addCallback(this);
+        mHolder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS);
+    }
+...
+}
+```
+
+开启预览:
+
+相机示例和它的相关预览必须按顺序创建.在用户对相机做了修改后,预览必须在surfaceChanged()回调中重启.
+
+
+```
+public void setCamera(Camera camera) {
+    if (mCamera == camera) { return; }
+
+    stopPreviewAndFreeCamera();
+
+    mCamera = camera;
+
+    if (mCamera != null) {
+        List<Size> localSizes = mCamera.getParameters().getSupportedPreviewSizes();
+        mSupportedPreviewSizes = localSizes;
+        requestLayout();
+
+        try {
+            mCamera.setPreviewDisplay(mHolder);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        // Important: Call startPreview() to start updating the preview
+        // surface. Preview must be started before you can take a picture.
+        mCamera.startPreview();
+    }
+}
+```
+
+
+
+
+
+
   
