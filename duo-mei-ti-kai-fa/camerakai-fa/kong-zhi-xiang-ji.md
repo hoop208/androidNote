@@ -114,3 +114,69 @@ setCameraDisplayOrientation()
 
 #拍照 
 
+在预览启动后使用Camera.takePicture()方法拍照.可以创建Camera.PictureCallback和Camera.ShutterCallback对象作为参数传入这个方法.
+
+#重启预览
+
+每次拍照之后必须重启预览才能再次拍照.
+
+```
+ @Override
+public void onClick(View v) {
+    switch(mPreviewState) {
+    case K_STATE_FROZEN:
+        mCamera.startPreview();
+        mPreviewState = K_STATE_PREVIEW;
+        break;
+
+    default:
+        mCamera.takePicture( null, rawCallback, null);
+        mPreviewState = K_STATE_BUSY;
+    } // switch
+    shutterBtnConfig();
+} 
+```
+
+# 停止预览并释放相机资源
+
+一旦你的应用使用完相机,就应该马上释放资源.尤其要释放Camera对象,否则可能导致其它应用崩溃,甚至是你自己应用的新的实例.
+
+
+```
+
+@Override
+public void surfaceDestroyed(SurfaceHolder holder) {
+    // Surface will be destroyed when we return, so stop the preview.
+    if (mCamera != null) {
+        // Call stopPreview() to stop updating the preview surface.
+        mCamera.stopPreview();
+    }
+}
+
+/**
+ * When this function returns, mCamera will be null.
+ */
+private void stopPreviewAndFreeCamera() {
+
+    if (mCamera != null) {
+        // Call stopPreview() to stop updating the preview surface.
+        mCamera.stopPreview();
+
+        // Important: Call release() to release the camera for use by other
+        // applications. Applications should release the camera immediately
+        // during onPause() and re-open() it during onResume()).
+        mCamera.release();
+
+        mCamera = null;
+    }
+}
+
+```
+
+初始化相机的时候都需要先停止预览.
+
+
+
+
+
+
