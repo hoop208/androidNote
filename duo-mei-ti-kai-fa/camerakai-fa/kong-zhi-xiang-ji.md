@@ -114,11 +114,3 @@ setCameraDisplayOrientation()
 
 #拍照 
 
-
-
-
-
-
-
-
-  
