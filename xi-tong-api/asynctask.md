@@ -9,9 +9,8 @@ FutureTask:
 [Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)
 
 Runnable:
-
-Runnable和Thread的区别:    
-https://blog.csdn.net/wwww1988600/article/details/7309070
+    
+[Runnable和Thread的区别:](https://blog.csdn.net/wwww1988600/article/details/7309070)
 
 Callable:
 
