@@ -22,4 +22,54 @@
  
  # 清单文件声明
  
+ 相机权限:
+ 
+
+
+```
+ <uses-permission android:name="android.permission.CAMERA" />
+```
+
+相机功能:
+
+
+
+```
+<uses-feature android:name="android.hardware.camera" />
+```
+
+存储权限:
+
+
+```
+
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+```
+
+视频录制:
+
+
+
+```
+<uses-permission android:name="android.permission.RECORD_AUDIO" />
+```
+
+定位权限(如果需要在相片上标记位置信息):
+
+
+```
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+...
+<!-- Needed only if your app targets Android 5.0 (API level 21) or higher. -->
+<uses-feature android:name="android.hardware.location.gps" />
+```
+
+
+
+
+
+
+
+
+
  
