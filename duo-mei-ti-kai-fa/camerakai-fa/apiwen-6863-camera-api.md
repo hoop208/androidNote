@@ -64,6 +64,8 @@
 <uses-feature android:name="android.hardware.location.gps" />
 ```
 
+# 构建相机应用
+
 
 
 
