@@ -47,4 +47,5 @@
     * [api文档-调用相机应用拍照](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-diao-yong-xiang-ji-ying-yong-pai-zhao.md)
     * [api文档-视频录制](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-shi-pin-lu-zhi.md)
     * [api文档-控制相机](duo-mei-ti-kai-fa/camerakai-fa/kong-zhi-xiang-ji.md)
+    * [api文档-Camera Api](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-camera-api.md)
 
