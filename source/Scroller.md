@@ -1,6 +1,6 @@
 # 源码解读 #
 
-[https://github.com/Skykai521/AndroidSdkSourceAnalysis/blob/master/article/Scroller%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md](https://github.com/Skykai521/AndroidSdkSourceAnalysis/blob/master/article/Scroller%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md "Scroller源码解读")
+[Scroller源码解析](https://github.com/Skykai521/AndroidSdkSourceAnalysis/blob/master/article/Scroller%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md "Scroller源码解读")
 
 [从源码角度深入探寻Scroller的奥秘](https://blog.csdn.net/IT_XF/article/details/83344780)
 
