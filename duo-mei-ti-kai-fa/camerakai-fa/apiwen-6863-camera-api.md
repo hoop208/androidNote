@@ -80,17 +80,34 @@
 ```
 
 /** Check if this device has a camera */
-private fun checkCameraHardware(context: Context): Boolean {
-    if (context.packageManager.hasSystemFeature(PackageManager.FEATURE_CAMERA)) {
+private boolean checkCameraHardware(Context context) {
+    if (context.getPackageManager().hasSystemFeature(PackageManager.FEATURE_CAMERA)){
         // this device has a camera
-        return true
+        return true;
     } else {
         // no camera on this device
-        return false
+        return false;
     }
 }
 ```
 
+访问相机对象:
+
+
+
+```
+/** A safe way to get an instance of the Camera object. */
+public static Camera getCameraInstance(){
+    Camera c = null;
+    try {
+        c = Camera.open(); // attempt to get a Camera instance
+    }
+    catch (Exception e){
+        // Camera is not available (in use or does not exist)
+    }
+    return c; // returns null if camera is unavailable
+}
+```
 
 
 创建预览类:
