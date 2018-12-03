@@ -1,6 +1,6 @@
 # 目标效果 #
 
-![](imgs/1.gif)
+![](/imgs/gallery.gif)
 
 # 实现思路 #
 
