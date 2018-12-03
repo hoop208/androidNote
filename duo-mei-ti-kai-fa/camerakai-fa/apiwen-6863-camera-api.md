@@ -1,3 +1,8 @@
+# 原文地址
+
+[
+Camera API](https://developer.android.com/guide/topics/media/camera)
+
 #考虑
 
  相机需求: 如果相机设备对你的应用来说是必须的,在清单文件中声明
