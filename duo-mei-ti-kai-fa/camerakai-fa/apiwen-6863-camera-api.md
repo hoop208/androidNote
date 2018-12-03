@@ -72,7 +72,26 @@
 
 **基本步骤:**
 
-检测和访问相机:
+### 检测和访问相机:
+
+如果没有在清单文件中声明相机需求,那么在应用中用到的地方需要做运行时检查:
+
+
+```
+
+/** Check if this device has a camera */
+private fun checkCameraHardware(context: Context): Boolean {
+    if (context.packageManager.hasSystemFeature(PackageManager.FEATURE_CAMERA)) {
+        // this device has a camera
+        return true
+    } else {
+        // no camera on this device
+        return false
+    }
+}
+```
+
+
 
 创建预览类:
 

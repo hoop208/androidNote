@@ -5,6 +5,7 @@
   * [播放暂停动画](播放暂停动画.md)
   * [侧滑菜单](customview/用ItemTouchHelper简单实现侧滑菜单.md)
   * [滑动删除](customview/滑动删除的简单实现.md)
+  * [画廊的viewpager实现](customview/画廊的viewpager实现.md)
   * [资料](zi-liao.md)
 * [sdk源码](xi-tong-api.md)
   * [ItemDecoration](xi-tong-api/itemdecorationh.md)
