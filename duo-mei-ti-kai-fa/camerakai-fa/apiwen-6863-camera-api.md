@@ -1,7 +1,6 @@
 # 原文地址
 
-[
-Camera API](https://developer.android.com/guide/topics/media/camera)
+[Camera API](https://developer.android.com/guide/topics/media/camera)
 
 #考虑
 
