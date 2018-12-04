@@ -235,9 +235,6 @@ public class CameraActivity extends Activity {
 ```
 
 
-
-
-
 设置拍照监听:
 
 捕获和保存文件:
