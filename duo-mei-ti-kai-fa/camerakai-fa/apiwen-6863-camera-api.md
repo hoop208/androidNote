@@ -180,6 +180,64 @@ public class CameraPreview extends SurfaceView implements SurfaceHolder.Callback
 
 构造预览布局:
 
+示例布局文件:
+
+
+```
+
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+  <FrameLayout
+    android:id="@+id/camera_preview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    />
+
+  <Button
+    android:id="@+id/button_capture"
+    android:text="Capture"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    />
+</LinearLayout>
+```
+
+activity中的代码:
+
+
+
+```
+public class CameraActivity extends Activity {
+
+    private Camera mCamera;
+    private CameraPreview mPreview;
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+
+        // Create an instance of Camera
+        mCamera = getCameraInstance();
+
+        // Create our Preview view and set it as the content of our activity.
+        mPreview = new CameraPreview(this, mCamera);
+        FrameLayout preview = (FrameLayout) findViewById(R.id.camera_preview);
+        preview.addView(mPreview);
+    }
+}
+```
+
+
+
+
+
 设置拍照监听:
 
 捕获和保存文件:
