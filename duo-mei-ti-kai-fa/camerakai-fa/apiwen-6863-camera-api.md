@@ -283,6 +283,8 @@ captureButton.setOnClickListener(
 );
 ```
 
+**录制视频:**
+
 
 捕获和保存文件:
 
