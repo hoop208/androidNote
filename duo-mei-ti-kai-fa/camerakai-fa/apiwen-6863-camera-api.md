@@ -237,6 +237,54 @@ public class CameraActivity extends Activity {
 
 设置拍照监听:
 
+**拍照:**
+
+在Camera.PictureCallback回调中接受拍照返回的数据并写入文件:
+
+```
+private PictureCallback mPicture = new PictureCallback() {
+
+    @Override
+    public void onPictureTaken(byte[] data, Camera camera) {
+
+        File pictureFile = getOutputMediaFile(MEDIA_TYPE_IMAGE);
+        if (pictureFile == null){
+            Log.d(TAG, "Error creating media file, check storage permissions");
+            return;
+        }
+
+        try {
+            FileOutputStream fos = new FileOutputStream(pictureFile);
+            fos.write(data);
+            fos.close();
+        } catch (FileNotFoundException e) {
+            Log.d(TAG, "File not found: " + e.getMessage());
+        } catch (IOException e) {
+            Log.d(TAG, "Error accessing file: " + e.getMessage());
+        }
+    }
+};
+```
+
+点击按钮调用拍照方法:
+
+
+
+```
+// Add a listener to the Capture button
+Button captureButton = (Button) findViewById(R.id.button_capture);
+captureButton.setOnClickListener(
+    new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            // get an image from the camera
+            mCamera.takePicture(null, null, mPicture);
+        }
+    }
+);
+```
+
+
 捕获和保存文件:
 
 释放相机资源:
