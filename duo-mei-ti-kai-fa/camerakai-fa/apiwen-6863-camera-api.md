@@ -269,7 +269,6 @@ private PictureCallback mPicture = new PictureCallback() {
 点击按钮调用拍照方法:
 
 
-
 ```
 // Add a listener to the Capture button
 Button captureButton = (Button) findViewById(R.id.button_capture);
