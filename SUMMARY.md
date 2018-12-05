@@ -7,6 +7,7 @@
   * [滑动删除](customview/滑动删除的简单实现.md)
   * [画廊的viewpager实现](customview/画廊的viewpager实现.md)
   * [人人效果](customview/人人效果.md)
+  * [手势平移缩放](customview/手势平移缩放的简单实现.md)
   * [资料](zi-liao.md)
 * [sdk源码](xi-tong-api.md)
   * [ItemDecoration](xi-tong-api/itemdecorationh.md)
