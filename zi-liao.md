@@ -2,5 +2,9 @@
 
 [android学习笔记](https://github.com/GcsSloop/AndroidNote)
 
+# 博客
+
+[Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
+
 
 
