@@ -285,6 +285,40 @@ captureButton.setOnClickListener(
 
 **录制视频:**
 
+和拍照不同,录制视频必须按照指定顺序调用方法.
+
+1.打开相机     Camera.open()
+
+2.连接预览    Camera.setPreviewDisplay().
+
+3.开始预览    Camera.startPreview()
+
+4.开始视频录制
+    
+    a.解锁相机    Camera.unlock()
+    b.配置MediaRecorde
+        b1.setCamera()
+        b2.setAudioSource()
+        b3.setVideoSource()
+        b4.设置输出和编码格式
+            b41.setOutputFormat()
+            b42.setAudioEncoder()
+            b43.setVideoEncoder()
+        b5.setOutputFile()
+        b6.setPreviewDisplay()
+    c.准备媒体录制器    MediaRecorder.prepare().
+    d.开始录制    Start MediaRecorder
+
+5.停止视频录制
+
+    a.停止录制    MediaRecorder.stop().
+    b.充值媒体录制器    MediaRecorder.reset().
+    c.释放媒体录制器    MediaRecorder.release().
+    d.锁住相机    Camera.lock()(android4.0以后不再需要调用,除非MediaRecorder.prepare()方法调用失败)
+    
+6.停止预览    Camera.stopPreview().
+
+7.释放相机    Camera.release().
 
 捕获和保存文件:
 
