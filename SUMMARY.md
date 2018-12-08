@@ -13,6 +13,7 @@
     * [线性图的简单实现](customview/线性图的简单实现.md)
     * [绘制经过多点的曲线md](customview/绘制经过多点的曲线md.md)
     * [饼状图的简单实现](customview/饼状图的简单实现.md)
+  * [文字路径动画](customview/文字路径动画.md)
 * [sdk源码](xi-tong-api.md)
   * [ItemDecoration](xi-tong-api/itemdecorationh.md)
     * [基本使用](ItemDecorationDemo.md)
