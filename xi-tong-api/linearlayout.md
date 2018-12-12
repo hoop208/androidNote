@@ -4,3 +4,4 @@
 
 # 源码解析
 
+[LinearLayout 源码分析](https://github.com/razerdp/AndroidSourceAnalysis/blob/master/LinearLayout/android_widget_LinearLayout.md)
