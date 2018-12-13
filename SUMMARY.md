@@ -27,6 +27,7 @@
   * [Tablayout](xi-tong-api/tablayout.md)
   * [CompoundButton ](xi-tong-api/compoundbutton.md)
   * [LinearLayout](xi-tong-api/linearlayout.md)
+  * [ViewDragHelper](xi-tong-api/viewdraghelper.md)
 * [项目框架](kuang-jia.md)
   * [dagger2](dagger2.md)
     * [基本使用](dagger2demo.md)
