@@ -51,6 +51,9 @@
       * [七BackPressure策略](七BackPressure策略.md)
     * [源码学习](yuan-ma-xue-xi.md)
 * [开源项目](xiang-mu-xue-xi.md)
+  * [经验分享](xiang-mu-xue-xi/jing-yan-fen-xiang.md)
+  * 源码学习
+  * 项目学习
 * [Android OS](zi-liao-shou-cang.md)
   * [view的绘制流程](zi-liao-shou-cang/viewde-hui-zhi-liu-cheng.md)
   * [事件分发机制](zi-liao-shou-cang/shi-jian-fen-fa-ji-zhi.md)
