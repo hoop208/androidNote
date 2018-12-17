@@ -16,5 +16,7 @@
 
 [Android 图像绘制之 Drawable](https://www.jianshu.com/p/4cd87e3c43d6)
 
+[Android 图像绘制之 Drawable(二)](https://www.jianshu.com/p/4134e2352d65)
+
 
 
