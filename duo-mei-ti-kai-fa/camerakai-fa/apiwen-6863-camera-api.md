@@ -362,6 +362,60 @@ private boolean prepareVideoRecorder(){
     return true;
 }
 ```
+开始和停止MediaRecorder:
+
+要按照指定顺序调用:
+
+1.使用Camera.unlock()解锁相机
+
+2.配置MediaRecorder
+
+3.调用MediaRecorder.start()开始录制
+
+4.录制视频
+
+5.调用MediaRecorder.stop()停止录制
+
+6.调用MediaRecorder.release()释放资源
+
+7.调用Camera.lock()锁住相机
+
+示例代码:
+
+
+
+```
+var isRecording = false
+val captureButton: Button = findViewById(R.id.button_capture)
+captureButton.setOnClickListener {
+    if (isRecording) {
+        // stop recording and release camera
+        mMediaRecorder?.stop() // stop the recording
+        releaseMediaRecorder() // release the MediaRecorder object
+        mCamera?.lock() // take camera access back from MediaRecorder
+
+        // inform the user that recording has stopped
+        setCaptureButtonText("Capture")
+        isRecording = false
+    } else {
+        // initialize video camera
+        if (prepareVideoRecorder()) {
+            // Camera is available and unlocked, MediaRecorder is prepared,
+            // now you can start recording
+            mMediaRecorder?.start()
+
+            // inform the user that recording has started
+            setCaptureButtonText("Stop")
+            isRecording = true
+        } else {
+            // prepare didn't work, release the camera
+            releaseMediaRecorder()
+            // inform user
+        }
+    }
+}
+```
+
 
 
 
