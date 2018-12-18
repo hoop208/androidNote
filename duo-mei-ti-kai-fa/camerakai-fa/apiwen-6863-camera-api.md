@@ -417,8 +417,6 @@ captureButton.setOnClickListener {
 ```
 
 
-
-
 捕获和保存文件:
 
 释放相机资源:
