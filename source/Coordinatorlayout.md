@@ -5,4 +5,5 @@
 # 相关知识点 #
 
 Behavior:  
-[https://www.jianshu.com/p/a506ee4afecb](https://www.jianshu.com/p/a506ee4afecb "关于CoordinatorLayout与Behavior的一点分析")
+
+[关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
