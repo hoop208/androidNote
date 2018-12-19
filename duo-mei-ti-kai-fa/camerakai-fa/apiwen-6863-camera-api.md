@@ -423,6 +423,38 @@ captureButton.setOnClickListener {
 
 
 
+```
+class CameraActivity : Activity() {
+    private var mCamera: Camera?
+    private var mPreview: SurfaceView?
+    private var mMediaRecorder: MediaRecorder?
+
+    override fun onPause() {
+        super.onPause()
+        releaseMediaRecorder() // if you are using MediaRecorder, release it first
+        releaseCamera() // release the camera immediately on pause event
+    }
+
+    private fun releaseMediaRecorder() {
+        mMediaRecorder?.reset() // clear recorder configuration
+        mMediaRecorder?.release() // release the recorder object
+        mMediaRecorder = null
+        mCamera?.lock() // lock camera for later use
+    }
+
+    private fun releaseCamera() {
+        mCamera?.release() // release the camera for other applications
+        mCamera = null
+    }
+}
+```
+
+
+
+
+
+
+
 
 
 
