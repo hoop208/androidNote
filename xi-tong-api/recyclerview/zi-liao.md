@@ -6,6 +6,8 @@
 
 [RecyclerView刷新机制](https://juejin.im/post/5c10ad715188253141435f4a)
 
+[RecyclerView的复用机制](https://juejin.im/post/5c1369cff265da613b6fa87f)
+
 # LayoutManager
 
 [recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)
