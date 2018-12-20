@@ -1,5 +1,9 @@
 [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
 
+# 源码解析
+
+[RecyclerView的基本设计结构](https://juejin.im/post/5c10737de51d457926430f99)
+
 # LayoutManager
 
 [recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)
