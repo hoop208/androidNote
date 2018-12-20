@@ -8,6 +8,8 @@
 
 [RecyclerView的复用机制](https://juejin.im/post/5c1369cff265da613b6fa87f)
 
+[RecyclerView动画源码浅析](https://juejin.im/post/5c19f8f66fb9a049b347edc5)
+
 # LayoutManager
 
 [recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)
