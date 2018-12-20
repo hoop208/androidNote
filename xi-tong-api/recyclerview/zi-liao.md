@@ -4,6 +4,8 @@
 
 [RecyclerView的基本设计结构](https://juejin.im/post/5c10737de51d457926430f99)
 
+[RecyclerView刷新机制](https://juejin.im/post/5c10ad715188253141435f4a)
+
 # LayoutManager
 
 [recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)
