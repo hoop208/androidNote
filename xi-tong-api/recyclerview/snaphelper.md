@@ -8,5 +8,41 @@
 
 ![](/imgs/startsnap.gif)
 
+实现:
+
+1.定义StartSnapHelper继承自LinearSnapHelper
+
+2.复写calculateDistanceToFinalSnap关于滚动距离的计算
+
+
+
+```
+@Override
+    public int[] calculateDistanceToFinalSnap(@NonNull RecyclerView.LayoutManager layoutManager, @NonNull View targetView) {
+        //计算要滚动的距离
+        int[] out = new int[2];
+        if (layoutManager.canScrollHorizontally()) {
+            out[0] = this.distanceToStart(layoutManager, targetView, this.getHorizontalHelper(layoutManager));
+        } else {
+            out[0] = 0;
+        }
+
+        if (layoutManager.canScrollVertically()) {
+            out[1] = this.distanceToStart(layoutManager, targetView, this.getVerticalHelper(layoutManager));
+        } else {
+            out[1] = 0;
+        }
+
+        return out;
+    }
+    
+    private int distanceToStart(@NonNull RecyclerView.LayoutManager layoutManager, @NonNull View targetView, OrientationHelper helper) {
+        //滚动距离=目标view到父容器左边的距离
+        return helper.getDecoratedStart(targetView) - helper.getStartAfterPadding();
+    }
+```
+
+
+
 
 
