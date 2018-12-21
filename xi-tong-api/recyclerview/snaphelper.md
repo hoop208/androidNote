@@ -42,6 +42,51 @@
     }
 ```
 
+3.复写findSnapView方法,关于目标view的捕获
+
+
+
+```
+ @Override
+    public View findSnapView(RecyclerView.LayoutManager layoutManager) {
+        //捕获目标view
+        if (layoutManager instanceof LinearLayoutManager) {
+            if (layoutManager.canScrollHorizontally()) {
+                return findStartView(layoutManager, getHorizontalHelper(layoutManager));
+            } else {
+                return findStartView(layoutManager, getVerticalHelper(layoutManager));
+            }
+        }
+        return super.findSnapView(layoutManager);
+    }
+
+    private View findStartView(RecyclerView.LayoutManager layoutManager, OrientationHelper helper) {
+        //遍历返回距离父容器左边最近的item
+        int childCount = layoutManager.getChildCount();
+        if (childCount == 0) {
+            return null;
+        } else {
+            View closestChild = null;
+            int start = helper.getStartAfterPadding();
+            int absClosest = 2147483647;
+
+            for (int i = 0; i < childCount; ++i) {
+                View child = layoutManager.getChildAt(i);
+                int childStart = helper.getDecoratedStart(child);
+                int absDistance = Math.abs(childStart - start);
+                if (absDistance < absClosest) {
+                    absClosest = absDistance;
+                    closestChild = child;
+                }
+            }
+
+            return closestChild;
+        }
+    }
+```
+
+
+
 
 
 
