@@ -6,6 +6,8 @@
 
 [Material-Animations](https://github.com/lgvalle/Material-Animations)
 
+[自定义带文字提示的SeekBar控件](https://github.com/alidili/Demos/tree/master/IndicatorSeekBarDemo)
+
 # 博客
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
