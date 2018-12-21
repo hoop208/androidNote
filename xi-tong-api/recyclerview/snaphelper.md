@@ -3,3 +3,10 @@
 [SnapHelper源码深度解析](http://www.jcodecraeer.com/a/anzhuokaifa/2018/1109/12472.html)
 
 # 自定义靠左对齐的StartSnapHelper
+
+目标效果:
+
+![](/imgs/startsnap.gif)
+
+
+
