@@ -1,6 +1,6 @@
 # 参考 #
 
-项目地址:	[https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
+项目地址:	[精通 Android Data Binding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
 # 点击事件 #
 
