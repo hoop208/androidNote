@@ -12,3 +12,7 @@
 
 [JUnit + Mockito 单元测试](http://blog.csdn.net/zhangxin09/article/details/42418441)
 
+# todo-mvp-rxjava
+
+[sqlbrite](https://github.com/square/sqlbrite)
+
