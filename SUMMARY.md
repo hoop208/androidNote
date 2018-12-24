@@ -66,6 +66,7 @@
   * [view的绘制流程](zi-liao-shou-cang/viewde-hui-zhi-liu-cheng.md)
   * [事件分发机制](zi-liao-shou-cang/shi-jian-fen-fa-ji-zhi.md)
   * [资料](zi-liao-shou-cang/zi-liao.md)
+  * [屏幕适配](zi-liao-shou-cang/ping-mu-shi-pei.md)
 * [多媒体开发](duo-mei-ti-kai-fa.md)
   * [camera开发](duo-mei-ti-kai-fa/camerakai-fa.md)
     * [学习笔记](duo-mei-ti-kai-fa/camerakai-fa/zi-liao-shou-ji.md)
