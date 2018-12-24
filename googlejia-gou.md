@@ -12,6 +12,8 @@
 
 [JUnit + Mockito 单元测试](http://blog.csdn.net/zhangxin09/article/details/42418441)
 
+[MVP+Dagger2+Retrofit实现更清晰的架构](https://blog.csdn.net/tiankong1206/article/details/46486401)
+
 # todo-mvp-rxjava
 
 [sqlbrite](https://github.com/square/sqlbrite)
