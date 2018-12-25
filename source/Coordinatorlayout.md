@@ -7,3 +7,5 @@
 Behavior:  
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
+
+[使用CoordinatorLayout打造各种炫酷的效果](https://www.jianshu.com/p/f09723b7e887)
