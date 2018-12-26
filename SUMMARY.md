@@ -35,6 +35,7 @@
   * [BottomSheet](xi-tong-api/bottomsheet.md)
   * [Media Player](xi-tong-api/media-player.md)
   * [NavigationView](xi-tong-api/navigationview.md)
+  * [SharedPreference](xi-tong-api/sharedpreference.md)
 * [项目框架](kuang-jia.md)
   * [dagger2](dagger2.md)
     * [基本使用](dagger2demo.md)
