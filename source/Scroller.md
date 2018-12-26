@@ -6,7 +6,6 @@
 
 # 相关 #
 
-Android Scroller实现view弹性滑动完全解析:
 [Android Scroller实现view弹性滑动完全解析:](https://www.jianshu.com/p/9419262a342a)
 
 
