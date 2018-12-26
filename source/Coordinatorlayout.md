@@ -9,3 +9,5 @@
 [使用CoordinatorLayout打造各种炫酷的效果](https://www.jianshu.com/p/f09723b7e887)
 
 [CoordinatorLayout使用（一）：Behavior简单理解](https://www.jianshu.com/p/e8f14a1f16a3)
+
+[CoordinatorLayout使用（二）：Behavior流程 和 事件流](https://www.jianshu.com/p/f267fdbda794)
