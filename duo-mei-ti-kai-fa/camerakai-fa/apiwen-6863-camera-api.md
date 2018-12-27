@@ -498,6 +498,22 @@ class CameraActivity : Activity() {
 
 Camera功能:
 
+检查相机功能:
+
+
+
+```
+// get Camera parameters
+Camera.Parameters params = mCamera.getParameters();
+
+List<String> focusModes = params.getSupportedFocusModes();
+if (focusModes.contains(Camera.Parameters.FOCUS_MODE_AUTO)) {
+  // Autofocus mode is supported
+}
+```
+
+
+
 
 
 
