@@ -13,3 +13,5 @@
 [CoordinatorLayout使用（二）：Behavior流程 和 事件流](https://www.jianshu.com/p/f267fdbda794)
 
 [CoordinatorLayout使用（三）：NestedScrollView & 嵌套滑动事件](https://www.jianshu.com/p/760c08f0fded)
+
+[这是使用CoordinatorLayout打造 打造炫酷效果的例子](https://github.com/gdutxiaoxu/CoordinatorLayoutExample)
