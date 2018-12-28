@@ -82,4 +82,5 @@
 * [工具&插件](gong-517726-cha-jian.md)
 * [设计模式](she-ji-mo-shi.md)
 * [测试](ce-shi.md)
+* [知识点](zhi-shi-dian.md)
 
