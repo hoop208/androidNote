@@ -6,5 +6,4 @@
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
 
-[阿里云  >  教程中心   >  linux教程  >  Jenkins参数化构建android项目  
-Jenkins参数化构建android项目](https://www.aliyun.com/jiaocheng/119725.html)
+[Jenkins参数化构建android项目](https://www.aliyun.com/jiaocheng/119725.html)
