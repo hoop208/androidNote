@@ -1,6 +1,6 @@
 # 源码分析 #
 
-[https://github.com/desmond1121/AndroidSdkSourceAnalysis/blob/master/article/CoordinatorLayout%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md](https://github.com/desmond1121/AndroidSdkSourceAnalysis/blob/master/article/CoordinatorLayout%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
+[CoordinatorLayout 源码分析](https://github.com/desmond1121/AndroidSdkSourceAnalysis/blob/master/article/CoordinatorLayout%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 
 # 资料 #
 
