@@ -515,6 +515,23 @@ if (focusModes.contains(Camera.Parameters.FOCUS_MODE_AUTO)) {
 
 
 
+```
+// get Camera parameters
+Camera.Parameters params = mCamera.getParameters();
+// set the focus mode
+params.setFocusMode(Camera.Parameters.FOCUS_MODE_AUTO);
+// set Camera parameters
+mCamera.setParameters(params);
+```
+
+测量和聚焦区域:
+
+
+
+
+
+
+
 
 
 
