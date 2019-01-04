@@ -1,6 +1,8 @@
-**Android学习笔记:**
+**资料**
 
 [android学习笔记](https://github.com/GcsSloop/AndroidNote)
+
+[给高级 Android 工程师的进阶手册](https://hencoder.com/)
 
 # github
 
