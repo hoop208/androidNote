@@ -5,3 +5,5 @@
 [Android6.0 以上设置状态栏字体颜色](https://blog.csdn.net/a940659387/article/details/79747479)
 
 [一大波 Android 刘海屏来袭，全网最全适配技巧！](https://segmentfault.com/a/1190000014340142)
+
+[状态栏工具类](https://github.com/laobie/StatusBarUtil)
