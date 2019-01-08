@@ -7,3 +7,5 @@
 [一大波 Android 刘海屏来袭，全网最全适配技巧！](https://segmentfault.com/a/1190000014340142)
 
 [状态栏工具类](https://github.com/laobie/StatusBarUtil)
+
+[android4.4以上沉浸式状态栏和导航栏实现以及Bar的其他管理](https://www.jianshu.com/p/2a884e211a62)
