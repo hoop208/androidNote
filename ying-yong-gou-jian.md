@@ -2,6 +2,8 @@
 
 [【译】Gradle 的依赖关系处理不当，可能导致你编译异常](https://segmentfault.com/a/1190000014154474)
 
+[完美解决gradle依赖库导致build慢的问题](https://www.jianshu.com/p/ab1f5e5f5f5c)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
@@ -10,6 +12,3 @@
 
 [Android使用Gradle命令动态传参完成打包，不需要修改代码](https://blog.csdn.net/u014637428/article/details/52249423)
 
-# 资料
-
-[完美解决gradle依赖库导致build慢的问题](https://www.jianshu.com/p/ab1f5e5f5f5c)
