@@ -9,3 +9,7 @@
 [Jenkins参数化构建android项目](https://www.aliyun.com/jiaocheng/119725.html)
 
 [Android使用Gradle命令动态传参完成打包，不需要修改代码](https://blog.csdn.net/u014637428/article/details/52249423)
+
+# 资料
+
+[完美解决gradle依赖库导致build慢的问题](https://www.jianshu.com/p/ab1f5e5f5f5c)
