@@ -14,5 +14,7 @@
 
 [GifCam:使用Windows电脑创建gif动态图片](https://gifcam.cn.uptodown.com/windows/download)
 
+[EzGif](https://ezgif.com/video-to-gif)
+
 
 
