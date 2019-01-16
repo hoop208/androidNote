@@ -10,5 +10,9 @@
 
 [gitbook:简明教程](http://www.chengweiyang.cn/gitbook/index.html)
 
+# 工具软件
+
+[GifCam:使用Windows电脑创建gif动态图片](https://gifcam.cn.uptodown.com/windows/download)
+
 
 
