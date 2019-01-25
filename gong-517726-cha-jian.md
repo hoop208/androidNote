@@ -16,5 +16,9 @@
 
 [EzGif](https://ezgif.com/video-to-gif)
 
+# Sqlite
+
+[DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)
+
 
 
