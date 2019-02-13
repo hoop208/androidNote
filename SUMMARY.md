@@ -91,4 +91,5 @@
 * [系统新特性&适配](xi-tong-xin-te-602726-shi-pei.md)
   * [Android O\(8.0\)](xi-tong-xin-te-602726-shi-pei/android-o80.md)
 * [知识点](zhi-shi-dian.md)
+* [资料文档](zi-liao-wen-dang.md)
 
