@@ -22,6 +22,9 @@
 
 # 思维导图
 
+# 截图
+
+[FsCapture](http://www.faststone.org/FSCaptureDetail.htm)
 
 
 
