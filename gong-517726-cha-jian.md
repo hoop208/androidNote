@@ -30,6 +30,10 @@
 
 [ClassyShark ](https://github.com/google/android-classyshark)
 
+# 文件搜索
+
+[EveryThing](https://www.voidtools.com/zh-cn/)
+
 
 
 
