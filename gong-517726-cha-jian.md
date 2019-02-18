@@ -34,6 +34,10 @@
 
 [EveryThing](https://www.voidtools.com/zh-cn/)
 
+# Gif
+
+[Gifcam](https://gifcam.softonic.cn/)
+
 
 
 
