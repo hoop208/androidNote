@@ -42,6 +42,8 @@
 
 [Github Flavored Markdown语法介绍](https://github.com/guodongxiaren/README)
 
+[Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN)
+
 
 
 
