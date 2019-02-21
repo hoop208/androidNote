@@ -44,6 +44,8 @@
 
 [Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN)
 
+[markdown基本语法](https://github.com/younghz/Markdown)
+
 
 
 
