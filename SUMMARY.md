@@ -38,6 +38,7 @@
   * [SharedPreference](xi-tong-api/sharedpreference.md)
   * [ScrollView](xi-tong-api/scrollview.md)
   * [NestedScrollView](xi-tong-api/nestedscrollview.md)
+  * [handler](xi-tong-api/handler.md)
 * [项目框架](kuang-jia.md)
   * [dagger2](dagger2.md)
     * [基本使用](dagger2demo.md)
@@ -92,6 +93,6 @@
   * [Android O\(8.0\)](xi-tong-xin-te-602726-shi-pei/android-o80.md)
 * [知识点](zhi-shi-dian.md)
 * [资料文档](zi-liao-wen-dang.md)
-* [多线程](duo-xian-cheng.md)
+* [多线程&多进程](duo-xian-cheng.md)
 * [性能优化](xing-neng-you-hua.md)
 
