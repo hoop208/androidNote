@@ -7,3 +7,5 @@
 # 界面卡顿
 
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
+
+[Android UI性能优化 检测应用中的UI卡顿](https://blog.csdn.net/lmj623565791/article/details/58626355)
