@@ -9,3 +9,7 @@
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
 
 [Android UI性能优化 检测应用中的UI卡顿](https://blog.csdn.net/lmj623565791/article/details/58626355)
+
+# 内存优化
+
+[Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
