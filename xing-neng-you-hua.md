@@ -8,11 +8,13 @@
 
 [[译]Android内存泄漏的八种可能（上）](https://www.jianshu.com/p/ac00e370f83d)
 
-# 界面卡顿
+# UI性能优化
 
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
 
 [Android UI性能优化 检测应用中的UI卡顿](https://blog.csdn.net/lmj623565791/article/details/58626355)
+
+[Android UI性能优化实战 识别绘制中的性能问题](https://blog.csdn.net/lmj623565791/article/details/45556391/)
 
 # 内存优化
 
