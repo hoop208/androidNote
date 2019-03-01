@@ -19,3 +19,7 @@
 # 内存优化
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
+
+# ANR
+
+[如何分析解决Android ANR](https://blog.csdn.net/dadoneo/article/details/8270107)
