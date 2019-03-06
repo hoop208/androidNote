@@ -1,0 +1,2 @@
+[android fragment和activity的区别](https://blog.csdn.net/u012974916/article/details/24563371)
+
