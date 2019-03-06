@@ -1,1 +1,1 @@
-[android fragment和activity的区别](https://blog.csdn.net/u012974916/article/details/24563371)
+[IntentService 示例与详解](https://www.jianshu.com/p/332b6daf91f0)
