@@ -50,6 +50,10 @@
 
 [五分钟读懂UML类图](https://www.cnblogs.com/shindo/p/5579191.html#undefined)
 
+# gitlab
+
+[GitLab使用教程(详细)](https://blog.csdn.net/justlpf/article/details/80681853)
+
 
 
 
