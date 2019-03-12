@@ -58,5 +58,6 @@
 
 [Github 创建新分支](https://blog.csdn.net/top_code/article/details/51931916)
 
+[全面介绍Android Studio中Git 的使用（一）](https://blog.csdn.net/gao_chun/article/details/49817229)
 
 
