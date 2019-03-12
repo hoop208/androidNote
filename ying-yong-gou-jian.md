@@ -4,6 +4,8 @@
 
 [完美解决gradle依赖库导致build慢的问题](https://www.jianshu.com/p/ab1f5e5f5f5c)
 
+[implementation、api、compileOnly区别详解](https://blog.csdn.net/yuzhiqiang_1993/article/details/78366985)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
