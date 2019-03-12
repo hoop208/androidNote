@@ -62,4 +62,8 @@
 
 [全面介绍Android Studio中Git 的使用（二）](https://blog.csdn.net/gao_chun/article/details/49817267)
 
+# AndroidStudio
+
+[Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
+
 
