@@ -1,0 +1,1 @@
+[Bugly多渠道热更新解决方案](https://buglydevteam.github.io/2017/05/15/solution-of-multiple-channel-hotpatch/)
