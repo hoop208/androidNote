@@ -1,6 +1,6 @@
 # 源码解析 #
 
-[https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
+[TextView源码解析](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
 
 # 知识点 #
 
