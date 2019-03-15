@@ -66,6 +66,8 @@
 
 [Rebase 代替合并](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/rebase)
 
+[git删除远程分支和本地分支](https://www.cnblogs.com/luosongchao/p/3408365.html)
+
 # AndroidStudio
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
