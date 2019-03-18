@@ -22,6 +22,8 @@
 
 [Android 图像绘制之 Drawable(二)](https://www.jianshu.com/p/4134e2352d65)
 
+[自定义View，有这一篇就够了](https://www.jianshu.com/p/c84693096e41)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
