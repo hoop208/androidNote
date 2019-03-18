@@ -68,6 +68,8 @@
 
 [git删除远程分支和本地分支](https://www.cnblogs.com/luosongchao/p/3408365.html)
 
+[易百教程-gitlab教程](https://www.yiibai.com/gitlab)
+
 # AndroidStudio
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
