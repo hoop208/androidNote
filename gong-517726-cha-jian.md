@@ -70,6 +70,8 @@
 
 [易百教程-gitlab教程](https://www.yiibai.com/gitlab)
 
+[git-ssh 配置和使用](https://segmentfault.com/a/1190000002645623)
+
 # AndroidStudio
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
