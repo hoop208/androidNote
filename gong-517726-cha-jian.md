@@ -72,6 +72,8 @@
 
 [git-ssh 配置和使用](https://segmentfault.com/a/1190000002645623)
 
+[Git push 常见用法](https://www.cnblogs.com/qianqiannian/p/6008140.html)
+
 # AndroidStudio
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
