@@ -24,6 +24,8 @@
 
 [自定义View，有这一篇就够了](https://www.jianshu.com/p/c84693096e41)
 
+[](https://blog.csdn.net/guolin_blog/article/details/16330267)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
