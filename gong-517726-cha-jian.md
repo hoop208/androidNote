@@ -78,6 +78,8 @@
 
 [【Git】checkout 用法总结](https://www.jianshu.com/p/cad4d2ec4da5)
 
+[git cherry-pick 使用指南](https://www.jianshu.com/p/08c3f1804b36)
+
 # AndroidStudio
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
