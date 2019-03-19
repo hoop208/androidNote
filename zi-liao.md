@@ -32,6 +32,9 @@
 
 [Android自定义View的实现方法，带你一步步深入了解View(四)](https://blog.csdn.net/guolin_blog/article/details/17357967)
 
+[
+Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
