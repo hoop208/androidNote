@@ -86,4 +86,6 @@
 
 [Android Studio增加assets目录、raw目录](https://www.jianshu.com/p/5974fcf88170)
 
+[配置Android Studio识别成员变量的m前缀](https://blog.csdn.net/m0_37222746/article/details/54289588)
+
 
