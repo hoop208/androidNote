@@ -8,6 +8,8 @@
 
 [手把手教你AndroidStudio多渠道打包](https://blog.csdn.net/mynameishuangshuai/article/details/51783303)
 
+[Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
