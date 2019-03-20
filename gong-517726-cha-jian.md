@@ -84,4 +84,6 @@
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
 
+[Android Studio增加assets目录、raw目录](https://www.jianshu.com/p/5974fcf88170)
+
 
