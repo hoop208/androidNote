@@ -88,4 +88,6 @@
 
 [配置Android Studio识别成员变量的m前缀](https://blog.csdn.net/m0_37222746/article/details/54289588)
 
+[Android开发之assets目录下资源使用总结](https://blog.csdn.net/fengyuzhengfan/article/details/38360017)
+
 
