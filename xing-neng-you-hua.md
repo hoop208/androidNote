@@ -8,6 +8,8 @@
 
 [[译]Android内存泄漏的八种可能（上）](https://www.jianshu.com/p/ac00e370f83d)
 
+[Android 内存泄漏总结](https://yq.aliyun.com/articles/3009)
+
 # UI性能优化
 
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
