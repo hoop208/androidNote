@@ -7,3 +7,5 @@
 [美团大众点评 Hybrid 化建设](https://mp.weixin.qq.com/s/rNGD6SotKoO8frmxIU8-xw)
 
 [《移动端本地 H5 秒开方案探索与实现》](https://cloud.tencent.com/developer/article/1137813)
+
+[手机QQ会员H5加速方案——sonic技术内幕](https://cloud.tencent.com/developer/article/1004389)
