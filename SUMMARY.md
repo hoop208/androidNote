@@ -70,8 +70,6 @@
     * [Gson](xiang-mu-xue-xi/yuan-ma-xue-xi/gson.md)
     * [Glide](xiang-mu-xue-xi/yuan-ma-xue-xi/glide.md)
     * [GreenDao](xiang-mu-xue-xi/yuan-ma-xue-xi/greendao.md)
-    * [EventBus](xiang-mu-xue-xi/yuan-ma-xue-xi/eventbus.md)
-  * [项目学习](xiang-mu-xue-xi/xiang-mu-xue-xi.md)
 * [Android OS](zi-liao-shou-cang.md)
   * [view的绘制流程](zi-liao-shou-cang/viewde-hui-zhi-liu-cheng.md)
   * [事件分发机制](zi-liao-shou-cang/shi-jian-fen-fa-ji-zhi.md)
