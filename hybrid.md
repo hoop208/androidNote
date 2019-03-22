@@ -17,3 +17,5 @@
 [手机QQ会员H5加速方案——sonic技术内幕](https://cloud.tencent.com/developer/article/1004389)
 
 [腾讯祭出大招VasSonic，让你的H5页面首屏秒开](https://segmentfault.com/a/1190000010711024?from=groupmessage&isappinstalled=1)
+
+[有赞webview加速平台探索与建设（一）](https://tech.youzan.com/youzan-webview-goldwing-one/)
