@@ -2,6 +2,8 @@
 
 [WebView 性能和用户体验优化](https://www.jianshu.com/p/fc7909e24178)
 
+[实战Webview跨域访问风险](http://www.nxadmin.com/mobile-sec/1657.html)
+
 # 方案
 
 [Android Webview H5 秒开方案实现](https://juejin.im/post/5b94ca52e51d450e7d097f38)
