@@ -15,3 +15,5 @@
 [《移动端本地 H5 秒开方案探索与实现》](https://cloud.tencent.com/developer/article/1137813)
 
 [手机QQ会员H5加速方案——sonic技术内幕](https://cloud.tencent.com/developer/article/1004389)
+
+[腾讯祭出大招VasSonic，让你的H5页面首屏秒开](https://segmentfault.com/a/1190000010711024?from=groupmessage&isappinstalled=1)
