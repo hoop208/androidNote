@@ -11,3 +11,5 @@
 [Android：这是一份很详细的Socket使用攻略](https://www.jianshu.com/p/089fb79e308b)
 
 [Android TCP长连接 心跳机制及实现](https://blog.csdn.net/TTKatrina/article/details/72956338)
+
+[Android学习之 Manifest中meta-data扩展元素数据的配置与获取](https://blog.csdn.net/janice0529/article/details/41583587)
