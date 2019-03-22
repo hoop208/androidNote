@@ -48,7 +48,6 @@
     * [源码学习](yuan-ma-xue-xi.md)
   * [google架构](googlejia-gou.md)
 * [开源项目](xiang-mu-xue-xi.md)
-  * [经验分享](xiang-mu-xue-xi/jing-yan-fen-xiang.md)
   * [源码学习](xiang-mu-xue-xi/yuan-ma-xue-xi.md)
     * [Retrofit](xiang-mu-xue-xi/yuan-ma-xue-xi/retrofit.md)
     * [rxjava](rxjava.md)
@@ -99,4 +98,5 @@
 * [性能优化](xing-neng-you-hua.md)
 * [热更新](re-geng-xin.md)
 * [Hybrid](hybrid.md)
+* [经验分享](xiang-mu-xue-xi/jing-yan-fen-xiang.md)
 

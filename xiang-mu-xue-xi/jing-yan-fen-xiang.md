@@ -2,3 +2,5 @@
 
 [掘金翻译计划](https://github.com/xitu/gold-miner/blob/master/android.md)
 
+[Android学习路线：如何成长为高级工程师](https://blog.csdn.net/singwhatiwanna/article/details/42343847)
+
