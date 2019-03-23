@@ -34,6 +34,8 @@
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
 
+[深入理解Android 自定义attr Style styleable以及其应用](https://www.jianshu.com/p/61b79e7f88fc)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
