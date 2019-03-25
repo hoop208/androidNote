@@ -58,27 +58,17 @@
 
 # Git
 
-[Github 创建新分支](https://blog.csdn.net/top_code/article/details/51931916)
-
 [全面介绍Android Studio中Git 的使用（一）](https://blog.csdn.net/gao_chun/article/details/49817229)
 
 [全面介绍Android Studio中Git 的使用（二）](https://blog.csdn.net/gao_chun/article/details/49817267)
 
 [Rebase 代替合并](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/rebase)
 
-[git删除远程分支和本地分支](https://www.cnblogs.com/luosongchao/p/3408365.html)
-
 [易百教程-gitlab教程](https://www.yiibai.com/gitlab)
 
 [git-ssh 配置和使用](https://segmentfault.com/a/1190000002645623)
 
-[Git push 常见用法](https://www.cnblogs.com/qianqiannian/p/6008140.html)
-
 [廖雪峰-git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137583770360579bc4b458f044ce7afed3df579123eca000)
-
-[【Git】checkout 用法总结](https://www.jianshu.com/p/cad4d2ec4da5)
-
-[git cherry-pick 使用指南](https://www.jianshu.com/p/08c3f1804b36)
 
 # AndroidStudio
 
