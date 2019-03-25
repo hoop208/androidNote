@@ -10,6 +10,8 @@
 
 [Android 内存泄漏总结](https://yq.aliyun.com/articles/3009)
 
+[Android 内存泄漏分析心得](https://zhuanlan.zhihu.com/p/25213586)
+
 # UI性能优化
 
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
