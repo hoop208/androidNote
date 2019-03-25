@@ -12,6 +12,8 @@
 
 [Android 内存泄漏分析心得](https://zhuanlan.zhihu.com/p/25213586)
 
+[基于Android Studio的内存泄漏检测与解决全攻略](https://wetest.qq.com/lab/view/?id=99)
+
 # UI性能优化
 
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
