@@ -28,4 +28,4 @@
 
 # 知识点
 
-[2018-10-22 发布h5 与原生 app 交互的原理](https://segmentfault.com/a/1190000016759517)
+[h5 与原生 app 交互的原理](https://segmentfault.com/a/1190000016759517)
