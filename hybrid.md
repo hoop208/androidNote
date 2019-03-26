@@ -25,3 +25,8 @@
 [有赞webview加速平台探索与建设（二）——静态资源加速](https://tech.youzan.com/youzan-webview-goldwing-two/)
 
 [有赞webview加速平台探索与建设（三）——html加速](https://tech.youzan.com/you-zan-webview-goldwing-three/)
+
+# 知识点
+
+[2018-10-22 发布
+h5 与原生 app 交互的原理](https://segmentfault.com/a/1190000016759517)
