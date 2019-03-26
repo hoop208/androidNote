@@ -36,6 +36,8 @@
 
 [深入理解Android 自定义attr Style styleable以及其应用](https://www.jianshu.com/p/61b79e7f88fc)
 
+[Android 属性动画（Property Animation） 完全解析 （上）](https://blog.csdn.net/lmj623565791/article/details/38067475)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
