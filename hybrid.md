@@ -4,6 +4,8 @@
 
 [实战Webview跨域访问风险](http://www.nxadmin.com/mobile-sec/1657.html)
 
+[Android中如何拦截WebView的请求](https://segmentfault.com/a/1190000006805635)
+
 # 方案
 
 [Android Webview H5 秒开方案实现](https://juejin.im/post/5b94ca52e51d450e7d097f38)
