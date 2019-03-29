@@ -29,3 +29,7 @@
 # 视频教程
 
 [使用recyclerview优雅实现复杂列表](https://www.imooc.com/learn/731)
+
+# 博客
+
+[用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
