@@ -84,4 +84,6 @@
 
 [Android开发之assets目录下资源使用总结](https://blog.csdn.net/fengyuzhengfan/article/details/38360017)
 
+[AndroidStudio中代码模板的使用](https://blog.csdn.net/wubihang/article/details/51228752)
+
 
