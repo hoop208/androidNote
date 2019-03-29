@@ -10,6 +10,8 @@
 
 [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
 
+[Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
