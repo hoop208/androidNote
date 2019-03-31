@@ -87,6 +87,7 @@
     * [api文档-视频录制](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-shi-pin-lu-zhi.md)
     * [api文档-控制相机](duo-mei-ti-kai-fa/camerakai-fa/kong-zhi-xiang-ji.md)
     * [api文档-Camera Api](duo-mei-ti-kai-fa/camerakai-fa/apiwen-6863-camera-api.md)
+  * [音视频开发](duo-mei-ti-kai-fa/yin-shi-pin-kai-fa.md)
 * [工具&插件](gong-517726-cha-jian.md)
 * [设计模式](she-ji-mo-shi.md)
 * [测试](ce-shi.md)
