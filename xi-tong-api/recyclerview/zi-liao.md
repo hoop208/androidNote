@@ -33,3 +33,5 @@
 # 博客
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
+
+[用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
