@@ -40,3 +40,5 @@
 
 [用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
 
+[【Android】RecyclerView的好伴侣：详解DiffUtil](https://blog.csdn.net/zxt0601/article/details/52562770)
+
