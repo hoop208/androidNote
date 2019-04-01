@@ -88,4 +88,5 @@
 
 [AndroidStudio中代码模板的使用](https://blog.csdn.net/wubihang/article/details/51228752)
 
+[Android：不同drawable文件夹的区别](https://www.cnblogs.com/linjzong/p/4242171.html)
 
