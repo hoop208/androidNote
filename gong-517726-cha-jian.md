@@ -92,3 +92,5 @@
 
 [android（drawable文件夹）图片适配](https://blog.csdn.net/xuaho0907/article/details/72848520)
 
+[Android drawable微技巧，你所不知道的drawable的那些细节](https://blog.csdn.net/guolin_blog/article/details/50727753)
+
