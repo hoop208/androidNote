@@ -90,3 +90,5 @@
 
 [Android：不同drawable文件夹的区别](https://www.cnblogs.com/linjzong/p/4242171.html)
 
+[android（drawable文件夹）图片适配](https://blog.csdn.net/xuaho0907/article/details/72848520)
+
