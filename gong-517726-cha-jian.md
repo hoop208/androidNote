@@ -76,6 +76,8 @@
 
 [Git 真正理解 git fetch, git pull 以及 FETCH_HEAD](https://ruby-china.org/topics/4768)
 
+[「Git」合并多个 Commit](https://www.jianshu.com/p/964de879904a)
+
 # AndroidStudio
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
