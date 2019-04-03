@@ -98,3 +98,5 @@
 
 [Android drawable微技巧，你所不知道的drawable的那些细节](https://blog.csdn.net/guolin_blog/article/details/50727753)
 
+[让预览 RecyclerView 效果更方便的一个小技巧](https://juejin.im/entry/5a8fc77e5188257a5b0477a5)
+
