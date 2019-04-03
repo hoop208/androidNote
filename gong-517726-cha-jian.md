@@ -100,3 +100,5 @@
 
 [让预览 RecyclerView 效果更方便的一个小技巧](https://juejin.im/entry/5a8fc77e5188257a5b0477a5)
 
+[Android Tools attributes listItem 和 sample data 的用法](https://tonnyl.io/Android-Tools-attributes-listItem-sample-data-rocks/)
+
