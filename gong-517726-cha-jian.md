@@ -102,3 +102,5 @@
 
 [Android Tools attributes listItem 和 sample data 的用法](https://tonnyl.io/Android-Tools-attributes-listItem-sample-data-rocks/)
 
+[Android进阶 - 视图层级实时分析](https://www.jianshu.com/p/a8850e7cbac2)
+
