@@ -22,5 +22,5 @@
 
 #  博客
 
-[]Android执行文件apk的组成结构(https://blog.csdn.net/itachi85/article/details/6460158)
+[Android执行文件apk的组成结构](https://blog.csdn.net/itachi85/article/details/6460158)
 
