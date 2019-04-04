@@ -9,3 +9,5 @@
 [Android：全面解析 熟悉而陌生 的Application类使用](https://www.jianshu.com/p/f665366b2a47)
 
 [完全理解 Android 中的 RemoteViews](https://juejin.im/entry/578ef709c4c971005e0b3251)
+
+[Android 中的Dalvik和ART是什么，有啥区别？](https://www.jianshu.com/p/58f817d176b7)
