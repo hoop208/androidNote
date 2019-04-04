@@ -42,6 +42,8 @@
 
 [android Path 和 PathMeasure 进阶](https://blog.csdn.net/cquwentao/article/details/51436852)
 
+[Android Canvas绘图详解（图文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
