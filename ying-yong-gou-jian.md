@@ -20,3 +20,7 @@
 
 [Android使用Gradle命令动态传参完成打包，不需要修改代码](https://blog.csdn.net/u014637428/article/details/52249423)
 
+#  博客
+
+[]Android执行文件apk的组成结构(https://blog.csdn.net/itachi85/article/details/6460158)
+
