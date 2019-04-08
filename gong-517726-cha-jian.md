@@ -104,3 +104,5 @@
 
 [Android进阶 - 视图层级实时分析](https://www.jianshu.com/p/a8850e7cbac2)
 
+[Android根据mapping.txt还原混淆的代码](https://blog.csdn.net/u010052279/article/details/72625911)
+
