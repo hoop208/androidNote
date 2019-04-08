@@ -22,6 +22,8 @@
 
 [Android UI性能优化实战 识别绘制中的性能问题](https://blog.csdn.net/lmj623565791/article/details/45556391/)
 
+[Android实战技巧：ViewStub的应用](https://blog.csdn.net/hitlion2008/article/details/6737537)
+
 # 内存优化
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
