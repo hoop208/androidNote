@@ -11,3 +11,5 @@
 [完全理解 Android 中的 RemoteViews](https://juejin.im/entry/578ef709c4c971005e0b3251)
 
 [Android 中的Dalvik和ART是什么，有啥区别？](https://www.jianshu.com/p/58f817d176b7)
+
+[深入理解Android View的构造函数](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0806/4575.html)
