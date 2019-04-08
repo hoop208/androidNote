@@ -39,6 +39,7 @@
   * [ScrollView](xi-tong-api/scrollview.md)
   * [NestedScrollView](xi-tong-api/nestedscrollview.md)
   * [handler](xi-tong-api/handler.md)
+  * [cardview](source/cardview.md)
 * [项目框架](kuang-jia.md)
   * [dagger2](dagger2.md)
     * [基本使用](dagger2demo.md)
