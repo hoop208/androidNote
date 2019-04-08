@@ -46,7 +46,7 @@
 
 [给控件添加阴影效果与发光效果](https://blog.csdn.net/harvic880925/article/details/51818489)
 
-[https://www.jianshu.com/p/2f1024f9c554](https://www.jianshu.com/p/2f1024f9c554)
+[setShadowLayer阴影与SetMaskFilter发光效果](https://www.jianshu.com/p/2f1024f9c554)
 
 # 示例
 
