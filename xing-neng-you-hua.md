@@ -30,6 +30,8 @@
 
 [ViewStub--使用介绍](https://www.jianshu.com/p/175096cd89ac)
 
+[Android XML shape 标签使用详解](https://www.cnblogs.com/popfisher/p/6238119.html)
+
 # 内存优化
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
