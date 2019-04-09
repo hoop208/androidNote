@@ -29,3 +29,5 @@
 [android:clipToPadding的使用](https://blog.csdn.net/wangjiang_qianmo/article/details/54604378)
 
 [Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
+
+[android:clipToPadding和android:clipChildren](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2613.html)
