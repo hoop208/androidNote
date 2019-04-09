@@ -27,3 +27,5 @@
 [聊聊 Material Design 里，阴影的那些事儿！](https://segmentfault.com/a/1190000011809297#articleHeader4)
 
 [android:clipToPadding的使用](https://blog.csdn.net/wangjiang_qianmo/article/details/54604378)
+
+[Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
