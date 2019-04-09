@@ -18,6 +18,8 @@
 
 [Android 打造编译时注解解析框架 这只是一个开始](https://blog.csdn.net/lmj623565791/article/details/43452969)
 
+[还在用枚举？我早就抛弃了！（Android 注解详解）](https://www.jianshu.com/p/1fb27f46622c)
+
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
