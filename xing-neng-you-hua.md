@@ -24,6 +24,8 @@
 
 [Android实战技巧：ViewStub的应用](https://blog.csdn.net/hitlion2008/article/details/6737537)
 
+[使用ViewStub来提高加载性能吧！](https://blog.csdn.net/cx1229/article/details/53505903)
+
 # 内存优化
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
