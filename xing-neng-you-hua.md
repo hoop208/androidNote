@@ -32,6 +32,8 @@
 
 [Android XML shape 标签使用详解](https://www.cnblogs.com/popfisher/p/6238119.html)
 
+[android布局中使用include及需注意点](https://blog.csdn.net/u013524014/article/details/52240277)
+
 # 内存优化
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
