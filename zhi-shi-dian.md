@@ -24,7 +24,7 @@
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
 
-[聊聊 Material Design 里，阴影的那些事儿！](https://segmentfault.com/a/1190000011809297#articleHeader4)
+
 
 [android:clipToPadding的使用](https://blog.csdn.net/wangjiang_qianmo/article/details/54604378)
 
