@@ -3,3 +3,8 @@
 [你不知道的圆形圆角处理方式](https://juejin.im/post/5a7a6bd1f265da4e9c630fa9)
 
 [android:clipToPadding和android:clipChildren](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2613.html)
+
+[android:clipToPadding的使用](https://blog.csdn.net/wangjiang_qianmo/article/details/54604378)
+
+[android:clipToPadding和android:clipChildren](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2613.html)
+
