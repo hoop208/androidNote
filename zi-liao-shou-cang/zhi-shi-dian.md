@@ -13,3 +13,5 @@
 [Android 中的Dalvik和ART是什么，有啥区别？](https://www.jianshu.com/p/58f817d176b7)
 
 [深入理解Android View的构造函数](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0806/4575.html)
+
+[Android Studio 的 build 过程](https://segmentfault.com/a/1190000015373074)
