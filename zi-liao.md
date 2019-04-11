@@ -44,10 +44,6 @@
 
 [Android Canvas绘图详解（图文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html)
 
-[给控件添加阴影效果与发光效果](https://blog.csdn.net/harvic880925/article/details/51818489)
-
-[setShadowLayer阴影与SetMaskFilter发光效果](https://www.jianshu.com/p/2f1024f9c554)
-
 [一步步教你写StepView（流程指示器](https://www.jianshu.com/p/df03c1276121)
 
 # 示例
