@@ -48,6 +48,8 @@
 
 [setShadowLayer阴影与SetMaskFilter发光效果](https://www.jianshu.com/p/2f1024f9c554)
 
+[一步步教你写StepView（流程指示器](https://www.jianshu.com/p/df03c1276121)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
