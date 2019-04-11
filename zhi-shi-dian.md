@@ -26,4 +26,6 @@
 
 [Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
 
+[AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
+
 
