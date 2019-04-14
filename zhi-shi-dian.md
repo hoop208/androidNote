@@ -28,4 +28,6 @@
 
 [AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
 
+[Android根据资源名获取资源ID](https://droidyue.com/blog/2014/09/12/get-resource-id-by-name-in-android/)
+
 
