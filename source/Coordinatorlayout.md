@@ -17,3 +17,5 @@
 [这是使用CoordinatorLayout打造 打造炫酷效果的例子](https://github.com/gdutxiaoxu/CoordinatorLayoutExample)
 
 [使用CoordinatorLayout打造一个炫酷的详情页](https://www.jianshu.com/p/5287d090e777)
+
+[CoordinatorLayout 完全解析](https://www.jianshu.com/p/4a77ae4cd82f)
