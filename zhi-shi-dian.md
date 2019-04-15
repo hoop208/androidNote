@@ -8,6 +8,8 @@
 
 [Android TCP长连接 心跳机制及实现](https://blog.csdn.net/TTKatrina/article/details/72956338)
 
+[你应该知道的HTTP基础知识](https://www.jianshu.com/p/e544b7a76dac)
+
 # 响应式编程
 
 [响应式编程的基本概念](https://www.infoq.cn/article/2016/01/reactive-basics)
