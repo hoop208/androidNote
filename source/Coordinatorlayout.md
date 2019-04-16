@@ -6,6 +6,8 @@
 
 [Android高仿知乎首页Behavior](https://www.jianshu.com/p/2974d8ffc3a5)
 
+[一个神奇的控件——Android CoordinatorLayout与Behavior使用指南](https://www.jianshu.com/p/488283f74e69)
+
 # 资料 #
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
