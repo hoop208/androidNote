@@ -2,6 +2,10 @@
 
 [CoordinatorLayout 源码分析](https://github.com/desmond1121/AndroidSdkSourceAnalysis/blob/master/article/CoordinatorLayout%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 
+# 自定义behavior
+
+[Android高仿知乎首页Behavior](https://www.jianshu.com/p/2974d8ffc3a5)
+
 # 资料 #
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
