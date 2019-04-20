@@ -8,8 +8,6 @@
 
 [Android TCP长连接 心跳机制及实现](https://blog.csdn.net/TTKatrina/article/details/72956338)
 
-[你应该知道的HTTP基础知识](https://www.jianshu.com/p/e544b7a76dac)
-
 [Android 基于TCP的 Socket 编程实现（结合 okio）](https://blog.csdn.net/yhaolpz/article/details/59483916)
 
 # 响应式编程
