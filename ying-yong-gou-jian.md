@@ -24,3 +24,5 @@
 
 [Android执行文件apk的组成结构](https://blog.csdn.net/itachi85/article/details/6460158)
 
+
+[搭建 Maven 私有仓库](https://juejin.im/entry/58eb3e3da22b9d0058aafc28)
