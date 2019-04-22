@@ -8,6 +8,8 @@
 
 [一个神奇的控件——Android CoordinatorLayout与Behavior使用指南](https://www.jianshu.com/p/488283f74e69)
 
+[CoordinatorLayout高级用法-自定义Behavior](https://blog.csdn.net/qibin0506/article/details/50290421)
+
 # 资料 #
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
