@@ -44,8 +44,7 @@
 
 [Android Canvas绘图详解（图文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html)
 
-[
-android canvas drawText()文字居中](https://blog.csdn.net/zly921112/article/details/50401976)
+[android canvas drawText()文字居中](https://blog.csdn.net/zly921112/article/details/50401976)
 
 # 示例
 
