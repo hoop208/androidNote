@@ -46,6 +46,8 @@
 
 [android canvas drawText()文字居中](https://blog.csdn.net/zly921112/article/details/50401976)
 
+[Android自定义长按事件](https://chroya.iteye.com/blog/804706)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
