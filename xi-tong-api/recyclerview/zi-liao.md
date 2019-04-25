@@ -46,3 +46,5 @@
 
 [Android 优雅的为RecyclerView添加HeaderView和FooterView](https://blog.csdn.net/lmj623565791/article/details/51854533)
 
+[三种方式实现RecyclerView的Item点击事件](http://blog.devwiki.net/index.php/2016/07/24/three-ways-click-recyclerview-item.html)
+
