@@ -48,6 +48,8 @@
 
 [Android自定义长按事件](https://chroya.iteye.com/blog/804706)
 
+[[Android] 获取View的宽度和高度](https://www.jianshu.com/p/d18f0c96acb8)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
