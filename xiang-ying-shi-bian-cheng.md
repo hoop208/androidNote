@@ -6,4 +6,6 @@
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
 
+[RxBus的实现及简单使用](https://www.jianshu.com/p/eec1b280b941)
+
 
