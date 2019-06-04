@@ -48,3 +48,5 @@
 
 [三种方式实现RecyclerView的Item点击事件](http://blog.devwiki.net/index.php/2016/07/24/three-ways-click-recyclerview-item.html)
 
+[RecyclerView的滚动事件OnScrollListener研究](https://www.jianshu.com/p/ce347cf991db)
+
