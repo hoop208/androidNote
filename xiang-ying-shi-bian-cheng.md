@@ -6,6 +6,4 @@
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
 
-[响应式编程的基本概念](https://www.infoq.cn/article/2016/01/reactive-basics)
-
 
