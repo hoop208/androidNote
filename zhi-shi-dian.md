@@ -14,10 +14,6 @@
 
 [Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
 
-# 响应式编程
-
-[响应式编程的基本概念](https://www.infoq.cn/article/2016/01/reactive-basics)
-
 # 注解
 
 [Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
