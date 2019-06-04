@@ -22,6 +22,8 @@
 
 [RecyclerView自定义LayoutManager,打造不规则布局](https://blog.csdn.net/qibin0506/article/details/52676670)
 
+[看完让你直呼666的自定义LayoutManager之旅](http://www.10tiao.com/html/227/201810/2650244339/1.html)
+
 # 列表动画
 
 [RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
