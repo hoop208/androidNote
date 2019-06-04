@@ -81,7 +81,6 @@
   * [四大组件](zi-liao-shou-cang/si-da-zu-jian.md)
   * [知识点](zi-liao-shou-cang/zhi-shi-dian.md)
   * [fragment](zi-liao-shou-cang/fragment.md)
-* [工具&插件](gong-517726-cha-jian.md)
 * [设计模式](she-ji-mo-shi.md)
 * [测试](ce-shi.md)
 * [应用构建](ying-yong-gou-jian.md)
