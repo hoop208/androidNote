@@ -12,9 +12,7 @@
 
 [Android网络编程之--Socket编程](https://www.jianshu.com/p/fb4dfab4eec1)
 
-# 响应式编程
-
-[响应式编程的基本概念](https://www.infoq.cn/article/2016/01/reactive-basics)
+[Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
 
 # 注解
 
@@ -33,5 +31,7 @@
 [AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
 
 [Android根据资源名获取资源ID](https://droidyue.com/blog/2014/09/12/get-resource-id-by-name-in-android/)
+
+[Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
 
 

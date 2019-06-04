@@ -43,3 +43,7 @@
 # ANR
 
 [如何分析解决Android ANR](https://blog.csdn.net/dadoneo/article/details/8270107)
+
+# 其它
+
+[Android StrictMode介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0302/2516.html)

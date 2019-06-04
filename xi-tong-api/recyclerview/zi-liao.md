@@ -20,6 +20,10 @@
 
 [创建 RecyclerView LayoutManager – Part 3](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-13/%E5%88%9B%E5%BB%BA-RecyclerView-LayoutManager-Part-3.md)
 
+[RecyclerView自定义LayoutManager,打造不规则布局](https://blog.csdn.net/qibin0506/article/details/52676670)
+
+[看完让你直呼666的自定义LayoutManager之旅](http://www.10tiao.com/html/227/201810/2650244339/1.html)
+
 # 列表动画
 
 [RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
@@ -47,4 +51,8 @@
 [Android 优雅的为RecyclerView添加HeaderView和FooterView](https://blog.csdn.net/lmj623565791/article/details/51854533)
 
 [三种方式实现RecyclerView的Item点击事件](http://blog.devwiki.net/index.php/2016/07/24/three-ways-click-recyclerview-item.html)
+
+[RecyclerView的滚动事件OnScrollListener研究](https://www.jianshu.com/p/ce347cf991db)
+
+[RecyclerView添加Header的正确方式](https://blog.csdn.net/qibin0506/article/details/49716795)
 

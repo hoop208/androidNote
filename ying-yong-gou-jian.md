@@ -12,6 +12,8 @@
 
 [Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
 
+[build.gradle管理依赖的版本](https://juejin.im/entry/59918304518825489151732d)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
