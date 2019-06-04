@@ -50,3 +50,5 @@
 
 [RecyclerView的滚动事件OnScrollListener研究](https://www.jianshu.com/p/ce347cf991db)
 
+[RecyclerView添加Header的正确方式](https://blog.csdn.net/qibin0506/article/details/49716795)
+
