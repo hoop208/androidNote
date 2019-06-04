@@ -20,6 +20,8 @@
 
 [创建 RecyclerView LayoutManager – Part 3](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-13/%E5%88%9B%E5%BB%BA-RecyclerView-LayoutManager-Part-3.md)
 
+[RecyclerView自定义LayoutManager,打造不规则布局](https://blog.csdn.net/qibin0506/article/details/52676670)
+
 # 列表动画
 
 [RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
