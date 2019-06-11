@@ -56,3 +56,5 @@
 
 [RecyclerView添加Header的正确方式](https://blog.csdn.net/qibin0506/article/details/49716795)
 
+[](/https://stackoverflow.com/questions/29684154/recyclerview-viewholder-getlayoutposition-vs-getadapterposition)
+
