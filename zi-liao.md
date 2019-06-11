@@ -50,6 +50,8 @@
 
 [[Android] 获取View的宽度和高度](https://www.jianshu.com/p/d18f0c96acb8)
 
+[用户手势检测-GestureDetector使用详解](https://blog.csdn.net/harvic880925/article/details/39520901)
+
 # 示例
 
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
