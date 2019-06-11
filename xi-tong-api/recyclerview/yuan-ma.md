@@ -1,0 +1,8 @@
+[RecyclerView的基本设计结构](https://juejin.im/post/5c10737de51d457926430f99)
+
+[RecyclerView刷新机制](https://juejin.im/post/5c10ad715188253141435f4a)
+
+[RecyclerView的复用机制](https://juejin.im/post/5c1369cff265da613b6fa87f)
+
+[RecyclerView动画源码浅析](https://juejin.im/post/5c19f8f66fb9a049b347edc5)
+
