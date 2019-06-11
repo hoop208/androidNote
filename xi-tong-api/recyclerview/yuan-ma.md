@@ -7,3 +7,5 @@
 [RecyclerView动画源码浅析](https://juejin.im/post/5c19f8f66fb9a049b347edc5)
 
 [深入浅出 RecyclerView](https://www.kymjs.com/code/2016/07/10/01/)
+
+[RecyclerView剖析](https://blog.csdn.net/qq_23012315/article/details/50807224)
