@@ -14,6 +14,8 @@
 
 [看完让你直呼666的自定义LayoutManager之旅](http://www.10tiao.com/html/227/201810/2650244339/1.html)
 
+[打造属于你的LayoutManager](https://www.jianshu.com/p/08d998d047d8)
+
 # 列表动画
 
 [RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
