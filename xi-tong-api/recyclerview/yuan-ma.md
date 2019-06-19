@@ -16,3 +16,5 @@
 [RecyclerView源码分析(四)--动画流程](https://www.jianshu.com/p/f7f8814bd09a)
 
 [RecyclerView 和 ListView 使用对比分析](https://www.jianshu.com/p/f592f3715ae2?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=singlemessage&isappinstalled=1)
+
+[使用RecyclerView实现多行水平分页的GridView效果和ViewPager效果](https://blog.csdn.net/u014165119/article/details/46834265)
