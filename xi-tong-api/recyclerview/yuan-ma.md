@@ -9,3 +9,5 @@
 [深入浅出 RecyclerView](https://www.kymjs.com/code/2016/07/10/01/)
 
 [RecyclerView剖析](https://blog.csdn.net/qq_23012315/article/details/50807224)
+
+[RecyclerView源码分析(一)--整体设计](https://www.jianshu.com/p/9ddfdffee5d3)
