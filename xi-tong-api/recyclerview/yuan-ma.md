@@ -14,3 +14,5 @@
 [RecyclerView源码分析(二)--测量流程](https://www.jianshu.com/p/4b8d6e5004d5)
 [RecyclerView源码分析(三)--布局流程](https://www.jianshu.com/p/898479f103b6)
 [RecyclerView源码分析(四)--动画流程](https://www.jianshu.com/p/f7f8814bd09a)
+
+[RecyclerView 和 ListView 使用对比分析](https://www.jianshu.com/p/f592f3715ae2?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=singlemessage&isappinstalled=1)
