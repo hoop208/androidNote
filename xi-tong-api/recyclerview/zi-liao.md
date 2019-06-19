@@ -50,3 +50,7 @@
 
 [RecyclerView.ViewHolder - getLayoutPosition vs getAdapterPosition](/https://stackoverflow.com/questions/29684154/recyclerview-viewholder-getlayoutposition-vs-getadapterposition)
 
+# 例子
+
+[用RecyclerView实现无限轮播图，有普通版和3d版](https://github.com/ren93/RecyclerBanner)
+
