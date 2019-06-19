@@ -28,10 +28,6 @@
 
 # 博客
 
-[用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
-
-[用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
-
 [【Android】RecyclerView的好伴侣：详解DiffUtil](https://blog.csdn.net/zxt0601/article/details/52562770)
 
 [Android RecyclerView 使用完全解析 体验艺术般的控件](https://blog.csdn.net/lmj623565791/article/details/45059587)
@@ -48,5 +44,9 @@
 
 # 例子
 
-[用RecyclerView实现无限轮播图，有普通版和3d版](https://github.com/ren93/RecyclerBanner)
+[用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
+
+[用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
+
+
 
