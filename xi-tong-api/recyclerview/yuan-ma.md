@@ -19,3 +19,5 @@
 
 [使用RecyclerView实现多行水平分页的GridView效果和ViewPager效果](https://blog.csdn.net/u014165119/article/details/46834265)
 
+[RecyclerView源码分析缓存机制](https://blog.jiahuan.me/2018/07/27/RecyclerView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/)
+
