@@ -12,3 +12,4 @@
 
 [RecyclerView源码分析(一)--整体设计](https://www.jianshu.com/p/9ddfdffee5d3)
 [RecyclerView源码分析(二)--测量流程](https://www.jianshu.com/p/4b8d6e5004d5)
+[RecyclerView源码分析(三)--布局流程](https://www.jianshu.com/p/898479f103b6)
