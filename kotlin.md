@@ -5,3 +5,5 @@
 # 博客
 
 [Android 开发者自述：为什么我要改用 Kotlin？](https://zhuanlan.zhihu.com/p/26980146)
+
+[你为什么需要 Kotlin](https://zhuanlan.zhihu.com/p/24900005)
