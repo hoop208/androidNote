@@ -26,7 +26,7 @@
 
 [Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
 
-
+[中华万年历客户端埋点方案解析](http://tech.weli.cn/2019/04/12/peacock-client-road/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 # 其它
