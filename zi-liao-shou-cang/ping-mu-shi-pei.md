@@ -10,3 +10,5 @@
 
 [骚年你的屏幕适配方式该升级了!-今日头条适配方案](https://juejin.im/post/5b7a29736fb9a019d53e7ee2)
 
+[骚年你的屏幕适配方式该升级了!-SmallestWidth 限定符适配方案](https://juejin.im/post/5ba197e46fb9a05d0b142c62)
+
