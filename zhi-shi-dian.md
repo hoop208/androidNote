@@ -22,6 +22,13 @@
 
 [还在用枚举？我早就抛弃了！（Android 注解详解）](https://www.jianshu.com/p/1fb27f46622c)
 
+# 埋点
+
+[Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
+
+
+
+
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
@@ -31,7 +38,5 @@
 [AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
 
 [Android根据资源名获取资源ID](https://droidyue.com/blog/2014/09/12/get-resource-id-by-name-in-android/)
-
-[Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
 
 
