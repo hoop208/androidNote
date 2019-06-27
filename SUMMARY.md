@@ -46,7 +46,6 @@
   * [Gridlayout](source/gridlayout.md)
   * [viewpager](source/viewpager.md)
   * [View&ViewGroup](source/viewandviewgroup.md)
-  * [view的绘制流程](zi-liao-shou-cang/viewde-hui-zhi-liu-cheng.md)
   * [事件分发机制](zi-liao-shou-cang/shi-jian-fen-fa-ji-zhi.md)
 * [项目框架](kuang-jia.md)
   * [databinding](databinding.md)
