@@ -20,6 +20,16 @@
 
 [Android Deeper(00) - Touch事件分发响应机制](http://hukai.me/android-deeper-touch-event-dispatch-process/)
 
+# 知识点
+
+[Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
+
+[Android Drawable 那些不为人知的高效用法](https://blog.csdn.net/lmj623565791/article/details/43752383)
+
+[Android 自定义ViewGroup 实战篇 -> 实现FlowLayout](https://blog.csdn.net/lmj623565791/article/details/38352503)
+
+
+
 
 
 
