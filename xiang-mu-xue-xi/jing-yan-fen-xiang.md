@@ -7,3 +7,5 @@
 [Android程序员的Java后台学习建议](https://juejin.im/post/5c3b136a6fb9a049f1546ea5)
 
 [Android学习路线指南](https://blog.csdn.net/singwhatiwanna/article/details/49560409)
+
+[阅读ANDROID源码的一些姿势](https://zhuanlan.zhihu.com/p/20564614)
