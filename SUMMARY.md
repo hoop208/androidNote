@@ -49,6 +49,7 @@
   * [parceable](source/parceable.md)
   * [sparsearray](source/sparsearray.md)
   * [Context](source/context.md)
+  * [Activity](source/activity.md)
 * [项目框架](kuang-jia.md)
   * [databinding](databinding.md)
     * [基本使用](MasteringAndroidDataBinding.md)
