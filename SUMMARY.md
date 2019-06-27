@@ -47,6 +47,7 @@
   * [viewpager](source/viewpager.md)
   * [View&ViewGroup](source/viewandviewgroup.md)
   * [事件分发机制](zi-liao-shou-cang/shi-jian-fen-fa-ji-zhi.md)
+  * [parceable](source/parceable.md)
 * [项目框架](kuang-jia.md)
   * [databinding](databinding.md)
     * [基本使用](MasteringAndroidDataBinding.md)
