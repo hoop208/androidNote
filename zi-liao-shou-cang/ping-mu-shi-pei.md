@@ -12,3 +12,5 @@
 
 [骚年你的屏幕适配方式该升级了!-SmallestWidth 限定符适配方案](https://juejin.im/post/5ba197e46fb9a05d0b142c62)
 
+[一种极低成本的Android屏幕适配方式](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA)
+
