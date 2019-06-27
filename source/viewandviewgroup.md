@@ -24,9 +24,16 @@
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
 
-[Android Drawable 那些不为人知的高效用法](https://blog.csdn.net/lmj623565791/article/details/43752383)
+[Android LayoutInflater原理分析，带你一步步深入了解View(一)](https://blog.csdn.net/guolin_blog/article/details/12921889)
 
-[Android 自定义ViewGroup 实战篇 -> 实现FlowLayout](https://blog.csdn.net/lmj623565791/article/details/38352503)
+[Android视图绘制流程完全解析，带你一步步深入了解View(二)](https://blog.csdn.net/guolin_blog/article/details/16330267)
+
+[Android视图状态及重绘流程分析，带你一步步深入了解View(三)](https://blog.csdn.net/guolin_blog/article/details/17045157)
+
+[Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
+
+
+
 
 
 
