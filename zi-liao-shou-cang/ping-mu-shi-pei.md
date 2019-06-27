@@ -8,3 +8,5 @@
 
 [两分钟理解Android中PX、DP、SP的区别](https://blog.csdn.net/donkor_/article/details/77680042)
 
+[骚年你的屏幕适配方式该升级了!-今日头条适配方案](https://juejin.im/post/5b7a29736fb9a019d53e7ee2)
+
