@@ -16,3 +16,5 @@
 
 [今日头条屏幕适配方案终极版正式发布!](https://juejin.im/post/5bce688e6fb9a05cf715d1c2#heading-2)
 
+[Android屏幕适配方案分析](https://segmentfault.com/a/1190000019089019?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader3)
+
