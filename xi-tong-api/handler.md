@@ -4,3 +4,5 @@
 
 [Android源码分析-消息队列和Looper](https://blog.csdn.net/singwhatiwanna/article/details/17361775)
 
+[http://yifeiyuan.me/blog/f77487d3.html?nsukey=u83NpFZJ5mcneoFhkbIuTuH3ntMUV85E7Lcxl1jeg8NmHTyZID2RQQ8An9Mc8rvWX5Qtk65t%2FZKiysNiU89fgrF9USjA8cWM08KzwEsj2cZ6vqOfX6T3vefv%2B%2F53mRNeeA%2Fi7%2FOm1tBToYrnkXcmPIBQ%2FlVdcWwxqxZdCjbNOWqCUCyp6pR2YpHWCxMjTp64rN2%2BGJ%2FieQAdMO4wp0YjHg%3D%3D](http://yifeiyuan.me/blog/f77487d3.html?nsukey=u83NpFZJ5mcneoFhkbIuTuH3ntMUV85E7Lcxl1jeg8NmHTyZID2RQQ8An9Mc8rvWX5Qtk65t%2FZKiysNiU89fgrF9USjA8cWM08KzwEsj2cZ6vqOfX6T3vefv%2B%2F53mRNeeA%2Fi7%2FOm1tBToYrnkXcmPIBQ%2FlVdcWwxqxZdCjbNOWqCUCyp6pR2YpHWCxMjTp64rN2%2BGJ%2FieQAdMO4wp0YjHg%3D%3D)
+
