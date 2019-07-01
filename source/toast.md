@@ -4,4 +4,6 @@
 
 [Toast.makeText（消息模式）的几种用法](https://blog.csdn.net/qq_28301007/article/details/52335360)
 
+[Toast的功能和用法](https://www.kancloud.cn/digest/tttkkk/125275)
+
 # 源码解析
