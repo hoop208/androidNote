@@ -4,8 +4,9 @@
 
 [Android源码分析—带你认识不一样的AsyncTask](https://blog.csdn.net/singwhatiwanna/article/details/17596225)
 
-[
-Android AsyncTask完全解析，带你从源码的角度彻底理解](https://blog.csdn.net/guolin_blog/article/details/11711405)
+[Android AsyncTask完全解析，带你从源码的角度彻底理解](https://blog.csdn.net/guolin_blog/article/details/11711405)
+
+[Android AsyncTask 源码解析](https://blog.csdn.net/lmj623565791/article/details/38614699)
 
 **相关知识点**
 
