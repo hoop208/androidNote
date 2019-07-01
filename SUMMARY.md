@@ -38,7 +38,7 @@
   * [SharedPreference](xi-tong-api/sharedpreference.md)
   * [ScrollView](xi-tong-api/scrollview.md)
   * [NestedScrollView](xi-tong-api/nestedscrollview.md)
-  * [handler](xi-tong-api/handler.md)
+  * [handler&Looper&message](xi-tong-api/handler.md)
   * [cardview](source/cardview.md)
   * [知识点](source/zhi-shi-dian.md)
   * [Constrantlayout](source/constrantlayout.md)
