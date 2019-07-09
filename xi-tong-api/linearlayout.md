@@ -5,3 +5,5 @@
 # 源码解析
 
 [LinearLayout 源码分析](https://github.com/razerdp/AndroidSourceAnalysis/blob/master/LinearLayout/android_widget_LinearLayout.md)
+
+[Android 8.0 LinearLayout 源码解析](https://www.jianshu.com/p/1fa113b7ff64)

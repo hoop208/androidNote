@@ -22,6 +22,13 @@
 
 [还在用枚举？我早就抛弃了！（Android 注解详解）](https://www.jianshu.com/p/1fb27f46622c)
 
+# 埋点
+
+[Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
+
+[中华万年历客户端埋点方案解析](http://tech.weli.cn/2019/04/12/peacock-client-road/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
@@ -32,6 +39,6 @@
 
 [Android根据资源名获取资源ID](https://droidyue.com/blog/2014/09/12/get-resource-id-by-name-in-android/)
 
-[Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
+[Android开发：最详细的 Toolbar 开发实践总结](https://www.jianshu.com/p/79604c3ddcae)
 
 

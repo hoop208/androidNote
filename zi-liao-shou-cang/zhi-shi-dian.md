@@ -19,3 +19,5 @@
 [Android R.java类的手动生成](https://blog.csdn.net/ccpat/article/details/50738811)
 
 [android的窗口机制分析------ViewRoot类](https://blog.csdn.net/windskier/article/details/6957901)
+
+[Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)

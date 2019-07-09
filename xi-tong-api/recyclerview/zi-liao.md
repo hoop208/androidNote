@@ -1,15 +1,5 @@
 [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
 
-# 源码解析
-
-[RecyclerView的基本设计结构](https://juejin.im/post/5c10737de51d457926430f99)
-
-[RecyclerView刷新机制](https://juejin.im/post/5c10ad715188253141435f4a)
-
-[RecyclerView的复用机制](https://juejin.im/post/5c1369cff265da613b6fa87f)
-
-[RecyclerView动画源码浅析](https://juejin.im/post/5c19f8f66fb9a049b347edc5)
-
 # LayoutManager
 
 [recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)
@@ -24,6 +14,8 @@
 
 [看完让你直呼666的自定义LayoutManager之旅](http://www.10tiao.com/html/227/201810/2650244339/1.html)
 
+[打造属于你的LayoutManager](https://www.jianshu.com/p/08d998d047d8)
+
 # 列表动画
 
 [RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
@@ -34,15 +26,7 @@
 
 [使用recyclerview优雅实现复杂列表](https://www.imooc.com/learn/731)
 
-# Itemdecoration
-
-[RecyclerView之ItemDecoration由浅入深](https://www.jianshu.com/p/b46a4ff7c10a)
-
 # 博客
-
-[用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
-
-[用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
 
 [【Android】RecyclerView的好伴侣：详解DiffUtil](https://blog.csdn.net/zxt0601/article/details/52562770)
 
@@ -55,4 +39,14 @@
 [RecyclerView的滚动事件OnScrollListener研究](https://www.jianshu.com/p/ce347cf991db)
 
 [RecyclerView添加Header的正确方式](https://blog.csdn.net/qibin0506/article/details/49716795)
+
+[RecyclerView.ViewHolder - getLayoutPosition vs getAdapterPosition](/https://stackoverflow.com/questions/29684154/recyclerview-viewholder-getlayoutposition-vs-getadapterposition)
+
+# 例子
+
+[用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
+
+[用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
+
+
 
