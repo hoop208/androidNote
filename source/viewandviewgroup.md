@@ -4,6 +4,8 @@
 
 [Android View 深度分析requestLayout、invalidate与postInvalidat](https://blog.csdn.net/a553181867/article/details/51583060)
 
+[深入理解Android之View的绘制流程](https://www.jianshu.com/p/060b5f68da79)
+
 # 事件分发机制
 
 [Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](https://blog.csdn.net/guolin_blog/article/details/9097463)
