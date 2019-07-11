@@ -6,6 +6,8 @@
 
 [深入理解Android之View的绘制流程](https://www.jianshu.com/p/060b5f68da79)
 
+[Android应用层View绘制流程与源码分析](https://blog.csdn.net/yanbober/article/details/46128379)
+
 # 事件分发机制
 
 [Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](https://blog.csdn.net/guolin_blog/article/details/9097463)
