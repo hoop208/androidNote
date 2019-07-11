@@ -12,3 +12,7 @@
 
 [android学习笔记](https://github.com/francistao/LearningNotes)
 
+[Android框架浅析](https://blog.csdn.net/qinjuning/column/info/qinjuning-and-2)
+
+
+
