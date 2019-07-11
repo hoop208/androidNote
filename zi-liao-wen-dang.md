@@ -10,3 +10,5 @@
 
 [android开发书籍](http://www.jizhuomi.com/android/book/)
 
+[GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频](https://github.com/open-android/Android)
+
