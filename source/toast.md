@@ -7,3 +7,5 @@
 [Toast的功能和用法](https://www.kancloud.cn/digest/tttkkk/125275)
 
 # 源码解析
+
+[Android源码解析——Toast](https://blog.csdn.net/maosidiaoxian/article/details/51327424)
