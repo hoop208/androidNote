@@ -18,5 +18,7 @@
 
 [Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink)
 
+[Android study notes.](https://github.com/CharonChui/AndroidNote)
+
 
 
