@@ -13,3 +13,5 @@
 [Android：剖析源码，随心所欲控制Toast显示](https://www.cnblogs.com/net168/p/4058193.html)
 
 [02.Toast源码深度分析.md](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/02.Toast%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90.md)
+
+[Toast源码解析.md](https://github.com/WuXiaolong/AndroidSdkSourceAnalysis/blob/master/article/Toast%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
