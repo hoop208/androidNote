@@ -9,3 +9,5 @@
 # 源码解析
 
 [Android源码解析——Toast](https://blog.csdn.net/maosidiaoxian/article/details/51327424)
+
+[Android：剖析源码，随心所欲控制Toast显示](https://www.cnblogs.com/net168/p/4058193.html)
