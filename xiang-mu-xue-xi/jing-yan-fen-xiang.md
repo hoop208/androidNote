@@ -14,5 +14,7 @@
 
 [Android框架浅析](https://blog.csdn.net/qinjuning/column/info/qinjuning-and-2)
 
+[Android开发进阶](https://www.jianshu.com/p/6aea80e1fa22)
+
 
 
