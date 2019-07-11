@@ -22,6 +22,8 @@
 
 [Android Deeper(00) - Touch事件分发响应机制](http://hukai.me/android-deeper-touch-event-dispatch-process/)
 
+[Android中MotionEvent的来源和ViewRootImpl](https://blog.csdn.net/singwhatiwanna/article/details/50775201)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
