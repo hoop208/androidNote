@@ -72,7 +72,6 @@
   * [源码学习](xiang-mu-xue-xi/yuan-ma-xue-xi.md)
   * [EventBus](xiang-mu-xue-xi/yuan-ma-xue-xi/eventbus.md)
   * [GreenDao](xiang-mu-xue-xi/yuan-ma-xue-xi/greendao.md)
-  * [Gson](xiang-mu-xue-xi/yuan-ma-xue-xi/gson.md)
   * [Glide](xiang-mu-xue-xi/yuan-ma-xue-xi/glide.md)
   * [Retrofit](xiang-mu-xue-xi/yuan-ma-xue-xi/retrofit.md)
   * [OKHTTP](xiang-mu-xue-xi/yuan-ma-xue-xi/okhttp.md)
