@@ -40,7 +40,6 @@
   * [NestedScrollView](xi-tong-api/nestedscrollview.md)
   * [handler&Looper&message](xi-tong-api/handler.md)
   * [cardview](source/cardview.md)
-  * [知识点](source/zhi-shi-dian.md)
   * [Constrantlayout](source/constrantlayout.md)
   * [popupwindow](source/popupwindow.md)
   * [Gridlayout](source/gridlayout.md)
