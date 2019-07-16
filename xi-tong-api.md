@@ -3,3 +3,12 @@
 [ANDROID SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 
 [Android源码设计模式分析开源项目](https://www.runoob.com/cplusplus/cpp-basic-input-output.html)
+
+# 知识点
+
+[Android LayoutInflater深度解析 给你带来全新的认识](https://blog.csdn.net/lmj623565791/article/details/38171465)
+
+[Android 属性动画 源码解析 深入了解其内部实现](https://blog.csdn.net/lmj623565791/article/details/42056859)
+
+[Android 探究 LayoutInflater setFactory](https://blog.csdn.net/lmj623565791/article/details/51503977)
+
