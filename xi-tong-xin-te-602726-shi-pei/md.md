@@ -8,6 +8,8 @@
 
 [Android L中水波纹点击效果的实现](https://blog.csdn.net/singwhatiwanna/article/details/42614953)
 
+[Android状态栏微技巧，带你真正理解沉浸式模式](https://blog.csdn.net/guolin_blog/article/details/51763825)
+
 
 
 
