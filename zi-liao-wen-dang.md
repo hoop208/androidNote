@@ -12,3 +12,5 @@
 
 [GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频](https://github.com/open-android/Android)
 
+[View辅助工具包，帮助你快速优雅的完成自定义View](https://github.com/GcsSloop/ViewSupport)
+
