@@ -2,6 +2,5 @@
 
 [Android 属性动画 源码解析 深入了解其内部实现](https://blog.csdn.net/lmj623565791/article/details/42056859)
 
-[
-Android 探究 LayoutInflater setFactory](https://blog.csdn.net/lmj623565791/article/details/51503977)
+[Android 探究 LayoutInflater setFactory](https://blog.csdn.net/lmj623565791/article/details/51503977)
 
