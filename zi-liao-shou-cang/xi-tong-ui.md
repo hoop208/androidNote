@@ -9,3 +9,11 @@
 [状态栏工具类](https://github.com/laobie/StatusBarUtil)
 
 [android4.4以上沉浸式状态栏和导航栏实现以及Bar的其他管理](https://www.jianshu.com/p/2a884e211a62)
+
+[Android状态栏微技巧，带你真正理解沉浸式模式](https://blog.csdn.net/guolin_blog/article/details/51763825)
+
+
+
+
+
+
