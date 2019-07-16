@@ -28,7 +28,6 @@
 
 [中华万年历客户端埋点方案解析](http://tech.weli.cn/2019/04/12/peacock-client-road/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
