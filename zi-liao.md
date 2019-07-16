@@ -4,6 +4,8 @@
 
 [给高级 Android 工程师的进阶手册](https://hencoder.com/)
 
+[Android 所有动画系列详尽教程](https://github.com/OCNYang/Android-Animation-Set)
+
 # github
 
 [Material-Animations](https://github.com/lgvalle/Material-Animations)
