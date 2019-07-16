@@ -10,5 +10,7 @@
 
 [HTextView源码分析](https://www.jianshu.com/p/15358d444800)
 
+[Android 从StackTraceElement反观Log库](https://blog.csdn.net/lmj623565791/article/details/52506545)
+
 
 
