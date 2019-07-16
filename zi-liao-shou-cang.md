@@ -12,7 +12,6 @@
 
 # 知识点
 
-
 [RemoteView概述](https://www.cnblogs.com/playing/archive/2011/04/22/2024775.html)
 
 [Android资源管理框架（Asset Manager）简要介绍和学习计划](https://blog.csdn.net/Luoshengyang/article/details/8738877)
