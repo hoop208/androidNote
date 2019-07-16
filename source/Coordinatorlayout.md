@@ -14,6 +14,8 @@
 
 [CoordinatorLayout高级用法-自定义Behavior](https://blog.csdn.net/qibin0506/article/details/50290421)
 
+[针对 CoordinatorLayout 及 Behavior 的一次细节较真](https://frank909.blog.csdn.net/article/details/73076458)
+
 # 资料 #
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
