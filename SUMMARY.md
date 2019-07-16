@@ -74,7 +74,6 @@
   * [GreenDao](xiang-mu-xue-xi/yuan-ma-xue-xi/greendao.md)
   * [Glide](xiang-mu-xue-xi/yuan-ma-xue-xi/glide.md)
   * [Retrofit](xiang-mu-xue-xi/yuan-ma-xue-xi/retrofit.md)
-  * [OKHTTP](xiang-mu-xue-xi/yuan-ma-xue-xi/okhttp.md)
   * [dagger2](dagger2.md)
     * [基本使用](dagger2demo.md)
     * [源码学习](dagger2/yuan-ma-xue-xi.md)
