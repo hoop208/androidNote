@@ -4,6 +4,8 @@
 
 [源码看CoordinatorLayout.Behavior原理](https://blog.csdn.net/qibin0506/article/details/50377592)
 
+[一步步带你读懂 CoordinatorLayout 源码](https://blog.csdn.net/gdutxiaoxu/article/details/71616547)
+
 # 自定义behavior
 
 [Android高仿知乎首页Behavior](https://www.jianshu.com/p/2974d8ffc3a5)
