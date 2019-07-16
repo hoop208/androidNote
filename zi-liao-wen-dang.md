@@ -20,6 +20,8 @@
 
 [安卓架构文章合集](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
 
+[Simplify Android M system permissions](https://github.com/googlesamples/easypermissions)
+
 # 经验分享
 
 [最全面的 Material Design 学习资料](https://github.com/Luosunce/material-design-data)
