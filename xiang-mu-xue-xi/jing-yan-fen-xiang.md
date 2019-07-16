@@ -22,5 +22,7 @@
 
 [Demo合集](https://github.com/alidili/Demos)
 
+[ 一系列Android进阶文章。持续更新中.....](https://github.com/SusionSuc/AdvancedAndroid)
+
 
 
