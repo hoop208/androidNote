@@ -28,5 +28,7 @@
 
 [记录一个自己的知识库](https://github.com/suzeyu1992/repo)
 
+[Android开发总结](https://github.com/JohnTsaiAndroid/AndroidTips)
+
 
 
