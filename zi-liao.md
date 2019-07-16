@@ -22,10 +22,6 @@
 
 [深入理解Android 自定义attr Style styleable以及其应用](https://www.jianshu.com/p/61b79e7f88fc)
 
-[Android 属性动画（Property Animation） 完全解析 （上）](https://blog.csdn.net/lmj623565791/article/details/38067475)
-
-[Android 属性动画（Property Animation） 完全解析 （下）](https://blog.csdn.net/lmj623565791/article/details/38092093)
-
 [android Path 和 PathMeasure 进阶](https://blog.csdn.net/cquwentao/article/details/51436852)
 
 [Android Canvas绘图详解（图文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html)
