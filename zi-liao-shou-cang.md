@@ -18,8 +18,6 @@
 
 [完全理解 Android 中的 RemoteViews](https://juejin.im/entry/578ef709c4c971005e0b3251)
 
-[Android Studio 的 build 过程](https://segmentfault.com/a/1190000015373074)
-
 [Android R.java类的手动生成](https://blog.csdn.net/ccpat/article/details/50738811)
 
 [android的窗口机制分析------ViewRoot类](https://blog.csdn.net/windskier/article/details/6957901)
