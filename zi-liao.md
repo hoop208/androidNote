@@ -10,7 +10,7 @@
 
 [Material-Animations](https://github.com/lgvalle/Material-Animations)
 
-[自定义带文字提示的SeekBar控件](https://github.com/alidili/Demos/tree/master/IndicatorSeekBarDemo)
+
 
 # 博客
 
@@ -51,6 +51,10 @@
 [一步步教你写StepView（流程指示器](https://www.jianshu.com/p/df03c1276121)
 
 [自定义View：Android歌词控件](https://www.jianshu.com/p/ab735509cc74)
+
+[自定义带文字提示的SeekBar控件](https://github.com/alidili/Demos/tree/master/IndicatorSeekBarDemo)
+
+
 
 
 
