@@ -34,4 +34,8 @@
 
 [Android Studio 的 build 过程](https://segmentfault.com/a/1190000015373074)
 
+[Android R.java类的手动生成](https://blog.csdn.net/ccpat/article/details/50738811)
+
+
+
 
