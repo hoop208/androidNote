@@ -78,7 +78,6 @@
     * [源码学习](dagger2/yuan-ma-xue-xi.md)
   * [ButterKnife](xiang-mu-xue-xi/butterknife.md)
 * [Android OS](zi-liao-shou-cang.md)
-  * [资料](zi-liao-shou-cang/zi-liao.md)
   * [屏幕适配](zi-liao-shou-cang/ping-mu-shi-pei.md)
   * [系统UI](zi-liao-shou-cang/xi-tong-ui.md)
   * [四大组件](zi-liao-shou-cang/si-da-zu-jian.md)
