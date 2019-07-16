@@ -24,5 +24,7 @@
 
 [ 一系列Android进阶文章。持续更新中.....](https://github.com/SusionSuc/AdvancedAndroid)
 
+[android产品研发过程中常用的技术，技巧，实践等](https://github.com/yipianfengye/AndroidProject)
+
 
 
