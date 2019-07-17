@@ -58,8 +58,6 @@
 
 [Android学习笔记](https://github.com/CharonChui/AndroidNote)
 
-[An awesome list of tips for Android.](https://github.com/tangqi92/Android-Tips)
-
 
 
 
