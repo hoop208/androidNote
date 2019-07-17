@@ -19,5 +19,3 @@
 [完全理解 Android 中的 RemoteViews](https://juejin.im/entry/578ef709c4c971005e0b3251)
 
 [android的窗口机制分析------ViewRoot类](https://blog.csdn.net/windskier/article/details/6957901)
-
-[Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)
