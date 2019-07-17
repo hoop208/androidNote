@@ -60,8 +60,6 @@
 
 [An awesome list of tips for Android.](https://github.com/tangqi92/Android-Tips)
 
-[Android 学习资料收集](https://github.com/Freelander/Android_Data)
-
 
 
 
