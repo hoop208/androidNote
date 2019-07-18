@@ -42,8 +42,6 @@
 
 [Android开发进阶](https://www.jianshu.com/p/6aea80e1fa22)
 
-[Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink)
-
 [Android study notes.](https://github.com/CharonChui/AndroidNote)
 
 [ 一系列Android进阶文章。持续更新中.....](https://github.com/SusionSuc/AdvancedAndroid)
