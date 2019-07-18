@@ -28,6 +28,8 @@
 
 [中华万年历客户端埋点方案解析](http://tech.weli.cn/2019/04/12/peacock-client-road/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[Android动态编译技术:Plugin Transform Javassist操作Class文件](https://blog.csdn.net/yulong0809/article/details/77752098)
+
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
