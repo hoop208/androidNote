@@ -52,6 +52,8 @@
 
 [Android学习笔记](https://github.com/CharonChui/AndroidNote)
 
+[Android开发技术前线](https://github.com/hehonghui/android-tech-frontier)
+
 
 
 
