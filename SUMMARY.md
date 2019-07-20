@@ -16,7 +16,6 @@
 * [sdk源码](xi-tong-api.md)
   * [source/Coordinatorlayout](source/Coordinatorlayout.md)
   * [source/FloatingActionButton](source/FloatingActionButton.md)
-  * [source/Scroller](source/Scroller.md)
   * [source/SwipeRefreshLayout](source/SwipeRefreshLayout.md)
   * [source/TextView](source/TextView.md)
   * [AsyncTask](xi-tong-api/asynctask.md)
