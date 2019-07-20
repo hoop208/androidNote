@@ -35,7 +35,7 @@
   * [Media Player](xi-tong-api/media-player.md)
   * [NavigationView](xi-tong-api/navigationview.md)
   * [SharedPreference](xi-tong-api/sharedpreference.md)
-  * [ScrollView](xi-tong-api/scrollview.md)
+  * [ScrollView&Scroller](xi-tong-api/scrollview.md)
   * [NestedScrollView](xi-tong-api/nestedscrollview.md)
   * [handler&Looper&message](xi-tong-api/handler.md)
   * [cardview](source/cardview.md)
