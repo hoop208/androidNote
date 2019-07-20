@@ -56,6 +56,7 @@
   * [ContentProvider](source/contentprovider.md)
   * [Application](source/application.md)
   * [webview](source/webview.md)
+  * [LayoutInflator](source/layoutinflator.md)
 * [项目框架](kuang-jia.md)
   * [databinding](databinding.md)
     * [基本使用](MasteringAndroidDataBinding.md)
