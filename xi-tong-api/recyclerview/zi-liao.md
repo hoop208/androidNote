@@ -16,6 +16,8 @@
 
 [打造属于你的LayoutManager](https://www.jianshu.com/p/08d998d047d8)
 
+[自定义LayoutManager 实现弧形以及滑动放大效果RecyclerView](https://www.jianshu.com/p/7bb7556bbe10)
+
 # 列表动画
 
 [RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
