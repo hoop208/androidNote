@@ -42,6 +42,8 @@
 
 [RecyclerView.ViewHolder - getLayoutPosition vs getAdapterPosition](/https://stackoverflow.com/questions/29684154/recyclerview-viewholder-getlayoutposition-vs-getadapterposition)
 
+[Android RecyclerView](https://segmentfault.com/a/1190000013314654)
+
 # 例子
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
