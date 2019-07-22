@@ -56,6 +56,8 @@
 
 [Android 开发规范（完结版）](https://juejin.im/post/5a24ec145188254dd9363b81)
 
+[用文字记录自己的编程人生](https://github.com/qingmei2/android-programming-profile)
+
 
 
 
