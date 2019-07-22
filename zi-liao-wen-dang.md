@@ -54,6 +54,8 @@
 
 [Android开发技术前线](https://github.com/hehonghui/android-tech-frontier)
 
+[Android 开发规范（完结版）](https://juejin.im/post/5a24ec145188254dd9363b81)
+
 
 
 
