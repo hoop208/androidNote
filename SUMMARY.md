@@ -13,7 +13,7 @@
   * [LinearLayout](xi-tong-api/linearlayout.md)
   * [ViewDragHelper](xi-tong-api/viewdraghelper.md)
   * [Recyclerview](source/recyclerview.md)
-    * [ItemDecoration](source/itemdecorationh.md)
+    * [ItemDecoration](source/recyclerview/itemdecorationh.md)
     * [recyclerview源码](source/recyclerview/yuan-ma.md)
     * [layoutmanager](source/recyclerview/layoutmanager.md)
     * [snaphelper](source/recyclerview/snaphelper.md)
