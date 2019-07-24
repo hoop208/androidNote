@@ -21,3 +21,7 @@
 
 [RecyclerView源码分析缓存机制](https://blog.jiahuan.me/2018/07/27/RecyclerView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/)
 
+[SnapHelper源码深度解析](http://www.jcodecraeer.com/a/anzhuokaifa/2018/1109/12472.html)
+
+
+
