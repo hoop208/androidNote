@@ -32,5 +32,11 @@
 
 [给 RecyclerView 加上折叠的效果](https://www.jianshu.com/p/7ddb265f6250)
 
+# 开源库
+
+[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
+
+
 
 
