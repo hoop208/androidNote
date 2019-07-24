@@ -1,7 +1,5 @@
 # 资料
 
-[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
-
 [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 
 # GreenDao
