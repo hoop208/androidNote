@@ -1,23 +1,3 @@
-[RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
-
-# LayoutManager
-
-[recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)
-
-[创建一个 RecyclerView LayoutManager – Part 1](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-9/%E5%88%9B%E5%BB%BA-RecyclerView-LayoutManager-Part-1.md)
-
-[创建 RecyclerView LayoutManager – Part 2](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-13/%E5%88%9B%E5%BB%BA-RecyclerView-LayoutManager-Part-2.md)
-
-[创建 RecyclerView LayoutManager – Part 3](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-13/%E5%88%9B%E5%BB%BA-RecyclerView-LayoutManager-Part-3.md)
-
-[RecyclerView自定义LayoutManager,打造不规则布局](https://blog.csdn.net/qibin0506/article/details/52676670)
-
-[看完让你直呼666的自定义LayoutManager之旅](http://www.10tiao.com/html/227/201810/2650244339/1.html)
-
-[打造属于你的LayoutManager](https://www.jianshu.com/p/08d998d047d8)
-
-[自定义LayoutManager 实现弧形以及滑动放大效果RecyclerView](https://www.jianshu.com/p/7bb7556bbe10)
-
 # 列表动画
 
 [RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
@@ -29,6 +9,8 @@
 [使用recyclerview优雅实现复杂列表](https://www.imooc.com/learn/731)
 
 # 博客
+
+[RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
 
 [【Android】RecyclerView的好伴侣：详解DiffUtil](https://blog.csdn.net/zxt0601/article/details/52562770)
 
