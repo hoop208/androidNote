@@ -26,7 +26,6 @@
   * [Recyclerview](xi-tong-api/recyclerview.md)
     * [资料](xi-tong-api/recyclerview/zi-liao.md)
     * [ItemDecoration](xi-tong-api/itemdecorationh.md)
-    * [人人效果](customview/人人效果.md)
     * [recyclerview源码](xi-tong-api/recyclerview/yuan-ma.md)
     * [SnapHelper](xi-tong-api/recyclerview/snaphelper.md)
   * [BottomSheet](xi-tong-api/bottomsheet.md)
