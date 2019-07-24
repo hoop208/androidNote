@@ -15,3 +15,5 @@
 [Android 开发者应该从 Java 转到 Kotlin 吗？谷歌告诉你](https://www.cnbeta.com/articles/tech/846583.htm)
 
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
+
+[Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
