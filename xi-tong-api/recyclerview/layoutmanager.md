@@ -19,6 +19,7 @@
 [10 steps to create a custom LayoutManager](https://medium.com/@v.danylo/10-steps-to-create-a-custom-layoutmanager-2f30ab2f979d)
 
 [Creating a custom LayoutManager](https://developer.inthepocket.mobi/2017/01/04/android-layoutmanager-part-1/)
+[Creating a custom LayoutManager (part 2)](https://developer.inthepocket.mobi/2017/01/16/android-layoutmanager-part-2/)
 
 
 
