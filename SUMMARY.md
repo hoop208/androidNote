@@ -2,7 +2,7 @@
 
 * [索引](README.md)
 * [自定义控件&动画](customview.md)
-* [sdk源码](xi-tong-api.md)
+* [sdk源码](sdk-source.md)
   * [Coordinatorlayout&AppBarlayout](source/Coordinatorlayout.md)
   * [source/FloatingActionButton](source/FloatingActionButton.md)
   * [source/SwipeRefreshLayout](source/SwipeRefreshLayout.md)
