@@ -24,7 +24,6 @@
   * [LinearLayout](xi-tong-api/linearlayout.md)
   * [ViewDragHelper](xi-tong-api/viewdraghelper.md)
   * [Recyclerview](xi-tong-api/recyclerview.md)
-    * [资料](xi-tong-api/recyclerview/zi-liao.md)
     * [ItemDecoration](xi-tong-api/itemdecorationh.md)
     * [recyclerview源码](xi-tong-api/recyclerview/yuan-ma.md)
     * [layoutmanager](xi-tong-api/recyclerview/layoutmanager.md)
