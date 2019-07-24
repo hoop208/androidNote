@@ -1,6 +1,6 @@
 # 参考 #
 
-[精通 Android Data Binding](https://github.com/LyndonChin/MasteringAndroidDataBinding)	
+
 
 # 点击事件 #
 
