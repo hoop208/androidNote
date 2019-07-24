@@ -1,3 +1,7 @@
+# 知识点
+
+[Deep Dive Into LayoutManager for RecyclerView](https://www.slideshare.net/hagikuratakeshi/deep-diveintolayoutmanager)
+
 # 自定义layoutmanager
 
 [recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)[](https://developer.inthepocket.mobi/2017/01/04/android-layoutmanager-part-1/)
