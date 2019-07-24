@@ -58,7 +58,7 @@
   * [ART](android-framework/art.md)
 * [应用构建](ying-yong-gou-jian.md)
 * [屏幕适配](zi-liao-shou-cang/ping-mu-shi-pei.md)
-* [系统UI](zi-liao-shou-cang/xi-tong-ui.md)
+* [系统UI](xi-tong-ui.md)
 * [各版本特性](xi-tong-xin-te-602726-shi-pei.md)
   * [Android O\(8.0\)](xi-tong-xin-te-602726-shi-pei/android-o80.md)
   * [md](xi-tong-xin-te-602726-shi-pei/md.md)
