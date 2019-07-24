@@ -1,14 +1,8 @@
-# 列表动画
-
-[RecyclerView 与 LayoutAnimation 实现的进入动画（一 ）: List](http://www.jcodecraeer.com/plus/view.php?aid=8348)
-
-[RecyclerView 与 LayoutAnimation 实现的进入动画（二 ）: Grid](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0819/8397.html)
-
 # 视频教程
 
 [使用recyclerview优雅实现复杂列表](https://www.imooc.com/learn/731)
 
-# 博客
+# 知识点
 
 [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
 

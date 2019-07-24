@@ -29,6 +29,7 @@
     * [recyclerview源码](xi-tong-api/recyclerview/yuan-ma.md)
     * [layoutmanager](xi-tong-api/recyclerview/layoutmanager.md)
     * [snaphelper](xi-tong-api/recyclerview/snaphelper.md)
+    * [列表动画](xi-tong-api/recyclerview/lie-biao-dong-hua.md)
   * [BottomSheet](xi-tong-api/bottomsheet.md)
   * [Media Player](xi-tong-api/media-player.md)
   * [NavigationView](xi-tong-api/navigationview.md)
