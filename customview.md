@@ -62,6 +62,8 @@
 
 [Android 手势检测实战 打造支持缩放平移的图片预览效果（下）](https://blog.csdn.net/lmj623565791/article/details/39480503)
 
+[自定义View：播放、暂停按钮优雅的过渡](https://www.jianshu.com/p/74f38e9b16fc)
+
 
 
 
