@@ -43,7 +43,6 @@
   * [webview](source/webview.md)
   * [LayoutInflator](source/layoutinflator.md)
 * [项目框架](kuang-jia.md)
-  * [databinding](databinding.md)
   * [google架构](googlejia-gou.md)
 * [多媒体开发](duo-mei-ti-kai-fa.md)
   * [camera开发](duo-mei-ti-kai-fa/camerakai-fa.md)
