@@ -36,5 +36,7 @@
 
 [五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面 简单&优雅：LayoutManager+ItemTouchHelper](https://blog.csdn.net/zxt0601/article/details/53730908)
 
+[给 RecyclerView 加上折叠的效果](https://www.jianshu.com/p/7ddb265f6250)
+
 
 
