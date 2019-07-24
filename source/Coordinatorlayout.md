@@ -8,9 +8,7 @@
 
 [一步步带你读懂 CoordinatorLayout 源码](https://blog.csdn.net/gdutxiaoxu/article/details/71616547)
 
-
 [CoordinatorLayout 完全解析](https://www.jianshu.com/p/4a77ae4cd82f)
-
 
 自定义behavior
 
