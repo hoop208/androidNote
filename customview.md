@@ -14,7 +14,7 @@
 
 [Android 所有动画系列详尽教程](https://github.com/OCNYang/Android-Animation-Set)
 
-# 博客
+# 自定义控件
 
 [Android Drawable 那些不为人知的高效用法](https://blog.csdn.net/lmj623565791/article/details/43752383)
 
