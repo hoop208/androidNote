@@ -20,6 +20,7 @@
 
 [Creating a custom LayoutManager](https://developer.inthepocket.mobi/2017/01/04/android-layoutmanager-part-1/)
 [Creating a custom LayoutManager (part 2)](https://developer.inthepocket.mobi/2017/01/16/android-layoutmanager-part-2/)
+[Creating a custom LayoutManager (part 3)](https://developer.inthepocket.mobi/2017/01/23/android-layoutmanager-part-3/)
 
 
 
