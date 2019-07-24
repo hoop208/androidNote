@@ -26,6 +26,8 @@
 
 [Android中MotionEvent的来源和ViewRootImpl](https://blog.csdn.net/singwhatiwanna/article/details/50775201)
 
+[重学安卓：学习 View 事件分发，就像外地人上了黑车](https://juejin.im/post/5d3140c951882565dd5a66ef)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
