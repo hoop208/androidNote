@@ -22,5 +22,9 @@
 [Creating a custom LayoutManager (part 2)](https://developer.inthepocket.mobi/2017/01/16/android-layoutmanager-part-2/)
 [Creating a custom LayoutManager (part 3)](https://developer.inthepocket.mobi/2017/01/23/android-layoutmanager-part-3/)
 
+# 源码
+
+[谈谈RecyclerView的LayoutManager－LinearLayoutManager源码分析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0922/6631.html)
+
 
 
