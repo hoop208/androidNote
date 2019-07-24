@@ -50,7 +50,6 @@
   * [音视频开发](duo-mei-ti-kai-fa/yin-shi-pin-kai-fa.md)
   * [图像处理](duo-mei-ti-kai-fa/tu-xiang-chu-li.md)
 * [开源项目](xiang-mu-xue-xi.md)
-  * [源码学习](xiang-mu-xue-xi/yuan-ma-xue-xi.md)
   * [Glide](xiang-mu-xue-xi/yuan-ma-xue-xi/glide.md)
   * [dagger2](dagger2.md)
   * [ButterKnife](xiang-mu-xue-xi/butterknife.md)
