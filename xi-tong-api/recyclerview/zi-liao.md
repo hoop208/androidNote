@@ -52,5 +52,7 @@
 
 [用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
 
+[五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面 简单&优雅：LayoutManager+ItemTouchHelper](https://blog.csdn.net/zxt0601/article/details/53730908)
+
 
 
