@@ -1,4 +1,6 @@
-# 源码分析 #
+# Coordinatorlayout
+
+源码分析
 
 [CoordinatorLayout 源码分析](https://github.com/desmond1121/AndroidSdkSourceAnalysis/blob/master/article/CoordinatorLayout%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 
@@ -6,7 +8,11 @@
 
 [一步步带你读懂 CoordinatorLayout 源码](https://blog.csdn.net/gdutxiaoxu/article/details/71616547)
 
-# 自定义behavior
+
+[CoordinatorLayout 完全解析](https://www.jianshu.com/p/4a77ae4cd82f)
+
+
+自定义behavior
 
 [Android高仿知乎首页Behavior](https://www.jianshu.com/p/2974d8ffc3a5)
 
@@ -16,7 +22,7 @@
 
 [针对 CoordinatorLayout 及 Behavior 的一次细节较真](https://frank909.blog.csdn.net/article/details/73076458)
 
-# 资料 #
+知识点
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
 
@@ -31,5 +37,3 @@
 [这是使用CoordinatorLayout打造 打造炫酷效果的例子](https://github.com/gdutxiaoxu/CoordinatorLayoutExample)
 
 [使用CoordinatorLayout打造一个炫酷的详情页](https://www.jianshu.com/p/5287d090e777)
-
-[CoordinatorLayout 完全解析](https://www.jianshu.com/p/4a77ae4cd82f)
