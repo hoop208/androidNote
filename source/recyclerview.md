@@ -32,6 +32,8 @@
 
 [给 RecyclerView 加上折叠的效果](https://www.jianshu.com/p/7ddb265f6250)
 
+[用RecyclerView做一个小清新的Gallery效果](https://juejin.im/post/5a30fe5a6fb9a045132ab1bf#heading-6)
+
 # 开源库
 
 [BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
