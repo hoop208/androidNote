@@ -44,4 +44,6 @@
 
 [无需自定义View，彻底解放shape，selector吧](https://juejin.im/post/5b9682ebe51d450e543e3495)
 
+[就算不去火星种土豆，也请务必掌握的 Android 状态管理最佳实践！](https://juejin.im/post/5d1a148e6fb9a07ea6488ba3)
+
 
