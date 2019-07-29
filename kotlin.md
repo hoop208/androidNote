@@ -21,3 +21,4 @@
 [快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&chksm=e8a05ec6dfd7d7d0691826a470e6d0f5de517e485d02082868d037b0fe6306683885e535b87a#rd)
 
 [用 Kotlin 开发 Android 项目是一种什么样的感受？](https://www.jianshu.com/p/8a1fce6fa93a)
+[用 Kotlin 开发 Android 项目是一种什么样的感受？（二）](https://www.jianshu.com/p/b444aea1b038)
