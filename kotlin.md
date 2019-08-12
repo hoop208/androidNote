@@ -26,3 +26,5 @@
 [用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips](https://github.com/heimashi/kotlin_tips?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [编写地道的 Kotlin 代码](https://droidyue.com/blog/2019/05/19/do-and-dont-in-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
