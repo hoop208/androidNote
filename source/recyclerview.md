@@ -36,6 +36,8 @@
 
 [【译】RecyclerView+ItemDecorations实现带指示器ViewPager效果](https://juejin.im/post/5a327b996fb9a0452936c936)
 
+[雕虫晓技(五) 网格分页布局源码解析(上)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-a)
+
 # 开源库
 
 [BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
