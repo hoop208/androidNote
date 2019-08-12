@@ -28,3 +28,5 @@
 [编写地道的 Kotlin 代码](https://droidyue.com/blog/2019/05/19/do-and-dont-in-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
