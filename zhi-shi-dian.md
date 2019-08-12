@@ -34,6 +34,8 @@
 
 [Android学习笔记之AndroidManifest.xml文件解析](https://www.cnblogs.com/pilang/archive/2011/04/20/2022932.html)
 
+[AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
+
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
