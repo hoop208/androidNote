@@ -24,6 +24,8 @@
 
 [聊聊 Material Design 里，阴影的那些事儿！](https://segmentfault.com/a/1190000011809297#articleHeader4)
 
+[Android Material Design 阴影实现](https://www.jianshu.com/p/bcbd0769e7ac)
+
 # svg
 
 [手把手教学， android 使用 SVG](https://www.jianshu.com/p/5c81970ddf33)
