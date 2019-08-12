@@ -2,8 +2,6 @@
 
 [Activity、View、Window的理解一篇文章就够了](https://juejin.im/entry/596329686fb9a06bc903b6fd)
 
-
-
 [重学安卓：Activity 的快乐你不懂！](https://juejin.im/post/5ce651d4f265da1bb13f0a5b)
 
 # 源码
