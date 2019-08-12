@@ -22,3 +22,5 @@
 
 [用 Kotlin 开发 Android 项目是一种什么样的感受？](https://www.jianshu.com/p/8a1fce6fa93a)
 [用 Kotlin 开发 Android 项目是一种什么样的感受？（二）](https://www.jianshu.com/p/b444aea1b038)
+
+[用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips](https://github.com/heimashi/kotlin_tips?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
