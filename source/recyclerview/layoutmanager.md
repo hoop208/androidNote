@@ -34,6 +34,8 @@
 
 [一个正六边形的RecyclerView](https://github.com/Vander-liu/HexagonRecyclerView)
 
+[把RecyclerView撸成 马 蜂 窝](https://www.jianshu.com/p/6c78a5a07db5)
+
 # 源码
 
 [谈谈RecyclerView的LayoutManager－LinearLayoutManager源码分析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0922/6631.html)
