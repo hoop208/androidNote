@@ -4,7 +4,7 @@
 
 # ripple
 
-
+[Android UI效果篇-（1）Ripple](https://www.jianshu.com/p/3339f0ebb335)
 
 # 知识点
 
