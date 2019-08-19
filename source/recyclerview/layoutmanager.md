@@ -32,6 +32,8 @@
 
 [如何利用 Android 自定义控件实现炫酷的动画？](https://mp.weixin.qq.com/s/aH8QuBJ5xX-N-1_iPDdlUQ)
 
+[一个正六边形的RecyclerView](https://github.com/Vander-liu/HexagonRecyclerView)
+
 # 源码
 
 [谈谈RecyclerView的LayoutManager－LinearLayoutManager源码分析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0922/6631.html)
