@@ -28,6 +28,8 @@
 
 [Android仿豆瓣书影音频道推荐表单堆叠列表RecyclerView-LayoutManager](https://blog.csdn.net/ccy0122/article/details/90515386)
 
+[Android自定义LayoutManager第十一式之飞龙在天](https://blog.csdn.net/u011387817/article/details/81875021)
+
 # 源码
 
 [谈谈RecyclerView的LayoutManager－LinearLayoutManager源码分析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0922/6631.html)
