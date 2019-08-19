@@ -30,3 +30,5 @@
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
+
+[使用Kotlin Reified 让泛型更简单安全](https://droidyue.com/blog/2019/07/28/kotlin-reified-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
