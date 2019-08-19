@@ -30,6 +30,8 @@
 
 [Android自定义LayoutManager第十一式之飞龙在天](https://blog.csdn.net/u011387817/article/details/81875021)
 
+[如何利用 Android 自定义控件实现炫酷的动画？](https://mp.weixin.qq.com/s/aH8QuBJ5xX-N-1_iPDdlUQ)
+
 # 源码
 
 [谈谈RecyclerView的LayoutManager－LinearLayoutManager源码分析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0922/6631.html)
