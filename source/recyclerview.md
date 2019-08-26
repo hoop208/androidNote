@@ -22,6 +22,8 @@
 
 [Android RecyclerView](https://segmentfault.com/a/1190000013314654)
 
+[RecyclerView配合DiffUtil，好用到飞](https://www.jianshu.com/p/b9af71778b0d)
+
 # 例子
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
