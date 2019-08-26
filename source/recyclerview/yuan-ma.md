@@ -22,6 +22,7 @@
 [RecyclerView源码分析缓存机制](https://blog.jiahuan.me/2018/07/27/RecyclerView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/)
 
 [RecyclerView的基本设计结构](https://github.com/SusionSuc/AdvancedAndroid/blob/master/AndroidFramework%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/recyclerview/RecyclerView%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AE%BE%E8%AE%A1%E7%BB%93%E6%9E%84.md)
+[RecyclerView的刷新机制](https://github.com/SusionSuc/AdvancedAndroid/blob/master/AndroidFramework%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/recyclerview/RecyclerView%E7%9A%84%E5%88%B7%E6%96%B0%E6%9C%BA%E5%88%B6.md)
 
 
 
