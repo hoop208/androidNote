@@ -14,8 +14,6 @@
 
 [基于Android Studio的内存泄漏检测与解决全攻略](https://wetest.qq.com/lab/view/?id=99)
 
-[带你学开源项目：LeakCanary- 如何检测 Activity 是否泄漏](http://wingjay.com/2017/05/14/dig_into_leakcanary/)
-
 # UI性能优化
 
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
