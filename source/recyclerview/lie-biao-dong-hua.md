@@ -9,3 +9,5 @@
 [深入理解 RecyclerView 系列之二：ItemAnimator](https://blog.piasy.com/2016/04/04/Insight-Android-RecyclerView-ItemAnimator/index.html)
 
 [自定义RecyclerView.ItemAnimator其实很简单（上）](https://www.jianshu.com/p/2a82b0341138)
+
+[自定义RecyclerView.ItemAnimator其实很简单（下）](https://www.jianshu.com/p/b9aef3597f2d)
