@@ -2,6 +2,8 @@
 
 [TextView源码解析](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
 
+[TextView 的新特性，Autosizing 到底是如何实现的？ | 源码分析](https://juejin.im/post/5a5cbe90518825732d7f9606#heading-4)
+
 # 知识点 #
 
 ViewTreeObserver:	简介:[http://www.cnblogs.com/xingfuzzhd/archive/2013/06/25/3154674.html](http://www.cnblogs.com/xingfuzzhd/archive/2013/06/25/3154674.html)
