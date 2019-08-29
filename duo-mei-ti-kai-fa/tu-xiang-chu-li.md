@@ -12,6 +12,8 @@
 
 [Android 高清加载巨图方案 拒绝压缩图片](https://blog.csdn.net/lmj623565791/article/details/49300989)
 
+[逻辑分辨率和物理分辨率到底是什么呀？](https://www.zhihu.com/question/40506180)
+
 # 阴影
 
 [给控件添加阴影效果与发光效果](https://blog.csdn.net/harvic880925/article/details/51818489)
