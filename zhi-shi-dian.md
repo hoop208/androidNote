@@ -4,8 +4,6 @@
 
 [微信、QQ、新浪微博等第三方登录，你想知道的都在这了（下）](https://www.jianshu.com/p/e2636421eba5)
 
-[Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
-
 # 注解
 
 [Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
