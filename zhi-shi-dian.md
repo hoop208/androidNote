@@ -46,3 +46,5 @@
 
 [Android开发：最详细的 Toolbar 开发实践总结](https://www.jianshu.com/p/79604c3ddcae)
 
+[Handle screen rotation without onConfigurationChanged](https://medium.com/@tuanchau/handling-screen-orientation-without-onconfigurationchanged-f747037355f4)
+
