@@ -41,6 +41,8 @@
 [雕虫晓技(五) 网格分页布局源码解析(上)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-a)
 [雕虫晓技(六) 网格分页布局源码解析(下)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-b)
 
+[Get Expandable RecyclerView In A Simple Way](https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573)
+
 # 开源库
 
 [BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
