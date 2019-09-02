@@ -22,6 +22,7 @@
 [Understanding RecyclerView Components. Part -2.](https://android.jlelse.eu/understanding-recyclerview-components-part-2-1fd43001a98f)
 [RecyclerView Implementation. Part — 3.1.](https://android.jlelse.eu/recyclerview-implementation-part-3-1-208641b2c8d0)
 [RecyclerView Implementation. Part — 3.2.](https://android.jlelse.eu/recyclerview-implementation-part-3-2-cc21b68dc3e3)
+[Part 4- Item Decorations in RecyclerView](https://android.jlelse.eu/part-4-item-decorations-in-recyclerview-133cd8c218bb)
 
 
 
