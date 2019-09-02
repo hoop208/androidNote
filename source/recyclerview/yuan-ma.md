@@ -25,6 +25,7 @@
 [Part 4- Item Decorations in RecyclerView](https://android.jlelse.eu/part-4-item-decorations-in-recyclerview-133cd8c218bb)
 
 [Anatomy of RecyclerView: a Search for a ViewHolder](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
+[Anatomy of RecyclerView: a Search for a ViewHolder (continued)](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-continued-d81c631a2b91)
 
 
 
