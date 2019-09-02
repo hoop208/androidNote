@@ -20,6 +20,7 @@
 
 [Understanding RecyclerView. A high-level Insight. Part -1.](https://android.jlelse.eu/understanding-recyclerview-a-high-level-insight-part-1-dc3f81af5720)
 [Understanding RecyclerView Components. Part -2.](https://android.jlelse.eu/understanding-recyclerview-components-part-2-1fd43001a98f)
+[RecyclerView Implementation. Part — 3.1.](https://android.jlelse.eu/recyclerview-implementation-part-3-1-208641b2c8d0)
 
 
 
