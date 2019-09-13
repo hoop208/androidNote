@@ -1,7 +1,3 @@
-# 视频教程
-
-[架构组件之 ViewModel 介绍](https://www.youtube.com/watch?v=mpO-aEXhX78)
-
 # 项目地址
 
 [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
