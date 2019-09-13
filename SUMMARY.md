@@ -45,6 +45,7 @@
 * [项目框架](kuang-jia.md)
   * [google架构](googlejia-gou.md)
   * [databinding](databinding.md)
+  * [Android架构组件](androidjia-gou-zu-jian.md)
 * [多媒体开发](duo-mei-ti-kai-fa.md)
   * [camera开发](duo-mei-ti-kai-fa/camerakai-fa.md)
   * [音视频开发](duo-mei-ti-kai-fa/yin-shi-pin-kai-fa.md)
