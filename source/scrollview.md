@@ -1,12 +1,18 @@
 # Scrollview
 
-[ScrollView 源码解析](https://github.com/Skykai521/AndroidSdkSourceAnalysis/blob/master/article/ScrollView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+使用:
 
 [滑动速度跟踪类VelocityTracker介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1117/574.html)
 
 [菜鸟教程-scrollview](http://www.runoob.com/w3cnote/android-tutorial-scrollview.html)
 
+源码:
+
+[ScrollView 源码解析](https://github.com/Skykai521/AndroidSdkSourceAnalysis/blob/master/article/ScrollView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+
 [android:focusableInTouchMode为什么能解决ScrollView自动滚动的原理分析](https://segmentfault.com/a/1190000011509975)
+
+[ScrollView源码分析](https://www.jianshu.com/p/c3ed4253f87e)
 
 # Scroller
 
