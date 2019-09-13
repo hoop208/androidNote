@@ -6,6 +6,8 @@
 
 [菜鸟教程-scrollview](http://www.runoob.com/w3cnote/android-tutorial-scrollview.html)
 
+[Android VelocityTracker获取滑动速度](https://www.jianshu.com/p/e77704b59379)
+
 源码:
 
 [ScrollView 源码解析](https://github.com/Skykai521/AndroidSdkSourceAnalysis/blob/master/article/ScrollView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
