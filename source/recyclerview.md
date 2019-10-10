@@ -29,6 +29,7 @@
 [Android RecyclerView下拉刷新 & 上拉加载更多](https://www.jianshu.com/p/b502c5b59998)
 
 [Improving scrolling behavior of nested RecyclerViews - Part 1](/Improving scrolling behavior of nested RecyclerViews - Part 1)
+[Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)
 
 # 例子
 
