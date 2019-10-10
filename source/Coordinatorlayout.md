@@ -46,6 +46,8 @@
 
 [AppBarLayout v26+抖动BugFix](https://www.jianshu.com/p/2924f32e8c22)
 
+[CoordinatorLayout滑动抖动问题](https://juejin.im/post/5cfdfc74518825063257e5a2)
+
 源码:
 
 [关于CoordinatorLayout AppBarLayout原理的一些分析](https://www.jianshu.com/p/cef61247fd30)
