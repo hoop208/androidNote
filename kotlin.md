@@ -37,3 +37,5 @@
 [Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
 
 [使用Kotlin Reified 让泛型更简单安全](https://droidyue.com/blog/2019/07/28/kotlin-reified-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
