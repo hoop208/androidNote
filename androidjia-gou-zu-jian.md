@@ -8,6 +8,8 @@
 
 [【译】Google官方推出的Android架构组件系列文章](https://www.jianshu.com/p/fe509262a1f7)
 
+[学习Android Jetpack? 实战和教程这里全都有！](https://juejin.im/post/5d2be05ff265da1bd605d49a)
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
