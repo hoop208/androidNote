@@ -10,8 +10,7 @@
 
 [学习Android Jetpack? 实战和教程这里全都有！](https://juejin.im/post/5d2be05ff265da1bd605d49a)
 
-[争取打造 Android Jetpack 讲解的最好的博客系列：
-](https://juejin.im/post/5c53beaf51882562e27e5ad9)
+[争取打造 Android Jetpack 讲解的最好的博客系列：](https://juejin.im/post/5c53beaf51882562e27e5ad9)
 
 # Room
 
