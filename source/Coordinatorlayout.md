@@ -48,6 +48,8 @@
 
 [CoordinatorLayout滑动抖动问题](https://juejin.im/post/5cfdfc74518825063257e5a2)
 
+[Carry on Scrolling](https://chris.banes.dev/2017/06/09/carry-on-scrolling/)
+
 源码:
 
 [关于CoordinatorLayout AppBarLayout原理的一些分析](https://www.jianshu.com/p/cef61247fd30)
