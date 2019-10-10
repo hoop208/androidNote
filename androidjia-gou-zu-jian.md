@@ -34,3 +34,7 @@
 
 [精通 Android Data Binding](https://github.com/LyndonChin/MasteringAndroidDataBinding)	
 
+# LifeCycle
+
+[Android官方架构组件介绍之LifeCycle](https://www.jianshu.com/p/acf8c55533f1)
+
