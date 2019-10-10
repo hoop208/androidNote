@@ -22,6 +22,8 @@
 
 [Google 官方推出应用开发架构指南](https://juejin.im/entry/5922637b128fe1005c2ce6be)
 
+[Android 架构组件 - 让天下没有难做的 App](https://mp.weixin.qq.com/s/-2z7lAGQ3GeSqFfkPGPWNA)
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
