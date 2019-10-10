@@ -4,6 +4,8 @@
 
 [BottomSheet、BottomSheetDialog使用详解](https://www.jianshu.com/p/0a7383e0ad0f)
 
+[BottomNavigationView--基本使用总结](https://www.jianshu.com/p/aa499cc64f72)
+
 # 源码解析
 
 [BottomSheets源码解析](https://github.com/android-cjj/SourceAnalysis)
