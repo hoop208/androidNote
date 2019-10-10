@@ -39,3 +39,5 @@
 [使用Kotlin Reified 让泛型更简单安全](https://droidyue.com/blog/2019/07/28/kotlin-reified-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
+
+[在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
