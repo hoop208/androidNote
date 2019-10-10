@@ -20,6 +20,8 @@
 
 [Android 应用架构组件（Architecture Components）实践](https://lijiankun24.com/Android-%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E7%BB%84%E4%BB%B6%EF%BC%88Architecture-Components%EF%BC%89%E5%AE%9E%E8%B7%B5/)
 
+[Google 官方推出应用开发架构指南](https://juejin.im/entry/5922637b128fe1005c2ce6be)
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
