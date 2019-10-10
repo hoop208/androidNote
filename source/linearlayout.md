@@ -9,3 +9,4 @@
 [Android 8.0 LinearLayout 源码解析](https://www.jianshu.com/p/1fa113b7ff64)
 
 [你对LinearLayout到底有多少了解？（一）-属性篇](https://www.jianshu.com/p/650c3fd7e6ab)
+[你对LinearLayout到底有多少了解？（二）-源码篇](https://www.jianshu.com/p/43d49b7d2ad2)
