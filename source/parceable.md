@@ -6,3 +6,5 @@
 
 [详细介绍Android中Parcelable的原理和使用方法](https://www.jianshu.com/p/32a2ec8f35ae)
 
+[Android Parcelable 源码解析](http://www.manongjc.com/article/62792.html)
+
