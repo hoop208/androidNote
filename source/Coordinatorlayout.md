@@ -44,6 +44,8 @@
 
 [玩转AppBarLayout，更酷炫的顶部栏](https://www.jianshu.com/p/d159f0176576)
 
+[AppBarLayout v26+抖动BugFix](https://www.jianshu.com/p/2924f32e8c22)
+
 源码:
 
 [关于CoordinatorLayout AppBarLayout原理的一些分析](https://www.jianshu.com/p/cef61247fd30)
