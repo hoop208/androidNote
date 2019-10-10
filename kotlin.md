@@ -20,6 +20,7 @@
 
 # 博客
 
+[Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
 
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
 
