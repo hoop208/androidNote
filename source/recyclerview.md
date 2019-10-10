@@ -28,6 +28,8 @@
 
 [Android RecyclerView下拉刷新 & 上拉加载更多](https://www.jianshu.com/p/b502c5b59998)
 
+[Improving scrolling behavior of nested RecyclerViews - Part 1](/Improving scrolling behavior of nested RecyclerViews - Part 1)
+
 # 例子
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
