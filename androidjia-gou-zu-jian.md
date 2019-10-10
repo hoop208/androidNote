@@ -10,6 +10,9 @@
 
 [学习Android Jetpack? 实战和教程这里全都有！](https://juejin.im/post/5d2be05ff265da1bd605d49a)
 
+[争取打造 Android Jetpack 讲解的最好的博客系列：
+](https://juejin.im/post/5c53beaf51882562e27e5ad9)
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
