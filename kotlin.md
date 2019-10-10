@@ -41,3 +41,5 @@
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
 
 [在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
+
+[Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
