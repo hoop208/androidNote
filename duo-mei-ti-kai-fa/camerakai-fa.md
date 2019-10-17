@@ -6,6 +6,8 @@
 
 [Android平台Camera开发实践指南](https://juejin.im/post/5a33a5106fb9a04525782db5)
 
+[Android: Camera相机开发详解(上) —— 知识储备](https://www.jianshu.com/p/f8d0d1467584)
+
 **视频教程**
 
 [ndroid摄像头基础](http://www.imooc.com/learn/543)
