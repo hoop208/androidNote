@@ -14,6 +14,8 @@
 
 [逻辑分辨率和物理分辨率到底是什么呀？](https://www.zhihu.com/question/40506180)
 
+[Android 视图圆角化处理方案](https://www.jianshu.com/p/b24683e29aff?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 阴影
 
 [给控件添加阴影效果与发光效果](https://blog.csdn.net/harvic880925/article/details/51818489)
