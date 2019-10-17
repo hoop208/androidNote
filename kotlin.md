@@ -47,3 +47,4 @@
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
 [14 Kotlin 与 Java 共存(1)](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483689&idx=1&sn=3fc3a9eb09dfcb3f81aabc71dbd431db&scene=19#wechat_redirect)
+[15 Kotlin 与 Java 共存 (2)](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483692&idx=1&sn=5f1f5f1d8b6279c95e97c5170568087c&scene=19#wechat_redirect)
