@@ -17,10 +17,6 @@
 [用 Kotlin 开发 Android 项目是一种什么样的感受？](https://www.jianshu.com/p/8a1fce6fa93a)
 [用 Kotlin 开发 Android 项目是一种什么样的感受？（二）](https://www.jianshu.com/p/b444aea1b038)
 
-# 项目学习
-
-[gank.io kotlin实现的干货集中营Android客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3](https://github.com/githubwing/GankClient-Kotlin)
-
 # 博客
 
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
