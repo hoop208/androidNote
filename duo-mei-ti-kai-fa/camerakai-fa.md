@@ -9,6 +9,7 @@
 [Android: Camera相机开发详解(上) —— 知识储备](https://www.jianshu.com/p/f8d0d1467584)
 [Android: Camera相机开发详解(中) ——实现预览、拍照、保存照片等功能](https://www.jianshu.com/p/e20a2ad6ad9a)
 [Android: Camera相机开发详解(下) —— 实现人脸检测功能](https://www.jianshu.com/p/3bb301c302e8)
+[Android:Camera2开发详解(上)：实现预览、拍照、保存照片等功能](https://www.jianshu.com/p/0ea5e201260f)
 
 **视频教程**
 
