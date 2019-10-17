@@ -38,3 +38,5 @@
 
 [Android官方架构组件介绍之LifeCycle](https://www.jianshu.com/p/acf8c55533f1)
 
+[Android 架构组件之 LifeCycle详](https://segmentfault.com/a/1190000015117758)
+
