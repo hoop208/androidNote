@@ -25,6 +25,7 @@
 [Android 架构组件 - 让天下没有难做的 App](https://mp.weixin.qq.com/s/-2z7lAGQ3GeSqFfkPGPWNA)
 
 [Android 应用架构新时代来临! | 开发者说·DTalk](https://mp.weixin.qq.com/s/O97QOlZF1LtMfta_l8JE0A)
+[【AAC 系列二】深入理解架构组件的基石：Lifecycle](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872556&idx=1&sn=6734027d9ca7e4db67fdbad657f7c862&scene=19#wechat_redirect)
 
 # Room
 
