@@ -43,6 +43,8 @@
 
 [Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
 
+[Kotlin 对象与 object 关键字](https://zhuanlan.zhihu.com/p/27183266)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
