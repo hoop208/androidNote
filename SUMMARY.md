@@ -46,7 +46,6 @@
   * [google架构示例](googlejia-gou.md)
   * [Android架构组件](androidjia-gou-zu-jian.md)
 * [多媒体开发](duo-mei-ti-kai-fa.md)
-  * [音视频开发](duo-mei-ti-kai-fa/yin-shi-pin-kai-fa.md)
   * [图像处理](duo-mei-ti-kai-fa/tu-xiang-chu-li.md)
 * [开源项目](open-source-project.md)
   * [Glide](open-source-project/glide.md)
