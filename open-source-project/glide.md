@@ -7,3 +7,7 @@
 # 源码
 
 [glide源码详解](http://www.10tiao.com/html/169/201704/2650822526/1.html)
+
+# 视频教程
+
+[90分钟了解Glide框架核心原理并手写实现](https://study.163.com/course/courseLearn.htm?courseId=1209536826#/learn/live?lessonId=1279800978&courseId=1209536826)
