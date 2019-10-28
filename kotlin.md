@@ -52,3 +52,4 @@
 [15 Kotlin 与 Java 共存 (2)](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483692&idx=1&sn=5f1f5f1d8b6279c95e97c5170568087c&scene=19#wechat_redirect)
 [勘误：15 Kotlin 与 Java 共存 (2)](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483875&idx=3&sn=8f6a6446d73c1c7bf8c50414b2f228d9&scene=19#wechat_redirect)
 [Kotlin 如何优雅的实现『多继承』](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483696&idx=1&sn=dd2fd438e255c3ce1e7121057e879623&scene=19#wechat_redirect)
+[如何正确终止 forEach](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483942&idx=1&sn=a6758e1033dd2ed31ef455d7738f86f1&scene=19#wechat_redirect)
