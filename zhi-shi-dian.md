@@ -48,3 +48,5 @@
 
 [Handle screen rotation without onConfigurationChanged](https://medium.com/@tuanchau/handling-screen-orientation-without-onconfigurationchanged-f747037355f4)
 
+[Android应用截图两种方法](https://blog.csdn.net/jokers_i/article/details/39549633)
+
