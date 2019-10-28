@@ -64,9 +64,5 @@
 
 [BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
-# 视频教程
-
-
-
 
 
