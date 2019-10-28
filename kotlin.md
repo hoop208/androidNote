@@ -54,3 +54,4 @@
 [Kotlin 如何优雅的实现『多继承』](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483696&idx=1&sn=dd2fd438e255c3ce1e7121057e879623&scene=19#wechat_redirect)
 [如何正确终止 forEach](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483942&idx=1&sn=a6758e1033dd2ed31ef455d7738f86f1&scene=19#wechat_redirect)
 [forEach也能break和continue](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483944&idx=1&sn=8396632dc1c157c136a611d2d72d5802&scene=19#wechat_redirect)
+[为什么不直接使用 Array<Int> 而是 IntArray ？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483762&idx=1&sn=c553cdd4b0bccd59e530a9f231037d73&scene=19#wechat_redirect)
