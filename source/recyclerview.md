@@ -64,5 +64,7 @@
 
 [RecyclerView ins and outs - Google I/O 2016](https://www.youtube.com/watch?v=LqBlYJTfLP4)
 
+[Mastering RecyclerView Layouts](https://www.bilibili.com/video/av24560930?from=search&seid=3815880888118546052)
+
 
 
