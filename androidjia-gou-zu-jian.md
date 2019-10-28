@@ -49,4 +49,5 @@
 # ViewModel
 
 [Android 生命周期备忘录 — 第一部分：单一 Activities](https://github.com/xitu/gold-miner/blob/master/TODO/the-android-lifecycle-cheat-sheet-part-i-single-activities.md)
+[Android 生命周期备忘录 — 第二部分：多 Activity](https://github.com/xitu/gold-miner/blob/master/TODO1/The-Android-Lifecycle-cheat-sheet-part-II-Multiple-activities.md)
 
