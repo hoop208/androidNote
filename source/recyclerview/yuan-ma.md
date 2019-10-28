@@ -16,8 +16,6 @@
 
 [使用RecyclerView实现多行水平分页的GridView效果和ViewPager效果](https://blog.csdn.net/u014165119/article/details/46834265)
 
-[RecyclerView源码分析缓存机制](https://blog.jiahuan.me/2018/07/27/RecyclerView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/)
-
 [Understanding RecyclerView. A high-level Insight. Part -1.](https://android.jlelse.eu/understanding-recyclerview-a-high-level-insight-part-1-dc3f81af5720)
 [Understanding RecyclerView Components. Part -2.](https://android.jlelse.eu/understanding-recyclerview-components-part-2-1fd43001a98f)
 [RecyclerView Implementation. Part — 3.1.](https://android.jlelse.eu/recyclerview-implementation-part-3-1-208641b2c8d0)
@@ -30,6 +28,8 @@
 # 缓存机制
 
 [Android ListView 与 RecyclerView 对比浅析--缓存机制](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578065&idx=2&sn=25e64a8bb7b5934cf0ce2e49549a80d6&chksm=84b3b156b3c43840061c28869671da915a25cf3be54891f040a3532e1bb17f9d32e244b79e3f&scene=21#wechat_redirect)
+
+[RecyclerView源码分析缓存机制](https://blog.jiahuan.me/2018/07/27/RecyclerView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/)
 
 
 
