@@ -44,3 +44,5 @@
 
 [Android 架构组件之 LifeCycle详](https://segmentfault.com/a/1190000015117758)
 
+[Android-Lifecycle超能解析-生命周期的那些事](https://segmentfault.com/a/1190000016443108)
+
