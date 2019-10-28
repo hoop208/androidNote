@@ -2,6 +2,10 @@
 
 [使用recyclerview优雅实现复杂列表](https://www.imooc.com/learn/731)
 
+[RecyclerView ins and outs - Google I/O 2016](https://www.youtube.com/watch?v=LqBlYJTfLP4)
+
+[Mastering RecyclerView Layouts](https://www.bilibili.com/video/av24560930?from=search&seid=3815880888118546052)
+
 # 知识点
 
 [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
@@ -62,9 +66,7 @@
 
 # 视频教程
 
-[RecyclerView ins and outs - Google I/O 2016](https://www.youtube.com/watch?v=LqBlYJTfLP4)
 
-[Mastering RecyclerView Layouts](https://www.bilibili.com/video/av24560930?from=search&seid=3815880888118546052)
 
 
 
