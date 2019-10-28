@@ -31,6 +31,8 @@
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)
 
+[How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged()](https://medium.com/@hanru.yeh/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2)
+
 # 例子
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
