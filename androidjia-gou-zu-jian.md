@@ -46,3 +46,7 @@
 
 [Android-Lifecycle超能解析-生命周期的那些事](https://segmentfault.com/a/1190000016443108)
 
+# ViewModel
+
+[Android 生命周期备忘录 — 第一部分：单一 Activities](https://github.com/xitu/gold-miner/blob/master/TODO/the-android-lifecycle-cheat-sheet-part-i-single-activities.md)
+
