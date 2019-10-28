@@ -35,6 +35,8 @@
 
 [Optimizing Nested RecyclerView](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
 
+[安卓易学，爬坑不易—腾讯老司机的RecyclerView局部刷新爬坑之路](https://wetest.qq.com/lab/view/176.html?from=content_zhihuzhuanlan)
+
 # 例子
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
