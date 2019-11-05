@@ -50,3 +50,5 @@
 
 [Android应用截图两种方法](https://blog.csdn.net/jokers_i/article/details/39549633)
 
+[分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
+
