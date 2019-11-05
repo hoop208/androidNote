@@ -24,6 +24,8 @@
 
 [从源码角度深入探寻Scroller的奥秘](https://blog.csdn.net/IT_XF/article/details/83344780)
 
+[Android应用开发Scroller详解及源码浅析](https://blog.csdn.net/yanbober/article/details/49904715)
+
 知识点
 
 [Android Scroller实现view弹性滑动完全解析:](https://www.jianshu.com/p/9419262a342a)
