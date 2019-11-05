@@ -61,3 +61,7 @@
 [Kotlin Primer·第四章 类与对象](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=4&sn=285836beed2463957b899ec214b6b0e5&scene=19#wechat_redirect)
 [Kotlin Primer·第五章·函数与闭包](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=5&sn=f9576d6c5d3d874d03a4ece12613290c&scene=19#wechat_redirect)
 [Kotlin Primer·第六章·集合泛型与操作符](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483994&idx=2&sn=8df5597ceafedf69c3c9ef19ad4dbda3&scene=19#wechat_redirect)
+
+# kotlin基础系列博客
+
+[解毒 Kotlin Koans: 01 Introduction/HelloWorld](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484026&idx=1&sn=57adfa855219dd12311bf1991e873b1b&scene=19#wechat_redirect)
