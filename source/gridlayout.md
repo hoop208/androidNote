@@ -7,3 +7,5 @@
 [Android Grid Layout](https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2)
 
 [GridLayout 使用总结](https://www.jianshu.com/p/2488847f9013)
+
+[GridLayout使用要点总结](https://www.jianshu.com/p/441d60be7d8a)
