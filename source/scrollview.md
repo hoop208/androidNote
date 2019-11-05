@@ -32,6 +32,8 @@
 
 [让控件如此丝滑Scroller和VelocityTracker的API讲解与实战——Android高级UI](https://juejin.im/post/5c7f4f0351882562ed516ab6)
 
+[不再迷惑，也许之前你从未真正懂得 Scroller 及滑动机制](https://frank909.blog.csdn.net/article/details/73441698)
+
 [Android Scroll详解(一)：基础知识](https://segmentfault.com/a/1190000004701959)
 [Android Scroll详解(二)：OverScroller实战](https://segmentfault.com/a/1190000004890728)
 [Android Scroll详解(三)：Android 绘制过程详解](https://segmentfault.com/a/1190000004982933)
