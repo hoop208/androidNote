@@ -58,3 +58,4 @@
 [Kotlin Primer · 第一章 · 启程](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=1&sn=723d0a669c3769597cd105a8ffbadf60&scene=19#wechat_redirect)
 [Kotlin Primer·第二章·基本语法](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=2&sn=3fd45473c4e47221dd0fc3b46e426008&scene=19#wechat_redirect)
 [Kotlin Primer·第三章·Kotlin 与 Java 混编](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=3&sn=84488d831c2106db70b660aa46d44392&scene=19#wechat_redirect)
+[Kotlin Primer·第四章 类与对象](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=4&sn=285836beed2463957b899ec214b6b0e5&scene=19#wechat_redirect)
