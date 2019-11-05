@@ -2,6 +2,8 @@
 
 [APP性能优化之内存优化](https://www.imooc.com/learn/777)
 
+[布局渲染流程和原理](https://study.163.com/course/courseLearn.htm?courseId=1209536826#/learn/live?lessonId=1279818002&courseId=1209536826)
+
 # 内存泄漏
 
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
