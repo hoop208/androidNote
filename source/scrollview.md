@@ -32,6 +32,7 @@
 
 [Android Scroll详解(一)：基础知识](https://segmentfault.com/a/1190000004701959)
 [Android Scroll详解(二)：OverScroller实战](https://segmentfault.com/a/1190000004890728)
+[Android Scroll详解(三)：Android 绘制过程详解](https://segmentfault.com/a/1190000004982933)
 
 # OverScroller
 
