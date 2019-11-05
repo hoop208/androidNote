@@ -65,3 +65,4 @@
 # kotlin基础系列博客
 
 [解毒 Kotlin Koans: 01 Introduction/HelloWorld](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484026&idx=1&sn=57adfa855219dd12311bf1991e873b1b&scene=19#wechat_redirect)
+[解毒 Kotlin Koans: 02 震惊！你的 Java 代码居然被转换成了这样...](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484031&idx=1&sn=c6b18d505a264fa85bb933a8faca1a66&scene=19#wechat_redirect)
