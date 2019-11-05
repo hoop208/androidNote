@@ -5,3 +5,5 @@
 [GridLayout in Android](https://developer.samsung.com/galaxy/others/gridlayout-in-android)
 
 [Android Grid Layout](https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2)
+
+[GridLayout 使用总结](https://www.jianshu.com/p/2488847f9013)
