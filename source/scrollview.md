@@ -30,6 +30,8 @@
 
 [Android Scroller完全解析，关于Scroller你所需知道的一切:](http://blog.csdn.net/guolin_blog/article/details/48719871)
 
+[让控件如此丝滑Scroller和VelocityTracker的API讲解与实战——Android高级UI](https://juejin.im/post/5c7f4f0351882562ed516ab6)
+
 [Android Scroll详解(一)：基础知识](https://segmentfault.com/a/1190000004701959)
 [Android Scroll详解(二)：OverScroller实战](https://segmentfault.com/a/1190000004890728)
 [Android Scroll详解(三)：Android 绘制过程详解](https://segmentfault.com/a/1190000004982933)
