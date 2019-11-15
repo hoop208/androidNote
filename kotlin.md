@@ -47,6 +47,8 @@
 
 [Kotlin中常量的探究](https://droidyue.com/blog/2017/11/05/dive-into-kotlin-constants/)
 
+[Kotlin 中如何定义常量](https://jiacheng.site/post/2017/04/11/define-constant-in-kotlin/)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
