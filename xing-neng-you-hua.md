@@ -53,3 +53,5 @@
 [Android性能调优利器StrictMode](https://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
 
 [弱网下移动端网络连接处理策略](https://segmentfault.com/a/1190000006733978)
+
+[android app性能优化系列笔记](https://www.jianshu.com/p/f7006ab64da7)
