@@ -52,3 +52,5 @@
 
 [分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
 
+[rtl应用适配](https://mp.weixin.qq.com/s/n0uetc2lCzuu14p6ME2tOQ)
+
