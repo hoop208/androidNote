@@ -53,6 +53,8 @@
 
 [Kotlin干掉了findViewById，但用不好也会有性能问题](https://mp.weixin.qq.com/s/z1yEzR9rqUrTMLulxvWjqw)
 
+[Kotlin重载个方法，还有两幅面孔，省代码的同时也带来一个深坑 | Kotlin 原理](https://mp.weixin.qq.com/s/XaN-Nd6_adLL2ZKfEuMvtw)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
