@@ -51,6 +51,8 @@
 
 [Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
 
+[Kotlin干掉了findViewById，但用不好也会有性能问题](https://mp.weixin.qq.com/s/z1yEzR9rqUrTMLulxvWjqw)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
