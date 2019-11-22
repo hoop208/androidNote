@@ -41,6 +41,8 @@
 
 [安卓易学，爬坑不易—腾讯老司机的RecyclerView局部刷新爬坑之路](https://wetest.qq.com/lab/view/176.html?from=content_zhihuzhuanlan)
 
+[RecyclerView Optimisations](https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d)
+
 # 例子
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
