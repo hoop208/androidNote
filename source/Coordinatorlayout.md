@@ -26,6 +26,8 @@
 
 [Scrolling Behavior for Appbars in Android](https://android.jlelse.eu/scrolling-behavior-for-appbars-in-android-41aff9c5c468)
 
+[An sticky button with CoordinatorLayout Behaviors](https://medium.com/androidxx/an-sticky-button-with-coordinatorlayout-behaviors-bb16b03de4d8)
+
 使用
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
