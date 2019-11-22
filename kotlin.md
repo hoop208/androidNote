@@ -82,3 +82,4 @@
 [== 与 equals 居然结果不一样！](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484386&idx=1&sn=bbe950af0fa7aeae9efcbfca8a530d27&scene=19#wechat_redirect)
 [还在被数据类的序列化折磨？是时候丢弃 Gson 了](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484222&idx=1&sn=6cecba6bec4ef545bbe1c4527f6f1bbd&scene=19#wechat_redirect)
 [也许你需要这个为数据类生成 DeepCopy 方法的库](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484313&idx=1&sn=77c3a16e85b5083e2cbe82a1f0c16d85&scene=19#wechat_redirect)
+[小心，在数据类当中用 Lazy 要谨慎！](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484114&idx=1&sn=2cc8d0cb1c6cfb19802f00da4c595536&scene=19#wechat_redirect)
