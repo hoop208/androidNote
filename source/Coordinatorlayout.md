@@ -42,6 +42,8 @@
 
 [Intercepting everything with CoordinatorLayout Behaviors](https://medium.com/androiddevelopers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26)
 
+[Simple view dodging with CoordinatorLayout](https://medium.com/@rusinikita/simple-view-dodging-with-coordinatorlayout-f13cc32e0de6)
+
 # AppBarlayout
 
 使用
