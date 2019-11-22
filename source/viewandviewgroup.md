@@ -28,6 +28,8 @@
 
 [重学安卓：学习 View 事件分发，就像外地人上了黑车](https://juejin.im/post/5d3140c951882565dd5a66ef)
 
+[安卓基础：事件传递及滑动冲突的处理](https://blog.piasy.com/2017/02/12/Android-Basics-Touch-Event-System-Touch-Conflict/index.html)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
