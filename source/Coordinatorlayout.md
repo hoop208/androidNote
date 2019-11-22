@@ -38,6 +38,8 @@
 
 [使用CoordinatorLayout打造一个炫酷的详情页](https://www.jianshu.com/p/5287d090e777)
 
+[Intercepting everything with CoordinatorLayout Behaviors](https://medium.com/androiddevelopers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26)
+
 # AppBarlayout
 
 使用
