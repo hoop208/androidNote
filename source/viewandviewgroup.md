@@ -32,6 +32,8 @@
 
 [可能是讲解Android事件分发最好的文章](https://www.jianshu.com/p/2be492c1df96)
 
+[Andriod 从源码的角度详解View,ViewGroup的Touch事件的分发机制](https://blog.csdn.net/xiaanming/article/details/21696315)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
