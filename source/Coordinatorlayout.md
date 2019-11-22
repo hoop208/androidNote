@@ -22,7 +22,9 @@
 
 [Android CoordinatorLayout之自定义Behavior](https://www.jianshu.com/p/b987fad8fcb4)
 
-知识点
+[CoordinatorLayout.Behavior Basic](https://medium.com/@zoha131/coordinatorlayout-behavior-basic-fd9c10d3c6e3)
+
+使用
 
 [关于CoordinatorLayout与Behavior的一点分析](https://www.jianshu.com/p/a506ee4afecb)
 
