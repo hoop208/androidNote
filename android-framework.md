@@ -6,6 +6,8 @@
 
 [BeesAndroid](https://github.com/BeesX/BeesAndroid)
 
+[深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
+
 # android系统源代码情景分析
 
 [《老罗的Android之旅》导读PPT](https://blog.csdn.net/Luoshengyang/article/details/12957169)
