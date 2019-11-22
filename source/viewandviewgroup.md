@@ -30,6 +30,8 @@
 
 [安卓基础：事件传递及滑动冲突的处理](https://blog.piasy.com/2017/02/12/Android-Basics-Touch-Event-System-Touch-Conflict/index.html)
 
+[可能是讲解Android事件分发最好的文章](https://www.jianshu.com/p/2be492c1df96)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
