@@ -55,6 +55,8 @@
 
 [Kotlin重载个方法，还有两幅面孔，省代码的同时也带来一个深坑 | Kotlin 原理](https://mp.weixin.qq.com/s/XaN-Nd6_adLL2ZKfEuMvtw)
 
+[Kotlin使用技巧之接口与命名参数的优雅运用](https://www.jianshu.com/p/ac752487fd71?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
