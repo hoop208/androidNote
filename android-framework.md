@@ -19,3 +19,5 @@
 [完全理解 Android 中的 RemoteViews](https://juejin.im/entry/578ef709c4c971005e0b3251)
 
 [android的窗口机制分析------ViewRoot类](https://blog.csdn.net/windskier/article/details/6957901)
+
+[Android输入系统的事件传递流程和IMS的诞生](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843048&idx=1&sn=816b7ebf3e5301af44167130445d98ad&chksm=83bf6c33b4c8e52556e77b3a12b9a1d1a1b48a9bb6dc7ccb8800d79fc8315f3981db3299b942&scene=21#wechat_redirect)
