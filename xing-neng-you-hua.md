@@ -55,3 +55,5 @@
 [弱网下移动端网络连接处理策略](https://segmentfault.com/a/1190000006733978)
 
 [android app性能优化系列笔记](https://www.jianshu.com/p/f7006ab64da7)
+
+[Android 性能优化系列 - 01 手把手教你使用 systrace](https://www.jianshu.com/p/19b3245207e8?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
