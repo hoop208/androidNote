@@ -59,3 +59,4 @@
 [Android 性能优化系列 - 01 手把手教你使用 systrace](https://www.jianshu.com/p/19b3245207e8?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [Android 性能优化系列 - 02 理解 systrace](https://www.jianshu.com/p/d172fb805988)
 [Android 性能优化系列 - 03 使用对象池优化内存](https://www.jianshu.com/p/083f8f6ef0c9?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Android 性能优化系列 - 04 Matrix 中 TraceCanary 源码解析](https://www.jianshu.com/p/1e6bde52bb0d?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
