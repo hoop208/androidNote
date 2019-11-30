@@ -57,6 +57,8 @@
 
 [Kotlin使用技巧之接口与命名参数的优雅运用](https://www.jianshu.com/p/ac752487fd71?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[从原理分析Kotlin的延迟初始化: lateinit var和by lazy](https://juejin.im/post/5affc369f265da0b9b079629)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
