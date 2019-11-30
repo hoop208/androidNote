@@ -63,3 +63,4 @@
 
 [Android性能优化（一）之启动加速35%](https://juejin.im/post/5874bff0128fe1006b443fa0)
 [Android 性能优化（二）之布局优化面面观](https://juejin.im/post/58a442b661ff4b006c8a63f5)
+[Android性能优化（三）之内存管理](https://juejin.im/post/58b18e442f301e0068028a90)
