@@ -7,3 +7,5 @@
 [Android 嵌套滑动机制（NestedScrolling）](https://segmentfault.com/a/1190000002873657)
 
 [Android NestedScrolling机制完全解析 带你玩转嵌套滑动](https://blog.csdn.net/lmj623565791/article/details/52204039)
+
+[十分钟Android中的嵌套滚动机制](https://www.jianshu.com/p/bc6d703e7ca9)
