@@ -57,3 +57,4 @@
 [android app性能优化系列笔记](https://www.jianshu.com/p/f7006ab64da7)
 
 [Android 性能优化系列 - 01 手把手教你使用 systrace](https://www.jianshu.com/p/19b3245207e8?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Android 性能优化系列 - 02 理解 systrace](https://www.jianshu.com/p/d172fb805988)
