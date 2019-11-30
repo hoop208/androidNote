@@ -89,3 +89,4 @@
 [小心，在数据类当中用 Lazy 要谨慎！](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484114&idx=1&sn=2cc8d0cb1c6cfb19802f00da4c595536&scene=19#wechat_redirect)
 [快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&scene=19#wechat_redirect)
 [区别Kotlin中的object和companion object关键字](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484071&idx=1&sn=74a8234d8e46826ba4936d4274b4da5b&scene=19#wechat_redirect)
+[高阶函数（一）](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483885&idx=1&sn=1a560543ce4ab02a1ecf3f5583b9a32e&scene=19#wechat_redirect)
