@@ -38,6 +38,8 @@
 
 [Android中TouchEvent触摸事件机制](https://blog.csdn.net/iispring/article/details/50364126)
 
+[Android中的MotionEvent](https://blog.csdn.net/iispring/article/details/7208031)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
