@@ -17,7 +17,7 @@
 [用 Kotlin 开发 Android 项目是一种什么样的感受？](https://www.jianshu.com/p/8a1fce6fa93a)
 [用 Kotlin 开发 Android 项目是一种什么样的感受？（二）](https://www.jianshu.com/p/b444aea1b038)
 
-# 博客
+# 知识点
 
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
 
