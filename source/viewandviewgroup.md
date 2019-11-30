@@ -36,6 +36,8 @@
 
 [彻底理解View事件体系！](https://blog.csdn.net/huachao1001/article/details/51766225)
 
+[Android中TouchEvent触摸事件机制](https://blog.csdn.net/iispring/article/details/50364126)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
@@ -49,6 +51,7 @@
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
 
 [深入理解Android View的构造函数](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0806/4575.html)
+
 
 
 
