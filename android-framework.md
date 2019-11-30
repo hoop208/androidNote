@@ -8,10 +8,6 @@
 
 [深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
 
-# android系统源代码情景分析
-
-[《老罗的Android之旅》导读PPT](https://blog.csdn.net/Luoshengyang/article/details/12957169)
-
 # 知识点
 
 [RemoteView概述](https://www.cnblogs.com/playing/archive/2011/04/22/2024775.html)
@@ -26,3 +22,8 @@
 [只了解View的事件分发是不够的，来看下输入系统对事件的处理](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843199&idx=1&sn=dbbffd681f32303f3761335ee9453907&chksm=83bf6ca4b4c8e5b2a39774e355558c0b1ac61af2666334511f9f9379985eaee13d33ce41e19c&scene=21#wechat_redirect)
 [你需要掌握的事件分发高阶知识](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843337&idx=1&sn=ba9d6e61d5cff4f0ab83a70965d9ea0c&scene=19#wechat_redirect)
 [你所不知道的输入事件分发机制](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843501&idx=1&sn=407eb2afc10c8de3f6b5b04f844b4ee0&scene=19#wechat_redirect)
+
+android系统源代码情景分析
+
+[《老罗的Android之旅》导读PPT](https://blog.csdn.net/Luoshengyang/article/details/12957169)
+
