@@ -68,3 +68,4 @@
 [Android 性能优化（五）之细说 Bitmap](https://juejin.im/post/58c3b29761ff4b005d906730)
 [Android性能优化（六）之卡顿那些事](https://juejin.im/post/58d73b35570c350058d942c7)
 [Android性能优化（七）之你真的理解ANR吗？](https://juejin.im/post/58e5bd6dda2f60005fea525c)
+[Android 性能优化（八）之网络优化](https://juejin.im/post/58ef22e3b123db0058214c60)
