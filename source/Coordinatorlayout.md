@@ -10,7 +10,7 @@
 
 [CoordinatorLayout 完全解析](https://www.jianshu.com/p/4a77ae4cd82f)
 
-自定义behavior
+behavior
 
 [Android高仿知乎首页Behavior](https://www.jianshu.com/p/2974d8ffc3a5)
 
@@ -29,6 +29,8 @@
 [An sticky button with CoordinatorLayout Behaviors](https://medium.com/androidxx/an-sticky-button-with-coordinatorlayout-behaviors-bb16b03de4d8)
 
 [Android Support Design 中 CoordinatorLayout 与 Behaviors 初探](https://segmentfault.com/a/1190000002888109)
+
+[Android 优化交互 —— CoordinatorLayout 与 Behavior](https://segmentfault.com/a/1190000005024216)
 
 使用
 
