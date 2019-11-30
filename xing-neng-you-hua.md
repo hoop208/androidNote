@@ -71,3 +71,4 @@
 [Android 性能优化（八）之网络优化](https://juejin.im/post/58ef22e3b123db0058214c60)
 [Android 性能优化（九）之不可忽视的电量](https://juejin.im/post/58fef4771b69e60058aab2d1)
 [Android性能优化（十）之App瘦身攻略](https://juejin.im/post/59113583ac502e450280e5f3)
+[Android 性能优化（十一）之正确的异步姿势](https://juejin.im/post/591bea3d8d6d8100589c31da)
