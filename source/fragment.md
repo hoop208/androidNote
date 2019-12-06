@@ -14,3 +14,5 @@
 [实现 滑动退出 Fragment + Activity 二合一](https://www.jianshu.com/p/626229ca4dc2)
 
 [Fragment防手抖 另类实践](https://www.jianshu.com/p/9dbb03203fbc)
+
+[两步搞定Fragment返回键](https://www.jianshu.com/p/fff1ef649fc0)
