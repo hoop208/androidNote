@@ -38,6 +38,8 @@
 
 [Android抽象布局——include、merge 、ViewStub](https://blog.csdn.net/xyz_lmn/article/details/14524567)
 
+[BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
+
 # 内存优化
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
