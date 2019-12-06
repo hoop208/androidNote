@@ -61,10 +61,6 @@
 
 [写给Android开发者的Kotlin入门](https://www.jianshu.com/p/bb53cba6c8f4)
 
-[Kotlin 遇到 MyBatis：到底是 Int 的错，还是 data class 的错？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483908&idx=1&sn=0c072a630198d4a23a7d3aec700c138b&scene=19#wechat_redirect)
-
-[细说 Lambda 表达式](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483881&idx=1&sn=ddbdddd97208556f9ed6af4fe834353b&scene=19#wechat_redirect)
-
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
@@ -118,3 +114,8 @@
 [高阶函数（一）](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483885&idx=1&sn=1a560543ce4ab02a1ecf3f5583b9a32e&scene=19#wechat_redirect)
 
 [高阶函数（二）](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483891&idx=1&sn=51459e9b37adbc89b4a594f8594622f4&scene=19#wechat_redirect)
+
+[Kotlin 遇到 MyBatis：到底是 Int 的错，还是 data class 的错？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483908&idx=1&sn=0c072a630198d4a23a7d3aec700c138b&scene=19#wechat_redirect)
+
+[细说 Lambda 表达式](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483881&idx=1&sn=ddbdddd97208556f9ed6af4fe834353b&scene=19#wechat_redirect)
+
