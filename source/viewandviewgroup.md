@@ -40,6 +40,8 @@
 
 [Android中的MotionEvent](https://blog.csdn.net/iispring/article/details/7208031)
 
+[Android事件分发完全解析之为什么是她](https://blog.csdn.net/aigestudio/article/details/44260301)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
