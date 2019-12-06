@@ -52,7 +52,6 @@
 * [开源项目](open-source-project.md)
   * [Glide](open-source-project/glide.md)
   * [dagger2](open-source-project/dagger2.md)
-  * [ButterKnife](open-source-project/butterknife.md)
   * [Gson](open-source-project/gson.md)
   * [OKHTTP](open-source-project/okhttp.md)
   * [Retrofit](open-source-project/retrofit.md)
