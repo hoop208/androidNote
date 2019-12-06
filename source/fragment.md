@@ -18,3 +18,7 @@
 [两步搞定Fragment返回键](https://www.jianshu.com/p/fff1ef649fc0)
 
 [你真的会用Fragment吗？Fragment复用的那些事儿](https://www.jianshu.com/p/31f013df7580)
+
+# 源码
+
+[从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
