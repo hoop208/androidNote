@@ -24,3 +24,5 @@
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
 
 [源码分析commitAllowingStateLoss() 和commit()的区别](https://blog.csdn.net/freelander_j/article/details/52925745)
+
+[Fragment源码中的七把利刃(上)](https://www.jianshu.com/p/e15c74f86303)
