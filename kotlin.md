@@ -61,6 +61,8 @@
 
 [写给Android开发者的Kotlin入门](https://www.jianshu.com/p/bb53cba6c8f4)
 
+[Kotlin 遇到 MyBatis：到底是 Int 的错，还是 data class 的错？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483908&idx=1&sn=0c072a630198d4a23a7d3aec700c138b&scene=19#wechat_redirect)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
