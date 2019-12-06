@@ -12,3 +12,5 @@
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)
 
 [实现 滑动退出 Fragment + Activity 二合一](https://www.jianshu.com/p/626229ca4dc2)
+
+[Fragment防手抖 另类实践](https://www.jianshu.com/p/9dbb03203fbc)
