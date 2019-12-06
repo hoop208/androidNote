@@ -14,6 +14,8 @@
 
 [Android NDK 入门](https://xiaozhuanlan.com/crayfish)
 
+[Android JNI Crash定位步骤](https://mp.weixin.qq.com/s/ETq0_ApEwUURkFmqyEY5kA)
+
 # 视频教程
 
 [Android-NDK入门](https://www.imooc.com/learn/411)
