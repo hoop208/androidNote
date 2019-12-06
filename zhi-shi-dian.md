@@ -30,6 +30,10 @@
 
 [AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
 
+# AndroidX
+
+[AndroidX 你好，android.support 再见 | 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
+
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
