@@ -42,6 +42,8 @@
 
 [Android事件分发完全解析之为什么是她](https://blog.csdn.net/aigestudio/article/details/44260301)
 
+[一个跟随手指移动的 View 产生的抖动问题](https://mp.weixin.qq.com/s/iJyErTxtsKrqFV-J7p96Lg)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
