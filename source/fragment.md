@@ -26,3 +26,4 @@
 [源码分析commitAllowingStateLoss() 和commit()的区别](https://blog.csdn.net/freelander_j/article/details/52925745)
 
 [Fragment源码中的七把利刃(上)](https://www.jianshu.com/p/e15c74f86303)
+[Fragment源码中的七把利刃(下)](https://www.jianshu.com/p/0415cc245ee7)
