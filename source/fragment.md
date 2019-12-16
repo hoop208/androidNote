@@ -25,6 +25,8 @@
 
 [Fragment Toolbar.](https://medium.com/appunite-edu-collection/fragment-toolbar-manage-it-better-a6a6ef31d43)
 
+[Should I use Fragment or Activity in Android](https://medium.com/@ali.muzaffar/should-i-use-fragment-or-activity-in-android-5dbcc2703ecc)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
