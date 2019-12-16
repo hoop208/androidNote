@@ -22,6 +22,8 @@
 
 [Android深入理解JNI（一）JNI原理与静态、动态注册](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841593&idx=1&sn=d258d969d6cd0b543bebf37d60754494&scene=19#wechat_redirect)
 
+[Android深入理解JNI（二）类型转换、方法签名和JNIEnv](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841644&idx=1&sn=f8f8ea9a7e8040106b39bf1bb5f0aedf&scene=19#wechat_redirect)
+
 # 视频教程
 
 [Android-NDK入门](https://www.imooc.com/learn/411)
