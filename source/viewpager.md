@@ -13,3 +13,5 @@
 使用
 
 [2.5.6 ViewFlipper(翻转视图)的基本使用](https://www.runoob.com/w3cnote/android-tutorial-viewflipper.html)
+
+[Android之ViewFlipper的简单使用](https://segmentfault.com/a/1190000009609268)
