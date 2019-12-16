@@ -27,6 +27,8 @@
 
 [Should I use Fragment or Activity in Android](https://medium.com/@ali.muzaffar/should-i-use-fragment-or-activity-in-android-5dbcc2703ecc)
 
+[Android Performance — Lazy inflating Fragment with ViewStub](https://medium.com/@raymondctc/android-performance-lazy-inflating-fragment-with-viewstub-b51b2682ec0c)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
