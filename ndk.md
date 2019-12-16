@@ -20,6 +20,8 @@
 
 [Android进阶： 10分钟实现NDK-JNI 开发教程](https://segmentfault.com/a/1190000017027900)
 
+[Android深入理解JNI（一）JNI原理与静态、动态注册](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841593&idx=1&sn=d258d969d6cd0b543bebf37d60754494&scene=19#wechat_redirect)
+
 # 视频教程
 
 [Android-NDK入门](https://www.imooc.com/learn/411)
