@@ -18,6 +18,8 @@
 
 [AndroidStudio最详细JNI教程](https://www.jianshu.com/p/81a97a43c176)
 
+[Android进阶： 10分钟实现NDK-JNI 开发教程](https://segmentfault.com/a/1190000017027900)
+
 # 视频教程
 
 [Android-NDK入门](https://www.imooc.com/learn/411)
