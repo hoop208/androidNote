@@ -29,6 +29,8 @@
 
 [Android Performance — Lazy inflating Fragment with ViewStub](https://medium.com/@raymondctc/android-performance-lazy-inflating-fragment-with-viewstub-b51b2682ec0c)
 
+[Give toolbar to each fragment!](https://medium.com/@programmerr47/give-toolbar-to-each-fragment-52c3a996deb5)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
