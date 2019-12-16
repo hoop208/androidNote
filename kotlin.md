@@ -4,6 +4,8 @@
 
 [Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
 
+[kotlin-参考](https://www.kotlincn.net/docs/reference/)
+
 # 经验分享
 
 [Android 开发者自述：为什么我要改用 Kotlin？](https://zhuanlan.zhihu.com/p/26980146)
