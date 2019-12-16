@@ -19,6 +19,8 @@
 
 [你真的会用Fragment吗？Fragment复用的那些事儿](https://www.jianshu.com/p/31f013df7580)
 
+[A possible way to safely perform Fragment Transactions after Activity.onSaveInstanceState(…)](https://medium.com/@bendaniel10/a-possible-way-to-safely-perform-fragment-transactions-after-activity-onsaveinstancestate-651d4bcb410b)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
