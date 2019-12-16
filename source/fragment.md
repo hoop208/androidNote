@@ -21,6 +21,8 @@
 
 [A possible way to safely perform Fragment Transactions after Activity.onSaveInstanceState(…)](https://medium.com/@bendaniel10/a-possible-way-to-safely-perform-fragment-transactions-after-activity-onsaveinstancestate-651d4bcb410b)
 
+[Saving Fragment State Yourself](https://medium.com/@bherbst/saving-fragment-state-yourself-522c3bca78c7)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
