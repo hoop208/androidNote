@@ -30,7 +30,7 @@
   * [Constrantlayout](source/constrantlayout.md)
   * [popupwindow](source/popupwindow.md)
   * [Gridlayout](source/gridlayout.md)
-  * [viewpager](source/viewpager.md)
+  * [viewpager&viewfliper](source/viewpager.md)
   * [View&ViewGroup](source/viewandviewgroup.md)
   * [parceable](source/parceable.md)
   * [sparsearray](source/sparsearray.md)
