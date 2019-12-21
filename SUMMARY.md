@@ -2,7 +2,7 @@
 
 * [索引](README.md)
 * [自定义控件&动画](customview.md)
-  * drawable
+  * [drawable](customview/drawable.md)
 * [sdk](sdk-source.md)
   * [Coordinatorlayout&AppBarlayout](source/Coordinatorlayout.md)
   * [source/FloatingActionButton](source/FloatingActionButton.md)
