@@ -21,6 +21,8 @@
 
 # 知识点
 
+[如何在 Java 和 Kotlin 之间进行互操作](https://mp.weixin.qq.com/s/E5qPbDDgyE_y6Ae53s5SOw)
+
 [使用 Kotlin 构建 Android 应用 | Kotlin 迁移指南 (上篇)](https://mp.weixin.qq.com/s/9Ly-WnkDGOfZV2rj_DwOVQ)
 
 [开始迁移到 Kotlin | Kotlin 迁移指南 (中篇)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)
