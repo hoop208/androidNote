@@ -25,6 +25,8 @@
 
 [开始迁移到 Kotlin | Kotlin 迁移指南 (中篇)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)
 
+[使用 Kotlin 构建的常见问题解答 | Kotlin 迁移指南 (下篇)](https://mp.weixin.qq.com/s/PqHMVt50QVgK525vYFD0Xg)
+
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
 
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
