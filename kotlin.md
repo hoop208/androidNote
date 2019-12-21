@@ -23,6 +23,8 @@
 
 [使用 Kotlin 构建 Android 应用 | Kotlin 迁移指南 (上篇)](https://mp.weixin.qq.com/s/9Ly-WnkDGOfZV2rj_DwOVQ)
 
+[开始迁移到 Kotlin | Kotlin 迁移指南 (中篇)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)
+
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
 
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
