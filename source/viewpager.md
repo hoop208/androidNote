@@ -12,6 +12,8 @@
 
 [Android ViewPager的使用总结](https://blog.csdn.net/feiduclear_up/article/details/68483441)
 
+[FragmentPagerAdapter与FragmentStatePagerAdapter区别](https://www.cnblogs.com/lianghui66/p/3607091.html)
+
 # ViewFlipper
 
 使用
