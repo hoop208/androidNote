@@ -8,6 +8,8 @@
 
 [ViewPager懒加载极致优化](https://juejin.im/post/5d37bb8df265da1b8b2ba01a)
 
+[ViewPager 全面剖析及使用详解](https://www.jianshu.com/p/e5abbda4a71c)
+
 # ViewFlipper
 
 使用
