@@ -4,6 +4,10 @@
 
 [布局渲染流程和原理](https://study.163.com/course/courseLearn.htm?courseId=1209536826#/learn/live?lessonId=1279818002&courseId=1209536826)
 
+# 文档
+
+[google官方-性能优化典范](https://www.kancloud.cn/kancloud/android-performance/53237)
+
 # 内存泄漏
 
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
