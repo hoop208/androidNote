@@ -10,6 +10,8 @@
 
 [ViewPager 全面剖析及使用详解](https://www.jianshu.com/p/e5abbda4a71c)
 
+[Android ViewPager的使用总结](https://blog.csdn.net/feiduclear_up/article/details/68483441)
+
 # ViewFlipper
 
 使用
