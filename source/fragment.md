@@ -31,6 +31,8 @@
 
 [Give toolbar to each fragment!](https://medium.com/@programmerr47/give-toolbar-to-each-fragment-52c3a996deb5)
 
+[The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated)](https://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
