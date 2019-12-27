@@ -16,6 +16,8 @@
 
 [FragmentPagerAdapter和FragmentStatePagerAdapter源码中的三宝](https://segmentfault.com/a/1190000012455727#articleHeader0)
 
+[巧用ViewPager 打造不一样的广告轮播切换效果](https://blog.csdn.net/lmj623565791/article/details/51339751)
+
 # ViewFlipper
 
 使用
