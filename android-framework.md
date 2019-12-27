@@ -8,6 +8,10 @@
 
 [深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
 
+# 文档
+
+[aosp-官方文档](https://source.android.google.cn/)
+
 # 知识点
 
 [RemoteView概述](https://www.cnblogs.com/playing/archive/2011/04/22/2024775.html)
