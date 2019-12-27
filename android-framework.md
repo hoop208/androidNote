@@ -29,3 +29,5 @@ android系统源代码情景分析
 
 [AOSP基础-系列博客](http://liuwangshu.cn/tags/AOSP%E5%9F%BA%E7%A1%80/)
 
+[Android系统启动-系列博客](http://liuwangshu.cn/tags/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/)
+
