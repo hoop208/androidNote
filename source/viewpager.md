@@ -14,6 +14,8 @@
 
 [FragmentPagerAdapter与FragmentStatePagerAdapter区别](https://www.cnblogs.com/lianghui66/p/3607091.html)
 
+[FragmentPagerAdapter和FragmentStatePagerAdapter源码中的三宝](https://segmentfault.com/a/1190000012455727#articleHeader0)
+
 # ViewFlipper
 
 使用
