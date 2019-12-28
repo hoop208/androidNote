@@ -22,7 +22,6 @@
   * [handler&Looper&message](source/handler.md)
   * [Constrantlayout](source/constrantlayout.md)
   * [popupwindow](source/popupwindow.md)
-  * [Gridlayout](source/gridlayout.md)
   * [viewpager&viewfliper](source/viewpager.md)
   * [View&ViewGroup](source/viewandviewgroup.md)
   * [parceable](source/parceable.md)
