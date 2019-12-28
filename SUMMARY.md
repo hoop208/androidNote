@@ -5,7 +5,6 @@
   * [drawable](customview/drawable.md)
 * [sdk](sdk-source.md)
   * [Coordinatorlayout相关](source/Coordinatorlayout.md)
-  * [source/FloatingActionButton](source/FloatingActionButton.md)
   * [source/SwipeRefreshLayout](source/SwipeRefreshLayout.md)
   * [source/TextView](source/TextView.md)
   * [AsyncTask](source/asynctask.md)
