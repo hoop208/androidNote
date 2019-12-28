@@ -43,7 +43,6 @@
   * [LayoutInflator](source/layoutinflator.md)
   * [ImageView](source/imageview.md)
   * [drawable](source/drawable.md)
-  * [progressbar](source/progressbar.md)
 * [项目框架](kuang-jia.md)
   * [google架构示例](googlejia-gou.md)
   * [Android架构组件](androidjia-gou-zu-jian.md)
