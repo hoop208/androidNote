@@ -9,7 +9,6 @@
   * [source/SwipeRefreshLayout](source/SwipeRefreshLayout.md)
   * [source/TextView](source/TextView.md)
   * [AsyncTask](source/asynctask.md)
-  * [Tablayout](source/tablayout.md)
   * [CompoundButton ](source/compoundbutton.md)
   * [LinearLayout](source/linearlayout.md)
   * [ViewDragHelper](source/viewdraghelper.md)
