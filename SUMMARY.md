@@ -21,7 +21,6 @@
   * [NavigationView](source/navigationview.md)
   * [SharedPreference](source/sharedpreference.md)
   * [handler&Looper&message](source/handler.md)
-  * [cardview](source/cardview.md)
   * [Constrantlayout](source/constrantlayout.md)
   * [popupwindow](source/popupwindow.md)
   * [Gridlayout](source/gridlayout.md)
