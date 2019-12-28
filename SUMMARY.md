@@ -17,7 +17,6 @@
     * [snaphelper](source/recyclerview/snaphelper.md)
     * [列表动画](source/recyclerview/lie-biao-dong-hua.md)
   * [Media Player](source/media-player.md)
-  * [NavigationView](source/navigationview.md)
   * [SharedPreference](source/sharedpreference.md)
   * [handler&Looper&message](source/handler.md)
   * [Constrantlayout](source/constrantlayout.md)
