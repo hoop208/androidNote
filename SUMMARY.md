@@ -16,7 +16,6 @@
     * [layoutmanager](source/recyclerview/layoutmanager.md)
     * [snaphelper](source/recyclerview/snaphelper.md)
     * [列表动画](source/recyclerview/lie-biao-dong-hua.md)
-  * [BottomSheet&BottomSheetDialog](source/bottomsheet.md)
   * [Media Player](source/media-player.md)
   * [NavigationView](source/navigationview.md)
   * [SharedPreference](source/sharedpreference.md)
