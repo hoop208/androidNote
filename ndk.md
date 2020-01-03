@@ -24,6 +24,8 @@
 
 [Android深入理解JNI（二）类型转换、方法签名和JNIEnv](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841644&idx=1&sn=f8f8ea9a7e8040106b39bf1bb5f0aedf&scene=19#wechat_redirect)
 
+[使用JNI进行Java与C/C++语言混合编程(1)--在Java中调用C/C++本地库](https://www.cnblogs.com/icejoywoo/archive/2012/02/22/2363709.html)
+
 # 视频教程
 
 [Android-NDK入门](https://www.imooc.com/learn/411)
