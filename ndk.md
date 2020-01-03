@@ -26,6 +26,8 @@
 
 [使用JNI进行Java与C/C++语言混合编程(1)--在Java中调用C/C++本地库](https://www.cnblogs.com/icejoywoo/archive/2012/02/22/2363709.html)
 
+[使用JNI进行Java与C/C++语言混合编程(2)--在C/C++中调用Java代码](https://www.cnblogs.com/icejoywoo/archive/2012/02/24/2367116.html)
+
 # 视频教程
 
 [Android-NDK入门](https://www.imooc.com/learn/411)
