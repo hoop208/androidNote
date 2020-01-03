@@ -4,6 +4,8 @@
 
 [重学安卓：Activity 的快乐你不懂！](https://juejin.im/post/5ce651d4f265da1bb13f0a5b)
 
+[解锁Activity的跳转新姿势———使用scheme跳转](https://blog.csdn.net/a_zhon/article/details/78358310)
+
 # 源码
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
