@@ -44,6 +44,8 @@
 
 [一个跟随手指移动的 View 产生的抖动问题](https://mp.weixin.qq.com/s/iJyErTxtsKrqFV-J7p96Lg)
 
+[图解 Android 事件分发机制](https://www.jianshu.com/p/e99b5e8bd67b)
+
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)
