@@ -73,6 +73,8 @@
 
 [31 天，从浅到深轻松学习 Kotlin](https://mp.weixin.qq.com/s/1mp5F4A-pqkaRknY6kAKzA)
 
+[Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
