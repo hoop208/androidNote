@@ -8,6 +8,8 @@
 
 [酷炫的Activity切换动画，打造更好的用户体验](https://www.jianshu.com/p/37e94f8b6f59)
 
+[[译] Android 开发中 Activity 的正确打开方式](https://juejin.im/entry/57b9bfc3c4c9710061481310)
+
 # 源码
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
