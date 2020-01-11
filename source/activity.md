@@ -6,6 +6,8 @@
 
 [解锁Activity的跳转新姿势———使用scheme跳转](https://blog.csdn.net/a_zhon/article/details/78358310)
 
+[酷炫的Activity切换动画，打造更好的用户体验](https://www.jianshu.com/p/37e94f8b6f59)
+
 # 源码
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
