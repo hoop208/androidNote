@@ -10,6 +10,8 @@
 
 [[译] Android 开发中 Activity 的正确打开方式](https://juejin.im/entry/57b9bfc3c4c9710061481310)
 
+[Android：Activity 与 Fragment 通信 (99%) 完美解决方案](https://juejin.im/entry/56a87b2b2e958a0051906227)
+
 # 源码
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
