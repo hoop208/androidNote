@@ -12,6 +12,8 @@
 
 [Android：Activity 与 Fragment 通信 (99%) 完美解决方案](https://juejin.im/entry/56a87b2b2e958a0051906227)
 
+[关于 Android，用多个 activity，还是单 activity 配合 fragment？](https://www.zhihu.com/question/39662488/answer/82469372)
+
 # 源码
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
