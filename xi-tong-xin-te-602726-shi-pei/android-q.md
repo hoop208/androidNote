@@ -4,3 +4,5 @@
 
 [Android10填坑适配指南](https://mp.weixin.qq.com/s/NfTYZ59WL1RfJhxU0D-8YA)
 
+[Android 10 开发者常见问题](https://mp.weixin.qq.com/s/riPjR6XXPBKk6YTjzW2PCQ)
+
