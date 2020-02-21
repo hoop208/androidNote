@@ -35,5 +35,5 @@ android系统源代码情景分析
 
 [Android系统启动-系列博客](http://liuwangshu.cn/tags/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/)
 
-[Android窗口机制系列博客](https://www.jianshu.com/p/40a9c93b5a8d)
+
 

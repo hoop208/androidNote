@@ -48,6 +48,7 @@
 * [AOSP](android-framework.md)
   * [多线程&多进程](android-framework/duo-xian-cheng.md)
   * [ART](android-framework/art.md)
+  * [framework](android-framework/framework.md)
 * [应用构建](ying-yong-gou-jian.md)
 * [屏幕适配](ping-mu-shi-pei.md)
 * [系统UI](xi-tong-ui.md)
