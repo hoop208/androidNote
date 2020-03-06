@@ -16,5 +16,9 @@
 
 [Android应用进程间通信之Messenger信使使用及源码浅析](https://blog.csdn.net/yanbober/article/details/48373341)
 
+# AIDL
+
+[Android aidl Binder框架浅析](https://blog.csdn.net/lmj623565791/article/details/38461079)
+
 
 
