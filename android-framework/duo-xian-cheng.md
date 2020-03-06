@@ -8,17 +8,20 @@
 
 [Android几种进程通信方式的对比总结](https://blog.csdn.net/u011240877/article/details/72863432)
 
-[android跨进程通信（IPC）：使用AIDL](https://blog.csdn.net/singwhatiwanna/article/details/17041691)
-
-[Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)
-
 # Messenger
 
 [Android应用进程间通信之Messenger信使使用及源码浅析](https://blog.csdn.net/yanbober/article/details/48373341)
 
+[Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)
+
+
 # AIDL
 
 [Android aidl Binder框架浅析](https://blog.csdn.net/lmj623565791/article/details/38461079)
+
+[android跨进程通信（IPC）：使用AIDL](https://blog.csdn.net/singwhatiwanna/article/details/17041691)
+
+
 
 
 
