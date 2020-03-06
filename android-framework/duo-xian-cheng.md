@@ -12,5 +12,9 @@
 
 [Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)
 
+# Messenger
+
+[Android应用进程间通信之Messenger信使使用及源码浅析](https://blog.csdn.net/yanbober/article/details/48373341)
+
 
 
