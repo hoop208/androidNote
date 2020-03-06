@@ -72,6 +72,8 @@ behavior
 
 [AppbarLayout最详细使用说明](https://www.jianshu.com/p/94ceeb8bbf87)
 
+[Android 详细分析AppBarLayout的五种ScrollFlags](https://www.jianshu.com/p/7caa5f4f49bd)
+
 源码:
 
 [关于CoordinatorLayout AppBarLayout原理的一些分析](https://www.jianshu.com/p/cef61247fd30)
