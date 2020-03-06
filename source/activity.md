@@ -24,6 +24,8 @@
 
 [Android视图框架Activity,Window,View,ViewRootImpl理解](https://silencedut.github.io/2016/08/10/Android%E8%A7%86%E5%9B%BE%E6%A1%86%E6%9E%B6Activity,Window,View,ViewRootImpl%E7%90%86%E8%A7%A3/)
 
+[简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.jianshu.com/p/8766babc40e0)
+
 # 视频教程
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
