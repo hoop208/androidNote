@@ -26,6 +26,8 @@
 
 [简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.jianshu.com/p/8766babc40e0)
 
+[Android应用Activity、Dialog、PopWindow、Toast窗口添加机制及源码分析](https://blog.csdn.net/yanbober/article/details/46361191)
+
 # 视频教程
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
