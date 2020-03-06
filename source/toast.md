@@ -17,3 +17,5 @@
 [Toast源码解析.md](https://github.com/WuXiaolong/AndroidSdkSourceAnalysis/blob/master/article/Toast%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 
 [Android 9.0 Toast源码改变引发的问题](https://blog.csdn.net/qq_36486247/article/details/102753801)
+
+[Toast与Snackbar的那点事](https://tech.meituan.com/2018/03/29/toast-snackbar-replace.html)
