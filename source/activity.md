@@ -22,6 +22,8 @@
 
 [Android应用程序的Activity启动过程简要介绍和学习计划](https://blog.csdn.net/Luoshengyang/article/details/6685853)
 
+[Android视图框架Activity,Window,View,ViewRootImpl理解](https://silencedut.github.io/2016/08/10/Android%E8%A7%86%E5%9B%BE%E6%A1%86%E6%9E%B6Activity,Window,View,ViewRootImpl%E7%90%86%E8%A7%A3/)
+
 # 视频教程
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
