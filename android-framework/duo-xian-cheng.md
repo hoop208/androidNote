@@ -23,6 +23,8 @@
 
 [Android学习笔记——AS中使用AIDL](https://zhuanlan.zhihu.com/p/31460556)
 
+[android跨进程通信（IPC）：使用AIDL](https://blog.csdn.net/singwhatiwanna/article/details/17041691)
+
 
 
 
