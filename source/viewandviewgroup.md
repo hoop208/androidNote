@@ -14,6 +14,8 @@
 
 [Mastering the Android Touch System](https://www.bilibili.com/video/av24566744)
 
+[Android事件分发机制](https://www.imooc.com/learn/1155)
+
 
 # 事件分发机制
 
