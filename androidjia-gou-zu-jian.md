@@ -6,6 +6,10 @@
 
 [使用架构组件构建应用](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components-cn/index.html?index=..%2F..gddchina#0)
 
+# 文档
+
+[官方文档](https://developer.android.google.cn/topic/libraries/architecture)
+
 # 博客
 
 [一文带你了解 Android Jetpack | 开发者说·DTalk](https://mp.weixin.qq.com/s/0hLLF2LdoBPL-PB0IkyEOA)
