@@ -32,4 +32,4 @@
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
 
-
+[Android开发之Activity那些事儿](https://segmentfault.com/ls/1650000018852921)
