@@ -10,12 +10,6 @@
 
 [Android应用层View绘制流程与源码分析](https://blog.csdn.net/yanbober/article/details/46128379)
 
-视频教程
-
-[Mastering the Android Touch System](https://www.bilibili.com/video/av24566744)
-
-[Android事件分发机制](https://www.imooc.com/learn/1155)
-
 # 知识点
 
 [Android 深入理解Android中的自定义属性](https://blog.csdn.net/lmj623565791/article/details/45022631)

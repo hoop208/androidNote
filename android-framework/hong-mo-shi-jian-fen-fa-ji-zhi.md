@@ -38,3 +38,10 @@
 
 [Android事件分发之源码分析](https://mp.weixin.qq.com/s/vciuuN7LzY4Tp3saqPsYWg)
 
+# 视频教程
+
+[Mastering the Android Touch System](https://www.bilibili.com/video/av24566744)
+
+[Android事件分发机制](https://www.imooc.com/learn/1155)
+
+
