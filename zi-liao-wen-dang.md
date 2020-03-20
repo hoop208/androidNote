@@ -6,6 +6,8 @@
 
 [google官方示例](https://developer.android.google.cn/samples/?language=java)
 
+[Intent 和 Intent 过滤器](https://developer.android.google.cn/guide/components/intents-filters)
+
 # 资料收集
 
 [使用浏览器监测okhttp请求响应](https://github.com/adibfara/WatchTower)
