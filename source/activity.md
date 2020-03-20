@@ -16,6 +16,8 @@
 
 [Say no to BaseActivity and BaseFragment](https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998)
 
+[Activity你真的熟悉吗？看了才知道](https://www.jianshu.com/p/c21216bf5f82)
+
 # 源码
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
