@@ -14,6 +14,8 @@
 
 [关于 Android，用多个 activity，还是单 activity 配合 fragment？](https://www.zhihu.com/question/39662488/answer/82469372)
 
+[Say no to BaseActivity and BaseFragment](https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998)
+
 # 源码
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
