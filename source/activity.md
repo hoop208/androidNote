@@ -34,6 +34,8 @@
 
 [Activity是什么时候显示出来的？](https://mp.weixin.qq.com/s/Ujpp6rBwGCSZFTI9WHBy_g)
 
+[Android中启动Activity(startActivity)流程图分析](https://blog.csdn.net/qinjuning/article/details/7277225)
+
 # 视频教程
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
