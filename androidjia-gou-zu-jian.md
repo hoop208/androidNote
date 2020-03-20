@@ -32,6 +32,10 @@
 [【AAC 系列二】深入理解架构组件的基石：Lifecycle](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872556&idx=1&sn=6734027d9ca7e4db67fdbad657f7c862&scene=19#wechat_redirect)
 [【AAC 系列三】深入理解架构组件：LiveData](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872586&idx=1&sn=a241722abdcec06a7fc364742660dc32&scene=19#wechat_redirect)
 
+# LiveData
+
+[MediatorLiveData to the Rescue](https://proandroiddev.com/mediatorlivedata-to-the-rescue-5d27645b9bc3)
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
