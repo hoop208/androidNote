@@ -49,6 +49,7 @@
     * [ImageView](source/imageview.md)
     * [drawable](source/drawable.md)
   * [framework](android-framework/framework.md)
+  * [触摸事件分发机制](android-framework/hong-mo-shi-jian-fen-fa-ji-zhi.md)
 * [应用构建](ying-yong-gou-jian.md)
 * [屏幕适配](ping-mu-shi-pei.md)
 * [系统UI](xi-tong-ui.md)
