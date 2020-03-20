@@ -30,6 +30,8 @@
 
 [Android应用Activity、Dialog、PopWindow、Toast窗口添加机制及源码分析](https://blog.csdn.net/yanbober/article/details/46361191)
 
+[Activity是什么时候显示出来的？](https://mp.weixin.qq.com/s/Ujpp6rBwGCSZFTI9WHBy_g)
+
 # 视频教程
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
