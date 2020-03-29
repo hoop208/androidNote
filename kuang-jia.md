@@ -9,3 +9,5 @@
 [Android组件化开发框架](https://www.jianshu.com/p/3ed9f4c87990)
 
 [Android组件化：stitch框架](https://juejin.im/post/5aad343e518825558c47346c)
+
+[浅谈Android组件化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488201&idx=1&sn=eaefec375237a51726aaa4089e5fc670&source=41#wechat_redirect)
