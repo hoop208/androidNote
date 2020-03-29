@@ -8,6 +8,8 @@
 
 [google官方-性能优化典范](https://www.kancloud.cn/kancloud/android-performance/53237)
 
+[google官方文档_性能与功耗](https://developer.android.google.cn/topic/performance)
+
 # 内存泄漏
 
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
