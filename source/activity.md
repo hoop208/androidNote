@@ -38,6 +38,8 @@
 
 [Android中启动Activity(startActivity)流程图分析](https://blog.csdn.net/qinjuning/article/details/7277225)
 
+[Android 8.0 ActivityManagerService 启动流程](https://www.jianshu.com/p/98ccde25a57c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 视频教程
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
