@@ -38,6 +38,8 @@
 
 [Android事件分发之源码分析](https://mp.weixin.qq.com/s/vciuuN7LzY4Tp3saqPsYWg)
 
+[Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
+
 # 视频教程
 
 [Mastering the Android Touch System](https://www.bilibili.com/video/av24566744)
