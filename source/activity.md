@@ -18,6 +18,8 @@
 
 [Activity你真的熟悉吗？看了才知道](https://www.jianshu.com/p/c21216bf5f82)
 
+[Android：你是如何把Activity写的如此“万能”的](https://www.jianshu.com/p/37892b4193a7)
+
 # 源码
 
 [在 Android 中如何确定 App(Activity) 的启动者](https://droidyue.com/blog/2019/12/01/android-uid-process-name/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
