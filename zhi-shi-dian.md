@@ -38,6 +38,8 @@
 
 # 其它
 
+[Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
+
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
 
 [Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
