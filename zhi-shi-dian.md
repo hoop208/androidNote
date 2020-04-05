@@ -34,6 +34,8 @@
 
 [AndroidX 你好，android.support 再见 | 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
 
+[Activity and Fragment Layouts with AndroidX](https://www.bignerdranch.com/blog/activity-and-fragment-layouts-with-androidx/)
+
 # 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
