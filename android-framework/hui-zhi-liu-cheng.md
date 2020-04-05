@@ -14,3 +14,5 @@
 
 [Android中View绘制流程以及invalidate()等相关方法分析](https://blog.csdn.net/qinjuning/article/details/7110211)
 
+[Android中View的量算、布局及绘图机制](https://blog.csdn.net/iispring/article/details/49203945)
+
