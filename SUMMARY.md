@@ -48,6 +48,7 @@
     * [LayoutInflator](source/layoutinflator.md)
     * [ImageView](source/imageview.md)
     * [drawable](source/drawable.md)
+    * [ViewRootImpl](source/viewrootimpl.md)
   * [framework](android-framework/framework.md)
   * [触摸事件分发机制](android-framework/hong-mo-shi-jian-fen-fa-ji-zhi.md)
   * [绘制流程](android-framework/hui-zhi-liu-cheng.md)
