@@ -20,3 +20,5 @@
 
 [源码解析Android中View的layout布局过程](https://blog.csdn.net/iispring/article/details/50366021)
 
+[安卓基础：View 绘制](https://blog.piasy.com/2017/01/19/Android-Basics-View-draw-procedure/index.html)
+
