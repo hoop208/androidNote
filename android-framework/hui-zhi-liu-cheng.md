@@ -16,3 +16,5 @@
 
 [Android中View的量算、布局及绘图机制](https://blog.csdn.net/iispring/article/details/49203945)
 
+[源码解析Android中View的measure量算过程](https://blog.csdn.net/iispring/article/details/49403315)
+
