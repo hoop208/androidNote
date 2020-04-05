@@ -1,4 +1,4 @@
-使用:
+# 使用
 
 [[译] ConstraintLayout基础系列之Chains链](https://biaomingzhong.github.io/2017/constraintlayout-basics-chains-2/)
 
