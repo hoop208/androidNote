@@ -18,7 +18,7 @@
 
 [Activity你真的熟悉吗？看了才知道](https://www.jianshu.com/p/c21216bf5f82)
 
-[Android：你是如何把Activity写的如此“万能”的](https://www.jianshu.com/p/37892b4193a7)
+[Android：你是如何把Activity写的如此“万能”的](https://www.jianshu.com/p/37892b4193a7)  
 [Android:“万能”Activity重构篇](https://www.jianshu.com/p/559f85a42f23)
 
 # 源码
