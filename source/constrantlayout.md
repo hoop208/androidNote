@@ -6,3 +6,5 @@
 [初识ConstraintLayout之参照线（Guidelines）](https://donniesky.me/2017/09/01/ConstraintLayout-Guidelines/)
 
 [Android 约束布局（ConstraintLayout）1.1.0 版详解](https://juejin.im/post/5adc8bd251882567236e58c1)
+
+[约束布局（ConstraintLayout）1.1.0的新特性](https://juejin.im/entry/5ad8267f5188252eaf306908)
