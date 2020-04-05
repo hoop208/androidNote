@@ -63,6 +63,8 @@
 
 # 其它
 
+[Category: Android:Performance](http://hukai.me/blog/categories/android-performance/)
+
 [Android StrictMode介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0302/2516.html)
 
 [Android性能调优利器StrictMode](https://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
