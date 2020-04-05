@@ -12,3 +12,5 @@
 
 [Android视图状态及重绘流程分析，带你一步步深入了解View(三)](https://blog.csdn.net/guolin_blog/article/details/17045157)
 
+[Android中View绘制流程以及invalidate()等相关方法分析](https://blog.csdn.net/qinjuning/article/details/7110211)
+
