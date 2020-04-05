@@ -18,3 +18,5 @@
 
 [源码解析Android中View的measure量算过程](https://blog.csdn.net/iispring/article/details/49403315)
 
+[源码解析Android中View的layout布局过程](https://blog.csdn.net/iispring/article/details/50366021)
+
