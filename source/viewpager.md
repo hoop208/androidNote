@@ -24,6 +24,7 @@
 [ViewPager使用详解(四):总结](https://www.jianshu.com/p/1eb18cd08649)
 
 [MagicIndicator系列之一 —— 使用MagicIndicator打造千变万化的ViewPager指示器](https://www.jianshu.com/p/2865812fed41)
+[MagicIndicator系列之二 —— MagicIndicator使用指南](https://www.jianshu.com/p/e9a832ed6c4c)
 
 # ViewFlipper
 
