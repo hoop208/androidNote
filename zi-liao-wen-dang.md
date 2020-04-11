@@ -6,7 +6,9 @@
 
 [google官方示例](https://developer.android.google.cn/samples/?language=java)
 
-[Intent 和 Intent 过滤器](https://developer.android.google.cn/guide/components/intents-filters)
+[官方文档-Intent 和 Intent 过滤器](https://developer.android.google.cn/guide/components/intents-filters)
+
+[官方文档-界面和导航](https://developer.android.google.cn/guide/topics/ui)
 
 # 资料收集
 
