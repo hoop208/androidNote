@@ -36,6 +36,8 @@
 
 [Activity and Fragment Layouts with AndroidX](https://www.bignerdranch.com/blog/activity-and-fragment-layouts-with-androidx/)
 
+[How AndroidX changes the way we work with Activities and Fragments](https://medium.com/@miloszlewandowski/how-androidx-changes-the-way-we-work-with-activities-and-fragments-73b88d157678)
+
 # 其它
 
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
