@@ -20,7 +20,8 @@
 
 [ViewPager使用详解(一):PagerAdapter](https://www.jianshu.com/p/6fabf634d5bd)  
 [ViewPager使用详解(二):FragmentPagerAdapter](https://www.jianshu.com/p/d86e31dcc97b)
-[ViewPager使用详解(三):FragmentStatePagerAdapter](https://www.jianshu.com/p/043020843899)
+[ViewPager使用详解(三):FragmentStatePagerAdapter](https://www.jianshu.com/p/043020843899)  
+[ViewPager使用详解(四):总结](https://www.jianshu.com/p/1eb18cd08649)
 
 # ViewFlipper
 
