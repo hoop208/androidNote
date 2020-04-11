@@ -41,3 +41,5 @@
 
 [Fragment源码中的七把利刃(上)](https://www.jianshu.com/p/e15c74f86303)
 [Fragment源码中的七把利刃(下)](https://www.jianshu.com/p/0415cc245ee7)
+
+[学不动也要学！探究Fragment延迟加载的前世今生](https://mp.weixin.qq.com/s/i5USps1tGKDDERDQlWkQiw)
