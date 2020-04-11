@@ -23,6 +23,8 @@
 [ViewPager使用详解(三):FragmentStatePagerAdapter](https://www.jianshu.com/p/043020843899)  
 [ViewPager使用详解(四):总结](https://www.jianshu.com/p/1eb18cd08649)
 
+[MagicIndicator系列之一 —— 使用MagicIndicator打造千变万化的ViewPager指示器](https://www.jianshu.com/p/2865812fed41)
+
 # ViewFlipper
 
 使用
