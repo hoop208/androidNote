@@ -10,6 +10,8 @@
 
 [官方文档-界面和导航](https://developer.android.google.cn/guide/topics/ui)
 
+[官方文档-动画和过渡](https://developer.android.google.cn/training/animation)
+
 # 资料收集
 
 [使用浏览器监测okhttp请求响应](https://github.com/adibfara/WatchTower)
