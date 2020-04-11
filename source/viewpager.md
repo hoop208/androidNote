@@ -18,6 +18,8 @@
 
 [巧用ViewPager 打造不一样的广告轮播切换效果](https://blog.csdn.net/lmj623565791/article/details/51339751)
 
+[ViewPager使用详解(一):PagerAdapter](https://www.jianshu.com/p/6fabf634d5bd)
+
 # ViewFlipper
 
 使用
