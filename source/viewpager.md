@@ -25,6 +25,7 @@
 
 [MagicIndicator系列之一 —— 使用MagicIndicator打造千变万化的ViewPager指示器](https://www.jianshu.com/p/2865812fed41)
 [MagicIndicator系列之二 —— MagicIndicator使用指南](https://www.jianshu.com/p/e9a832ed6c4c)
+[MagicIndicator系列之三 —— MagicIndicator原理浅析及扩展MagicIndicator的4种方式](https://www.jianshu.com/p/f3022211821c)
 
 # ViewFlipper
 
