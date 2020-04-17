@@ -15,3 +15,5 @@
 [Handler都没搞懂，拿什么去跳槽啊？！](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872436&idx=1&sn=2d7d57d6c97e4010b0236c0f18b36b27&scene=19#wechat_redirect)
 
 [安卓基础：Handler](https://blog.piasy.com/2017/01/12/Android-Basics-Handler/index.html)
+
+[你真的懂Handler吗？Handler问答](https://www.jianshu.com/p/f70ee1765a61)
