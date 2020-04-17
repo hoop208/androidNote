@@ -8,3 +8,5 @@
 
 [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589/answer/90344494)
 
+[[译] 探索 Android 大杀器——Handler](https://zhuanlan.zhihu.com/p/22904405)
+
