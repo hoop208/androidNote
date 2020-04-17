@@ -14,6 +14,8 @@
 
 [Android 必备知识点 Retrofit的全面讲解](https://mp.weixin.qq.com/s/SJvxtpP5a47NVtH0GW14kw)
 
+[Retrofit2 完全解析 探索与okhttp之间的关系](https://blog.csdn.net/lmj623565791/article/details/51304204)
+
 
 # 源码
 
