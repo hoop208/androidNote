@@ -18,5 +18,7 @@ activitythread:
 
 [ActivityThread的理解和APP的启动过程](https://blog.csdn.net/hzwailll/article/details/85339714)
 
+[Android AMS 架构之 ApplicationThread](https://a284628487.github.io/2017/09/24/Android-AMS-ApplicationThread/)
+
 
 
