@@ -10,6 +10,10 @@
 
 [带你学开源项目：LeakCanary- 如何检测 Activity 是否泄漏](http://wingjay.com/2017/05/14/dig_into_leakcanary/)
 
+[LeakCanary使用及原理](https://www.jianshu.com/p/09431b063bbf)
+
+[「Leakcanary 源码分析」看这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872423&idx=1&sn=36e4b196db47d9139896cc2a0100f172&scene=19#wechat_redirect)
+
 # EventBus
 
 [EventBus 源码解析](http://a.codekk.com/detail/Android/Trinea/EventBus%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
