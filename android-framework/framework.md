@@ -13,6 +13,8 @@ activitythread:
 [ActivityThread](https://www.jianshu.com/p/d8972b4188df)
 
 [Android线程管理（一）——线程通信](https://www.cnblogs.com/younghao/p/5116819.html)  
-[Android线程管理（二）——ActivityThread](https://www.cnblogs.com/younghao/p/5126408.html)
+[Android线程管理（二）——ActivityThread](https://www.cnblogs.com/younghao/p/5126408.html)  
+[Android线程管理（三）——Thread类的内部原理、休眠及唤醒](https://www.cnblogs.com/younghao/p/5141295.html)
+
 
 
