@@ -6,3 +6,5 @@
 
 [一文看穿 Handler](http://yifeiyuan.me/blog/f77487d3.html?nsukey=u83NpFZJ5mcneoFhkbIuTuH3ntMUV85E7Lcxl1jeg8NmHTyZID2RQQ8An9Mc8rvWX5Qtk65t%2FZKiysNiU89fgrF9USjA8cWM08KzwEsj2cZ6vqOfX6T3vefv%2B%2F53mRNeeA%2Fi7%2FOm1tBToYrnkXcmPIBQ%2FlVdcWwxqxZdCjbNOWqCUCyp6pR2YpHWCxMjTp64rN2%2BGJ%2FieQAdMO4wp0YjHg%3D%3D)
 
+[Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589/answer/90344494)
+
