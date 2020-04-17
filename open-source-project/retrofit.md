@@ -12,6 +12,8 @@
 
 [给 Retrofit 嵌套动态代理，高效处理运营打点难题](https://mp.weixin.qq.com/s/NFHNRQM9FAkxZDPbn5M-iA)
 
+[Android 必备知识点 Retrofit的全面讲解](https://mp.weixin.qq.com/s/SJvxtpP5a47NVtH0GW14kw)
+
 
 # 源码
 
