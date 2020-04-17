@@ -47,6 +47,8 @@
 
 [剖析Activity、Window、ViewRootImpl和View之间的关系](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841925&idx=1&sn=7526703823e9e9dd9528433c619d9dd3&scene=19#wechat_redirect)
 
+[3分钟看懂Activity启动流程](https://www.jianshu.com/p/9ecea420eb52)
+
 # 视频教程
 
 [Android-精通Activity](https://www.imooc.com/learn/413)
