@@ -12,3 +12,5 @@ activitythread:
 
 [ActivityThread](https://www.jianshu.com/p/d8972b4188df)
 
+[Android线程管理（一）——线程通信](https://www.cnblogs.com/younghao/p/5116819.html)
+
