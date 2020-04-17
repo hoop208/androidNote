@@ -22,6 +22,8 @@
 
 [基于Android Studio的内存泄漏检测与解决全攻略](https://wetest.qq.com/lab/view/?id=99)
 
+[LeakCanary使用及原理](https://www.jianshu.com/p/09431b063bbf)
+
 # UI性能优化
 
 [blockcanary](https://github.com/markzhai/AndroidPerformanceMonitor)
