@@ -16,5 +16,7 @@ activitythread:
 [Android线程管理（二）——ActivityThread](https://www.cnblogs.com/younghao/p/5126408.html)  
 [Android线程管理（三）——Thread类的内部原理、休眠及唤醒](https://www.cnblogs.com/younghao/p/5141295.html)
 
+[ActivityThread的理解和APP的启动过程](https://blog.csdn.net/hzwailll/article/details/85339714)
+
 
 
