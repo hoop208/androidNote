@@ -18,6 +18,8 @@
 
 [Retrofit2.0使用总结](https://www.jianshu.com/p/3e13e5d34531)
 
+[Android上使用retrofit+okhttp时token失效的处理方案](https://www.jianshu.com/p/62ab11ddacc8)
+
 
 # 源码
 
