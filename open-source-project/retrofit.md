@@ -16,6 +16,8 @@
 
 [Retrofit2 完全解析 探索与okhttp之间的关系](https://blog.csdn.net/lmj623565791/article/details/51304204)
 
+[Retrofit2.0使用总结](https://www.jianshu.com/p/3e13e5d34531)
+
 
 # 源码
 
