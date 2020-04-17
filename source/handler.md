@@ -10,3 +10,4 @@
 
 [[译] 探索 Android 大杀器——Handler](https://zhuanlan.zhihu.com/p/22904405)
 
+[为什么Android的Handler采用管道而不使用Binder？](https://www.zhihu.com/question/44329366/answer/97794649)
