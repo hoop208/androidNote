@@ -34,6 +34,7 @@
 
 [Android IPC机制（四）用ContentProvider进行进程间通信](http://liuwangshu.cn/application/ipc/4-contentprovider.html)
 
+[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html)
 
 
 
