@@ -28,6 +28,8 @@
 
 [Android IPC机制（一）开启多进程](http://liuwangshu.cn/application/ipc/1-process-start.html)
 
+[Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)
+
 
 
 
