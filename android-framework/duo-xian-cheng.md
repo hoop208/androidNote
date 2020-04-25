@@ -36,6 +36,8 @@
 
 [写给 Android 应用工程师的 Binder 原理剖析](https://zhuanlan.zhihu.com/p/35519585)
 
+[从 Android 6.0 源码的角度剖析 Binder 工作原理 | CSDN 博文精选](https://mp.weixin.qq.com/s/zdrIOqCBIofAjEnIck9gOQ)
+
 
 
 
