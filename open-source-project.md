@@ -18,6 +18,8 @@
 
 [Android开发者，是时候了解LeakCanary了](https://mp.weixin.qq.com/s/plD0g16u0VEqVXDQJrhhpA)
 
+[LeakCanary，30分钟从入门到精通](https://www.jianshu.com/p/1e7e9b576391)
+
 # EventBus
 
 [EventBus 源码解析](http://a.codekk.com/detail/Android/Trinea/EventBus%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
