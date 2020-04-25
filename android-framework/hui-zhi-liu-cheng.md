@@ -26,3 +26,5 @@
 
 [Android中GPU硬件加速控制及其在2D图形绘制上的局限](https://blog.csdn.net/iispring/article/details/49835061)
 
+[Android硬件加速原理与实现简介](https://zhuanlan.zhihu.com/p/25477828)
+
