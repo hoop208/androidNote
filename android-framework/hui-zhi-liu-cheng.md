@@ -30,3 +30,5 @@
 
 [理解Android硬件加速的小白文](https://juejin.im/post/5a1f7b3e6fb9a0451b0451bb#heading-3)
 
+[Android 中的 Hardware Layer 详解 | 开发者说·DTalk](https://mp.weixin.qq.com/s/z-eH1o9Bc0_Cijp2T-qcSg)
+
