@@ -28,3 +28,5 @@
 
 [Android硬件加速原理与实现简介](https://zhuanlan.zhihu.com/p/25477828)
 
+[理解Android硬件加速的小白文](https://juejin.im/post/5a1f7b3e6fb9a0451b0451bb#heading-3)
+
