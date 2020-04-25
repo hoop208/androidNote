@@ -61,7 +61,7 @@
   * [Android Q](xi-tong-xin-te-602726-shi-pei/android-q.md)
 * [性能优化](xing-neng-you-hua.md)
   * [界面优化](xing-neng-you-hua/jie-mian-you-hua.md)
-  * 内存优化
+  * [内存优化](xing-neng-you-hua/nei-cun-you-hua.md)
 * [热更新](re-geng-xin.md)
 * [知识点](zhi-shi-dian.md)
 * [kotlin](kotlin.md)
