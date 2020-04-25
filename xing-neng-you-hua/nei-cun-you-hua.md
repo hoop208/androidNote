@@ -25,7 +25,6 @@ LeakCanary:
 [LeakCanary，30分钟从入门到精通](https://www.jianshu.com/p/1e7e9b576391)
 
 
-
 # 内存优化
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
