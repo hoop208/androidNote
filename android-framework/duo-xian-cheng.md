@@ -40,6 +40,8 @@
 
 [Android Binder机制浅析](https://blog.csdn.net/singwhatiwanna/article/details/19756201)
 
+[从信息传递的角度来看Android中的广播和Binder](https://mp.weixin.qq.com/s/Jdgdq_PzKbI9hdGRPyNRBw)
+
 
 
 
