@@ -22,3 +22,14 @@
 
 [BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
 
+# ANR
+
+工具
+
+[ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog)
+
+
+知识点
+
+[如何分析解决Android ANR](https://blog.csdn.net/dadoneo/article/details/8270107)
+

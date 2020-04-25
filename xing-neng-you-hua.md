@@ -26,17 +26,6 @@
 
 [Android内存优化（使用SparseArray和ArrayMap代替HashMap）](https://blog.csdn.net/u010687392/article/details/47809295)
 
-# ANR
-
-工具
-
-[ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog)
-
-
-知识点
-
-[如何分析解决Android ANR](https://blog.csdn.net/dadoneo/article/details/8270107)
-
 # 其它
 
 [Category: Android:Performance](http://hukai.me/blog/categories/android-performance/)
