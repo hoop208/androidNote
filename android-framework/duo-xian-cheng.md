@@ -14,7 +14,6 @@
 
 [Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)
 
-
 # AIDL
 
 [Android aidl Binder框架浅析](https://blog.csdn.net/lmj623565791/article/details/38461079)
@@ -24,6 +23,10 @@
 [Android学习笔记——AS中使用AIDL](https://zhuanlan.zhihu.com/p/31460556)
 
 [android跨进程通信（IPC）：使用AIDL](https://blog.csdn.net/singwhatiwanna/article/details/17041691)
+
+# IPC
+
+[Android IPC机制（一）开启多进程](http://liuwangshu.cn/application/ipc/1-process-start.html)
 
 
 
