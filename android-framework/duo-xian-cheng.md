@@ -38,6 +38,8 @@
 
 [从 Android 6.0 源码的角度剖析 Binder 工作原理 | CSDN 博文精选](https://mp.weixin.qq.com/s/zdrIOqCBIofAjEnIck9gOQ)
 
+[Android Binder机制浅析](https://blog.csdn.net/singwhatiwanna/article/details/19756201)
+
 
 
 
