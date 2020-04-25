@@ -22,3 +22,7 @@
 
 [安卓基础：View 绘制](https://blog.piasy.com/2017/01/19/Android-Basics-View-draw-procedure/index.html)
 
+# 硬件加速
+
+[Android中GPU硬件加速控制及其在2D图形绘制上的局限](https://blog.csdn.net/iispring/article/details/49835061)
+
