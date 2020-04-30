@@ -42,6 +42,7 @@
 
 [关于使用 Android MVVM + LiveData 模式的一些建议](https://zhuanlan.zhihu.com/p/33206893)
 
+[Stateful.Live.Data](https://medium.com/swlh/stateful-live-data-d484799da63c)
 
 
 # Room
