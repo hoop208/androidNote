@@ -9,6 +9,8 @@
 [Android OKHttp使用详解
 ](https://www.jianshu.com/p/2663ce3da0db)
 
+[OkHttp必须弄清楚的几个原理性问题](https://juejin.im/post/5e185d3c6fb9a02ff254a44c)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
