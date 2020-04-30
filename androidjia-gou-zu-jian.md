@@ -44,6 +44,8 @@
 
 [Stateful.Live.Data](https://medium.com/swlh/stateful-live-data-d484799da63c)
 
+[SingleLiveEvent to help you work with LiveData and events](https://proandroiddev.com/singleliveevent-to-help-you-work-with-livedata-and-events-5ac519989c70)
+
 
 # Room
 
