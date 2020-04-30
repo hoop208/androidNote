@@ -88,6 +88,9 @@
 
 [十分钟Android中的嵌套滚动机制](https://www.jianshu.com/p/bc6d703e7ca9)
 
+[嵌套滚动设计和源码分析
+VerticalNestedScrollLayout 的使用](https://blog.klmobile.app/2018/04/03/vertical-nested-scroll-layout/)
+
 # CardView
 
 使用
