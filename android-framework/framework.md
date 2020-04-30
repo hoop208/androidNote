@@ -20,5 +20,7 @@ activitythread:
 
 [Android AMS 架构之 ApplicationThread](https://a284628487.github.io/2017/09/24/Android-AMS-ApplicationThread/)
 
+[ActivityThread的main方法究竟做了什么？](https://www.jianshu.com/p/0efc71f349c8)
+
 
 
