@@ -42,6 +42,8 @@
 
 [关于使用 Android MVVM + LiveData 模式的一些建议](https://zhuanlan.zhihu.com/p/33206893)
 
+
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
