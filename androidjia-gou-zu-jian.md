@@ -36,6 +36,8 @@
 
 [MediatorLiveData to the Rescue](https://proandroiddev.com/mediatorlivedata-to-the-rescue-5d27645b9bc3)
 
+[Android应用结构之LiveData](https://www.jianshu.com/p/87aa6464412b)
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
