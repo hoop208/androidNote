@@ -38,6 +38,8 @@
 
 [Android应用结构之LiveData](https://www.jianshu.com/p/87aa6464412b)
 
+[Android LiveData 使用详解](https://blog.csdn.net/gdutxiaoxu/article/details/86660760)
+
 # Room
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
