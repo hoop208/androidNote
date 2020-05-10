@@ -5,3 +5,5 @@
 [聊聊协程的发展历程](https://www.jianshu.com/p/cef5ddeb84ff)
 
 [我是一个协程](https://mp.weixin.qq.com/s/ZmW5xlp5lKzofUTbcmnUMA)
+
+[在 Android 开发中使用协程 | 背景介绍](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652052998&idx=2&sn=18715a7e33b7f7a5878bd301e9f8f935&scene=21#wechat_redirect)
