@@ -14,3 +14,5 @@
 # Flow
 
 [Kotlin Coroutines Flow 系列(一) Flow 基本使用](https://www.jianshu.com/p/fe1293e8f15c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Kotlin Coroutines Flow 系列(二) Flow VS RxJava2
+](https://www.jianshu.com/p/f2203227dabf)
