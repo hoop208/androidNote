@@ -8,6 +8,10 @@
 
 [深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
 
+# 经验分享
+
+[(连载)Android 8.0 : 如何下载和阅读Android源码](https://juejin.im/post/59ec35f8f265da4307026b79)
+
 # 文档
 
 [aosp-官方文档](https://source.android.google.cn/)
