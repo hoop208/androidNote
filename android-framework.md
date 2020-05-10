@@ -16,6 +16,8 @@
 
 Android的设计与实现(京东读书)
 
+京东读书-深入理解android内核设计思想(第二版)
+
 # 知识点
 
 [RemoteView概述](https://www.cnblogs.com/playing/archive/2011/04/22/2024775.html)
