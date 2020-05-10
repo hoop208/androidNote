@@ -7,3 +7,4 @@
 [我是一个协程](https://mp.weixin.qq.com/s/ZmW5xlp5lKzofUTbcmnUMA)
 
 [在 Android 开发中使用协程 | 背景介绍](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652052998&idx=2&sn=18715a7e33b7f7a5878bd301e9f8f935&scene=21#wechat_redirect)
+[在 Android 开发中使用协程 | 上手指南](https://mp.weixin.qq.com/s/kPvWOCkMjYRKJSTX4I5VKg)
