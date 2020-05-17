@@ -17,3 +17,5 @@
 [安卓基础：Handler](https://blog.piasy.com/2017/01/12/Android-Basics-Handler/index.html)
 
 [你真的懂Handler吗？Handler问答](https://www.jianshu.com/p/f70ee1765a61)
+
+[Handler之同步屏障机制(sync barrier)](https://blog.csdn.net/asdgbc/article/details/79148180)
