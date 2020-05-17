@@ -22,6 +22,8 @@
 
 [安卓基础：View 绘制](https://blog.piasy.com/2017/01/19/Android-Basics-View-draw-procedure/index.html)
 
+[Android 自定义 View——invalidate 传递与绘制流程分析](https://juejin.im/entry/57a14258128fe1005451e4cb)
+
 # 硬件加速
 
 [Android中GPU硬件加速控制及其在2D图形绘制上的局限](https://blog.csdn.net/iispring/article/details/49835061)
