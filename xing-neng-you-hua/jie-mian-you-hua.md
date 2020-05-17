@@ -33,3 +33,7 @@
 
 [如何分析解决Android ANR](https://blog.csdn.net/dadoneo/article/details/8270107)
 
+# 启动优化
+
+[Android App 启动优化全记录](https://www.androidperformance.com/2019/11/18/Android-App-Lunch-Optimize/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
