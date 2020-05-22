@@ -12,6 +12,10 @@
 
 [Android R.java类的手动生成](https://blog.csdn.net/ccpat/article/details/50738811)
 
+# Multidex
+
+[Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
+
 
 
 
