@@ -9,3 +9,5 @@
 # BugReport
 
 [BugReport 分析利器 ChkBugReport](https://www.jianshu.com/p/9c4a8642ccbf)
+
+[A command line tool which parses and converts android bugreport files into more human readable html reports.](https://github.com/sonyxperiadev/ChkBugReport)
