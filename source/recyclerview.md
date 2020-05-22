@@ -51,6 +51,8 @@
 
 [Myers 差分算法 —— Android DiffUtils 之实现（二）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872405&idx=1&sn=9354627aba0a89670244f7a4f64d0997&scene=19#wechat_redirect)
 
+[Simple, Functional Async RecyclerView Diffing](https://proandroiddev.com/simple-functional-async-recyclerview-diffing-4ee0a135f68b)
+
 # 例子
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
