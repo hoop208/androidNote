@@ -24,5 +24,7 @@
 
 [谈谈MultiDex启动优化](https://neyoufan.github.io/2017/01/20/android/Multidex%E5%8A%A0%E9%80%9F/)
 
+[Android Multidex导致的App启动缓慢](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-39/Android%20dex%E5%88%86%E5%8C%85%E5%AF%BC%E8%87%B4%E7%9A%84App%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%B8%8B%E9%99%8D.md)
+
 
 
