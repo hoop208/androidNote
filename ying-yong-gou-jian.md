@@ -18,6 +18,7 @@
 
 [Multidex（一）之源码解析](https://www.jianshu.com/p/e164ee033928)
 
+[Multidex（二）之Dex预加载优化](https://www.jianshu.com/p/2891599511ff)
 
 
 
