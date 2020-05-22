@@ -40,4 +40,5 @@
 
 [Android 中如何计算 App 的启动时间？](https://www.androidperformance.com/2015/12/31/How-to-calculation-android-app-lunch-time/)
 
+[Android 应用启动优化 - 一种 DelayLoad 的实现和原理(上篇)](https://www.androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load/#1-%E4%BC%98%E5%8C%96%E5%90%8E%E7%9A%84DelayLoad%E7%9A%84%E5%AE%9E%E7%8E%B0)
 [Android 应用启动优化:一种 DelayLoad 的实现和原理(下篇)](https://www.androidperformance.com/2015/12/29/Android%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E4%BC%98%E5%8C%96-%E4%B8%80%E7%A7%8DDelayLoad%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%92%8C%E5%8E%9F%E7%90%86-%E4%B8%8B%E7%AF%87/)
