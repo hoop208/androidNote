@@ -22,5 +22,7 @@
 
 [MultiDex（三）之异步加载优化](https://www.jianshu.com/p/50019766e893)
 
+[谈谈MultiDex启动优化](https://neyoufan.github.io/2017/01/20/android/Multidex%E5%8A%A0%E9%80%9F/)
+
 
 
