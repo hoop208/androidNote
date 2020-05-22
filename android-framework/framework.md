@@ -26,5 +26,7 @@ activitythread:
 
 [Android启动过程剖析-深入浅出](https://juejin.im/post/5b3885d96fb9a00e687a0708)
 
+[Read Android Source - Activity Thread at Cold Start](https://programming.vip/docs/read-android-source-activity-thread-at-cold-start.html)
+
 
 
