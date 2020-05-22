@@ -14,6 +14,8 @@
 
 [Android Framework 如何学习，如何从应用深入到Framework？](https://www.zhihu.com/question/46486807/answer/122513260)
 
+[如何阅读源码？](https://mp.weixin.qq.com/s/Jrn8WzabaDX8hxoal3MzUw)
+
 # 文档
 
 [aosp-官方文档](https://source.android.google.cn/)
