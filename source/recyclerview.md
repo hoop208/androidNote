@@ -43,6 +43,8 @@
 
 [RecyclerView Optimisations](https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d)
 
+[RecyclerView你不知道的优化点](https://mp.weixin.qq.com/s/OsxRGgQ1ZO4UxbF56vlayA)
+
 # 例子
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
