@@ -28,10 +28,11 @@
 
 [ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog)
 
-
 知识点
 
 [如何分析解决Android ANR](https://blog.csdn.net/dadoneo/article/details/8270107)
+
+[Android ANR 分析解决方法](https://www.cnblogs.com/purediy/p/3225060.html)
 
 # 启动优化
 
