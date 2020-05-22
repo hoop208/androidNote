@@ -34,6 +34,8 @@
 
 [Android ANR 分析解决方法](https://www.cnblogs.com/purediy/p/3225060.html)
 
+[说说Android中的ANR](https://droidyue.com/blog/2015/07/18/anr-in-android/)
+
 # 启动优化
 
 [Android App 启动优化全记录](https://www.androidperformance.com/2019/11/18/Android-App-Lunch-Optimize/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
