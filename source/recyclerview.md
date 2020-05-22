@@ -45,6 +45,10 @@
 
 [RecyclerView你不知道的优化点](https://mp.weixin.qq.com/s/OsxRGgQ1ZO4UxbF56vlayA)
 
+# DiffUtil
+
+[Myers 差分算法 (Myers Difference Algorithm) —— DiffUtils 之核心算法（一）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872403&idx=1&sn=4aa65e0479a435bba72eadf2c35192fd&scene=19#wechat_redirect)
+
 # 例子
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
