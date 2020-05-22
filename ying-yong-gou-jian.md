@@ -20,5 +20,7 @@
 
 [Multidex（二）之Dex预加载优化](https://www.jianshu.com/p/2891599511ff)
 
+[MultiDex（三）之异步加载优化](https://www.jianshu.com/p/50019766e893)
+
 
 
