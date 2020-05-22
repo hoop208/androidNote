@@ -16,7 +16,8 @@
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
 
-[https://www.jianshu.com/p/e164ee033928](https://www.jianshu.com/p/e164ee033928)
+[Multidex（一）之源码解析
+](https://www.jianshu.com/p/e164ee033928)
 
 
 
