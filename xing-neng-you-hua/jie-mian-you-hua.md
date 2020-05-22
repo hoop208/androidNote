@@ -37,3 +37,5 @@
 
 [Android App 启动优化全记录](https://www.androidperformance.com/2019/11/18/Android-App-Lunch-Optimize/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+
+[Android 中如何计算 App 的启动时间？](https://www.androidperformance.com/2015/12/31/How-to-calculation-android-app-lunch-time/)
