@@ -10,6 +10,8 @@
 
 [[干货]如何阅读Android系统源码－收藏必备](https://www.jianshu.com/p/b3580904d298)
 
+[了解Android的Framework层对工作有什么帮助吗？](https://www.zhihu.com/question/350047125/answer/859822575)
+
 # 文档
 
 [aosp-官方文档](https://source.android.google.cn/)
