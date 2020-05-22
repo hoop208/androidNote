@@ -22,5 +22,9 @@ activitythread:
 
 [ActivityThread的main方法究竟做了什么？](https://www.jianshu.com/p/0efc71f349c8)
 
+应用启动流程:
+
+[Android启动过程剖析-深入浅出](https://juejin.im/post/5b3885d96fb9a00e687a0708)
+
 
 
