@@ -15,3 +15,5 @@
 # 其它
 
 [Matrix is a plugin style, non-invasive APM system developed by WeChat.](https://github.com/Tencent/matrix)
+
+[基于 Facebook Redex 实现 Android APK 的压缩和优化](https://www.jianshu.com/p/78ad578251ef)
