@@ -12,6 +12,8 @@
 
 [了解Android的Framework层对工作有什么帮助吗？](https://www.zhihu.com/question/350047125/answer/859822575)
 
+[Android Framework 如何学习，如何从应用深入到Framework？](https://www.zhihu.com/question/46486807/answer/122513260)
+
 # 文档
 
 [aosp-官方文档](https://source.android.google.cn/)
