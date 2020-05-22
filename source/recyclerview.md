@@ -55,6 +55,8 @@
 
 [AsyncListDiffer-RecyclerView最好的伙伴](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872382&idx=1&sn=5f7add8c8dd09c7aa24a12a0c32650f2&scene=19#wechat_redirect)
 
+[Get Threading Right with DiffUtil](https://jonfhancock.com/get-threading-right-with-diffutil-423378e126d2)
+
 # 例子
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
