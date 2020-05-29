@@ -38,3 +38,5 @@
 [Retrofit2 源码解析](https://www.jianshu.com/p/c1a3a881a144)
 
 [Retrofit分析-经典设计模式案例](https://www.jianshu.com/p/fb8d21978e38)
+
+[拆轮子系列：拆 Retrofit](https://blog.piasy.com/2016/06/25/Understand-Retrofit/index.html)
