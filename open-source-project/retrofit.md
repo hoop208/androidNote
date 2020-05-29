@@ -25,5 +25,7 @@
 
 [Retrofit cancelling multiple API calls](https://proandroiddev.com/retrofit-cancelling-multiple-api-calls-4dc6b7dc0bbd)
 
+[Building your own Retrofit Call Adapter](https://android.jlelse.eu/building-your-own-retrofit-call-adapter-b198169bab69)
+
 # 源码
 
