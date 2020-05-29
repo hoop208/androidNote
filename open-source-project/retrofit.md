@@ -22,6 +22,7 @@
 
 [Caching With Retrofit — Store Responses Offline](https://medium.com/@bapspatil/caching-with-retrofit-store-responses-offline-71439ed32fda)
 
+[Retrofit review](https://medium.com/@con.fotiadis/retrofit-review-9a27f719a87f)
 
 # 源码
 
