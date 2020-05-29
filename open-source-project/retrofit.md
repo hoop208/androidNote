@@ -27,5 +27,7 @@
 
 [Building your own Retrofit Call Adapter](https://android.jlelse.eu/building-your-own-retrofit-call-adapter-b198169bab69)
 
+[Retrofit详解(上)](https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3(%E4%B8%8A).md)
+
 # 源码
 
