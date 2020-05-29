@@ -23,5 +23,7 @@
 
 [Retrofit review](https://medium.com/@con.fotiadis/retrofit-review-9a27f719a87f)
 
+[Retrofit cancelling multiple API calls](https://proandroiddev.com/retrofit-cancelling-multiple-api-calls-4dc6b7dc0bbd)
+
 # 源码
 
