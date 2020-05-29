@@ -36,3 +36,5 @@
 [Retrofit 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/tool-lib/network/retrofit)
 
 [Retrofit2 源码解析](https://www.jianshu.com/p/c1a3a881a144)
+
+[Retrofit分析-经典设计模式案例](https://www.jianshu.com/p/fb8d21978e38)
