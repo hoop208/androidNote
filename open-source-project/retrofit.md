@@ -30,6 +30,7 @@
 [Retrofit详解(上)](https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3(%E4%B8%8A).md)  
 [Retrofit详解(下)](https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3(%E4%B8%8B).md)
 
+[【腾讯Bugly干货分享】深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](https://zhuanlan.zhihu.com/p/24109629)
 
 # 源码
 
