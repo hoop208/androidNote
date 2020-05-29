@@ -6,6 +6,8 @@
 
 [Mastering RecyclerView Layouts](https://www.bilibili.com/video/av24560930?from=search&seid=3815880888118546052)
 
+[RecyclerView Animations and Behind the Scenes (Android Dev Summit 2015)](https://www.youtube.com/watch?v=imsr8NrIAMs&t=1s)
+
 # 知识点
 
 [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
