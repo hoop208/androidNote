@@ -20,6 +20,8 @@
 
 [Android上使用retrofit+okhttp时token失效的处理方案](https://www.jianshu.com/p/62ab11ddacc8)
 
+[Caching With Retrofit — Store Responses Offline](https://medium.com/@bapspatil/caching-with-retrofit-store-responses-offline-71439ed32fda)
+
 
 # 源码
 
