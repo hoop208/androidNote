@@ -15,6 +15,8 @@
 
 [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/index.html)
 
+[OkHttp踩坑记：为何 response.body().string() 只能调用一次？](https://segmentfault.com/a/1190000012740215)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
