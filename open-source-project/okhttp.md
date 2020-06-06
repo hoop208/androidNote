@@ -13,6 +13,8 @@
 
 [Okhttp使用详解](https://blog.csdn.net/iispring/article/details/51661195)
 
+[OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/index.html)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
