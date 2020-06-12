@@ -34,6 +34,8 @@
 
 [Maximizing OkHttp connection reuse](https://medium.com/booking-com-development/maximizing-okhttp-connection-reuse-b1f0ad6ec66c)
 
+[OkHttp Interceptor - Making the most of it](https://blog.mindorks.com/okhttp-interceptor-making-the-most-of-it)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
