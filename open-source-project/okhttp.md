@@ -32,6 +32,8 @@
 
 [Reducing your networking footprint with OkHttp, Etags and If-Modified-Since](https://android.jlelse.eu/reducing-your-networking-footprint-with-okhttp-etags-and-if-modified-since-b598b8dd81a1)
 
+[Maximizing OkHttp connection reuse](https://medium.com/booking-com-development/maximizing-okhttp-connection-reuse-b1f0ad6ec66c)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
