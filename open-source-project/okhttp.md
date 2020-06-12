@@ -50,6 +50,7 @@
 [OkHttp 3.7源码分析（一）——整体架构](https://yq.aliyun.com/articles/78105)  
 [OkHttp 3.7源码分析（二）——拦截器&一个实际网络请求的实现](https://yq.aliyun.com/articles/78104?spm=a2c4e.11153940.0.0.58ec5d13xQTptN)
 [OkHttp 3.7源码分析（三）——任务队列](https://yq.aliyun.com/articles/78103?spm=a2c4e.11153940.0.0.41fd52462kcUZG)
+[OkHttp 3.7源码分析（四）——缓存策略](https://yq.aliyun.com/articles/78102?spm=a2c4e.11153940.0.0.7a4d2ae6zFd2ZK)
 
 
 
