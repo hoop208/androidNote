@@ -4,19 +4,6 @@
 
 [BeesAndroid](https://github.com/BeesX/BeesAndroid)
 
-# 文档
-
-[aosp-官方文档](https://source.android.google.cn/)
-
-[深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
-
-
-# 书
-
-Android的设计与实现(京东读书)
-
-京东读书-深入理解android内核设计思想(第二版)
-
 # 知识点
 
 [RemoteView概述](https://www.cnblogs.com/playing/archive/2011/04/22/2024775.html)

@@ -36,8 +36,17 @@ kotlin
 
 [google官方文档_性能与功耗](https://developer.android.google.cn/topic/performance) 
 
+AOSP
+
+[aosp-官方文档](https://source.android.google.cn/)
+
+[深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
+
 # 书籍
 
+Android的设计与实现(京东读书)
+
+京东读书-深入理解android内核设计思想(第二版)
 
 
 
