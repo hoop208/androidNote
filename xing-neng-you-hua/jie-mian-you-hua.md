@@ -38,7 +38,8 @@
 
 原理
 
-[理解Android ANR的触发原理](http://gityuan.com/2016/07/02/android-anr/)
+[理解Android ANR的触发原理](http://gityuan.com/2016/07/02/android-anr/)  
+[Input系统—ANR原理分析](http://gityuan.com/2017/01/01/input-anr/)
 
 # 启动优化
 
