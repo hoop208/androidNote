@@ -47,5 +47,7 @@
 
 [从OKHttp框架看代码设计](https://juejin.im/post/581311cabf22ec0068826aff)
 
+[OkHttp 3.7源码分析（一）——整体架构](https://yq.aliyun.com/articles/78105)
+
 
 
