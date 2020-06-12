@@ -28,6 +28,8 @@
 
 [OkHttp is quietly retrying requests. Is your API ready?](https://medium.com/inloopx/okhttp-is-quietly-retrying-requests-is-your-api-ready-19489ef35ace)
 
+[Learn to use WebSockets on Android with OkHttp](https://medium.com/@ssaurel/learn-to-use-websockets-on-android-with-okhttp-ba5f00aea988)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
