@@ -30,6 +30,8 @@
 
 [Learn to use WebSockets on Android with OkHttp](https://medium.com/@ssaurel/learn-to-use-websockets-on-android-with-okhttp-ba5f00aea988)
 
+[Reducing your networking footprint with OkHttp, Etags and If-Modified-Since](https://android.jlelse.eu/reducing-your-networking-footprint-with-okhttp-etags-and-if-modified-since-b598b8dd81a1)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
