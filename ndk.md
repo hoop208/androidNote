@@ -16,3 +16,5 @@
 [使用JNI进行Java与C/C++语言混合编程(2)--在C/C++中调用Java代码](https://www.cnblogs.com/icejoywoo/archive/2012/02/24/2367116.html)
 
 [与 .so 有关的一个长年大坑](https://zhuanlan.zhihu.com/p/21359984)
+
+[Android NDK开发-LLDB调试](https://xucanhui.com/2018/07/15/android-ndk-lldb-debug/)
