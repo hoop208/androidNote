@@ -1,18 +1,3 @@
-# 视频教程
-
-[APP性能优化之内存优化](https://www.imooc.com/learn/777)
-
-[布局渲染流程和原理](https://study.163.com/course/courseLearn.htm?courseId=1209536826#/learn/live?lessonId=1279818002&courseId=1209536826)
-
-# 文档
-
-[google官方-性能优化典范](https://www.kancloud.cn/kancloud/android-performance/53237)
-
-[google官方文档_性能与功耗](https://developer.android.google.cn/topic/performance)
-
-
-# 其它
-
 [Category: Android:Performance](http://hukai.me/blog/categories/android-performance/)
 
 [Android StrictMode介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0302/2516.html)

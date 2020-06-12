@@ -67,8 +67,11 @@
 * [知识点](zhi-shi-dian.md)
 * [kotlin](kotlin.md)
   * [协程](kotlin/xie-cheng.md)
-* [资料文档书籍](zi-liao-wen-dang.md)
+* [文档书籍](zi-liao-wen-dang.md)
 * [NDK](ndk.md)
 * [项目学习](xiang-mu-xue-xi.md)
 * [视频教程](shi-pin-jiao-cheng.md)
+* [资料收集](zi-liao-shou-ji.md)
+* [经验分享](jing-yan-fen-xiang.md)
+* [练习](lian-xi.md)
 

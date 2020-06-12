@@ -1,5 +1,7 @@
 # 文档
 
+其它
+
 [Android官方培训课程中文版](http://wiki.jikexueyuan.com/project/android-training-geek/)
 
 [Android开发书籍推荐：从入门到精通系列学习路线书籍介绍](https://www.diycode.cc/wiki/androidbook)
@@ -12,59 +14,31 @@
 
 [官方文档-动画和过渡](https://developer.android.google.cn/training/animation)
 
-# 资料收集
+ndk
 
-[使用浏览器监测okhttp请求响应](https://github.com/adibfara/WatchTower)
+[极客学院-android ndk开发教程](http://wiki.jikexueyuan.com/project/android-ndk-development-tutorial/)
 
-[android开发书籍](http://www.jizhuomi.com/android/book/)
+[Android NDK开发学习](https://www.kancloud.cn/digest/zlndk/145320)
 
-[GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频](https://github.com/open-android/Android)
+[JNI/NDK 开发指南](http://wiki.jikexueyuan.com/project/jni-ndk-developer-guide/)
 
-[View辅助工具包，帮助你快速优雅的完成自定义View](https://github.com/GcsSloop/ViewSupport)
+kotlin
 
-[收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等](https://github.com/inferjay/AndroidDevTools)
+[菜鸟教程-Kotlin 教程](http://www.runoob.com/kotlin/kotlin-tutorial.html)
 
-[安卓架构文章合集](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
+[Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
 
-[Simplify Android M system permissions](https://github.com/googlesamples/easypermissions)
+[kotlin-参考](https://www.kotlincn.net/docs/reference/)
 
-# 经验分享
+性能优化
 
-[一系列Android进阶文章。持续更新中](https://github.com/SusionSuc/AdvancedAndroid)
+[google官方-性能优化典范](https://www.kancloud.cn/kancloud/android-performance/53237)
 
-[最全面的 Material Design 学习资料](https://github.com/Luosunce/material-design-data)
+[google官方文档_性能与功耗](https://developer.android.google.cn/topic/performance) 
 
-[掘金翻译计划](https://github.com/xitu/gold-miner/blob/master/android.md)
+# 书籍
 
-[Android学习路线：如何成长为高级工程师](https://blog.csdn.net/singwhatiwanna/article/details/42343847)
 
-[Android程序员的Java后台学习建议](https://juejin.im/post/5c3b136a6fb9a049f1546ea5)
-
-[Android学习路线指南](https://blog.csdn.net/singwhatiwanna/article/details/49560409)
-
-[阅读ANDROID源码的一些姿势](https://zhuanlan.zhihu.com/p/20564614)
-
-[android学习笔记](https://github.com/francistao/LearningNotes)
-
-[Android框架浅析](https://blog.csdn.net/qinjuning/column/info/qinjuning-and-2)
-
-[Android开发进阶](https://www.jianshu.com/p/6aea80e1fa22)
-
-[Android study notes.](https://github.com/CharonChui/AndroidNote)
-
-[ 一系列Android进阶文章。持续更新中.....](https://github.com/SusionSuc/AdvancedAndroid)
-
-[记录一个自己的知识库](https://github.com/suzeyu1992/repo)
-
-[Android开发总结](https://github.com/JohnTsaiAndroid/AndroidTips)
-
-[Android学习笔记](https://github.com/CharonChui/AndroidNote)
-
-[Android开发技术前线](https://github.com/hehonghui/android-tech-frontier)
-
-[Android 开发规范（完结版）](https://juejin.im/post/5a24ec145188254dd9363b81)
-
-[用文字记录自己的编程人生](https://github.com/qingmei2/android-programming-profile)
 
 
 
