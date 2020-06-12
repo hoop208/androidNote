@@ -16,6 +16,8 @@
 
 [OkHttp踩坑记：为何 response.body().string() 只能调用一次？](https://segmentfault.com/a/1190000012740215)
 
+[OkHttp’s New URL Class](https://medium.com/square-corner-blog/okhttps-new-url-class-515460eea661)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
