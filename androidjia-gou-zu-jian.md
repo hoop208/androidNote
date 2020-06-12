@@ -1,14 +1,6 @@
-# 视频教程
-
-[架构组件之 ViewModel 介绍](https://www.youtube.com/watch?v=mpO-aEXhX78)
-
-# 资料
+## 资料
 
 [使用架构组件构建应用](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components-cn/index.html?index=..%2F..gddchina#0)
-
-# 文档
-
-[官方文档](https://developer.android.google.cn/topic/libraries/architecture)
 
 # 博客
 

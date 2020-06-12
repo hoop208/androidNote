@@ -8,6 +8,8 @@
 
 [90分钟了解Glide框架核心原理并手写实现](https://study.163.com/course/courseLearn.htm?courseId=1209536826#/learn/live?lessonId=1279800978&courseId=1209536826)
 
+[架构组件之 ViewModel 介绍](https://www.youtube.com/watch?v=mpO-aEXhX78)
+
 # NDK
 
 [Android-NDK入门](https://www.imooc.com/learn/411)  
