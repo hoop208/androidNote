@@ -22,6 +22,8 @@
 
 [ANDROID SSL PINNING USING OKHTTP](https://medium.com/@develodroid/android-ssl-pinning-using-okhttp-ca1239065616)
 
+[How does Android OkHttp cache work?](https://medium.com/@I_Love_Coding/how-does-okhttp-cache-works-851d37dd29cd)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
