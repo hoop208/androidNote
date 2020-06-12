@@ -24,6 +24,8 @@
 
 [How does Android OkHttp cache work?](https://medium.com/@I_Love_Coding/how-does-okhttp-cache-works-851d37dd29cd)
 
+[OkHttp & OAuth: Token Refreshes](https://blog.coinbase.com/okhttp-oauth-token-refreshes-b598f55dd3b2)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
