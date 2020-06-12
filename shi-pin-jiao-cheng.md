@@ -2,6 +2,8 @@
 
 [okhttp的使用](https://www.imooc.com/learn/764)
 
+[android屏幕适配全攻略](https://www.imooc.com/learn/484)
+
 # NDK
 
 [Android-NDK入门](https://www.imooc.com/learn/411)  
