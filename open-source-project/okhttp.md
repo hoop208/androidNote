@@ -20,6 +20,8 @@
 
 [聊聊OkHttp实现WebSocket细节，包括鉴权和长连接保活及其原理！](https://mp.weixin.qq.com/s/fqwt5TgZ9alZ431e-_i_-w)
 
+[ANDROID SSL PINNING USING OKHTTP](https://medium.com/@develodroid/android-ssl-pinning-using-okhttp-ca1239065616)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
