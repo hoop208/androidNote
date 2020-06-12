@@ -3,6 +3,7 @@
 [OKHTTP之缓存配置详解](https://blog.csdn.net/briblue/article/details/52920531)
 
 [文加图, 理解Http请求与响应](https://www.jianshu.com/p/51a61845e66a#)  
+
 [OkHttp使用完全教程](https://www.jianshu.com/p/ca8a982a116b)
 
 [Android OKHttp使用详解
@@ -43,6 +44,8 @@
 # 源码学习
 
 [拆轮子系列：拆 OkHttp](https://blog.piasy.com/2016/07/11/Understand-OkHttp/index.html)
+
+[从OKHttp框架看代码设计](https://juejin.im/post/581311cabf22ec0068826aff)
 
 
 
