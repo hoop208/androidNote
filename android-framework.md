@@ -4,18 +4,6 @@
 
 [BeesAndroid](https://github.com/BeesX/BeesAndroid)
 
-# 经验分享
-
-[(连载)Android 8.0 : 如何下载和阅读Android源码](https://juejin.im/post/59ec35f8f265da4307026b79)
-
-[[干货]如何阅读Android系统源码－收藏必备](https://www.jianshu.com/p/b3580904d298)
-
-[了解Android的Framework层对工作有什么帮助吗？](https://www.zhihu.com/question/350047125/answer/859822575)
-
-[Android Framework 如何学习，如何从应用深入到Framework？](https://www.zhihu.com/question/46486807/answer/122513260)
-
-[如何阅读源码？](https://mp.weixin.qq.com/s/Jrn8WzabaDX8hxoal3MzUw)
-
 # 文档
 
 [aosp-官方文档](https://source.android.google.cn/)

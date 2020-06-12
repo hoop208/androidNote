@@ -49,6 +49,18 @@
 [用 Kotlin 开发 Android 项目是一种什么样的感受？](https://www.jianshu.com/p/8a1fce6fa93a)
 [用 Kotlin 开发 Android 项目是一种什么样的感受？（二）](https://www.jianshu.com/p/b444aea1b038)
 
+# AOSP
+
+[(连载)Android 8.0 : 如何下载和阅读Android源码](https://juejin.im/post/59ec35f8f265da4307026b79)
+
+[[干货]如何阅读Android系统源码－收藏必备](https://www.jianshu.com/p/b3580904d298)
+
+[了解Android的Framework层对工作有什么帮助吗？](https://www.zhihu.com/question/350047125/answer/859822575)
+
+[Android Framework 如何学习，如何从应用深入到Framework？](https://www.zhihu.com/question/46486807/answer/122513260)
+
+[如何阅读源码？](https://mp.weixin.qq.com/s/Jrn8WzabaDX8hxoal3MzUw)
+
 
 
 
