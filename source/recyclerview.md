@@ -1,13 +1,3 @@
-# 视频教程
-
-[使用recyclerview优雅实现复杂列表](https://www.imooc.com/learn/731)
-
-[RecyclerView ins and outs - Google I/O 2016](https://www.youtube.com/watch?v=LqBlYJTfLP4)
-
-[Mastering RecyclerView Layouts](https://www.bilibili.com/video/av24560930?from=search&seid=3815880888118546052)
-
-[RecyclerView Animations and Behind the Scenes (Android Dev Summit 2015)](https://www.youtube.com/watch?v=imsr8NrIAMs&t=1s)
-
 # 知识点
 
 [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
@@ -58,9 +48,6 @@
 [RecyclerView配合DiffUtil，好用到飞](https://www.jianshu.com/p/b9af71778b0d)
 
 [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
-
-
-
 
 # 例子
 

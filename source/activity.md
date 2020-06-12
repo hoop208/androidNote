@@ -52,9 +52,3 @@
 [3分钟看懂Activity启动流程](https://www.jianshu.com/p/9ecea420eb52)
 
 [理清Activity、View及Window之间关系](https://blog.csdn.net/huachao1001/article/details/51866287)
-
-# 视频教程
-
-[Android-精通Activity](https://www.imooc.com/learn/413)
-
-[Android开发之Activity那些事儿](https://segmentfault.com/ls/1650000018852921)

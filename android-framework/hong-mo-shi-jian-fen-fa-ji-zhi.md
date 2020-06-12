@@ -40,10 +40,3 @@
 
 [Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
 
-# 视频教程
-
-[Mastering the Android Touch System](https://www.bilibili.com/video/av24566744)
-
-[Android事件分发机制](https://www.imooc.com/learn/1155)
-
-
