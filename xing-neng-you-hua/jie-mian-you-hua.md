@@ -40,7 +40,9 @@
 
 [理解Android ANR的触发原理](http://gityuan.com/2016/07/02/android-anr/)  
 [Input系统—ANR原理分析](http://gityuan.com/2017/01/01/input-anr/)  
-[理解Android ANR的信息收集过程](http://gityuan.com/2016/12/02/app-not-response/)
+[理解Android ANR的信息收集过程](http://gityuan.com/2016/12/02/app-not-response/)  
+[彻底理解安卓应用无响应机制
+](http://gityuan.com/2019/04/06/android-anr/)
 
 # 启动优化
 
