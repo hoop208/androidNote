@@ -4,6 +4,10 @@
 
 [android屏幕适配全攻略](https://www.imooc.com/learn/484)
 
+[Retrofit Caching Example and Why it SUCKS](https://www.youtube.com/watch?v=Orrh-Oiap58&feature=youtu.be)
+
+[90分钟了解Glide框架核心原理并手写实现](https://study.163.com/course/courseLearn.htm?courseId=1209536826#/learn/live?lessonId=1279800978&courseId=1209536826)
+
 # NDK
 
 [Android-NDK入门](https://www.imooc.com/learn/411)  

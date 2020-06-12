@@ -42,6 +42,3 @@
 
 [拆轮子系列：拆 Retrofit](https://blog.piasy.com/2016/06/25/Understand-Retrofit/index.html)
 
-# 视频教程
-
-[Retrofit Caching Example and Why it SUCKS](https://www.youtube.com/watch?v=Orrh-Oiap58&feature=youtu.be)
