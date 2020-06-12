@@ -37,10 +37,6 @@
 
 [OkHttp Interceptor - Making the most of it](https://blog.mindorks.com/okhttp-interceptor-making-the-most-of-it)
 
-# 视频教程
-
-[okhttp的使用](https://www.imooc.com/learn/764)
-
 # 源码学习
 
 [拆轮子系列：拆 OkHttp](https://blog.piasy.com/2016/07/11/Understand-OkHttp/index.html)
