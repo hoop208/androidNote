@@ -8,6 +8,8 @@
 
 [Glide vs. Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
 
+[Using Glide ? Few tips to be a pro](https://android.jlelse.eu/using-glide-few-tips-to-be-a-pro-60f41e29d30a)
+
 # 源码
 
 [glide源码详解](http://www.10tiao.com/html/169/201704/2650822526/1.html)
