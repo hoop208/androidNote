@@ -14,6 +14,8 @@
 
 [Adding headers to image request in Glide](https://medium.com/@PaulinaSadowska/adding-headers-to-image-request-in-glide-dc9640ca9b12)
 
+[Glide like a Boss — Advanced Android Glide Tips](https://medium.com/@elvischidera/glide-like-a-boss-advanced-android-glide-tips-d0288ea77de9)
+
 # 源码
 
 [glide源码详解](http://www.10tiao.com/html/169/201704/2650822526/1.html)
