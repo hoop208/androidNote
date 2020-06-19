@@ -21,6 +21,8 @@
 
 [Android 组件化最佳实践 ARetrofit 原理](https://mp.weixin.qq.com/s/TXFt7ymgQXLJyBOJL8F6xg)
 
+[从零开始搭建Android组件化框架](https://www.jianshu.com/p/ba32488f9555)
+
 # 插件化
 
 [DL动态加载框架技术文档](https://blog.csdn.net/singwhatiwanna/article/details/40283117)
