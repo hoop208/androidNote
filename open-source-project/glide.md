@@ -12,6 +12,8 @@
 
 [How to optimize memory consumption when using Glide](https://proandroiddev.com/how-to-optimize-memory-consumption-when-using-glide-9ac984cfe70f)
 
+[Adding headers to image request in Glide](https://medium.com/@PaulinaSadowska/adding-headers-to-image-request-in-glide-dc9640ca9b12)
+
 # 源码
 
 [glide源码详解](http://www.10tiao.com/html/169/201704/2650822526/1.html)
