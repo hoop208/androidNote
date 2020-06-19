@@ -44,6 +44,8 @@
 
 [Android Binder Framework](https://android.jlelse.eu/android-binder-framework-8a28fb38699a)
 
+[彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
+
 
 
 
