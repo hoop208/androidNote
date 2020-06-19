@@ -42,6 +42,8 @@
 
 [从信息传递的角度来看Android中的广播和Binder](https://mp.weixin.qq.com/s/Jdgdq_PzKbI9hdGRPyNRBw)
 
+[Android Binder Framework](https://android.jlelse.eu/android-binder-framework-8a28fb38699a)
+
 
 
 
