@@ -19,6 +19,8 @@
 [Android组件化模块化在移动应用开发中 （序）](https://juejin.im/post/5e4d2256f265da575918d381#heading-5)
 [Android一个人的组件化：组件隔离，模块调试](https://juejin.im/post/5e5f2efde51d4526d43f3b99)
 
+[Android 组件化最佳实践 ARetrofit 原理](https://mp.weixin.qq.com/s/TXFt7ymgQXLJyBOJL8F6xg)
+
 # 插件化
 
 [DL动态加载框架技术文档](https://blog.csdn.net/singwhatiwanna/article/details/40283117)
