@@ -14,6 +14,8 @@
 
 [基于ARouter的Android组件化实现](https://juejin.im/post/5c207bfaf265da61193bd861)
 
+[Android 组件化 —— 路由设计最佳实践](https://www.jianshu.com/p/8a3eeeaf01e8)
+
 # 插件化
 
 [DL动态加载框架技术文档](https://blog.csdn.net/singwhatiwanna/article/details/40283117)
