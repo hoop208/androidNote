@@ -16,6 +16,8 @@
 
 [Android 组件化 —— 路由设计最佳实践](https://www.jianshu.com/p/8a3eeeaf01e8)
 
+[Android组件化模块化在移动应用开发中 （序）](https://juejin.im/post/5e4d2256f265da575918d381#heading-5)
+
 # 插件化
 
 [DL动态加载框架技术文档](https://blog.csdn.net/singwhatiwanna/article/details/40283117)
