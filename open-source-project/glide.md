@@ -14,7 +14,8 @@
 
 [Adding headers to image request in Glide](https://medium.com/@PaulinaSadowska/adding-headers-to-image-request-in-glide-dc9640ca9b12)
 
-[Glide like a Boss — Advanced Android Glide Tips](https://medium.com/@elvischidera/glide-like-a-boss-advanced-android-glide-tips-d0288ea77de9)
+[Glide like a Boss — Advanced Android Glide Tips](https://medium.com/@elvischidera/glide-like-a-boss-advanced-android-glide-tips-d0288ea77de9)  
+[Loading Images From JSON Response — Advanced Android Glide Tips Part 2](https://codeburst.io/loading-images-from-json-response-advanced-android-glide-tips-part-2-47150772151c)
 
 # 源码
 
