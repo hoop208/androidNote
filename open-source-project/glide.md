@@ -6,6 +6,8 @@
 
 [Best strategy to load images using Glide — Image loading library for Android](https://android.jlelse.eu/best-strategy-to-load-images-using-glide-image-loading-library-for-android-e2b6ba9f75b2)
 
+[Glide vs. Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
+
 # 源码
 
 [glide源码详解](http://www.10tiao.com/html/169/201704/2650822526/1.html)
