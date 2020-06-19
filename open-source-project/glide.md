@@ -10,6 +10,8 @@
 
 [Using Glide ? Few tips to be a pro](https://android.jlelse.eu/using-glide-few-tips-to-be-a-pro-60f41e29d30a)
 
+[How to optimize memory consumption when using Glide](https://proandroiddev.com/how-to-optimize-memory-consumption-when-using-glide-9ac984cfe70f)
+
 # 源码
 
 [glide源码详解](http://www.10tiao.com/html/169/201704/2650822526/1.html)
