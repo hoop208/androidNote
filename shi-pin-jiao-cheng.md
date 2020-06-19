@@ -42,6 +42,10 @@
 
 [RecyclerView Animations and Behind the Scenes (Android Dev Summit 2015)](https://www.youtube.com/watch?v=imsr8NrIAMs&t=1s)
 
+# IPC
+
+[BAT大牛详解Android面试之Binder机制，祝你成功获得大厂offer！](https://www.bilibili.com/video/BV1vE411j7ZL?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1592178701&unique_k=OQyDVE)
+
 
 
 
