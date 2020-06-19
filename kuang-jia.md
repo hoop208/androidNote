@@ -23,6 +23,8 @@
 
 [从零开始搭建Android组件化框架](https://www.jianshu.com/p/ba32488f9555)
 
+[Android彻底组件化方案实践](https://www.jianshu.com/p/1b1d77f58e84)
+
 # 插件化
 
 [DL动态加载框架技术文档](https://blog.csdn.net/singwhatiwanna/article/details/40283117)
