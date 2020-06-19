@@ -48,8 +48,7 @@
 
 [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589?utm_source=app)
 
-[Binder学习指南
-](http://weishu.me/2016/01/12/binder-index-for-newer/)
+[Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
 
 
 
