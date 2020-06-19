@@ -46,6 +46,8 @@
 
 [彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
 
+[Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589?utm_source=app)
+
 
 
 
