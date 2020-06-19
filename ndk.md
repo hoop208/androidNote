@@ -18,3 +18,5 @@
 [与 .so 有关的一个长年大坑](https://zhuanlan.zhihu.com/p/21359984)
 
 [Android NDK开发-LLDB调试](https://xucanhui.com/2018/07/15/android-ndk-lldb-debug/)
+
+[JNI/NDK开发指南](https://www.kancloud.cn/xyang0917/blogjnindk/117012)
