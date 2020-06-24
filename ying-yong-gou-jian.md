@@ -29,6 +29,8 @@
 
 [Getting inside APK files](https://android.jlelse.eu/getting-inside-apk-files-21dbd01529d4)
 
+[How to manage dependencies in a multi module project?](https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415)
+
 # Multidex
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
