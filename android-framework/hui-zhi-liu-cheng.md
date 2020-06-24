@@ -24,6 +24,8 @@
 
 [Android 自定义 View——invalidate 传递与绘制流程分析](https://juejin.im/entry/57a14258128fe1005451e4cb)
 
+[说说android的ui刷新机制](https://mp.weixin.qq.com/s/4dkZnchHOFp0z97qNB4k5A)
+
 # 硬件加速
 
 [Android中GPU硬件加速控制及其在2D图形绘制上的局限](https://blog.csdn.net/iispring/article/details/49835061)
