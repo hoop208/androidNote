@@ -25,6 +25,8 @@
 
 [Android V1及V2签名原理简析](https://juejin.im/post/5cd239386fb9a0320f7dfcbe)
 
+[android apk 资源加载流程](https://mp.weixin.qq.com/s/dlsPCIHsVKrh1lARU3sdSg)
+
 # Multidex
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
