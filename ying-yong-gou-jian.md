@@ -12,6 +12,11 @@
 
 [Android R.java类的手动生成](https://blog.csdn.net/ccpat/article/details/50738811)
 
+[聊聊 APK —— 直接运行 Dex](https://geminiwen.com/archives/77/)  
+[聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
+[聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
+[聊聊 APK —— 脱离 AS 手工创造 APK 文件](https://geminiwen.com/archives/89/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
 # Multidex
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
