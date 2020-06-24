@@ -27,3 +27,5 @@
 
 [Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
 
+[回归初心：极简 Android 组件化方案 — AppJoint](https://juejin.im/post/5bb9c0d55188255c7566e1e2)
+
