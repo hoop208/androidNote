@@ -19,6 +19,8 @@
 
 [What is suspend function in Kotlin Coroutines?](https://blog.mindorks.com/suspend-function-in-kotlin-coroutines)
 
+[Kotlin Coroutines — Thread.sleep() vs delay](https://medium.com/@mohak1712/kotlin-coroutines-thread-sleep-vs-delay-63171fe8a24)
+
 # Flow
 
 [Kotlin Coroutines Flow 系列(一) Flow 基本使用](https://www.jianshu.com/p/fe1293e8f15c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
