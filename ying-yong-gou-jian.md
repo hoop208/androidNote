@@ -17,6 +17,8 @@
 [聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
 [聊聊 APK —— 脱离 AS 手工创造 APK 文件](https://geminiwen.com/archives/89/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 
+[关于Android编译，你需要了解什么](https://segmentfault.com/a/1190000020866199)
+
 # Multidex
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
