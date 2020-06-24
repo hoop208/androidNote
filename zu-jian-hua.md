@@ -33,3 +33,5 @@
 
 [Android 模块化之路 模块间通信](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841949&idx=1&sn=cf190144af559816ccf9723b9c9f099a&scene=19#wechat_redirect)
 
+[Android组件化之通信（多模块，多进程）](https://www.jianshu.com/p/1fc5f8a2d703?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
+
