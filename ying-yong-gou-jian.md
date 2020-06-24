@@ -19,6 +19,8 @@
 
 [关于Android编译，你需要了解什么](https://segmentfault.com/a/1190000020866199)
 
+[浅谈androiddex文件](https://tech.youzan.com/qian-tan-android-dexwen-jian/)
+
 # Multidex
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
