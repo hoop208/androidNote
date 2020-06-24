@@ -16,7 +16,7 @@
 
 [Android 组件化 —— 路由设计最佳实践](https://www.jianshu.com/p/8a3eeeaf01e8)
 
-[Android组件化模块化在移动应用开发中 （序）](https://juejin.im/post/5e4d2256f265da575918d381#heading-5)
+[Android组件化模块化在移动应用开发中 （序）](https://juejin.im/post/5e4d2256f265da575918d381#heading-5)  
 [Android一个人的组件化：组件隔离，模块调试](https://juejin.im/post/5e5f2efde51d4526d43f3b99)
 
 [Android 组件化最佳实践 ARetrofit 原理](https://mp.weixin.qq.com/s/TXFt7ymgQXLJyBOJL8F6xg)
@@ -30,4 +30,6 @@
 [回归初心：极简 Android 组件化方案 — AppJoint](https://juejin.im/post/5bb9c0d55188255c7566e1e2)
 
 [有赞微商城-android组件化方案](https://tech.youzan.com/you-zan-yi-dong-androidzu-jian-hua-fang-an/)
+
+[Android 模块化之路 模块间通信](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841949&idx=1&sn=cf190144af559816ccf9723b9c9f099a&scene=19#wechat_redirect)
 
