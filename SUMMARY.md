@@ -6,6 +6,7 @@
 * [项目框架](kuang-jia.md)
   * [google架构示例](googlejia-gou.md)
   * [Android架构组件](androidjia-gou-zu-jian.md)
+  * [组件化](zu-jian-hua.md)
 * [开源项目](open-source-project.md)
   * [Glide](open-source-project/glide.md)
   * [dagger2](open-source-project/dagger2.md)
