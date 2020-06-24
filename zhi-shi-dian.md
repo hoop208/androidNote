@@ -26,6 +26,8 @@
 
 [Android换肤技术总结](http://blog.zhaiyifan.cn/2015/09/10/Android%E6%8D%A2%E8%82%A4%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
 
+[Android 插件换肤原理及源码分析](https://glumes.com/post/android/android-change-skin-by-plugin/)
+
 # androidmanefest.xml
 
 [Android学习笔记之AndroidManifest.xml文件解析](https://www.cnblogs.com/pilang/archive/2011/04/20/2022932.html)
