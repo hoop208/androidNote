@@ -39,5 +39,9 @@
 
 [Android Multidex导致的App启动缓慢](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-39/Android%20dex%E5%88%86%E5%8C%85%E5%AF%BC%E8%87%B4%E7%9A%84App%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%B8%8B%E9%99%8D.md)
 
+# APT
+
+[Android APT（编译时代码生成）最佳实践](https://joyrun.github.io/2016/07/19/AptHelloWorld/)
+
 
 
