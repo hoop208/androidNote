@@ -45,5 +45,7 @@
 
 [Android 通过 APT 解耦模块依赖](https://www.kymjs.com/code/2018/08/12/01/)
 
+[Android编译期代码生成之apt实践入门](https://segmentfault.com/a/1190000005100468)
+
 
 
