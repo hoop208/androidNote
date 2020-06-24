@@ -43,5 +43,7 @@
 
 [Android APT（编译时代码生成）最佳实践](https://joyrun.github.io/2016/07/19/AptHelloWorld/)
 
+[Android 通过 APT 解耦模块依赖](https://www.kymjs.com/code/2018/08/12/01/)
+
 
 
