@@ -33,6 +33,20 @@
 [The Android Lifecycle cheat sheet — part II: Multiple activities](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-ii-multiple-activities-a411fd139f24)  
 [The Android Lifecycle cheat sheet — part III : Fragments](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)  
 [The Android Lifecycle cheat sheet — part IV : ViewModels, Translucent Activities and Launch Modes](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094)  
+
+[Getting started with C++ and Android Native Activities](https://medium.com/androiddevelopers/getting-started-with-c-and-android-native-activities-2213b402ffff)
+
+[How to Implement Floating Activity in Android Application](https://www.azoft.com/blog/floating-activity-android/)
+
+[Tasks and the Back Stack](https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4#.38lo2zsky)
+
+[Task Stack](https://blog.stylingandroid.com/task-stack/)
+
+[A Better Way to Launch Activities on Android](https://medium.com/capital-one-tech/a-better-way-to-launch-activities-on-android-8a1045181b16)
+
+[Activity Results API: A better way to pass data between Activities](https://proandroiddev.com/is-onactivityresult-deprecated-in-activity-results-api-lets-deep-dive-into-it-302d5cf6edd)
+
+[Deep Dive into Activity Results API — No More onActivityResult()](https://wajahatkarim.com/2020/05/activity-results-api-onactivityresult/)
  
 源码：
 
