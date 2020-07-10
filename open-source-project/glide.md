@@ -43,5 +43,9 @@
 
 [Glide源码分析](https://juejin.im/post/5af95dc66fb9a07aad17a4c3)
 
+[glide源码分析解读-源码模块](https://www.jianshu.com/p/62b7f990ee83)
+
+[Glide 源码分析解读-基于最新版Glide 4.9.0](https://www.jianshu.com/p/9bb50924d42a)
+
 
 
