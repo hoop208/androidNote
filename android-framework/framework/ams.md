@@ -88,6 +88,16 @@
 
 [Service源码解析.md](https://github.com/asLody/SourceAnalysis/blob/master/Service%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 
+# ContentProvider
+
+使用
+
+[ContentProvider从入门到精通](https://www.jianshu.com/p/f5ec75a9cfea)
+
+[ContentProvider和Uri详解](https://www.cnblogs.com/linjiqin/archive/2011/05/28/2061396.html)
+
+
+
 
 
 

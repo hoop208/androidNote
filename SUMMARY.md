@@ -41,8 +41,6 @@
     * [Context](source/context.md)
     * [Toast](source/toast.md)
     * [fragment](source/fragment.md)
-    * [Service](source/service.md)
-    * [ContentProvider](source/contentprovider.md)
     * [Application](source/application.md)
     * [webview](source/webview.md)
     * [LayoutInflator](source/layoutinflator.md)
