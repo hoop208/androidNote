@@ -37,7 +37,6 @@
     * [viewpager&viewfliper](source/viewpager.md)
     * [View&ViewGroup](source/viewandviewgroup.md)
     * [parceable](source/parceable.md)
-    * [sparsearray](source/sparsearray.md)
     * [Context](source/context.md)
     * [Toast](source/toast.md)
     * [fragment](source/fragment.md)
