@@ -29,6 +29,11 @@
 
 [Android 中的 Activity Launch Mode 详解](https://www.androidperformance.com/2019/09/01/Android-Activity-Lunch-Mode/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[The Android Lifecycle cheat sheet — part I: Single Activities](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)  
+[The Android Lifecycle cheat sheet — part II: Multiple activities](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-ii-multiple-activities-a411fd139f24)  
+[The Android Lifecycle cheat sheet — part III : Fragments](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)  
+[The Android Lifecycle cheat sheet — part IV : ViewModels, Translucent Activities and Launch Modes](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094)  
+ 
 源码：
 
 [在 Android 中如何确定 App(Activity) 的启动者](https://droidyue.com/blog/2019/12/01/android-uid-process-name/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
