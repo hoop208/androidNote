@@ -51,6 +51,7 @@
     * [drawable](source/drawable.md)
     * [ViewRootImpl](source/viewrootimpl.md)
   * [framework](android-framework/framework.md)
+    * [AMS](android-framework/framework/ams.md)
   * [触摸事件分发机制](android-framework/hong-mo-shi-jian-fen-fa-ji-zhi.md)
   * [绘制流程](android-framework/hui-zhi-liu-cheng.md)
   * [应用启动流程](android-framework/ying-yong-qi-dong-liu-cheng.md)

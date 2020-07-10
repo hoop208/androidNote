@@ -2,10 +2,6 @@
 
 [Android窗口机制系列博客](https://www.jianshu.com/p/40a9c93b5a8d)
 
-# ActivityManagerService
-
-[Android 8.0 ActivityManagerService 启动流程](https://www.jianshu.com/p/98ccde25a57c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
 activitythread:
 
 [ActivityThread](https://www.jianshu.com/p/d8972b4188df)
@@ -17,6 +13,18 @@ activitythread:
 [Android AMS 架构之 ApplicationThread](https://a284628487.github.io/2017/09/24/Android-AMS-ApplicationThread/)
 
 [ActivityThread的main方法究竟做了什么？](https://www.jianshu.com/p/0efc71f349c8)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
