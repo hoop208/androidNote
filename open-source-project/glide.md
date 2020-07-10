@@ -25,3 +25,17 @@
 [[Android] Glide 源码解析（二）](http://blog.qiji.tech/archives/9366)  
 [[Android] Glide 源码解析（三）](http://blog.qiji.tech/archives/9698)  
 
+[Glide 源码解析](https://fuckcode.xyz/2015/10/25/Glide%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.html)
+
+[Glide源码解读](http://glanwang.com/2016/09/13/Android/Glide%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/)
+
+[Glide 源码探究](http://liwenkun.me/2017/07/20/android-open-source-library-glide/)
+
+[Glide源码学习随笔](https://junbin.tech/2018/08/13/Glide%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E9%9A%8F%E7%AC%94/)
+
+[Glide 源码简要分析](http://www.yxhuang.com/2019/02/23/glide-source-spimple-analyze/)
+
+[Glide源码阅读理解一小时](https://dandanlove.com/2019/12/20/glide/)
+
+
+
