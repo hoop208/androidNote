@@ -37,5 +37,11 @@
 
 [Glide源码阅读理解一小时](https://dandanlove.com/2019/12/20/glide/)
 
+[glide源码分析](https://zhuanlan.zhihu.com/p/37297719)
+
+[Glide源码解析-加载流程](https://juejin.im/post/5c8a00c2e51d4532763bc0fb#heading-7)
+
+[Glide源码分析](https://juejin.im/post/5af95dc66fb9a07aad17a4c3)
+
 
 
