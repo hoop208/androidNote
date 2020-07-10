@@ -10,6 +10,10 @@
 
 [Android源码解析之（十一）-->应用进程启动流程](https://blog.csdn.net/qq_23547831/article/details/51119333)
 
+[Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
+[Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)  
+
+
 
 
 
