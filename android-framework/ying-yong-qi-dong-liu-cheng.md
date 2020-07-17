@@ -35,6 +35,8 @@
 
 [03-APP的启动过程](https://shuwoom.com/?p=142)
 
+[Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
+
 
 
 
