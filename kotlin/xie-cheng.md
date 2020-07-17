@@ -22,6 +22,10 @@
 
 [Kotlin Coroutines — Thread.sleep() vs delay](https://medium.com/@mohak1712/kotlin-coroutines-thread-sleep-vs-delay-63171fe8a24)
 
+[Kotlin Vocabulary | 揭秘协程中的 suspend 修饰符](https://mp.weixin.qq.com/s/uJXawdis81zGlZPijkHLhw)
+
+[协程中的取消和异常 | 核心概念介绍](https://mp.weixin.qq.com/s/wzSi7UrFK6iQV2MA2OCwew)
+
 # Flow
 
 [Kotlin Coroutines Flow 系列(一) Flow 基本使用](https://www.jianshu.com/p/fe1293e8f15c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
