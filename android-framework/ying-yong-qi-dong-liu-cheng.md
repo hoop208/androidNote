@@ -31,6 +31,8 @@
 
 [Android应用程序入口源码解析](https://awenzeng.me/2017/11/23/tech_android_framework_appstart/)
 
+[Android Activity启动流程， app启动流程，APK打包流程， APK安装过程](https://www.lagou.com/lgeduarticle/80458.html)
+
 
 
 
