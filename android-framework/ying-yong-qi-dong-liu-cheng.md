@@ -41,6 +41,8 @@
 
 [图解Activity启动流程，进阶高级](http://crazysunj.com/2017/07/16/%E5%9B%BE%E8%A7%A3Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%EF%BC%8C%E8%BF%9B%E9%98%B6%E9%AB%98%E7%BA%A7/)
 
+[理解Application创建过程](http://gityuan.com/2017/04/02/android-application/)
+
 
 
 
