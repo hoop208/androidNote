@@ -23,6 +23,8 @@
 
 [App 启动过程（含 Activity 启动过程） | 安卓 offer 收割基](https://blankj.com/2018/09/29/the-process-of-app-start/)
 
+[Android应用启动流程分析](http://solart.cc/2016/08/20/launch_app/)
+
 
 
 
