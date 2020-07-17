@@ -121,3 +121,7 @@
 # ArrayMap
 
 [深入剖析 Android中的 ArrayMap](https://droidyue.com/blog/2017/02/12/dive-into-arraymap-in-android/)
+
+[深度解读ArrayMap优势与缺陷](http://gityuan.com/2019/01/13/arraymap/)
+
+[ArrayMap的hash碰撞和内存优化的原理](http://gaozhipeng.me/posts/arraymap/)
