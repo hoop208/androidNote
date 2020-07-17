@@ -43,6 +43,15 @@
 
 [理解Application创建过程](http://gityuan.com/2017/04/02/android-application/)
 
+[Android应用程序启动过程（一）——进程创建](https://my.oschina.net/u/2504786/blog/3189394)  
+[Android应用程序启动过程（二）——ProcessState和Binder线程池](https://my.oschina.net/u/2504786/blog/3189406)  
+
+[Android P APP冷启动过程全解析（之一）](https://xiaozhuanlan.com/topic/2094678513)  
+[Android P APP冷启动过程全解析（之二）](https://xiaozhuanlan.com/topic/7502314698)  
+[Android P APP冷启动过程全解析（之三）](https://xiaozhuanlan.com/topic/3152047986)  
+[Android P APP冷启动过程全解析（之四）](https://xiaozhuanlan.com/topic/7508194362)  
+
+
 
 
 
