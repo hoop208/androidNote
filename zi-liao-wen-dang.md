@@ -18,6 +18,8 @@
 
 [官方文档-audio&video](https://developer.android.google.cn/guide/topics/media)
 
+[freemarker中文文档](http://freemarker.foofun.cn/index.html)
+
 ndk
 
 [极客学院-android ndk开发教程](http://wiki.jikexueyuan.com/project/android-ndk-development-tutorial/)
