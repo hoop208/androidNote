@@ -33,6 +33,8 @@
 
 [Android Activity启动流程， app启动流程，APK打包流程， APK安装过程](https://www.lagou.com/lgeduarticle/80458.html)
 
+[03-APP的启动过程](https://shuwoom.com/?p=142)
+
 
 
 
