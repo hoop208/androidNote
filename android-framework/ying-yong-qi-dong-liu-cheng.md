@@ -37,6 +37,8 @@
 
 [Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 
+[Android系统源码分析--Process启动过程](http://codemx.cn/2017/09/13/AndroidOS005-Process/)
+
 
 
 
