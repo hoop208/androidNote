@@ -21,6 +21,8 @@
 
 [[译]Android Application启动流程分析](https://www.jianshu.com/p/a5532ecc8377)
 
+[App 启动过程（含 Activity 启动过程） | 安卓 offer 收割基](https://blankj.com/2018/09/29/the-process-of-app-start/)
+
 
 
 
