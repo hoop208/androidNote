@@ -13,7 +13,9 @@
 [Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
 [Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)
 
-[Android应用启动流程分析](https://www.jianshu.com/p/009dac047b72)  
+[Android应用启动流程分析](https://www.jianshu.com/p/009dac047b72) 
+
+[Android 系统及应用启动流程](https://juejin.im/entry/59cf0b5e6fb9a00a4247905c) 
 
 
 
