@@ -17,6 +17,10 @@
 
 [Android 系统及应用启动流程](https://juejin.im/entry/59cf0b5e6fb9a00a4247905c) 
 
+[Android应用启动流程](https://juejin.im/post/5d88db38f265da03f565244d)
+
+[[译]Android Application启动流程分析](https://www.jianshu.com/p/a5532ecc8377)
+
 
 
 
