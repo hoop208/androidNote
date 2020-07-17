@@ -27,6 +27,8 @@
 
 [Android启动过程分析(图+文)](https://cloud.tencent.com/developer/article/1356506)
 
+[Android10.0应用进程创建过程以及Zygote的fork流程-[Android取经之路]](https://www.iambigboss.top/post/54892_1_1.html)
+
 
 
 
