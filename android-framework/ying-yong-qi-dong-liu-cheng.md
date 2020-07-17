@@ -25,6 +25,8 @@
 
 [Android应用启动流程分析](http://solart.cc/2016/08/20/launch_app/)
 
+[Android启动过程分析(图+文)](https://cloud.tencent.com/developer/article/1356506)
+
 
 
 
