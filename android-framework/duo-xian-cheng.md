@@ -22,8 +22,6 @@
 
 [Android学习笔记——AS中使用AIDL](https://zhuanlan.zhihu.com/p/31460556)
 
-[android跨进程通信（IPC）：使用AIDL](https://blog.csdn.net/singwhatiwanna/article/details/17041691)
-
 # Messenger
 
 [Android应用进程间通信之Messenger信使使用及源码浅析](https://blog.csdn.net/yanbober/article/details/48373341)
@@ -49,6 +47,8 @@
 [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589?utm_source=app)
 
 [Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
+
+[Binder原理系列博客](http://liuwangshu.cn/tags/Binder%E5%8E%9F%E7%90%86/)
 
 
 
