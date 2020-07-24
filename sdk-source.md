@@ -127,3 +127,9 @@
 [ArrayMap的hash碰撞和内存优化的原理](http://gaozhipeng.me/posts/arraymap/)
 
 [ArrayMap 源码解析](https://wenhaiz.xyz/array-map-source-code)
+
+# Seekbar
+
+使用
+
+[Android 自定义漂亮的Seekbar样式](https://www.jianshu.com/p/6ca82ceb9ae2)
