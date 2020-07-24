@@ -1,4 +1,4 @@
-#  知识点
+#  屏幕适配
 
 [一种非常好用的Android屏幕适配](https://www.jianshu.com/p/1302ad5a4b04)
 
@@ -13,4 +13,26 @@
 [今日头条屏幕适配方案终极版正式发布!](https://juejin.im/post/5bce688e6fb9a05cf715d1c2#heading-2)
 
 [Android屏幕适配方案分析](https://segmentfault.com/a/1190000019089019?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader3)
+
+# 系统适配
+
+Android8.0：
+
+[Android 8.0 适配](https://www.jianshu.com/p/d9f5b0801c6b)
+
+[Android O —— Autosizing TextViews 自动调整文本大小的TextView](https://blog.csdn.net/dale999/article/details/70145152)
+
+Android 10：
+
+[Android Q 文本新功能](https://www.jianshu.com/p/6b0ac3bd1641?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Android Q深色模式及源码解析](https://mp.weixin.qq.com/s/eZ6OQNYRgxPxAAxXt-uhjQ)
+
+[Android10填坑适配指南](https://mp.weixin.qq.com/s/NfTYZ59WL1RfJhxU0D-8YA)
+
+[Android 10 开发者常见问题](https://mp.weixin.qq.com/s/riPjR6XXPBKk6YTjzW2PCQ)
+
+
+
+
 
