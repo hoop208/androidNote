@@ -57,7 +57,6 @@
   * [相关工具](xing-neng-you-hua/xiang-guan-gong-ju.md)
 * [知识点](zhi-shi-dian.md)
   * [应用构建](ying-yong-gou-jian.md)
-  * [热更新](re-geng-xin.md)
   * [适配](ping-mu-shi-pei.md)
   * [系统UI](xi-tong-ui.md)
 * [kotlin](kotlin.md)
