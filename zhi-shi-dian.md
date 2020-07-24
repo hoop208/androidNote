@@ -20,6 +20,12 @@
 
 [Android动态编译技术:Plugin Transform Javassist操作Class文件](https://blog.csdn.net/yulong0809/article/details/77752098)
 
+[Android ASM自动埋点方案实践](https://www.jianshu.com/p/9039a3e46dbc)
+
+[谈谈android aop的技术方案](https://mp.weixin.qq.com/s/L9g-5wDSPDbwacGJo0Jy4Q)
+
+[Android字节码插桩采坑笔记](https://juejin.im/post/5aa0e7eff265da2395308f48)
+
 # 换肤
 
 [Android换肤原理和Android-Skin-Loader框架解析](https://juejin.im/entry/5a1c0964f265da43305e321d)
