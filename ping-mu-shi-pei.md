@@ -38,6 +38,10 @@ Android 10：
 
 [android10 支持5g和折叠屏](https://mp.weixin.qq.com/s/fqly1TEigtSQg5oW4OAnEA)
 
+# 知识点
+
+[rtl应用适配](https://mp.weixin.qq.com/s/n0uetc2lCzuu14p6ME2tOQ)
+
 
 
 
