@@ -4,14 +4,6 @@
 
 [微信、QQ、新浪微博等第三方登录，你想知道的都在这了（下）](https://www.jianshu.com/p/e2636421eba5)
 
-# 注解
-
-[Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
-
-[Android 打造编译时注解解析框架 这只是一个开始](https://blog.csdn.net/lmj623565791/article/details/43452969)
-
-[还在用枚举？我早就抛弃了！（Android 注解详解）](https://www.jianshu.com/p/1fb27f46622c)
-
 # 埋点
 
 [Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
