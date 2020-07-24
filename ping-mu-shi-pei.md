@@ -14,7 +14,7 @@
 
 [Android屏幕适配方案分析](https://segmentfault.com/a/1190000019089019?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader3)
 
-# 系统适配
+# 系统适配&新特性
 
 Android8.0：
 
@@ -31,6 +31,12 @@ Android 10：
 [Android10填坑适配指南](https://mp.weixin.qq.com/s/NfTYZ59WL1RfJhxU0D-8YA)
 
 [Android 10 开发者常见问题](https://mp.weixin.qq.com/s/riPjR6XXPBKk6YTjzW2PCQ)
+
+[安卓封闭堕落or自我救赎？谈Android 10的巨大变化](https://segmentfault.com/a/1190000020748384?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+[android q文本新功能](https://mp.weixin.qq.com/s/Fe0fFJf76YNJg0mYaQSSjA)
+
+[android10 支持5g和折叠屏](https://mp.weixin.qq.com/s/fqly1TEigtSQg5oW4OAnEA)
 
 
 
