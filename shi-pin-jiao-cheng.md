@@ -46,6 +46,15 @@
 
 [BAT大牛详解Android面试之Binder机制，祝你成功获得大厂offer！](https://www.bilibili.com/video/BV1vE411j7ZL?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1592178701&unique_k=OQyDVE)
 
+# 插件化
+
+[插件化项目实战上篇](https://b23.tv/Mj8V3e)  
+[插件化项目实战中篇](https://b23.tv/AZVRE6)  
+[插件化项目实战下篇](https://b23.tv/tmZ0ay)
+
+
+
+
 
 
 
