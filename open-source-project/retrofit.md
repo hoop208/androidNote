@@ -32,6 +32,8 @@
 
 [【腾讯Bugly干货分享】深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](https://zhuanlan.zhihu.com/p/24109629)
 
+[Retrofit 动态参数（非固定参数、非必须参数）（Get、Post请求）](https://blog.csdn.net/jdsjlzx/article/details/51694572)
+
 # 源码
 
 [Retrofit 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/tool-lib/network/retrofit)
