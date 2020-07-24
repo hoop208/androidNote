@@ -47,6 +47,8 @@
 [Activity Results API: A better way to pass data between Activities](https://proandroiddev.com/is-onactivityresult-deprecated-in-activity-results-api-lets-deep-dive-into-it-302d5cf6edd)
 
 [Deep Dive into Activity Results API — No More onActivityResult()](https://wajahatkarim.com/2020/05/activity-results-api-onactivityresult/)
+
+[简述Activity与Window关系](http://gityuan.com/2017/04/16/activity-with-window/)
  
 源码：
 
