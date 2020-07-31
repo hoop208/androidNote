@@ -16,11 +16,19 @@
 
 # 系统适配&新特性
 
+知识点：
+
+[Android 1.5到10.0 都有哪些新特性？](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843709&idx=1&sn=408c05ae6f5620076cba77d1f72116a3&scene=19#wechat_redirect)
+
 Android8.0：
 
 [Android 8.0 适配](https://www.jianshu.com/p/d9f5b0801c6b)
 
-[Android O —— Autosizing TextViews 自动调整文本大小的TextView](https://blog.csdn.net/dale999/article/details/70145152)
+[Android O —— Autosizing TextViews 自动调整文本大小的TextView](https://blog.csdn.net/dale999/article/details/70145152)·
+
+Android 9.0：
+
+[适配Android P之非SDK接口限制的排查方法](https://www.jianshu.com/p/efe6690b36b6?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 Android 10：
 
@@ -37,6 +45,10 @@ Android 10：
 [android q文本新功能](https://mp.weixin.qq.com/s/Fe0fFJf76YNJg0mYaQSSjA)
 
 [android10 支持5g和折叠屏](https://mp.weixin.qq.com/s/fqly1TEigtSQg5oW4OAnEA)
+
+[欢迎体验android10](https://mp.weixin.qq.com/s/8vWDnc_NnVkr-ITMybpDmQ)
+
+[android q要来了 给你一份全面的适配指南](https://mp.weixin.qq.com/s/aiDMyAfAZvaYIHuIMLAlcg)
 
 # 知识点
 
