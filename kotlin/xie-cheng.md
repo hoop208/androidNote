@@ -30,7 +30,7 @@
 
 [Coroutines in Kotlin 1.3 explained: Suspending functions, contexts, builders and scopes](https://antonioleiva.com/kotlin-coroutines/)
 
-
+[How to run an expensive calculation with Kotlin Coroutines on the Android Main Thread without freezing the UI](https://www.lukaslechner.com/how-to-run-an-expensive-calculation-with-kotlin-coroutines-on-the-android-main-thread-without-freezing-the-ui/)
 
 # Flow
 
