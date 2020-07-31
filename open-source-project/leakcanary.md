@@ -26,6 +26,16 @@
 
 [LeakCanary原理分析](http://wuzhonglian.com/2020/05/08/LeakCanary%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
 
+[源码分析 - LeakCanery](http://hoyouly.fun/2020/04/17/leakcanary/)
+
+[LeakCanary原理分析](https://xucanhui.com/2019/02/22/leakcanary-principle-analysis/)
+
+[LeakCanary源码解析](https://yuqirong.me/2019/07/06/LeakCanary%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)
+
+[LeakCanary—Deobfuscation Feature Explained](https://www.polidea.com/blog/leakcanary-deobfuscation-feature-explained/)
+
+[一步步拆解leakcanary](https://mp.weixin.qq.com/s/CmoLyAj7MtsYRJWoIyp8QA)
+
 
 
 
