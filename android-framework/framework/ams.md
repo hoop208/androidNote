@@ -6,8 +6,6 @@
 
 使用
 
-[Activity、View、Window的理解一篇文章就够了](https://juejin.im/entry/596329686fb9a06bc903b6fd)
-
 [重学安卓：Activity 的快乐你不懂！](https://juejin.im/post/5ce651d4f265da1bb13f0a5b)
 
 [解锁Activity的跳转新姿势———使用scheme跳转](https://blog.csdn.net/a_zhon/article/details/78358310)
@@ -47,8 +45,6 @@
 [Activity Results API: A better way to pass data between Activities](https://proandroiddev.com/is-onactivityresult-deprecated-in-activity-results-api-lets-deep-dive-into-it-302d5cf6edd)
 
 [Deep Dive into Activity Results API — No More onActivityResult()](https://wajahatkarim.com/2020/05/activity-results-api-onactivityresult/)
-
-[简述Activity与Window关系](http://gityuan.com/2017/04/16/activity-with-window/)
  
 源码：
 
@@ -60,12 +56,6 @@
 
 [Android应用程序的Activity启动过程简要介绍和学习计划](https://blog.csdn.net/Luoshengyang/article/details/6685853)
 
-[Android视图框架Activity,Window,View,ViewRootImpl理解](https://silencedut.github.io/2016/08/10/Android%E8%A7%86%E5%9B%BE%E6%A1%86%E6%9E%B6Activity,Window,View,ViewRootImpl%E7%90%86%E8%A7%A3/)
-
-[简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.jianshu.com/p/8766babc40e0)
-
-[Android应用Activity、Dialog、PopWindow、Toast窗口添加机制及源码分析](https://blog.csdn.net/yanbober/article/details/46361191)
-
 [Activity是什么时候显示出来的？](https://mp.weixin.qq.com/s/Ujpp6rBwGCSZFTI9WHBy_g)
 
 [Android中启动Activity(startActivity)流程图分析](https://blog.csdn.net/qinjuning/article/details/7277225)
@@ -74,11 +64,7 @@
 
 [Android 8.0 ActivityManagerService 启动流程](https://www.jianshu.com/p/98ccde25a57c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[剖析Activity、Window、ViewRootImpl和View之间的关系](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841925&idx=1&sn=7526703823e9e9dd9528433c619d9dd3&scene=19#wechat_redirect)
-
 [3分钟看懂Activity启动流程](https://www.jianshu.com/p/9ecea420eb52)
-
-[理清Activity、View及Window之间关系](https://blog.csdn.net/huachao1001/article/details/51866287)
 
 # Service
 
