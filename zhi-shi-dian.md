@@ -64,4 +64,6 @@
 
 [分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
 
+[Android hook机制之简单实现](https://mp.weixin.qq.com/s/DmEHVK68ex_LtF2LhEQydQ)
+
 
