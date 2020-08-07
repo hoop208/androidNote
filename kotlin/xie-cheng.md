@@ -38,7 +38,11 @@
 [破解kotlin协程—(4) 异常处理篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484395&idx=1&sn=a0eb29edf8f014e72b4d03d75adee71e&scene=19#wechat_redirect)  
 [破解kotlin协程(5) 协程取消篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484395&idx=1&sn=a0eb29edf8f014e72b4d03d75adee71e&scene=19#wechat_redirect)  
 [破解kotlin协程(6) 协程挂起篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484399&idx=1&sn=36a6d697eeabb9e87c8c0b3baf2407d4&scene=19#wechat_redirect)  
-
+[破解kotlin协程(7) 序列生成器篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
+[破解kotlin协程(8) Android篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)
+[破解kotlin协程(9) channel篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
+[破解kotlin协程(10) select篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
+[破解kotlin协程(11) flow篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484564&idx=1&sn=4ff762ee5978e6d2996c13a8af3428ec&scene=19#wechat_redirect)
 
 # Flow
 
