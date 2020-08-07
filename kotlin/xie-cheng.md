@@ -32,6 +32,11 @@
 
 [How to run an expensive calculation with Kotlin Coroutines on the Android Main Thread without freezing the UI](https://www.lukaslechner.com/how-to-run-an-expensive-calculation-with-kotlin-coroutines-on-the-android-main-thread-without-freezing-the-ui/)
 
+[破解kotlin协程-入门篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484388&idx=1&sn=fcb232691cb77fe2124c1b635d28986b&scene=19#wechat_redirect)  
+[破解kotlin协程(2)-协程启动篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484391&idx=1&sn=b69b4593b11f31b2a8610fbe52302e2c&scene=19#wechat_redirect)  
+[破解kotlin协程(3)-协程调度篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484393&idx=1&sn=12a71643d78bce7c294bfe3944d167a8&scene=19#wechat_redirect)  
+
+
 # Flow
 
 [Kotlin Coroutines Flow 系列(一) Flow 基本使用](https://www.jianshu.com/p/fe1293e8f15c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
