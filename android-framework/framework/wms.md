@@ -18,6 +18,18 @@ Activity和Window的关系：
 
 [理清Activity、View及Window之间关系](https://blog.csdn.net/huachao1001/article/details/51866287)
 
+[一篇文章看明白 Activity 与 Window 与 View 之间的关系](https://blog.csdn.net/freekiteyu/article/details/79408969)
+
+[Android的Activity 、 Window 、 View之间的关系](https://www.jianshu.com/p/982ec37832bf)
+
+[Activity，Window 与 View](https://www.twle.cn/l/yufei/android/android-basic-activity-intro.html)
+
+[Activity、Window、View三者关系](https://segmentfault.com/a/1190000019327597)
+
+[从Activity创建到View呈现中间发生了什么？](https://zhuanlan.zhihu.com/p/69399307)
+
+[Android 探索Activity和Window，View之间的关系](https://www.codenong.com/cs105358958/)
+
 
 
 
