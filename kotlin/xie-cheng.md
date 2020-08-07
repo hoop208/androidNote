@@ -42,7 +42,10 @@
 [破解kotlin协程(8) Android篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)
 [破解kotlin协程(9) channel篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
 [破解kotlin协程(10) select篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
-[破解kotlin协程(11) flow篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484564&idx=1&sn=4ff762ee5978e6d2996c13a8af3428ec&scene=19#wechat_redirect)
+[破解kotlin协程(11) flow篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484564&idx=1&sn=4ff762ee5978e6d2996c13a8af3428ec&scene=19#wechat_redirect)  
+[破解kotlin协程 番外篇(1) 协程为什么被称为轻量级线程](https://developer.android.google.cn/training/testing/ui-testing/uiautomator-testing)  
+[kotlin协程版本的autodispose](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484328&idx=1&sn=38ef62f15db92e4342e1c3e71726fcd9&scene=19#wechat_redirect)  
+[协程源码中的原子操作为什么使用automaticreferencefieldupdater？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484172&idx=1&sn=56fc0a0524001f9e283f5e5a5efbc0ce&scene=19#wechat_redirect)
 
 # Flow
 
