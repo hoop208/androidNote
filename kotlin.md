@@ -54,6 +54,18 @@
 
 [Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
 
+[kotlin第一讲-数据类型](https://mp.weixin.qq.com/s/JD31w5AJz2Ma9Xi5OA5e7Q)  
+[kotlin第二讲-数据类型和java的对比](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484024&idx=1&sn=a15232a39d72690dfcc76595d5af8915&scene=19#wechat_redirect)  
+[kotlin第三讲-集合篇](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484039&idx=1&sn=5d765f061be9adb9df9f053f2f8ac80a&scene=19#wechat_redirect)  
+[kotlin第四讲-神奇的条件循环语句](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484049&idx=1&sn=568aa29b1ae5c50546ff513ae36eaf59&scene=19#wechat_redirect)   
+[kotlin第五讲-类定义与继承](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484054&idx=1&sn=4d32d168230117ad9e0f6a9ab11bde8a&scene=19#wechat_redirect)  
+[kotlin第六讲-类与类的映射](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484059&idx=1&sn=050e4ec887b1f1998c42561506b31ea2&scene=19#wechat_redirect)  
+[kotlin第七讲-函数定义](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484066&idx=1&sn=571fc0602ac32963bc51dcd82493bb89&scene=19#wechat_redirect)  
+[kotlin第八讲-lambda表达式](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484071&idx=1&sn=210431484965aea83b0acd077e097509&scene=19#wechat_redirect)  
+[kotlin第九讲-特有函数](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484093&idx=1&sn=3218158bd90abb1709a11d83768a3950&scene=19#wechat_redirect)  
+[kotlin第十讲-作用域函数](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484100&idx=1&sn=9de0c63aee2a4da066fa0e95b7c8a01c&scene=19#wechat_redirect)  
+
+
 # kotlin入门系列文章
 
 [DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)  
