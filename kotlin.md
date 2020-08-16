@@ -88,6 +88,6 @@
 [细说 Lambda 表达式](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483881&idx=1&sn=ddbdddd97208556f9ed6af4fe834353b&scene=19#wechat_redirect)  
 [用 Map 为你的属性做代理](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484018&idx=1&sn=170499992c0f29d9304eeddc4379f34e&scene=19#wechat_redirect)  
 
-# kotlin进阶系列博客
 
-[DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)
+
+
