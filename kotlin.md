@@ -54,6 +54,8 @@
 
 [Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
 
+[Kotlin编译调校之WarningsAsErrors](https://droidyue.com/blog/2019/08/03/kotlinc-config-warnings-as-errors/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [kotlin第一讲-数据类型](https://mp.weixin.qq.com/s/JD31w5AJz2Ma9Xi5OA5e7Q)  
 [kotlin第二讲-数据类型和java的对比](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484024&idx=1&sn=a15232a39d72690dfcc76595d5af8915&scene=19#wechat_redirect)  
 [kotlin第三讲-集合篇](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484039&idx=1&sn=5d765f061be9adb9df9f053f2f8ac80a&scene=19#wechat_redirect)  
