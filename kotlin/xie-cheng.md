@@ -32,6 +32,11 @@
 
 [How to run an expensive calculation with Kotlin Coroutines on the Android Main Thread without freezing the UI](https://www.lukaslechner.com/how-to-run-an-expensive-calculation-with-kotlin-coroutines-on-the-android-main-thread-without-freezing-the-ui/)
 
+[Learn By Doing: Coroutines — A Guide for using coroutines in Android for Retrofit Requests](https://medium.com/@shivamdhuria/learn-by-doing-coroutines-a-guide-for-using-coroutines-in-android-for-retrofit-requests-eaef6ca58c7e)  
+[Learn By Doing : Executing a list of Retrofit requests Asynchronously using Coroutines on Android](https://proandroiddev.com/learn-by-doing-executing-a-list-of-retrofit-requests-asynchronously-using-coroutines-on-android-de2f15f211da)
+
+[Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
+
 [破解kotlin协程-入门篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484388&idx=1&sn=fcb232691cb77fe2124c1b635d28986b&scene=19#wechat_redirect)  
 [破解kotlin协程(2)-协程启动篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484391&idx=1&sn=b69b4593b11f31b2a8610fbe52302e2c&scene=19#wechat_redirect)  
 [破解kotlin协程(3)-协程调度篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484393&idx=1&sn=12a71643d78bce7c294bfe3944d167a8&scene=19#wechat_redirect)  

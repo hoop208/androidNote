@@ -18,6 +18,14 @@
 
 [Android Butter Knife 框架——最好用的View注入](https://www.jianshu.com/p/9ad21e548b69)
 
+# DoraemonKit
+
+[客户端研发助手](https://github.com/didi/DoraemonKit)  
+[Android版本技术实现一](https://juejin.im/post/6844903768337678349)  
+[Android版本技术实现二](https://juejin.im/post/6844903782828998664)  
+[activity启动耗时统计方案](https://juejin.im/post/6844903935912722439)  
+[Android核心原理揭秘之函数耗时](https://juejin.im/post/6844904154624688136)  
+
 # 知识点
 
 [简单好用的阴影库 ShadowLayout](http://lijiankun24.com/%E7%AE%80%E5%8D%95%E5%A5%BD%E7%94%A8%E7%9A%84%E9%98%B4%E5%BD%B1%E5%BA%93-ShadowLayout/)
@@ -31,6 +39,7 @@
 [【基本功】Litho的使用及原理剖析](https://mp.weixin.qq.com/s/RS7O7prvkCvKyxkK3YQxtA)
 
 [MMKV——基于 mmap 的高性能通用 key-value 组件](https://github.com/Tencent/MMKV)
+
 
 
 
