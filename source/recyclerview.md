@@ -49,6 +49,8 @@
 
 [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
 
+[The Myers Diff Algorithm and Kotlin Observable Properties — how to connect them to make a developer’s life easier](https://medium.com/skyrise/the-myers-diff-algorithm-and-kotlin-observable-properties-69dfb18541b)
+
 # 例子
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
