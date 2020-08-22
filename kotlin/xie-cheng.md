@@ -30,6 +30,9 @@
 
 [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
 
+[Forget RxJava: Kotlin Coroutines are all you need. Part 1/2](https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-part-1-2-4f62ecc4f99b)  
+[Forget RxJava: Kotlin Coroutines are all you need. Part 2/2 — Channels](https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-d4dbdb509708)
+
 [Learn By Doing: Coroutines — A Guide for using coroutines in Android for Retrofit Requests](https://medium.com/@shivamdhuria/learn-by-doing-coroutines-a-guide-for-using-coroutines-in-android-for-retrofit-requests-eaef6ca58c7e)  
 [Learn By Doing : Executing a list of Retrofit requests Asynchronously using Coroutines on Android](https://proandroiddev.com/learn-by-doing-executing-a-list-of-retrofit-requests-asynchronously-using-coroutines-on-android-de2f15f211da)
 
