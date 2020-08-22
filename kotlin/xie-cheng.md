@@ -8,10 +8,6 @@
 
 [我是一个协程](https://mp.weixin.qq.com/s/ZmW5xlp5lKzofUTbcmnUMA)
 
-[在 Android 开发中使用协程 | 背景介绍](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652052998&idx=2&sn=18715a7e33b7f7a5878bd301e9f8f935&scene=21#wechat_redirect)  
-[在 Android 开发中使用协程 | 上手指南](https://mp.weixin.qq.com/s/kPvWOCkMjYRKJSTX4I5VKg)  
-[在 Android 开发中使用协程 | 代码实战](https://mp.weixin.qq.com/s/p5kp9WfkI_atVn9A2ePb3Q)  
-
 [Coroutines: simplify threading on android](https://medium.com/@ian.andrew.alexander/coroutines-simplifying-android-architecture-ce0cd02b9447)
 
 [Comparing Kotlin Coroutines with Callbacks and RxJava](https://www.lukaslechner.com/comparing-kotlin-coroutines-with-callbacks-and-rxjava/)
@@ -32,10 +28,14 @@
 
 [How to run an expensive calculation with Kotlin Coroutines on the Android Main Thread without freezing the UI](https://www.lukaslechner.com/how-to-run-an-expensive-calculation-with-kotlin-coroutines-on-the-android-main-thread-without-freezing-the-ui/)
 
+[Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
+
 [Learn By Doing: Coroutines — A Guide for using coroutines in Android for Retrofit Requests](https://medium.com/@shivamdhuria/learn-by-doing-coroutines-a-guide-for-using-coroutines-in-android-for-retrofit-requests-eaef6ca58c7e)  
 [Learn By Doing : Executing a list of Retrofit requests Asynchronously using Coroutines on Android](https://proandroiddev.com/learn-by-doing-executing-a-list-of-retrofit-requests-asynchronously-using-coroutines-on-android-de2f15f211da)
 
-[Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
+[在 Android 开发中使用协程 | 背景介绍](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652052998&idx=2&sn=18715a7e33b7f7a5878bd301e9f8f935&scene=21#wechat_redirect)  
+[在 Android 开发中使用协程 | 上手指南](https://mp.weixin.qq.com/s/kPvWOCkMjYRKJSTX4I5VKg)  
+[在 Android 开发中使用协程 | 代码实战](https://mp.weixin.qq.com/s/p5kp9WfkI_atVn9A2ePb3Q)  
 
 [破解kotlin协程-入门篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484388&idx=1&sn=fcb232691cb77fe2124c1b635d28986b&scene=19#wechat_redirect)  
 [破解kotlin协程(2)-协程启动篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484391&idx=1&sn=b69b4593b11f31b2a8610fbe52302e2c&scene=19#wechat_redirect)  
