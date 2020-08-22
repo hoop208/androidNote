@@ -16,6 +16,10 @@
 
 [Android自定义View的实现方法，带你一步步深入了解View(四)](https://blog.csdn.net/guolin_blog/article/details/17357967)
 
+[ViewTreeObserver简介](http://www.cnblogs.com/xingfuzzhd/archive/2013/06/25/3154674.html)
+
+
+
 
 
 
