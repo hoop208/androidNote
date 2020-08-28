@@ -34,14 +34,6 @@
 
 [AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
 
-# AndroidX
-
-[AndroidX 你好，android.support 再见 | 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
-
-[Activity and Fragment Layouts with AndroidX](https://www.bignerdranch.com/blog/activity-and-fragment-layouts-with-androidx/)
-
-[How AndroidX changes the way we work with Activities and Fragments](https://medium.com/@miloszlewandowski/how-androidx-changes-the-way-we-work-with-activities-and-fragments-73b88d157678)
-
 # 其它
 
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
