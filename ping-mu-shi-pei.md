@@ -34,8 +34,6 @@ Android 10：
 
 [Android Q 文本新功能](https://www.jianshu.com/p/6b0ac3bd1641?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[Android Q深色模式及源码解析](https://mp.weixin.qq.com/s/eZ6OQNYRgxPxAAxXt-uhjQ)
-
 [Android10填坑适配指南](https://mp.weixin.qq.com/s/NfTYZ59WL1RfJhxU0D-8YA)
 
 [Android 10 开发者常见问题](https://mp.weixin.qq.com/s/riPjR6XXPBKk6YTjzW2PCQ)
@@ -55,6 +53,8 @@ Android 10：
 [rtl应用适配](https://mp.weixin.qq.com/s/n0uetc2lCzuu14p6ME2tOQ)
 
 [DARK MODE MUSINGS: BEWARE OF THE CONTEXT](https://riggaroo.co.za/dark-mode-musings-beware-of-the-context/)
+
+[Android Q深色模式及源码解析](https://mp.weixin.qq.com/s/eZ6OQNYRgxPxAAxXt-uhjQ)
 
 
 

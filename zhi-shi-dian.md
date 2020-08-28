@@ -22,6 +22,8 @@
 
 [Android 插件换肤原理及源码分析](https://glumes.com/post/android/android-change-skin-by-plugin/)
 
+[Change Theme Dynamically with Circular Reveal Animation on Android](https://proandroiddev.com/change-theme-dynamically-with-circular-reveal-animation-on-android-8cd574f5f0d8)
+
 # androidmanefest.xml
 
 [Android学习笔记之AndroidManifest.xml文件解析](https://www.cnblogs.com/pilang/archive/2011/04/20/2022932.html)
