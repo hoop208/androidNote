@@ -72,4 +72,9 @@
 
 [Android hook机制之简单实现](https://mp.weixin.qq.com/s/DmEHVK68ex_LtF2LhEQydQ)
 
+[Dynamic Icon – Part 1](https://blog.stylingandroid.com/dynamic-icon-part-1/)  
+[Dynamic Icon – Part 2](https://blog.stylingandroid.com/dynamic-icon-part-2/)
+
+
+
 
