@@ -24,6 +24,10 @@
 
 [Change Theme Dynamically with Circular Reveal Animation on Android](https://proandroiddev.com/change-theme-dynamically-with-circular-reveal-animation-on-android-8cd574f5f0d8)
 
+[Supporting multiple themes in your Android app (Part 1)](https://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)  
+[Supporting multiple themes in your Android app (Part 2)](https://www.hidroh.com/2015/02/25/support-multiple-themes-android-app-part-2/)  
+
+
 # androidmanefest.xml
 
 [Android学习笔记之AndroidManifest.xml文件解析](https://www.cnblogs.com/pilang/archive/2011/04/20/2022932.html)
