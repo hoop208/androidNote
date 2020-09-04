@@ -2,7 +2,7 @@
 
 [使用架构组件构建应用](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components-cn/index.html?index=..%2F..gddchina#0)
 
-# 博客
+# 知识点
 
 [一文带你了解 Android Jetpack | 开发者说·DTalk](https://mp.weixin.qq.com/s/0hLLF2LdoBPL-PB0IkyEOA)
 
@@ -68,4 +68,7 @@
 [[译] Android 生命周期备忘录 —— 第四部分：ViewModel、半透明 Activity 及启动模式](https://juejin.im/post/5d12da1a51882532d7250cf5)
 
 [Android Jetpack组件之ViewModel篇](https://mp.weixin.qq.com/s/x20jjsxMrU-5TwLEZniq5w)
+
+[Jetpack ViewModel initialization](https://www.rockandnull.com/jetpack-viewmodel-initialization/)  
+[ViewModel and SavedStateHandle: always retain state](https://www.rockandnull.com/viewmodel-savedstate/)  
 
