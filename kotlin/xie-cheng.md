@@ -40,7 +40,11 @@
 
 [Basic Coroutine Level 1](https://proandroiddev.com/basic-coroutine-level-1-fd46c4bccd8f)
 
-[在 Android 开发中使用协程 | 背景介绍](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652052998&idx=2&sn=18715a7e33b7f7a5878bd301e9f8f935&scene=21#wechat_redirect)  
+[Kotlin 的协程用力瞥一眼 - 学不会协程？很可能因为你看过的教程都是错的](https://kaixue.io/kotlin-coroutines-1/)  
+[Kotlin 协程的挂起好神奇好难懂？今天我把它的皮给扒了](https://kaixue.io/kotlin-coroutines-2/)  
+[到底什么是「非阻塞式」挂起？协程真的更轻量级吗？](https://kaixue.io/kotlin-coroutines-3/)
+
+[在 Android 开发中使用协程 | 背景介绍](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652052998&idx=2&sn=18715a7e33b7f7a5878bd301e9f8f935&scene=21#wechat_redirect)    
 [在 Android 开发中使用协程 | 上手指南](https://mp.weixin.qq.com/s/kPvWOCkMjYRKJSTX4I5VKg)  
 [在 Android 开发中使用协程 | 代码实战](https://mp.weixin.qq.com/s/p5kp9WfkI_atVn9A2ePb3Q)  
 
