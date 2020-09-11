@@ -91,7 +91,15 @@
 [Optimizing Android ViewModel with Lifecycle 2.2.0](https://proandroiddev.com/optimizing-viewmodel-with-lifecycle-2-2-0-a2895b5c01fd)
 
 [Jetpack ViewModel initialization](https://www.rockandnull.com/jetpack-viewmodel-initialization/)  
-[ViewModel and SavedStateHandle: always retain state](https://www.rockandnull.com/viewmodel-savedstate/)  
+[ViewModel and SavedStateHandle: always retain state](https://www.rockandnull.com/viewmodel-savedstate/)
+
+[ViewModels with Saved State, Jetpack Navigation, Data Binding and Coroutines](https://medium.com/androiddevelopers/viewmodels-with-saved-state-jetpack-navigation-data-binding-and-coroutines-df476b78144e)  
+
+[Surviving Configuration Change - ViewModel](https://charlesmuchene.hashnode.dev/surviving-configuration-change-viewmodel-ck8cyte8u00nfxes1o6s76r1m)  
+
+[Android ViewModels: Saving State across Process Death](https://android.jlelse.eu/android-viewmodels-saving-state-across-process-death-a3f447bf839a)
+
+[Extract interactions from ViewModel](https://proandroiddev.com/extract-interactions-from-viewmodel-7760451f5c16)
 
 源码：
 
