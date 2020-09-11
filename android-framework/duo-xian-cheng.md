@@ -6,6 +6,8 @@
 
 [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
 
+[Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
+
 [Android IPC机制（一）开启多进程](http://liuwangshu.cn/application/ipc/1-process-start.html)  
 [Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)  
 [Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)  
