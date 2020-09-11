@@ -4,15 +4,11 @@
 
 [Android几种进程通信方式的对比总结](https://blog.csdn.net/u011240877/article/details/72863432)
 
-[Android IPC机制（一）开启多进程](http://liuwangshu.cn/application/ipc/1-process-start.html)
-
-[Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)
-
-[Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)
-
-[Android IPC机制（四）用ContentProvider进行进程间通信](http://liuwangshu.cn/application/ipc/4-contentprovider.html)
-
-[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html)
+[Android IPC机制（一）开启多进程](http://liuwangshu.cn/application/ipc/1-process-start.html)  
+[Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)  
+[Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)  
+[Android IPC机制（四）用ContentProvider进行进程间通信](http://liuwangshu.cn/application/ipc/4-contentprovider.html)  
+[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html)  
 
 # aidl
 
