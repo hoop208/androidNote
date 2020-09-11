@@ -2,6 +2,9 @@
 
 [Android 8.0 ActivityManagerService 启动流程](https://www.jianshu.com/p/98ccde25a57c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[ActivityManagerService Part 1: Structure and Basic](https://edwardlu0904.wordpress.com/2015/09/28/activitymanagerservice-part-1-structure-and-basic/)  
+[ActivityManagerService Part 2: Activity Start Procedure](https://edwardlu0904.wordpress.com/2015/10/01/activitymanagerservice-part-2-activity-start-procedure/)  
+
 # Activity
 
 使用
