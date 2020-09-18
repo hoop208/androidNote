@@ -6,6 +6,13 @@
 
 [性能工具Systrace](http://gityuan.com/2016/01/17/systrace/)
 
+[Android Systrace 基础知识 -- Systrace 简介](https://androidperformance.com/2019/05/28/Android-Systrace-About/)  
+[Android Systrace 基础知识 -- 分析 Systrace 预备知识](https://androidperformance.com/2019/07/23/Android-Systrace-Pre/)  
+[Android Systrace 基础知识 -- Why 60 fps ？](https://androidperformance.com/2019/05/27/why-60-fps/)  
+[Android Systrace 基础知识 - SystemServer 解读](https://androidperformance.com/2019/06/29/Android-Systrace-SystemServer/)  
+[Systrace 基础知识 - Input 解读](https://www.androidperformance.com/2019/11/04/Android-Systrace-Input/)  
+
+
 # BugReport
 
 [BugReport 分析利器 ChkBugReport](https://www.jianshu.com/p/9c4a8642ccbf)
