@@ -38,6 +38,17 @@
 
 [SingleLiveEvent to help you work with LiveData and events](https://proandroiddev.com/singleliveevent-to-help-you-work-with-livedata-and-events-5ac519989c70)
 
+[Don’t use LiveData in Repositories](https://proandroiddev.com/dont-use-livedata-in-repositories-f3bebe502ed3)
+
+[LiveData transformations](https://proandroiddev.com/livedata-transformations-4f120ac046fc)
+
+[Architecture Components: How to use LiveData with Data Binding?](https://android.jlelse.eu/android-architecture-components-livedata-with-data-binding-7bf85871bbd8)
+
+[LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case)](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
+
+[LiveData beyond the ViewModel — Reactive patterns using Transformations and MediatorLiveData](https://medium.com/androiddevelopers/livedata-beyond-the-viewmodel-reactive-patterns-using-transformations-and-mediatorlivedata-fda520ba00b7)
+
+[No more LiveData in Your Repository: There are better options](https://proandroiddev.com/no-more-livedata-in-your-repository-there-are-better-options-25a7557b0730)
 
 # Room
 
