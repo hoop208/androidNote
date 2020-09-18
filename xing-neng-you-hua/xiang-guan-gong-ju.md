@@ -11,7 +11,13 @@
 [Android Systrace 基础知识 -- Why 60 fps ？](https://androidperformance.com/2019/05/27/why-60-fps/)  
 [Android Systrace 基础知识 - SystemServer 解读](https://androidperformance.com/2019/06/29/Android-Systrace-SystemServer/)  
 [Systrace 基础知识 - Input 解读](https://www.androidperformance.com/2019/11/04/Android-Systrace-Input/)  
-
+[Systrace 基础知识 - Vsync 解读](https://www.androidperformance.com/2019/12/01/Android-Systrace-Vsync/)  
+[Android 基于 Choreographer 的渲染机制详解](https://androidperformance.com/2019/10/22/Android-Choreographer/)  
+[Systrace 基础知识 - MainThread 和 RenderThread 解读](https://www.androidperformance.com/2019/11/06/Android-Systrace-MainThread-And-RenderThread/)  
+[Systrace 基础知识 - Binder 和锁竞争解读](https://www.androidperformance.com/2019/12/06/Android-Systrace-Binder/)  
+[Systrace 基础知识 - Triple Buffer 解读](https://www.androidperformance.com/2019/12/15/Android-Systrace-Triple-Buffer/)  
+[Systrace 基础知识 - CPU Info 解读](https://www.androidperformance.com/2019/12/21/Android-Systrace-CPU/?from=timeline)  
+[Android Systrace 基础知识 - SurfaceFlinger 解读](https://androidperformance.com/2020/02/14/Android-Systrace-SurfaceFlinger/)
 
 # BugReport
 
