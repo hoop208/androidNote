@@ -4,6 +4,8 @@
 
 [Glide使用详解](https://www.jianshu.com/p/7ce7b02988a4)
 
+[编写图片加载框架要考虑哪些问题](https://mp.weixin.qq.com/s/dzb-nJPhKNEWREDe_t2q0Q)
+
 [Best strategy to load images using Glide — Image loading library for Android](https://android.jlelse.eu/best-strategy-to-load-images-using-glide-image-loading-library-for-android-e2b6ba9f75b2)
 
 [Glide vs. Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)

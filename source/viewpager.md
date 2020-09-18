@@ -28,6 +28,14 @@
 [MagicIndicator系列之三 —— MagicIndicator原理浅析及扩展MagicIndicator的4种方式](https://www.jianshu.com/p/f3022211821c)    
 [MagicIndicator-github](https://github.com/hackware1993/MagicIndicator)
 
+# ViewPager2
+
+[Early Introduction of ViewPager2](https://blog.usejournal.com/early-introduction-of-viewpager2-ff38c60d2169)
+
+[Exploring Android ViewPager2 in Android](https://blog.mindorks.com/exploring-android-view-pager2-in-android)
+
+[Look Deep Into ViewPager2](https://proandroiddev.com/look-deep-into-viewpager2-13eb8e06e419)
+
 # ViewFlipper
 
 使用
