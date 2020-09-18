@@ -12,7 +12,13 @@
 [Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)  
 [Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)  
 [Android IPC机制（四）用ContentProvider进行进程间通信](http://liuwangshu.cn/application/ipc/4-contentprovider.html)  
-[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html)  
+[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html) 
+
+[Android IPC Mechanism](https://www.slideshare.net/nfsnfs/android-ipc-keynote11) 
+
+[Android为什么要设计出Bundle而不是直接使用HashMap来进行数据传递？](https://www.androidos.net.cn/doc/2019-10-28/39244.html)
+
+[深入了解Bundle和Map](https://www.androidos.net.cn/doc/androidweekly/the-mysterious-case-of-the-bundle-and-the-map.html)
 
 # aidl
 
@@ -29,6 +35,12 @@
 [Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)
 
 # Binder
+
+[安卓Binder架构概述](https://www.androidos.net.cn/doc/android/issue/an-overview-of-android-binder-framework.html)
+
+[浅谈Android系统进程间通信（IPC）机制Binder中的Server和Client获得Service Manager接口之路](https://www.androidos.net.cn/doc/androidos/15063.html)
+
+[Android进程间通信（IPC）机制Binder简要介绍和学习计划](https://www.androidos.net.cn/doc/androidos/15168.html)
 
 [为什么 Android 要采用 Binder 作为 IPC 机制？](https://www.zhihu.com/question/39440766/answer/89210950)
 
