@@ -26,6 +26,8 @@
 
 [说说android的ui刷新机制](https://mp.weixin.qq.com/s/4dkZnchHOFp0z97qNB4k5A)
 
+[requestLayout和invalidate区别](https://www.jianshu.com/p/5ec0f278e0a3)
+
 # 硬件加速
 
 [Android中GPU硬件加速控制及其在2D图形绘制上的局限](https://blog.csdn.net/iispring/article/details/49835061)
