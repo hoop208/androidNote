@@ -70,9 +70,11 @@
 
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
 
-[Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)
-
-[Kotlin 的泛型](https://kaixue.io/kotlin-generics/)
+[Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
+[Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
+[Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
+[Kotlin 里那些「不是那么写的」](https://kaixue.io/kotlin-basic-2/)  
+[Kotlin 的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)  
 
 [kotlin第一讲-数据类型](https://mp.weixin.qq.com/s/JD31w5AJz2Ma9Xi5OA5e7Q)  
 [kotlin第二讲-数据类型和java的对比](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484024&idx=1&sn=a15232a39d72690dfcc76595d5af8915&scene=19#wechat_redirect)  
