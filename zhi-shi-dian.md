@@ -22,11 +22,12 @@
 
 [Android 插件换肤原理及源码分析](https://glumes.com/post/android/android-change-skin-by-plugin/)
 
+[应用内切换主题有哪些方案可以实现](https://www.androidos.net.cn/doc/2019-10-28/40127.html)
+
 [Change Theme Dynamically with Circular Reveal Animation on Android](https://proandroiddev.com/change-theme-dynamically-with-circular-reveal-animation-on-android-8cd574f5f0d8)
 
 [Supporting multiple themes in your Android app (Part 1)](https://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)  
 [Supporting multiple themes in your Android app (Part 2)](https://www.hidroh.com/2015/02/25/support-multiple-themes-android-app-part-2/)  
-
 
 # androidmanefest.xml
 
@@ -64,8 +65,11 @@
 
 [Android hook机制之简单实现](https://mp.weixin.qq.com/s/DmEHVK68ex_LtF2LhEQydQ)
 
+[我们为什么要用fitsSystemWindows?](https://mp.weixin.qq.com/s/i8ZGsE71oyh-g8Vz9raZKg)
+
 [Dynamic Icon – Part 1](https://blog.stylingandroid.com/dynamic-icon-part-1/)  
 [Dynamic Icon – Part 2](https://blog.stylingandroid.com/dynamic-icon-part-2/)
+
 
 
 
