@@ -30,11 +30,7 @@
 
 [编写地道的 Kotlin 代码](https://droidyue.com/blog/2019/05/19/do-and-dont-in-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
 [Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
-
-[使用Kotlin Reified 让泛型更简单安全](https://droidyue.com/blog/2019/07/28/kotlin-reified-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
 
@@ -81,6 +77,18 @@
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
 [Kotlin 里那些「不是那么写的」](https://kaixue.io/kotlin-basic-2/)  
 [Kotlin 的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)  
+
+# 泛型
+
+[Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[使用Kotlin Reified 让泛型更简单安全](https://droidyue.com/blog/2019/07/28/kotlin-reified-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
+
+
+
+
 
 
 
