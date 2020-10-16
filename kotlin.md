@@ -87,7 +87,7 @@
 [kotlin泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51)  
 [kotlin泛型之协变 逆变](https://www.jianshu.com/p/056d53e699ce)  
 [Kotlin 范型之泛型约束、类型投影、星号投影](https://www.jianshu.com/p/ce9b093f6967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
-[Kotlin泛型-你可能需要知道这些](https://www.jianshu.com/p/9f5e355a1e65)
+[Kotlin泛型-你可能需要知道这些](https://www.jianshu.com/p/9f5e355a1e65)  
 
 
 
