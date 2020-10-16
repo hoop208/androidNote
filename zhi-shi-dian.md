@@ -41,6 +41,8 @@
 
 [Android 8.0 Oreo 画中画模式](https://www.jianshu.com/p/d76105b8ec30)
 
+[Android Oreo Picture In Picture](https://www.journaldev.com/20907/android-oreo-picture-in-picture)
+
 # 其它
 
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
