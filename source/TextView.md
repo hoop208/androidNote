@@ -1,14 +1,16 @@
 # 使用
 
-InputMethodManager:	简介:	[http://www.cnblogs.com/weixing/p/3300908.html](http://www.cnblogs.com/weixing/p/3300908.html)
+[Android InputMethodManager输入法简介](http://www.cnblogs.com/weixing/p/3300908.html)
 
-InputConnection:	[http://www.cnblogs.com/over140/archive/2011/01/06/1927059.html](http://www.cnblogs.com/over140/archive/2011/01/06/1927059.html)
+[InputConnection[输入法]](http://www.cnblogs.com/over140/archive/2011/01/06/1927059.html)
 
 [项目需求讨论--可能是用InputFilter来做的最好的金额限制](https://juejin.im/post/6844903506076254221#heading-5)
 
 [Android TextView 添加下划线的几种方式](https://www.cnblogs.com/popfisher/p/5191242.html)
 
 [探究在 TextView 中显示 HTML 的正确方法](https://zhuanlan.zhihu.com/p/27830863)
+
+[Styling internationalized text in Android](https://medium.com/androiddevelopers/styling-internationalized-text-in-android-f99759fb7b8f)
 
 # 源码
 
