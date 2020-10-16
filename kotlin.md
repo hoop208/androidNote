@@ -70,57 +70,13 @@
 
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
 
+[Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
 [Kotlin 里那些「不是那么写的」](https://kaixue.io/kotlin-basic-2/)  
 [Kotlin 的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)  
-
-[kotlin第一讲-数据类型](https://mp.weixin.qq.com/s/JD31w5AJz2Ma9Xi5OA5e7Q)  
-[kotlin第二讲-数据类型和java的对比](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484024&idx=1&sn=a15232a39d72690dfcc76595d5af8915&scene=19#wechat_redirect)  
-[kotlin第三讲-集合篇](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484039&idx=1&sn=5d765f061be9adb9df9f053f2f8ac80a&scene=19#wechat_redirect)  
-[kotlin第四讲-神奇的条件循环语句](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484049&idx=1&sn=568aa29b1ae5c50546ff513ae36eaf59&scene=19#wechat_redirect)   
-[kotlin第五讲-类定义与继承](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484054&idx=1&sn=4d32d168230117ad9e0f6a9ab11bde8a&scene=19#wechat_redirect)  
-[kotlin第六讲-类与类的映射](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484059&idx=1&sn=050e4ec887b1f1998c42561506b31ea2&scene=19#wechat_redirect)  
-[kotlin第七讲-函数定义](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484066&idx=1&sn=571fc0602ac32963bc51dcd82493bb89&scene=19#wechat_redirect)  
-[kotlin第八讲-lambda表达式](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484071&idx=1&sn=210431484965aea83b0acd077e097509&scene=19#wechat_redirect)  
-[kotlin第九讲-特有函数](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484093&idx=1&sn=3218158bd90abb1709a11d83768a3950&scene=19#wechat_redirect)  
-[kotlin第十讲-作用域函数](https://mp.weixin.qq.com/s?__biz=MzUyODg5NDg3NQ==&mid=2247484100&idx=1&sn=9de0c63aee2a4da066fa0e95b7c8a01c&scene=19#wechat_redirect)  
-
-
-# kotlin入门系列文章
-
-[DSL In Action](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484190&idx=1&sn=607a4f483ce510ee4bdcd2233d1dd18b&scene=19#wechat_redirect)  
-[14 Kotlin 与 Java 共存(1)](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483689&idx=1&sn=3fc3a9eb09dfcb3f81aabc71dbd431db&scene=19#wechat_redirect)  
-[15 Kotlin 与 Java 共存 (2)](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483692&idx=1&sn=5f1f5f1d8b6279c95e97c5170568087c&scene=19#wechat_redirect)  
-[勘误：15 Kotlin 与 Java 共存 (2)](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483875&idx=3&sn=8f6a6446d73c1c7bf8c50414b2f228d9&scene=19#wechat_redirect)  
-[Kotlin 如何优雅的实现『多继承』](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483696&idx=1&sn=dd2fd438e255c3ce1e7121057e879623&scene=19#wechat_redirect)  
-[如何正确终止 forEach](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483942&idx=1&sn=a6758e1033dd2ed31ef455d7738f86f1&scene=19#wechat_redirect)  
-[forEach也能break和continue](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483944&idx=1&sn=8396632dc1c157c136a611d2d72d5802&scene=19#wechat_redirect)  
-[为什么不直接使用 Array<Int> 而是 IntArray ？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483762&idx=1&sn=c553cdd4b0bccd59e530a9f231037d73&scene=19#wechat_redirect)  
-[Kotlin Primer · 第一章 · 启程](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=1&sn=723d0a669c3769597cd105a8ffbadf60&scene=19#wechat_redirect)  
-[Kotlin Primer·第二章·基本语法](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=2&sn=3fd45473c4e47221dd0fc3b46e426008&scene=19#wechat_redirect)  
-[Kotlin Primer·第三章·Kotlin 与 Java 混编](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=3&sn=84488d831c2106db70b660aa46d44392&scene=19#wechat_redirect)  
-[Kotlin Primer·第四章 类与对象](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=4&sn=285836beed2463957b899ec214b6b0e5&scene=19#wechat_redirect)  
-[Kotlin Primer·第五章·函数与闭包](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483946&idx=5&sn=f9576d6c5d3d874d03a4ece12613290c&scene=19#wechat_redirect)  
-[Kotlin Primer·第六章·集合泛型与操作符](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483994&idx=2&sn=8df5597ceafedf69c3c9ef19ad4dbda3&scene=19#wechat_redirect)  
-
-# kotlin基础系列博客
-
-[解毒 Kotlin Koans: 01 Introduction/HelloWorld](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484026&idx=1&sn=57adfa855219dd12311bf1991e873b1b&scene=19#wechat_redirect)  
-[解毒 Kotlin Koans: 02 震惊！你的 Java 代码居然被转换成了这样...](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484031&idx=1&sn=c6b18d505a264fa85bb933a8faca1a66&scene=19#wechat_redirect)  
-[解毒 Kotlin Koans: 03 函数参数、重载](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484037&idx=1&sn=50e09c649014f9acf3699cc52dad3a4b&scene=19#wechat_redirect)  
-[== 与 equals 居然结果不一样！](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484386&idx=1&sn=bbe950af0fa7aeae9efcbfca8a530d27&scene=19#wechat_redirect)  
-[还在被数据类的序列化折磨？是时候丢弃 Gson 了](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484222&idx=1&sn=6cecba6bec4ef545bbe1c4527f6f1bbd&scene=19#wechat_redirect)  
-[也许你需要这个为数据类生成 DeepCopy 方法的库](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484313&idx=1&sn=77c3a16e85b5083e2cbe82a1f0c16d85&scene=19#wechat_redirect)  
-[小心，在数据类当中用 Lazy 要谨慎！](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484114&idx=1&sn=2cc8d0cb1c6cfb19802f00da4c595536&scene=19#wechat_redirect)  
-[快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&scene=19#wechat_redirect)  
-[区别Kotlin中的object和companion object关键字](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484071&idx=1&sn=74a8234d8e46826ba4936d4274b4da5b&scene=19#wechat_redirect)  
-[高阶函数（一）](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483885&idx=1&sn=1a560543ce4ab02a1ecf3f5583b9a32e&scene=19#wechat_redirect)  
-[高阶函数（二）](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483891&idx=1&sn=51459e9b37adbc89b4a594f8594622f4&scene=19#wechat_redirect)  
-[Kotlin 遇到 MyBatis：到底是 Int 的错，还是 data class 的错？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483908&idx=1&sn=0c072a630198d4a23a7d3aec700c138b&scene=19#wechat_redirect)  
-[细说 Lambda 表达式](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483881&idx=1&sn=ddbdddd97208556f9ed6af4fe834353b&scene=19#wechat_redirect)  
-[用 Map 为你的属性做代理](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484018&idx=1&sn=170499992c0f29d9304eeddc4379f34e&scene=19#wechat_redirect)  
 
 
 
