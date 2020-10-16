@@ -44,3 +44,11 @@
 [Gradle for Android 第六篇( 测试)](https://segmentfault.com/a/1190000004260141)
 [Gradle for Android 第七篇( Groovy入门 )](https://segmentfault.com/a/1190000004276167)
 
+# Gradle插件
+
+[深入理解Android编译原理-自定义gradle插件](https://mp.weixin.qq.com/s/4e4l1WzgvdWnnzbgwtdbQA)
+
+[[译]Kotlin + buildSrc：更好的管理Gadle依赖](https://juejin.im/post/5b0fb0e56fb9a00a012b7fda)
+
+[通过自定义Gradle插件修改编译后的class文件](https://mp.weixin.qq.com/s/lpnUX0ct8a_oKJoPAM6Z-w)
+
