@@ -12,12 +12,6 @@
 
 [如何在 Java 和 Kotlin 之间进行互操作](https://mp.weixin.qq.com/s/E5qPbDDgyE_y6Ae53s5SOw)
 
-[使用 Kotlin 构建 Android 应用 | Kotlin 迁移指南 (上篇)](https://mp.weixin.qq.com/s/9Ly-WnkDGOfZV2rj_DwOVQ)
-
-[开始迁移到 Kotlin | Kotlin 迁移指南 (中篇)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)
-
-[使用 Kotlin 构建的常见问题解答 | Kotlin 迁移指南 (下篇)](https://mp.weixin.qq.com/s/PqHMVt50QVgK525vYFD0Xg)
-
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
 
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
@@ -80,6 +74,10 @@
 [Kotlin 里那些「不是那么写的」](https://kaixue.io/kotlin-basic-2/)  
 [Kotlin 的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)  
 
+[使用 Kotlin 构建 Android 应用 | Kotlin 迁移指南 (上篇)](https://mp.weixin.qq.com/s/9Ly-WnkDGOfZV2rj_DwOVQ)  
+[开始迁移到 Kotlin | Kotlin 迁移指南 (中篇)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)  
+[使用 Kotlin 构建的常见问题解答 | Kotlin 迁移指南 (下篇)](https://mp.weixin.qq.com/s/PqHMVt50QVgK525vYFD0Xg)  
+
 # 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -90,6 +88,14 @@
 [kotlin泛型之协变 逆变](https://www.jianshu.com/p/056d53e699ce)  
 [Kotlin 范型之泛型约束、类型投影、星号投影](https://www.jianshu.com/p/ce9b093f6967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
 [Kotlin泛型-你可能需要知道这些](https://www.jianshu.com/p/9f5e355a1e65)  
+
+# 注解
+
+[JvmName 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/01/jvm-name-annotations-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
+[JvmMultifile 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/08/jvmmultifile-annotation-in-kotlin/)  
+[Kotlin 注解 第三篇 @JvmField 与 @JvmStatic](https://droidyue.com/blog/2019/12/22/kotlin-annotation-jvmfiled-and-jvmstatic-and-object/)  
+
+
 
 
 
