@@ -35,6 +35,12 @@
 
 [AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
 
+# 画中画
+
+[Android 8.0 中如何实现视频通话的画中画模式](https://juejin.im/post/6844903511377887245)  
+
+[Android 8.0 Oreo 画中画模式](https://www.jianshu.com/p/d76105b8ec30)
+
 # 其它
 
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
