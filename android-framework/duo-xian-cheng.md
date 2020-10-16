@@ -28,6 +28,8 @@
 
 [Android学习笔记——AS中使用AIDL](https://zhuanlan.zhihu.com/p/31460556)
 
+[说一说aidl的oneway](https://mp.weixin.qq.com/s/wD3Io-ikS1VCljNkxEb6tQ)
+
 # Messenger
 
 [Android应用进程间通信之Messenger信使使用及源码浅析](https://blog.csdn.net/yanbober/article/details/48373341)
@@ -61,6 +63,10 @@
 [Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
 
 [Binder原理系列博客](http://liuwangshu.cn/tags/Binder%E5%8E%9F%E7%90%86/)
+
+[一篇文章了解binder进程间通信](https://mp.weixin.qq.com/s/lRLFzASMwEPKvLTWPiCzdQ)
+
+[浅谈Binder](https://mp.weixin.qq.com/s/TK1AH5Dn90FgeRlDxlcqnQ)
 
 
 
