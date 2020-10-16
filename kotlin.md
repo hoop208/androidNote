@@ -1,7 +1,5 @@
 # 知识点
 
-[Do not always trust @JvmOverloads](https://medium.com/@mmlodawski/https-medium-com-mmlodawski-do-not-always-trust-jvmoverloads-5251f1ad2cfe)
-
 [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
 
 [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
@@ -90,6 +88,8 @@
 [Kotlin泛型-你可能需要知道这些](https://www.jianshu.com/p/9f5e355a1e65)  
 
 # 注解
+
+[Do not always trust @JvmOverloads](https://medium.com/@mmlodawski/https-medium-com-mmlodawski-do-not-always-trust-jvmoverloads-5251f1ad2cfe)
 
 [JvmName 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/01/jvm-name-annotations-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
 [JvmMultifile 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/08/jvmmultifile-annotation-in-kotlin/)  
