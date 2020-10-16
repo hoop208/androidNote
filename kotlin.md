@@ -72,6 +72,10 @@
 
 [Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
 
+[Kotlin Vocabulary | 密封类 sealed class](https://mp.weixin.qq.com/s/yrWJ-ApIMTs979NW1v42UQ)
+
+[Kotlin扩展函数与实现机制探索](https://cloud.tencent.com/developer/article/1146533)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
