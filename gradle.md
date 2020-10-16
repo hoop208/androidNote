@@ -52,3 +52,6 @@
 
 [通过自定义Gradle插件修改编译后的class文件](https://mp.weixin.qq.com/s/lpnUX0ct8a_oKJoPAM6Z-w)
 
+[通俗易懂的Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843752&idx=1&sn=b3b01ea8e56a3397de90b385a8b50c66&scene=19#wechat_redirect)  
+[通俗易懂的自定义Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843781&idx=1&sn=a7ee811d2bf739adf019c6cef405c8ef&scene=19#wechat_redirect)
+
