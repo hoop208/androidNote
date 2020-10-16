@@ -68,6 +68,17 @@
 
 [浅谈Binder](https://mp.weixin.qq.com/s/TK1AH5Dn90FgeRlDxlcqnQ)
 
+[Binder线程优先级继承](https://mp.weixin.qq.com/s/omuuQQgJqQmK3qmDxUTa5w)
+
+[图解Android中的binder机制](https://juejin.im/post/6844904115777044488)
+
+[谈谈你对binder的理解](https://mp.weixin.qq.com/s/Ef2Qy_xFeI6WU3Q0wf5czA)  
+
+[说说你对binder驱动的理解](https://mp.weixin.qq.com/s/LH_JR5Rwh1JL4B6qQkEv9Q)
+
+[掌握binder机制，先搞懂这几个关键类](https://mp.weixin.qq.com/s/gHtZ9pjMJ-jXA12rvXA4cg)
+
+
 
 
 
