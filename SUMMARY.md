@@ -55,7 +55,6 @@
   * [内存优化](xing-neng-you-hua/nei-cun-you-hua.md)
   * [相关工具](xing-neng-you-hua/xiang-guan-gong-ju.md)
 * [知识点](zhi-shi-dian.md)
-  * [应用构建](ying-yong-gou-jian.md)
   * [适配](ping-mu-shi-pei.md)
   * [项目学习](xiang-mu-xue-xi.md)
   * [系统UI](xi-tong-ui.md)
@@ -64,4 +63,7 @@
   * [协程](kotlin/xie-cheng.md)
   * [DSL](kotlin/dsl.md)
 * [NDK](ndk.md)
+* [应用构建](ying-yong-gou-jian.md)
+  * [gradle](gradle.md)
+  * [其它](qi-ta.md)
 
