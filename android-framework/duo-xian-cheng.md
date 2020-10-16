@@ -8,17 +8,17 @@
 
 [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
 
-[Android IPC机制（一）开启多进程](http://liuwangshu.cn/application/ipc/1-process-start.html)  
-[Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)  
-[Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)  
-[Android IPC机制（四）用ContentProvider进行进程间通信](http://liuwangshu.cn/application/ipc/4-contentprovider.html)  
-[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html) 
-
 [Android IPC Mechanism](https://www.slideshare.net/nfsnfs/android-ipc-keynote11) 
 
 [Android为什么要设计出Bundle而不是直接使用HashMap来进行数据传递？](https://www.androidos.net.cn/doc/2019-10-28/39244.html)
 
 [深入了解Bundle和Map](https://www.androidos.net.cn/doc/androidweekly/the-mysterious-case-of-the-bundle-and-the-map.html)
+
+[Android IPC机制（一）开启多进程](http://liuwangshu.cn/application/ipc/1-process-start.html)  
+[Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)  
+[Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)  
+[Android IPC机制（四）用ContentProvider进行进程间通信](http://liuwangshu.cn/application/ipc/4-contentprovider.html)  
+[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html) 
 
 # aidl
 
