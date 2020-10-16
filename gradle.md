@@ -32,6 +32,10 @@
 
 [通过自定义Gradle插件修改编译后的class文件](https://blog.csdn.net/huachao1001/article/details/51819972)
 
+[使用buildSrc Gradle项目和Codemodel生成java代码](https://www.androidos.net.cn/doc/androidweekly/generate-java-sources-using-buildsrc-gradle-project-and-codemodel.html)
+
+[Gradle工作原理全面了解](https://mp.weixin.qq.com/s/Y5O6W03iJU8e3d3kNDgVqw)
+
 [Gradle for Android 第一篇( 从 Gradle 和 AS 开始 )](https://segmentfault.com/a/1190000004229002)
 [Gradle for Android 第二篇( Build.gradle入门 )](https://segmentfault.com/a/1190000004234712)
 [Gradle for Android 第三篇( 依赖管理 )](https://segmentfault.com/a/1190000004237922)
