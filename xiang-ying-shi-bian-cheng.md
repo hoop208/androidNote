@@ -16,8 +16,11 @@
 
 [RxBus真的能替代EventBus吗？](https://www.jianshu.com/p/669eda5dc5a4)
 
+[Type safety EventBus with RxJava 2](https://proandroiddev.com/type-safety-eventbus-with-rxjava-2-c10d3ea6f7e0) 
 
-# 开源库
+[用rxjava打造eventbus](https://mp.weixin.qq.com/s/3RIxQddpnVbobSxxBG_vlg) 
+
+# 相关库
 
 [Android Library for Logging RxJava Observables and Subscribers.](https://github.com/android10/frodo)
 
@@ -48,13 +51,9 @@
 
 [大佬们，一波RxJava 3.0来袭，请做好准备~](https://juejin.im/post/5d1eeffe6fb9a07f0870b4e8)
 
-[用rxjava打造eventbus](https://mp.weixin.qq.com/s/3RIxQddpnVbobSxxBG_vlg)
-
 [Master error handling in RxJava. Crush em!](https://medium.com/swlh/master-error-handling-in-rxjava-crush-em-5cb66bb16ccd)
 
 [Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
-
-[Type safety EventBus with RxJava 2](https://proandroiddev.com/type-safety-eventbus-with-rxjava-2-c10d3ea6f7e0)  
 
 [RxJava and Android: working with subjects](https://howrobotswork.wordpress.com/2013/12/23/rxjava-and-android-working-with-subjects/)
 
@@ -65,6 +64,12 @@
 [Deferring Observable code until subscription in RxJava](https://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/)
 
 [RxJava Operators - toList()](https://tomstechnicalblog.blogspot.com/2015/11/rxjava-operators-tolist.html)
+
+[RxJava’s Side Effect Methods](https://www.grokkingandroid.com/rxjavas-side-effect-methods/)
+
+[RxJava's repeatWhen and retryWhen, explained](https://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/)
+
+[RxJava – the production line](https://www.thedroidsonroids.com/blog/rxjava-production-line)
 
 [RxJava 沉思录（一）：你认为 RxJava 真的好用吗？](https://juejin.im/post/5b8f536c5188255c352d3528)
 [RxJava 沉思录（二）：空间维度](https://juejin.im/post/5b8f5470e51d450e3d2c8ddf)
