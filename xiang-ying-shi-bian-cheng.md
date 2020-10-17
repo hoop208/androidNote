@@ -8,6 +8,8 @@
 
 [An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
+[Want to optimize network usage? Check out local storage and RxJava backpressure](https://www.freecodecamp.org/news/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a/)
+
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
