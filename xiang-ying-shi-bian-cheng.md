@@ -6,10 +6,6 @@
 
 [通俗解释什么是响应式编程？](https://www.jdon.com/48275)
 
-[轻松学，浅析依赖倒置（DIP）、控制反转(IOC)和依赖注入(DI)](https://frank909.blog.csdn.net/article/details/75093382)
-
-[Introduction to RxRelay for RxJava](https://www.baeldung.com/rx-relay)
-
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
@@ -23,9 +19,12 @@
 
 # 开源库
 
-[RxRelay](https://github.com/JakeWharton/RxRelay)
-
 [Android Library for Logging RxJava Observables and Subscribers.](https://github.com/android10/frodo)
+
+# RxRelay
+
+[Introduction to RxRelay for RxJava](https://www.baeldung.com/rx-relay)
+
 
 # Rxjava
 
@@ -64,6 +63,8 @@
 [Loading data from multiple sources with RxJava](https://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)
 
 [Deferring Observable code until subscription in RxJava](https://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/)
+
+[RxJava Operators - toList()](https://tomstechnicalblog.blogspot.com/2015/11/rxjava-operators-tolist.html)
 
 [RxJava 沉思录（一）：你认为 RxJava 真的好用吗？](https://juejin.im/post/5b8f536c5188255c352d3528)
 [RxJava 沉思录（二）：空间维度](https://juejin.im/post/5b8f5470e51d450e3d2c8ddf)
