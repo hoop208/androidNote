@@ -8,12 +8,6 @@
 
 [An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
-[Want to optimize network usage? Check out local storage and RxJava backpressure](https://www.freecodecamp.org/news/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a/)
-
-[Making RxJava code tidier with doOnSubscribe, doFinally and doOnTerminate](https://medium.com/@ValCanBuild/making-rxjava-code-tidier-with-doonsubscribe-and-dofinally-3748f223d32d)
-
-[RxJava: Handle Cancellation With “switchMap”](https://tech.pic-collage.com/rxandroid-handle-interrupt-with-switchmap-3a650393299f)
-
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
@@ -82,6 +76,14 @@
 [Multicasting in RxJava](https://blog.danlew.net/2016/06/13/multicasting-in-rxjava/)
 
 [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc#.gt27mcg56)
+
+[Want to optimize network usage? Check out local storage and RxJava backpressure](https://www.freecodecamp.org/news/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a/)
+
+[Making RxJava code tidier with doOnSubscribe, doFinally and doOnTerminate](https://medium.com/@ValCanBuild/making-rxjava-code-tidier-with-doonsubscribe-and-dofinally-3748f223d32d)
+
+[RxJava: Handle Cancellation With “switchMap”](https://tech.pic-collage.com/rxandroid-handle-interrupt-with-switchmap-3a650393299f)
+
+[Understanding RxJava Create and fromCallable Operator](https://blog.mindorks.com/understanding-rxjava-create-and-fromcallable-operator)
 
 [RxJava 沉思录（一）：你认为 RxJava 真的好用吗？](https://juejin.im/post/5b8f536c5188255c352d3528)
 [RxJava 沉思录（二）：空间维度](https://juejin.im/post/5b8f5470e51d450e3d2c8ddf)
