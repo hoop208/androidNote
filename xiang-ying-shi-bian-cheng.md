@@ -10,6 +10,8 @@
 
 [Want to optimize network usage? Check out local storage and RxJava backpressure](https://www.freecodecamp.org/news/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a/)
 
+[Making RxJava code tidier with doOnSubscribe, doFinally and doOnTerminate](https://medium.com/@ValCanBuild/making-rxjava-code-tidier-with-doonsubscribe-and-dofinally-3748f223d32d)
+
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
