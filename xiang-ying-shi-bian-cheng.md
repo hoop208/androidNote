@@ -6,6 +6,8 @@
 
 [通俗解释什么是响应式编程？](https://www.jdon.com/48275)
 
+[An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
+
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
