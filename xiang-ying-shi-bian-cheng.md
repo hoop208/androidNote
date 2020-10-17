@@ -12,6 +12,8 @@
 
 [Making RxJava code tidier with doOnSubscribe, doFinally and doOnTerminate](https://medium.com/@ValCanBuild/making-rxjava-code-tidier-with-doonsubscribe-and-dofinally-3748f223d32d)
 
+[RxJava: Handle Cancellation With “switchMap”](https://tech.pic-collage.com/rxandroid-handle-interrupt-with-switchmap-3a650393299f)
+
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
