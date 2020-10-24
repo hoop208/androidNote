@@ -95,6 +95,8 @@
 
 [Why You Should Use a GIT SHA in Your Crash Reporting](https://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
 
+[Why would I want to fitsSystemWindows?](https://medium.com/androiddevelopers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec#.tjiswxqwo)
+
 
 
 
