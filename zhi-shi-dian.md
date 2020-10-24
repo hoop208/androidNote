@@ -89,6 +89,8 @@
 
 [Rendering PDFs on Android the easy way](https://proandroiddev.com/rendering-pdfs-on-android-the-easy-way-c05635b2c3a8)
 
+[Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
+
 
 
 
