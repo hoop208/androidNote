@@ -91,6 +91,8 @@
 
 [Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
 
+[Deep Dive Into Android State Restoration](https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration)
+
 
 
 
