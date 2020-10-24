@@ -19,3 +19,9 @@
 [你真的懂Handler吗？Handler问答](https://www.jianshu.com/p/f70ee1765a61)
 
 [Handler之同步屏障机制(sync barrier)](https://blog.csdn.net/asdgbc/article/details/79148180)
+
+[通过学习handler源码 手写子线程间的通信](https://mp.weixin.qq.com/s/S144vmrnWDlFPEIhQCDwWg)
+
+[IdleHandler源码以及使用](https://mp.weixin.qq.com/s/IuuJUf099cLXi9B_VOqNGw)
+
+[Android线程间通信机制handler的实现原理](https://mp.weixin.qq.com/s/m944iVkqZJIgdPRVjvz40g)
