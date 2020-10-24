@@ -93,6 +93,8 @@
 
 [Deep Dive Into Android State Restoration](https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration)
 
+[Why You Should Use a GIT SHA in Your Crash Reporting](https://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
+
 
 
 
