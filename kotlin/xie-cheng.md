@@ -24,6 +24,8 @@
 
 [协程中的取消和异常 | 核心概念介绍](https://mp.weixin.qq.com/s/wzSi7UrFK6iQV2MA2OCwew)
 
+[Kotlin 协程和 Android SQLite API 中的线程模型](https://zhuanlan.zhihu.com/p/250511061?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [A glimpse of Async-Await on Android](https://medium.com/@nhaarman/async-await-in-android-f0202cf31088#.bpzsiyz97)
 
 [Coroutines in Kotlin 1.3 explained: Suspending functions, contexts, builders and scopes](https://antonioleiva.com/kotlin-coroutines/)
