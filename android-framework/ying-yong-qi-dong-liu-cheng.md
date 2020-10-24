@@ -44,7 +44,7 @@
 
 [Android源码分析-Android应用启动](https://mp.weixin.qq.com/s/d-AM1zL_FOjks2ULPvM6xA)
 
-[系统 app activity启动过程:](https://mp.weixin.qq.com/s/C7oLPsLcOO2Rcelha5oH_w)
+[系统 app activity启动过程](https://mp.weixin.qq.com/s/C7oLPsLcOO2Rcelha5oH_w)
 
 [Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
 [Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)
