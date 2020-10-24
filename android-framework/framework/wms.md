@@ -32,6 +32,16 @@ Activity和Window的关系：
 
 [Android 探索Activity和Window，View之间的关系](https://www.codenong.com/cs105358958/)
 
+# 画中画
+
+[Android 8.0 中如何实现视频通话的画中画模式](https://juejin.im/post/6844903511377887245)  
+
+[Android 8.0 Oreo 画中画模式](https://www.jianshu.com/p/d76105b8ec30)
+
+[Android Oreo Picture In Picture](https://www.journaldev.com/20907/android-oreo-picture-in-picture)
+
+
+
 
 
 
