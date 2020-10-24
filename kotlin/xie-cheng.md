@@ -20,6 +20,8 @@
 
 [Kotlin Vocabulary | 揭秘协程中的 suspend 修饰符](https://mp.weixin.qq.com/s/uJXawdis81zGlZPijkHLhw)
 
+[基于 Kotlin Coroutine 实现的 EventBus](https://mp.weixin.qq.com/s/sPfr2eJWrgvq2wWNLblsaA)
+
 [协程中的取消和异常 | 核心概念介绍](https://mp.weixin.qq.com/s/wzSi7UrFK6iQV2MA2OCwew)
 
 [A glimpse of Async-Await on Android](https://medium.com/@nhaarman/async-await-in-android-f0202cf31088#.bpzsiyz97)
