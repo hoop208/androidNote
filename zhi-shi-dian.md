@@ -99,6 +99,8 @@
 
 [Keyboard Handling on Android](https://pspdfkit.com/blog/2016/keyboard-handling-on-android/)
 
+[Effective Java for Android (cheatsheet).](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.xt6omljkt)
+
 
 
 
