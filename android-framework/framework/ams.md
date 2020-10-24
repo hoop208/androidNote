@@ -69,6 +69,10 @@
 
 [3分钟看懂Activity启动流程](https://www.jianshu.com/p/9ecea420eb52)
 
+[五道刁钻的activity生命周期面试题](https://mp.weixin.qq.com/s/2O2dGQQpC_bKyaZl0d5knQ)
+
+[说说startactivity](https://mp.weixin.qq.com/s/zfnwXyVU5DxH-cjOalQy-Q)
+
 # Service
 
 使用：
