@@ -10,9 +10,6 @@
 
 [Android源码解析之（十一）-->应用进程启动流程](https://blog.csdn.net/qq_23547831/article/details/51119333)
 
-[Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
-[Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)
-
 [Android应用启动流程分析](https://www.jianshu.com/p/009dac047b72) 
 
 [Android 系统及应用启动流程](https://juejin.im/entry/59cf0b5e6fb9a00a4247905c) 
@@ -42,6 +39,15 @@
 [图解Activity启动流程，进阶高级](http://crazysunj.com/2017/07/16/%E5%9B%BE%E8%A7%A3Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%EF%BC%8C%E8%BF%9B%E9%98%B6%E9%AB%98%E7%BA%A7/)
 
 [理解Application创建过程](http://gityuan.com/2017/04/02/android-application/)
+
+[Android系统应用启动流程分析](https://mp.weixin.qq.com/s/D5blPn0L5UPipNDbAJdIIw)
+
+[Android源码分析-Android应用启动](https://mp.weixin.qq.com/s/d-AM1zL_FOjks2ULPvM6xA)
+
+[系统 app activity启动过程:](https://mp.weixin.qq.com/s/C7oLPsLcOO2Rcelha5oH_w)
+
+[Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
+[Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)
 
 [Android应用程序启动过程（一）——进程创建](https://my.oschina.net/u/2504786/blog/3189394)  
 [Android应用程序启动过程（二）——ProcessState和Binder线程池](https://my.oschina.net/u/2504786/blog/3189406)  
