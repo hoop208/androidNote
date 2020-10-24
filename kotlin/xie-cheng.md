@@ -25,7 +25,7 @@
 [协程中的取消和异常 | 核心概念介绍](https://mp.weixin.qq.com/s/wzSi7UrFK6iQV2MA2OCwew)  
 [协程的取消和异常 异常处理详解](https://mp.weixin.qq.com/s/FjAyR6YPvGy4nH8WsIdpZQ)  
 [协程的取消和异常 取消操作详解](https://mp.weixin.qq.com/s/_MkvDPJR7OIdhiR0Bnz_gA)  
-[协程中的取消和异常 驻留任务详解](https://mp.weixin.qq.com/s/0ZPzUeUiBlFhl3uIkgSQ7Q)
+[协程中的取消和异常 驻留任务详解](https://mp.weixin.qq.com/s/0ZPzUeUiBlFhl3uIkgSQ7Q)  
 
 [Kotlin 协程和 Android SQLite API 中的线程模型](https://zhuanlan.zhihu.com/p/250511061?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
