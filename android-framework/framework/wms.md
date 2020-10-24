@@ -2,6 +2,8 @@
 
 [Android窗口机制系列博客](https://www.jianshu.com/p/40a9c93b5a8d)
 
+[Android7.0的多窗口实现分析](https://mp.weixin.qq.com/s/eT8F4IXQbO1Bd3gT78M9DQ)
+
 Activity和Window的关系：
 
 [Activity、View、Window的理解一篇文章就够了](https://juejin.im/entry/596329686fb9a06bc903b6fd)
