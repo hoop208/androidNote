@@ -85,6 +85,8 @@
 
 [Android InboxStyle Notification As Deep As Possible](https://itnext.io/android-inboxstyle-notification-as-deep-as-possible-4d74c0c725f1)
 
+[How to name a color in Android](https://proandroiddev.com/how-to-name-a-color-in-android-f267f2a16172)
+
 
 
 
