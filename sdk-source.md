@@ -133,3 +133,7 @@
 使用
 
 [Android 自定义漂亮的Seekbar样式](https://www.jianshu.com/p/6ca82ceb9ae2)
+
+# switch
+
+[Android 自定义Switch开关按钮的样式](https://www.jianshu.com/p/4e436300f328)
