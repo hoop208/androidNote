@@ -1,4 +1,4 @@
-[Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
+# Handler
 
 [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
 
@@ -25,3 +25,20 @@
 [IdleHandler源码以及使用](https://mp.weixin.qq.com/s/IuuJUf099cLXi9B_VOqNGw)
 
 [Android线程间通信机制handler的实现原理](https://mp.weixin.qq.com/s/m944iVkqZJIgdPRVjvz40g)
+
+# HandlerThread
+
+[Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
+
+# AsyncTask
+
+[AsyncTask和AsyncTaskCompat源码解析](https://github.com/white37/AndroidSdkSourceAnalysis/blob/master/article/AsyncTask%E5%92%8CAsyncTaskCompat%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
+
+[Android源码分析—带你认识不一样的AsyncTask](https://blog.csdn.net/singwhatiwanna/article/details/17596225)
+
+[Android AsyncTask完全解析，带你从源码的角度彻底理解](https://blog.csdn.net/guolin_blog/article/details/11711405)
+
+[Android AsyncTask 源码解析](https://blog.csdn.net/lmj623565791/article/details/38614699)
+
+
+
