@@ -19,3 +19,5 @@
 [Android 9.0 Toast源码改变引发的问题](https://blog.csdn.net/qq_36486247/article/details/102753801)
 
 [Toast与Snackbar的那点事](https://tech.meituan.com/2018/03/29/toast-snackbar-replace.html)
+
+[android9.0 toast的特殊处理](https://mp.weixin.qq.com/s/8xUz5KICunNzs11lqQbuxQ)
