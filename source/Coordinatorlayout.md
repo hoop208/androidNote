@@ -116,8 +116,16 @@ behavior
 
 [十分钟Android中的嵌套滚动机制](https://www.jianshu.com/p/bc6d703e7ca9)
 
+[嵌套滑动机制解析](https://blog.csdn.net/lmj623565791/article/details/52204039)
+
 [嵌套滚动设计和源码分析
 VerticalNestedScrollLayout 的使用](https://blog.klmobile.app/2018/04/03/vertical-nested-scroll-layout/)
+
+# SwipeRefreshLayout
+	
+[SwipeRefreshLayout源码解析](https://github.com/hanks-zyh/SwipeRefreshLayout/blob/master/README.md)
+
+
 
 
 
