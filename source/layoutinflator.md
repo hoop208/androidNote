@@ -13,3 +13,5 @@
 [AsyncLayoutInflater实现异步加载布局](https://mp.weixin.qq.com/s/k-kdkpVYSU5E7OsDye9udw)
 
 [View的异步Inflate+全局缓存：加速你的页面](https://www.infoq.cn/article/pWylrFrSh8wcE1LtYb1u)
+
+[Android AsyncLayoutInflater 限制及改进](https://juejin.im/post/6844903655619952647)
