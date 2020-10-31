@@ -90,6 +90,10 @@
 
 [Android Parcelable 源码解析](http://www.manongjc.com/article/62792.html)
 
+# Intent
+
+[将 Intent 序列化，像 Uri 一样传递 Intent！！！](https://juejin.im/post/59e0554951882578c6736ec8)
+
 
 
 
