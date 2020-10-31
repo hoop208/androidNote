@@ -35,7 +35,6 @@
     * [View&ViewGroup](source/viewandviewgroup.md)
     * [parceable](source/parceable.md)
     * [Toast](source/toast.md)
-    * [Application](source/application.md)
     * [webview](source/webview.md)
     * [LayoutInflator](source/layoutinflator.md)
     * [ImageView](source/imageview.md)

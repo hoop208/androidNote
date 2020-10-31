@@ -160,6 +160,13 @@
 
 [Android中Context详解 ---- 你所不知道的Context](https://blog.csdn.net/qinjuning/article/details/7310620)
 
+# application
+
+[Android：全面解析 熟悉而陌生 的Application类使用](https://www.jianshu.com/p/f665366b2a47)
+
+[application这是一道送分题](https://mp.weixin.qq.com/s/no35GFRFWb0v5_ZD9BRp3g)
+
+[谈谈你对Application类的理解](https://www.androidos.net.cn/doc/2019-10-24/10.html)
 
 
 
