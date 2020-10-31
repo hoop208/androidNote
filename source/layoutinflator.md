@@ -7,3 +7,9 @@
 [layoutinflator的使用和源码解析](https://mp.weixin.qq.com/s/a9jaKfj5-PUjvq-Qad7JwQ)
 
 [LayoutInflater 布局渲染工具原理分析](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841997&idx=1&sn=4170aae7dd8aae1df5d0a8114b07381d&scene=19#wechat_redirect)
+
+# 
+
+[AsyncLayoutInflater实现异步加载布局](https://mp.weixin.qq.com/s/k-kdkpVYSU5E7OsDye9udw)
+
+[View的异步Inflate+全局缓存：加速你的页面](https://www.infoq.cn/article/pWylrFrSh8wcE1LtYb1u)
