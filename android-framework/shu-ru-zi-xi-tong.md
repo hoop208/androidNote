@@ -1,0 +1,1 @@
+[Android input 子系统:input进程的创建 监听线程的启动](https://mp.weixin.qq.com/s/h0kGWizIYn6FqBItwQJ7kQ)
