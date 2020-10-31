@@ -34,6 +34,8 @@
 
 [关于使用 Android MVVM + LiveData 模式的一些建议](https://zhuanlan.zhihu.com/p/33206893)
 
+[【译】LiveData 使用详解](https://www.jianshu.com/p/dab2ee97d680)
+
 [Stateful.Live.Data](https://medium.com/swlh/stateful-live-data-d484799da63c)
 
 [SingleLiveEvent to help you work with LiveData and events](https://proandroiddev.com/singleliveevent-to-help-you-work-with-livedata-and-events-5ac519989c70)
