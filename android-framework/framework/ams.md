@@ -73,6 +73,8 @@
 
 [说说startactivity](https://mp.weixin.qq.com/s/zfnwXyVU5DxH-cjOalQy-Q)
 
+[图解Activity启动流程，进阶高级](https://juejin.im/post/596c0d5ff265da6c2211b748)
+
 # Service
 
 使用：
