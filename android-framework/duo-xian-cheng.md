@@ -94,6 +94,8 @@
 
 [将 Intent 序列化，像 Uri 一样传递 Intent！！！](https://juejin.im/post/59e0554951882578c6736ec8)
 
+[Android组件系列----Intent详解](https://www.cnblogs.com/qianguyihao/p/3959204.html)
+
 
 
 
