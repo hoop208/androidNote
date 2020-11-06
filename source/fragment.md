@@ -42,6 +42,8 @@
 
 [Android解决Fragment多层嵌套时onActivityResult无法正确回调的问题](https://mp.weixin.qq.com/s/JTkjV-1QedfGsmliB02Jeg)
 
+[Fragment新功能，setMaxLifecycle了解一下](https://mp.weixin.qq.com/s/6VAArr0Ur96EoXaDmMmiNw)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
