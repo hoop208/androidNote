@@ -56,10 +56,6 @@
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
 
-[用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)
-
-[用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
-
 [五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面 简单&优雅：LayoutManager+ItemTouchHelper](https://blog.csdn.net/zxt0601/article/details/53730908)
 
 [给 RecyclerView 加上折叠的效果](https://www.jianshu.com/p/7ddb265f6250)
@@ -72,6 +68,9 @@
 
 [雕虫晓技(五) 网格分页布局源码解析(上)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-a)  
 [雕虫晓技(六) 网格分页布局源码解析(下)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-b)
+
+[用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)  
+[用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
 
 # 开源库
 
