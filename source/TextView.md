@@ -16,6 +16,8 @@
 
 [实现各种展开、收回TextView需求](https://mp.weixin.qq.com/s/q78FT1KqNfI6im7u9WSPJQ)
 
+[TextView(文本框)详解](https://www.runoob.com/w3cnote/android-tutorial-textview.html)
+
 # 源码
 
 [TextView源码解析](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
