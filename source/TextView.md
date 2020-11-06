@@ -26,11 +26,7 @@
 
 # 源码
 
-[TextView源码解析](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
-
 [TextView 的新特性，Autosizing 到底是如何实现的？ | 源码分析](https://juejin.im/post/5a5cbe90518825732d7f9606#heading-4)
-
-[TextView 的新特性，Autosizing 到底是如何实现的？ | 源码分析](https://segmentfault.com/a/1190000012850665)
 
 [staticlayout源码解析](https://jaeger.itscoder.com/android/2016/08/05/staticlayout-source-analyse.html)
 
