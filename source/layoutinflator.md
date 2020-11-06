@@ -15,3 +15,5 @@
 [View的异步Inflate+全局缓存：加速你的页面](https://www.infoq.cn/article/pWylrFrSh8wcE1LtYb1u)
 
 [Android AsyncLayoutInflater 限制及改进](https://juejin.im/post/6844903655619952647)
+
+[AsyncLayoutInflater: On the way to making the UI thread responsive](https://proandroiddev.com/asynclayoutinflater-on-the-way-to-the-ui-thread-to-be-responsive-743cb6cb201)
