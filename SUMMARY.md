@@ -37,6 +37,7 @@
     * [ImageView](source/imageview.md)
     * [drawable](source/drawable.md)
     * [ViewRootImpl](source/viewrootimpl.md)
+    * [fragment](source/fragment.md)
   * [framework](android-framework/framework.md)
     * [AMS](android-framework/framework/ams.md)
     * [WMS](android-framework/framework/wms.md)
