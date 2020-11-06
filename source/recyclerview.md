@@ -35,9 +35,6 @@
 
 # DiffUtil
 
-[Myers 差分算法 (Myers Difference Algorithm) —— DiffUtils 之核心算法（一）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872403&idx=1&sn=4aa65e0479a435bba72eadf2c35192fd&scene=19#wechat_redirect)  
-[Myers 差分算法 —— Android DiffUtils 之实现（二）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872405&idx=1&sn=9354627aba0a89670244f7a4f64d0997&scene=19#wechat_redirect)  
-
 [Simple, Functional Async RecyclerView Diffing](https://proandroiddev.com/simple-functional-async-recyclerview-diffing-4ee0a135f68b)
 
 [AsyncListDiffer-RecyclerView最好的伙伴](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872382&idx=1&sn=5f7add8c8dd09c7aa24a12a0c32650f2&scene=19#wechat_redirect)
@@ -51,6 +48,9 @@
 [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
 
 [The Myers Diff Algorithm and Kotlin Observable Properties — how to connect them to make a developer’s life easier](https://medium.com/skyrise/the-myers-diff-algorithm-and-kotlin-observable-properties-69dfb18541b)
+
+[Myers 差分算法 (Myers Difference Algorithm) —— DiffUtils 之核心算法（一）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872403&idx=1&sn=4aa65e0479a435bba72eadf2c35192fd&scene=19#wechat_redirect)  
+[Myers 差分算法 —— Android DiffUtils 之实现（二）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872405&idx=1&sn=9354627aba0a89670244f7a4f64d0997&scene=19#wechat_redirect)  
 
 # 例子
 
@@ -68,10 +68,10 @@
 
 [【译】RecyclerView+ItemDecorations实现带指示器ViewPager效果](https://juejin.im/post/5a327b996fb9a0452936c936)
 
-[雕虫晓技(五) 网格分页布局源码解析(上)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-a)
-[雕虫晓技(六) 网格分页布局源码解析(下)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-b)
-
 [Get Expandable RecyclerView In A Simple Way](https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573)
+
+[雕虫晓技(五) 网格分页布局源码解析(上)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-a)  
+[雕虫晓技(六) 网格分页布局源码解析(下)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-b)
 
 # 开源库
 
