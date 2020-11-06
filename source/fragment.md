@@ -52,6 +52,8 @@
 
 [fragment的过去 现在 和将来](https://mp.weixin.qq.com/s/-gmvFAYSnXLWSuvJ2jnH8g)
 
+[三句代码创建全屏Dialog或者DialogFragment：带你从源码角度实现](https://mp.weixin.qq.com/s/IbC-3_gc_1VSHbHNc6-O_Q)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
