@@ -12,6 +12,8 @@
 
 [Styling internationalized text in Android](https://medium.com/androiddevelopers/styling-internationalized-text-in-android-f99759fb7b8f)
 
+[textview的breakstrategy属性](https://mp.weixin.qq.com/s/WO5Iu6EFbFOdju5vufdOvw)
+
 # 源码
 
 [TextView源码解析](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
