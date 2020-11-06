@@ -46,6 +46,8 @@
 
 [巧妙的用Fragment实现回调~一波骚操作](https://mp.weixin.qq.com/s/muLyKEcLEALDmGZPBRtj5A)
 
+[探究fragment延迟加载的前世今生](https://mp.weixin.qq.com/s/i5USps1tGKDDERDQlWkQiw)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
