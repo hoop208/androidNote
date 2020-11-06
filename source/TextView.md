@@ -32,3 +32,5 @@
 
 [TextView 的新特性，Autosizing 到底是如何实现的？ | 源码分析](https://segmentfault.com/a/1190000012850665)
 
+[staticlayout源码解析](https://jaeger.itscoder.com/android/2016/08/05/staticlayout-source-analyse.html)
+
