@@ -44,6 +44,8 @@
 
 [Fragment新功能，setMaxLifecycle了解一下](https://mp.weixin.qq.com/s/6VAArr0Ur96EoXaDmMmiNw)
 
+[巧妙的用Fragment实现回调~一波骚操作](https://mp.weixin.qq.com/s/muLyKEcLEALDmGZPBRtj5A)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
