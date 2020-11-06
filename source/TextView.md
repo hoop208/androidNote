@@ -22,6 +22,8 @@
 
 [TextView预渲染研究](https://www.androidos.net.cn/doc/day/2018-10-01/14930.html)
 
+[Draw Text in Deep(android群英传作者)](https://zhuanlan.zhihu.com/p/96701452)
+
 # 源码
 
 [TextView源码解析](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
