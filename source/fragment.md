@@ -38,6 +38,8 @@
 
 [Square：从今天开始抛弃Fragment吧！](https://www.androidos.net.cn/doc/android/issue/advocating-against-android-fragments.html)
 
+[FragmentTransaction 与 Activity 状态丢失？](https://www.androidos.net.cn/doc/android/issue/fragment-transaction-commit-state-loss.html)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
