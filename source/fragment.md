@@ -48,6 +48,8 @@
 
 [探究fragment延迟加载的前世今生](https://mp.weixin.qq.com/s/i5USps1tGKDDERDQlWkQiw)
 
+[Android fragment的妙用-优雅的申请权限和处理on activityresult](https://mp.weixin.qq.com/s/qLt9slKKYjGLyolw-hqCnQ)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
