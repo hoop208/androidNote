@@ -30,3 +30,5 @@
 
 [TextView 的新特性，Autosizing 到底是如何实现的？ | 源码分析](https://juejin.im/post/5a5cbe90518825732d7f9606#heading-4)
 
+[TextView 的新特性，Autosizing 到底是如何实现的？ | 源码分析](https://segmentfault.com/a/1190000012850665)
+
