@@ -30,6 +30,8 @@
 
 [使用concatadapter顺序链接其它adapter](https://mp.weixin.qq.com/s/ppmokK3__Qx1S1cMU8y7Tg)
 
+[RecyclerView库中的遗珠](https://juejin.im/entry/6844903696833183752)
+
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
