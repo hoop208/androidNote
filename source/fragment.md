@@ -50,6 +50,8 @@
 
 [Android fragment的妙用-优雅的申请权限和处理on activityresult](https://mp.weixin.qq.com/s/qLt9slKKYjGLyolw-hqCnQ)
 
+[fragment的过去 现在 和将来](https://mp.weixin.qq.com/s/-gmvFAYSnXLWSuvJ2jnH8g)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
