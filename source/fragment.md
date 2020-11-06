@@ -9,9 +9,6 @@
 
 [9行代码让你App内的Fragment对重叠说再见](https://www.jianshu.com/p/c12a98a36b2b)
 
-[Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)
-[Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)
-
 [实现 滑动退出 Fragment + Activity 二合一](https://www.jianshu.com/p/626229ca4dc2)
 
 [Fragment防手抖 另类实践](https://www.jianshu.com/p/9dbb03203fbc)
@@ -53,6 +50,10 @@
 [fragment的过去 现在 和将来](https://mp.weixin.qq.com/s/-gmvFAYSnXLWSuvJ2jnH8g)
 
 [三句代码创建全屏Dialog或者DialogFragment：带你从源码角度实现](https://mp.weixin.qq.com/s/IbC-3_gc_1VSHbHNc6-O_Q)
+
+[Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
+[Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
+
 
 # 源码
 
