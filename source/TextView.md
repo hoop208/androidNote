@@ -18,6 +18,8 @@
 
 [TextView(文本框)详解](https://www.runoob.com/w3cnote/android-tutorial-textview.html)
 
+[文字太多？控件太小？试试 TextView 的新特性 Autosizing 吧！](https://segmentfault.com/a/1190000012798097)
+
 # 源码
 
 [TextView源码解析](https://github.com/7heaven/AndroidSdkSourceAnalysis/blob/master/article/textview%E6%BA%90%E7%A2%BC%E8%A7%A3%E6%9E%90.md)
