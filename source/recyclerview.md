@@ -18,8 +18,8 @@
 
 [Android RecyclerView下拉刷新 & 上拉加载更多](https://www.jianshu.com/p/b502c5b59998)
 
-[Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
-[Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)
+[Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)    
+[Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
 [How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged()](https://medium.com/@hanru.yeh/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2)
 
@@ -31,11 +31,12 @@
 
 [RecyclerView你不知道的优化点](https://mp.weixin.qq.com/s/OsxRGgQ1ZO4UxbF56vlayA)
 
+[使用concatadapter顺序链接其它adapter](https://mp.weixin.qq.com/s/ppmokK3__Qx1S1cMU8y7Tg)
+
 # DiffUtil
 
-[Myers 差分算法 (Myers Difference Algorithm) —— DiffUtils 之核心算法（一）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872403&idx=1&sn=4aa65e0479a435bba72eadf2c35192fd&scene=19#wechat_redirect)
-
-[Myers 差分算法 —— Android DiffUtils 之实现（二）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872405&idx=1&sn=9354627aba0a89670244f7a4f64d0997&scene=19#wechat_redirect)
+[Myers 差分算法 (Myers Difference Algorithm) —— DiffUtils 之核心算法（一）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872403&idx=1&sn=4aa65e0479a435bba72eadf2c35192fd&scene=19#wechat_redirect)  
+[Myers 差分算法 —— Android DiffUtils 之实现（二）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872405&idx=1&sn=9354627aba0a89670244f7a4f64d0997&scene=19#wechat_redirect)  
 
 [Simple, Functional Async RecyclerView Diffing](https://proandroiddev.com/simple-functional-async-recyclerview-diffing-4ee0a135f68b)
 
