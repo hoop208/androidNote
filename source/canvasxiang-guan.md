@@ -21,6 +21,8 @@
 
 [Android滤镜–颜色RGB的滤镜处理ColorFilter](https://www.codenong.com/js96f0f2572fd3/)
 
+[Android中ImageView的ColorFilter图像处理解析](https://www.jianshu.com/p/bbc77334be95)
+
 
 
 
