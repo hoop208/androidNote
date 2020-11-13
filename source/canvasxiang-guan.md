@@ -23,6 +23,10 @@
 
 [Android中ImageView的ColorFilter图像处理解析](https://www.jianshu.com/p/bbc77334be95)
 
+[8.3.9 Paint API之—— ColorFilter(颜色过滤器)(1/3)](https://www.runoob.com/w3cnote/android-tutorial-colorfilter1.html)  
+[8.3.10 Paint API之—— ColorFilter(颜色过滤器)(2-3)](https://www.runoob.com/w3cnote/android-tutorial-colorfilterl2.html)  
+[8.3.11 Paint API之—— ColorFilter(颜色过滤器)(3-3)](https://www.runoob.com/w3cnote/android-tutorial-colorfilter3.html)  
+
 
 
 
