@@ -17,6 +17,8 @@
 
 [Android--Matrix图片变换处理](https://www.cnblogs.com/plokmju/p/android_Matrix.html)
 
+[Android颜色矩阵ColorMatrix详解](https://mp.weixin.qq.com/s/Osw3MuV3mnN2BWc3aqZ_Vg)
+
 # ColorFilter
 
 [Android滤镜–颜色RGB的滤镜处理ColorFilter](https://www.codenong.com/js96f0f2572fd3/)
