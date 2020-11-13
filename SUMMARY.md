@@ -2,7 +2,6 @@
 
 * [索引](README.md)
 * [自定义控件&动画](customview.md)
-  * [drawable](customview/drawable.md)
 * [开源项目](open-source-project.md)
   * [Glide](open-source-project/glide.md)
   * [dagger2](open-source-project/dagger2.md)
