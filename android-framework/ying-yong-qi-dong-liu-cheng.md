@@ -36,8 +36,6 @@
 
 [系统 app activity启动过程](https://mp.weixin.qq.com/s/C7oLPsLcOO2Rcelha5oH_w)
 
-[Read Android Source - Activity Thread at Cold Start](https://programming.vip/docs/read-android-source-activity-thread-at-cold-start.html)
-
 [Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 
 [Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
