@@ -1,5 +1,3 @@
-[Read Android Source - Activity Thread at Cold Start](https://programming.vip/docs/read-android-source-activity-thread-at-cold-start.html)
-
 [Android应用程序的Activity启动过程简要介绍和学习计划](https://blog.csdn.net/luoshengyang/article/details/6685853)
 
 [ActivityThread的理解和APP的启动过程](https://blog.csdn.net/hzwailll/article/details/85339714)
@@ -28,8 +26,6 @@
 
 [03-APP的启动过程](https://shuwoom.com/?p=142)
 
-[Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
-
 [Android系统源码分析--Process启动过程](http://codemx.cn/2017/09/13/AndroidOS005-Process/)
 
 [图解Activity启动流程，进阶高级](http://crazysunj.com/2017/07/16/%E5%9B%BE%E8%A7%A3Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%EF%BC%8C%E8%BF%9B%E9%98%B6%E9%AB%98%E7%BA%A7/)
@@ -41,6 +37,10 @@
 [Android源码分析-Android应用启动](https://mp.weixin.qq.com/s/d-AM1zL_FOjks2ULPvM6xA)
 
 [系统 app activity启动过程](https://mp.weixin.qq.com/s/C7oLPsLcOO2Rcelha5oH_w)
+
+[Read Android Source - Activity Thread at Cold Start](https://programming.vip/docs/read-android-source-activity-thread-at-cold-start.html)
+
+[Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 
 [Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
 [Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)
