@@ -38,6 +38,9 @@
 
 [Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 
+[Android Application Launch](https://multi-core-dump.blogspot.com/2010/04/android-application-launch.html)  
+[Android Application Launch Part 2](https://multi-core-dump.blogspot.com/2010/04/android-application-launch-part-2.html)
+
 [Android应用程序进程启动过程（前篇）](https://liuwangshu.cn/framework/applicationprocess/1.html)  
 [Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)
 
