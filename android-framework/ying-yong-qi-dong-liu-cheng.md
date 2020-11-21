@@ -50,7 +50,8 @@
 [Android P APP冷启动过程全解析（之一）](https://xiaozhuanlan.com/topic/2094678513)  
 [Android P APP冷启动过程全解析（之二）](https://xiaozhuanlan.com/topic/7502314698)  
 [Android P APP冷启动过程全解析（之三）](https://xiaozhuanlan.com/topic/3152047986)  
-[Android P APP冷启动过程全解析（之四）](https://xiaozhuanlan.com/topic/7508194362)  
+[Android P APP冷启动过程全解析（之四）](https://xiaozhuanlan.com/topic/7508194362)   
+[Android P APP冷启动过程（总结篇）](https://xiaozhuanlan.com/topic/5084326971)
 
 [深入理解Activity启动流程(一)–Activity启动的概要流程](http://www.cloudchou.com/android/post-788.html)  
 [深入理解Activity启动流程(二)–Activity启动相关类的类图](http://www.cloudchou.com/android/post-793.html)  
