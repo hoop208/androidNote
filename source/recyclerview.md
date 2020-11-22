@@ -8,27 +8,25 @@
 
 [RecyclerView的滚动事件OnScrollListener研究](https://www.jianshu.com/p/ce347cf991db)
 
-[RecyclerView添加Header的正确方式](https://blog.csdn.net/qibin0506/article/details/49716795)
-
-[RecyclerView.ViewHolder - getLayoutPosition vs getAdapterPosition](/https://stackoverflow.com/questions/29684154/recyclerview-viewholder-getlayoutposition-vs-getadapterposition)
-
 [Android RecyclerView](https://segmentfault.com/a/1190000013314654)
 
 [Android RecyclerView下拉刷新 & 上拉加载更多](https://www.jianshu.com/p/b502c5b59998)
 
-[How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged()](https://medium.com/@hanru.yeh/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2)
-
-[Optimizing Nested RecyclerView](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
-
 [安卓易学，爬坑不易—腾讯老司机的RecyclerView局部刷新爬坑之路](https://wetest.qq.com/lab/view/176.html?from=content_zhihuzhuanlan)
-
-[RecyclerView Optimisations](https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d)
 
 [RecyclerView你不知道的优化点](https://mp.weixin.qq.com/s/OsxRGgQ1ZO4UxbF56vlayA)
 
 [使用concatadapter顺序链接其它adapter](https://mp.weixin.qq.com/s/ppmokK3__Qx1S1cMU8y7Tg)
 
 [RecyclerView库中的遗珠](https://juejin.im/entry/6844903696833183752)
+
+[How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged()](https://medium.com/@hanru.yeh/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2)
+
+[RecyclerView Optimisations](https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d)
+
+[Optimizing Nested RecyclerView](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
+
+[RecyclerView.ViewHolder - getLayoutPosition vs getAdapterPosition](/https://stackoverflow.com/questions/29684154/recyclerview-viewholder-getlayoutposition-vs-getadapterposition)
 
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
