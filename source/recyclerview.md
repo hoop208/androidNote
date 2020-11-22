@@ -2,8 +2,6 @@
 
 [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA?)
 
-[Android RecyclerView 使用完全解析 体验艺术般的控件](https://blog.csdn.net/lmj623565791/article/details/45059587)
-
 [Android 优雅的为RecyclerView添加HeaderView和FooterView](https://blog.csdn.net/lmj623565791/article/details/51854533)
 
 [三种方式实现RecyclerView的Item点击事件](http://blog.devwiki.net/index.php/2016/07/24/three-ways-click-recyclerview-item.html)
@@ -73,10 +71,6 @@
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)  
 [用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
-
-# 开源库
-
-[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 
 
