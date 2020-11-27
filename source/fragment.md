@@ -19,6 +19,8 @@
 
 [Fragment and constructor dependencies](https://proandroiddev.com/fragment-and-constructor-dependencies-3a4e6a0be152)
 
+[Communicating a Fragment With Other Fragments and Activities](https://medium.com/swlh/communicating-a-fragment-with-other-fragments-and-activities-720925a7d9d1)
+
 [A possible way to safely perform Fragment Transactions after Activity.onSaveInstanceState(…)](https://medium.com/@bendaniel10/a-possible-way-to-safely-perform-fragment-transactions-after-activity-onsaveinstancestate-651d4bcb410b)
 
 [Saving Fragment State Yourself](https://medium.com/@bherbst/saving-fragment-state-yourself-522c3bca78c7)
