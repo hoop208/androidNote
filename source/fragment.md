@@ -17,6 +17,8 @@
 
 [你真的会用Fragment吗？Fragment复用的那些事儿](https://www.jianshu.com/p/31f013df7580)
 
+[Fragment and constructor dependencies](https://proandroiddev.com/fragment-and-constructor-dependencies-3a4e6a0be152)
+
 [A possible way to safely perform Fragment Transactions after Activity.onSaveInstanceState(…)](https://medium.com/@bendaniel10/a-possible-way-to-safely-perform-fragment-transactions-after-activity-onsaveinstancestate-651d4bcb410b)
 
 [Saving Fragment State Yourself](https://medium.com/@bherbst/saving-fragment-state-yourself-522c3bca78c7)
