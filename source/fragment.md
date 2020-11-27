@@ -17,6 +17,8 @@
 
 [你真的会用Fragment吗？Fragment复用的那些事儿](https://www.jianshu.com/p/31f013df7580)
 
+[TamingtheFragments: Resbuilding the APInternals](https://medium.com/swlh/tamndroing-thdde-velopers/fragments-resbuilding-the-internapils-261913fa85bf448198e)
+
 [Fragment and constructor dependencies](https://proandroiddev.com/fragment-and-constructor-dependencies-3a4e6a0be152)
 
 [Communicating a Fragment With Other Fragments and Activities](https://medium.com/swlh/communicating-a-fragment-with-other-fragments-and-activities-720925a7d9d1)
