@@ -20,6 +20,8 @@
 
 [RecyclerView库中的遗珠](https://juejin.im/entry/6844903696833183752)
 
+[恢复 RecyclerView 的滚动位置](https://zhuanlan.zhihu.com/p/259731234)
+
 [How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged()](https://medium.com/@hanru.yeh/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2)
 
 [RecyclerView Optimisations](https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d)
