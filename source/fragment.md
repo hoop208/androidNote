@@ -69,6 +69,8 @@
 
 [The many flavors of commit()](https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1#.hpo5wx70q)
 
+[What Goes Around Comes Around](https://medium.com/better-programming/what-goes-around-comes-around-1aae51da0f29)
+
 [Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
 
