@@ -35,6 +35,8 @@
 
 [三句代码创建全屏Dialog或者DialogFragment：带你从源码角度实现](https://mp.weixin.qq.com/s/IbC-3_gc_1VSHbHNc6-O_Q)
 
+[fragment可见性监听方案](https://mp.weixin.qq.com/s/mp46JIPaoetiabMX0315lg)
+
 [Google建议使用这些fragment的新特性](https://mp.weixin.qq.com/s/j0reRQqTiTzgZXo-YEdvAg)
 
 [Fragment Transactions & Activity State Loss](https://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
