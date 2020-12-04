@@ -17,6 +17,26 @@
 
 [你真的会用Fragment吗？Fragment复用的那些事儿](https://www.jianshu.com/p/31f013df7580)
 
+[Square：从今天开始抛弃Fragment吧！](https://www.androidos.net.cn/doc/android/issue/advocating-against-android-fragments.html)
+
+[FragmentTransaction 与 Activity 状态丢失？](https://www.androidos.net.cn/doc/android/issue/fragment-transaction-commit-state-loss.html)
+
+[Android解决Fragment多层嵌套时onActivityResult无法正确回调的问题](https://mp.weixin.qq.com/s/JTkjV-1QedfGsmliB02Jeg)
+
+[Fragment新功能，setMaxLifecycle了解一下](https://mp.weixin.qq.com/s/6VAArr0Ur96EoXaDmMmiNw)
+
+[巧妙的用Fragment实现回调~一波骚操作](https://mp.weixin.qq.com/s/muLyKEcLEALDmGZPBRtj5A)
+
+[探究fragment延迟加载的前世今生](https://mp.weixin.qq.com/s/i5USps1tGKDDERDQlWkQiw)
+
+[Android fragment的妙用-优雅的申请权限和处理on activityresult](https://mp.weixin.qq.com/s/qLt9slKKYjGLyolw-hqCnQ)
+
+[fragment的过去 现在 和将来](https://mp.weixin.qq.com/s/-gmvFAYSnXLWSuvJ2jnH8g)
+
+[三句代码创建全屏Dialog或者DialogFragment：带你从源码角度实现](https://mp.weixin.qq.com/s/IbC-3_gc_1VSHbHNc6-O_Q)
+
+[Google建议使用这些fragment的新特性](https://mp.weixin.qq.com/s/j0reRQqTiTzgZXo-YEdvAg)
+
 [Fragment Transactions & Activity State Loss](https://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
 
 [Fragments: Rebuilding the Internals](https://medium.com/androiddevelopers/fragments-rebuilding-the-internals-61913f8bf48e)
@@ -42,24 +62,6 @@
 [The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated)](https://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
 
 [Adventures with FragmentStatePagerAdapter](https://medium.com/inloopx/adventures-with-fragmentstatepageradapter-4f56a643f8e0#.iud5r4ixt)
-
-[Square：从今天开始抛弃Fragment吧！](https://www.androidos.net.cn/doc/android/issue/advocating-against-android-fragments.html)
-
-[FragmentTransaction 与 Activity 状态丢失？](https://www.androidos.net.cn/doc/android/issue/fragment-transaction-commit-state-loss.html)
-
-[Android解决Fragment多层嵌套时onActivityResult无法正确回调的问题](https://mp.weixin.qq.com/s/JTkjV-1QedfGsmliB02Jeg)
-
-[Fragment新功能，setMaxLifecycle了解一下](https://mp.weixin.qq.com/s/6VAArr0Ur96EoXaDmMmiNw)
-
-[巧妙的用Fragment实现回调~一波骚操作](https://mp.weixin.qq.com/s/muLyKEcLEALDmGZPBRtj5A)
-
-[探究fragment延迟加载的前世今生](https://mp.weixin.qq.com/s/i5USps1tGKDDERDQlWkQiw)
-
-[Android fragment的妙用-优雅的申请权限和处理on activityresult](https://mp.weixin.qq.com/s/qLt9slKKYjGLyolw-hqCnQ)
-
-[fragment的过去 现在 和将来](https://mp.weixin.qq.com/s/-gmvFAYSnXLWSuvJ2jnH8g)
-
-[三句代码创建全屏Dialog或者DialogFragment：带你从源码角度实现](https://mp.weixin.qq.com/s/IbC-3_gc_1VSHbHNc6-O_Q)
 
 [Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
