@@ -67,6 +67,8 @@
 
 [Sending objects to Fragment; Naive question: is it sent by value?](https://medium.com/@hamidgh/sending-objects-to-fragment-naive-question-is-it-sent-by-value-ddaaa19fa42d#.gxwvd7rug)
 
+[The many flavors of commit()](https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1#.hpo5wx70q)
+
 [Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
 
