@@ -35,13 +35,13 @@
 
 # DiffUtil
 
-[Simple, Functional Async RecyclerView Diffing](https://proandroiddev.com/simple-functional-async-recyclerview-diffing-4ee0a135f68b)
-
 [AsyncListDiffer-RecyclerView最好的伙伴](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872382&idx=1&sn=5f7add8c8dd09c7aa24a12a0c32650f2&scene=19#wechat_redirect)
 
 [【Android】RecyclerView的好伴侣：详解DiffUtil](https://blog.csdn.net/zxt0601/article/details/52562770)
 
 [RecyclerView配合DiffUtil，好用到飞](https://www.jianshu.com/p/b9af71778b0d)
+
+[Simple, Functional Async RecyclerView Diffing](https://proandroiddev.com/simple-functional-async-recyclerview-diffing-4ee0a135f68b)
 
 [Get Threading Right with DiffUtil](https://jonfhancock.com/get-threading-right-with-diffutil-423378e126d2)
 
