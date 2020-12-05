@@ -28,8 +28,6 @@
 
 [Optimizing Nested RecyclerView](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
 
-[RecyclerView.ViewHolder - getLayoutPosition vs getAdapterPosition](/https://stackoverflow.com/questions/29684154/recyclerview-viewholder-getlayoutposition-vs-getadapterposition)
-
 [Android SortedList Explained](https://medium.com/bakedroid/android-sortedlist-explained-2def504e46d7)
 
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
