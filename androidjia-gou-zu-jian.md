@@ -25,9 +25,6 @@
 [【AAC 系列三】深入理解架构组件：LiveData](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872586&idx=1&sn=a241722abdcec06a7fc364742660dc32&scene=19#wechat_redirect)  
 
 # LiveData
-
-[MediatorLiveData to the Rescue](https://proandroiddev.com/mediatorlivedata-to-the-rescue-5d27645b9bc3)
-
 [Android应用结构之LiveData](https://www.jianshu.com/p/87aa6464412b)
 
 [Android LiveData 使用详解](https://blog.csdn.net/gdutxiaoxu/article/details/86660760)
@@ -35,6 +32,8 @@
 [关于使用 Android MVVM + LiveData 模式的一些建议](https://zhuanlan.zhihu.com/p/33206893)
 
 [【译】LiveData 使用详解](https://www.jianshu.com/p/dab2ee97d680)
+
+[MediatorLiveData to the Rescue](https://proandroiddev.com/mediatorlivedata-to-the-rescue-5d27645b9bc3)
 
 [Stateful.Live.Data](https://medium.com/swlh/stateful-live-data-d484799da63c)
 
@@ -76,11 +75,6 @@
 
 使用：
 
-[Android 生命周期备忘录 — 第一部分：单一 Activities](https://github.com/xitu/gold-miner/blob/master/TODO/the-android-lifecycle-cheat-sheet-part-i-single-activities.md)  
-[Android 生命周期备忘录 — 第二部分：多 Activity](https://github.com/xitu/gold-miner/blob/master/TODO1/The-Android-Lifecycle-cheat-sheet-part-II-Multiple-activities.md)  
-[Android 生命周期备忘录 — 第三部分：Fragments](https://github.com/xitu/gold-miner/blob/master/TODO1/The-Android-Lifecycle-cheat-sheet-part-III-Fragments.md)  
-[[译] Android 生命周期备忘录 —— 第四部分：ViewModel、半透明 Activity 及启动模式](https://juejin.im/post/5d12da1a51882532d7250cf5)
-
 [Android Jetpack组件之ViewModel篇](https://mp.weixin.qq.com/s/x20jjsxMrU-5TwLEZniq5w)
 
 [深入AAC架构，彻底理解ViewModel的用法](https://mp.weixin.qq.com/s/5styXJWY5YvEvile-v9mkA)
@@ -115,6 +109,11 @@
 [Android ViewModels: Saving State across Process Death](https://android.jlelse.eu/android-viewmodels-saving-state-across-process-death-a3f447bf839a)
 
 [Extract interactions from ViewModel](https://proandroiddev.com/extract-interactions-from-viewmodel-7760451f5c16)
+
+[Android 生命周期备忘录 — 第一部分：单一 Activities](https://github.com/xitu/gold-miner/blob/master/TODO/the-android-lifecycle-cheat-sheet-part-i-single-activities.md)  
+[Android 生命周期备忘录 — 第二部分：多 Activity](https://github.com/xitu/gold-miner/blob/master/TODO1/The-Android-Lifecycle-cheat-sheet-part-II-Multiple-activities.md)  
+[Android 生命周期备忘录 — 第三部分：Fragments](https://github.com/xitu/gold-miner/blob/master/TODO1/The-Android-Lifecycle-cheat-sheet-part-III-Fragments.md)  
+[[译] Android 生命周期备忘录 —— 第四部分：ViewModel、半透明 Activity 及启动模式](https://juejin.im/post/5d12da1a51882532d7250cf5)
 
 源码：
 
