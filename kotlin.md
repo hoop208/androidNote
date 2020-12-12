@@ -80,6 +80,8 @@
 [开始迁移到 Kotlin | Kotlin 迁移指南 (中篇)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)  
 [使用 Kotlin 构建的常见问题解答 | Kotlin 迁移指南 (下篇)](https://mp.weixin.qq.com/s/PqHMVt50QVgK525vYFD0Xg)  
 
+[Kotlin Vocabulary | 枚举和 R8 编译器](https://zhuanlan.zhihu.com/p/138420650)
+
 # 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
