@@ -97,6 +97,8 @@
 
 [How to Add a Fragment the Kotlin way](https://medium.com/thoughts-overflow/how-to-add-a-fragment-in-kotlin-way-73203c5a450b)
 
+[How I managed to clean up my Activities and Fragments](https://android.jlelse.eu/how-i-managed-to-clean-up-my-activities-and-fragments-dc1bd9c71066)
+
 [Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
 
