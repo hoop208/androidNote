@@ -72,6 +72,8 @@
 
 [How Kotlin implement lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c)
 
+[How Kotlin lambda capture variable](https://medium.com/@yangweigbh/how-kotlin-lambda-capture-variable-ef90e11e531d)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
