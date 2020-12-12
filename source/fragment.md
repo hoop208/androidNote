@@ -82,6 +82,8 @@
 [Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
 
+[Android Fragments: Fragment Result](https://proandroiddev.com/android-fragments-fragment-result-805a6b2522ea)  
+[Android Fragments: FragmentContainerView](https://proandroiddev.com/android-fragments-fragmentcontainerview-292f393f9ccf)
 
 # 源码
 
