@@ -91,6 +91,8 @@
 
 [Managing the Fragment Back Stack](https://medium.com/@bherbst/managing-the-fragment-back-stack-373e87e4ff62)
 
+[Fragment transitions with shared elements](https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb)
+
 [Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
 
