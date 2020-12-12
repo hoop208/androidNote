@@ -52,6 +52,8 @@
 
 [再见 kotlin Android extension](https://mp.weixin.qq.com/s/WQMSmlSHZ7-KrRSYoA8Cuw)
 
+[kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
+
 [Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
 
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
