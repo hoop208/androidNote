@@ -21,7 +21,6 @@
       * [ItemDecoration](source/recyclerview/itemdecorationh.md)
       * [recyclerview源码](source/recyclerview/yuan-ma.md)
       * [layoutmanager](source/recyclerview/layoutmanager.md)
-      * [snaphelper](source/recyclerview/snaphelper.md)
       * [列表动画](source/recyclerview/lie-biao-dong-hua.md)
     * [Media Player](source/media-player.md)
     * [SharedPreference](source/sharedpreference.md)

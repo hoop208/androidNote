@@ -52,7 +52,19 @@
 [Myers 差分算法 (Myers Difference Algorithm) —— DiffUtils 之核心算法（一）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872403&idx=1&sn=4aa65e0479a435bba72eadf2c35192fd&scene=19#wechat_redirect)  
 [Myers 差分算法 —— Android DiffUtils 之实现（二）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872405&idx=1&sn=9354627aba0a89670244f7a4f64d0997&scene=19#wechat_redirect)  
 
-# 例子
+# SnapHelper
+
+使用：
+
+[让你明明白白的使用RecyclerView——SnapHelper详解](https://www.jianshu.com/p/e54db232df62)
+
+[Android24.2.0支持库中的SnapHelper学习和使用](https://blog.csdn.net/whitley_gong/article/details/52421215)
+
+源码：
+
+[SnapHelper源码深度解析](http://www.jcodecraeer.com/a/anzhuokaifa/2018/1109/12472.html)
+
+# 案例
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
 
