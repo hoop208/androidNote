@@ -8,6 +8,9 @@
 
 [我是一个协程](https://mp.weixin.qq.com/s/ZmW5xlp5lKzofUTbcmnUMA)
 
+[在view上使用挂起函数](https://zhuanlan.zhihu.com/p/270002338)  
+[在 View 上使用挂起函数 | 实战](https://zhuanlan.zhihu.com/p/270343049)
+
 [Coroutines: simplify threading on android](https://medium.com/@ian.andrew.alexander/coroutines-simplifying-android-architecture-ce0cd02b9447)
 
 [Comparing Kotlin Coroutines with Callbacks and RxJava](https://www.lukaslechner.com/comparing-kotlin-coroutines-with-callbacks-and-rxjava/)
