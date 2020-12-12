@@ -41,6 +41,8 @@
 
 [RecyclerView配合DiffUtil，好用到飞](https://www.jianshu.com/p/b9af71778b0d)
 
+[从DiffUtil到Myers'差分算法](https://www.jianshu.com/p/7f1473c2e521)
+
 [Simple, Functional Async RecyclerView Diffing](https://proandroiddev.com/simple-functional-async-recyclerview-diffing-4ee0a135f68b)
 
 [Get Threading Right with DiffUtil](https://jonfhancock.com/get-threading-right-with-diffutil-423378e126d2)
