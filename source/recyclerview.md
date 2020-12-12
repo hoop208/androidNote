@@ -34,6 +34,8 @@
 
 [RecyclerView Prefetch](https://medium.com/google-developers/recyclerview-prefetch-c2f269075710#.d1e7zj4l3)
 
+[How to use AsyncListUtil](https://android.jlelse.eu/how-to-use-asynclistutil-16b5175bb468)
+
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
