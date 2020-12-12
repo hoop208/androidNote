@@ -40,6 +40,8 @@
 
 [Moving and swiping with RecyclerView](https://www.rockandnull.com/drag-and-drop-recyclerview-example/)
 
+[Update recycler view content without refreshing the data](https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8)
+
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
