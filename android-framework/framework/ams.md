@@ -110,7 +110,9 @@
 
 [Android中Context详解 ---- 你所不知道的Context](https://blog.csdn.net/qinjuning/article/details/7310620)
 
-[Android Context 到底是什么？](https://mp.weixin.qq.com/s/xpRnE5U7muWlUOj3wA1MZQ)~~
+[Android Context 到底是什么？](https://mp.weixin.qq.com/s/xpRnE5U7muWlUOj3wA1MZQ)
+
+[你真的懂上下文吗](https://mp.weixin.qq.com/s/pYU3aNrXd3cBFjby-u-0JQ)
 
 # application
 
