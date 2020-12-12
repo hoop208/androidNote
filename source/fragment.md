@@ -85,6 +85,8 @@
 
 [Use headless Fragment for Android M run-time permissions and to check network connectivity](https://medium.com/@ali.muzaffar/use-headless-fragment-for-android-m-run-time-permissions-and-to-check-network-connectivity-b48615f6272d)
 
+[Simplified Fragment Navigation, using a custom backstack and commitNow()](https://medium.com/@Zhuinden/simplified-fragment-navigation-using-a-custom-backstack-552e06961257)
+
 [Fragment全解析系列（一）：那些年踩过的坑](https://www.jianshu.com/p/d9143a92ad94)  
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
 
