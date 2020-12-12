@@ -44,8 +44,6 @@
 
 [Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
 
-[Kotlin Vocabulary | 密封类 sealed class](https://mp.weixin.qq.com/s/yrWJ-ApIMTs979NW1v42UQ)
-
 [Kotlin扩展函数与实现机制探索](https://cloud.tencent.com/developer/article/1146533)
 
 [一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
@@ -80,7 +78,16 @@
 [开始迁移到 Kotlin | Kotlin 迁移指南 (中篇)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)  
 [使用 Kotlin 构建的常见问题解答 | Kotlin 迁移指南 (下篇)](https://mp.weixin.qq.com/s/PqHMVt50QVgK525vYFD0Xg)  
 
-[Kotlin Vocabulary | 枚举和 R8 编译器](https://zhuanlan.zhihu.com/p/138420650)
+[Kotlin Vocabulary | 枚举和 R8 编译器](https://zhuanlan.zhihu.com/p/138420650)  
+[Kotlin Vocabulary | 类型别名 typealias](https://zhuanlan.zhihu.com/p/134224648)  
+[Kotlin Vocabulary | Collection 和 Sequence](https://zhuanlan.zhihu.com/p/133934634)  
+[Kotlin Vocabulary | 密封类 sealed class](https://zhuanlan.zhihu.com/p/122244787)  
+[Kotlin Vocabulary | 内联函数的原理与应用](https://zhuanlan.zhihu.com/p/149927629)  
+[Kotlin Vocabulary | 揭秘协程中的 suspend 修饰符](https://zhuanlan.zhihu.com/p/145001592)  
+[Kotlin Vocabulary | 内联类 inline class](https://zhuanlan.zhihu.com/p/141707337)  
+[Kotlin Vocabulary | Reified: 类型擦除后再生计划](https://zhuanlan.zhihu.com/p/255198214)  
+[Kotlin Vocabulary | 唯一的 "对象"](https://zhuanlan.zhihu.com/p/269710866)  
+[Kotlin Vocabulary | 操作符重载](https://zhuanlan.zhihu.com/p/269028612)  
 
 # 泛型
 
