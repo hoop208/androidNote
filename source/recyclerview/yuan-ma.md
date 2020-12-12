@@ -35,5 +35,7 @@
 
 [深入理解recyclerview的缓存机制](https://mp.weixin.qq.com/s/R0w-UBB1fLaoUYOzx865NA)
 
+[RecyclerView缓存原理，有图有真相](https://juejin.cn/post/6844903661726859271)
+
 
 
