@@ -36,6 +36,8 @@
 
 [How to use AsyncListUtil](https://android.jlelse.eu/how-to-use-asynclistutil-16b5175bb468)
 
+[Fast Scrolling with RecyclerView](https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688)
+
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
