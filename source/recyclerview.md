@@ -30,6 +30,8 @@
 
 [Android SortedList Explained](https://medium.com/bakedroid/android-sortedlist-explained-2def504e46d7)
 
+[RecyclerView: How we achieved 60 FPS in Workable’s Android App (tips)](https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.h4gimmdkp)
+
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
@@ -86,13 +88,15 @@
 
 [Get Expandable RecyclerView In A Simple Way](https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573)
 
+[Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5)
+
 [雕虫晓技(五) 网格分页布局源码解析(上)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-a)  
 [雕虫晓技(六) 网格分页布局源码解析(下)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-b)
 
 [用RecyclerView打造一个轮播图](https://juejin.im/post/5a123c98518825293b4fe9d5)  
 [用RecyclerView打造一个轮播图（进阶版）](https://juejin.im/post/5a13a28c51882512a860ee6a)
 
-[Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5)
+
 
 
 
