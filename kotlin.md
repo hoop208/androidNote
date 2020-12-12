@@ -1,20 +1,8 @@
 # 知识点
 
-[Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
-
-[Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
-
-[Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
-
-[Functional operations over Views in ViewGroup using Kotlin](https://antonioleiva.com/functional-operations-viewgroup-kotlin/)
-
 [如何在 Java 和 Kotlin 之间进行互操作](https://mp.weixin.qq.com/s/E5qPbDDgyE_y6Ae53s5SOw)
 
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
-
-[From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
-
-[Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
 
 [快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&chksm=e8a05ec6dfd7d7d0691826a470e6d0f5de517e485d02082868d037b0fe6306683885e535b87a#rd)
 
@@ -54,10 +42,6 @@
 
 [Kotlin编译调校之WarningsAsErrors](https://droidyue.com/blog/2019/08/03/kotlinc-config-warnings-as-errors/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
-
-[Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
-
 [Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
 
 [Kotlin Vocabulary | 密封类 sealed class](https://mp.weixin.qq.com/s/yrWJ-ApIMTs979NW1v42UQ)
@@ -67,6 +51,22 @@
 [一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
 
 [再见 kotlin Android extension](https://mp.weixin.qq.com/s/WQMSmlSHZ7-KrRSYoA8Cuw)
+
+[Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
+
+[Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
+
+[Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
+
+[Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
+
+[Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
+
+[Functional operations over Views in ViewGroup using Kotlin](https://antonioleiva.com/functional-operations-viewgroup-kotlin/)
+
+[From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
+
+[Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
