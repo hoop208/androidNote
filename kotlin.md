@@ -66,6 +66,8 @@
 
 [一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
 
+[再见 kotlin Android extension](https://mp.weixin.qq.com/s/WQMSmlSHZ7-KrRSYoA8Cuw)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
