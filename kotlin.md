@@ -68,6 +68,8 @@
 
 [Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
 
+[Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
