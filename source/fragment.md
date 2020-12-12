@@ -108,6 +108,10 @@
 [Android Fragments: FragmentContainerView](https://proandroiddev.com/android-fragments-fragmentcontainerview-292f393f9ccf)  
 [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 
+[Nested Fragments and the Back Stack](https://curioustechizen.blogspot.com/2014/01/nested-fragments-and-back-stack.html)  
+[Nested Fragment and the BackStack - Part 2](https://curioustechizen.blogspot.com/2014/02/nested-fragment-and-backstack-part-2.html)  
+[Nested Fragments and the Backstack - Part 3](https://curioustechizen.blogspot.com/2014/02/nested-fragments-and-backstack-part-3.html)
+
 # 源码
 
 [从源码角度分析，为什么会发生Fragment重叠？](https://www.jianshu.com/p/78ec81b42f92)
