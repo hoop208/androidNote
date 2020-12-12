@@ -18,7 +18,6 @@
     * [LinearLayout](source/linearlayout.md)
     * [ViewDragHelper](source/viewdraghelper.md)
     * [Recyclerview](source/recyclerview.md)
-      * [ItemDecoration](source/recyclerview/itemdecorationh.md)
       * [recyclerview源码](source/recyclerview/yuan-ma.md)
       * [layoutmanager](source/recyclerview/layoutmanager.md)
       * [列表动画](source/recyclerview/lie-biao-dong-hua.md)
