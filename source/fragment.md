@@ -83,7 +83,8 @@
 [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)  
 
 [Android Fragments: Fragment Result](https://proandroiddev.com/android-fragments-fragment-result-805a6b2522ea)  
-[Android Fragments: FragmentContainerView](https://proandroiddev.com/android-fragments-fragmentcontainerview-292f393f9ccf)
+[Android Fragments: FragmentContainerView](https://proandroiddev.com/android-fragments-fragmentcontainerview-292f393f9ccf)  
+[Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 
 # 源码
 
@@ -94,3 +95,4 @@
 [Fragment源码中的七把利刃(上)](https://www.jianshu.com/p/e15c74f86303)  
 [Fragment源码中的七把利刃(下)](https://www.jianshu.com/p/0415cc245ee7)  
 
+  
