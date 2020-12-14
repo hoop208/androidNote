@@ -74,10 +74,6 @@
 
 [让你明明白白的使用RecyclerView——SnapHelper详解](https://www.jianshu.com/p/e54db232df62)
 
-源码：
-
-[SnapHelper源码深度解析](http://www.jcodecraeer.com/a/anzhuokaifa/2018/1109/12472.html)
-
 # ItemDecoration
 
 [深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)
