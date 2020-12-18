@@ -80,6 +80,10 @@
 
 [RecyclerView之ItemDecoration由浅入深](https://www.jianshu.com/p/b46a4ff7c10a)
 
+# ConcatAdapter
+
+[MergeAdapter at first glance](https://proandroiddev.com/mergeadapter-at-first-glance-8faf96528924)
+
 # 案例
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
