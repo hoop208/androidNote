@@ -20,6 +20,8 @@
 
 [恢复 RecyclerView 的滚动位置](https://zhuanlan.zhihu.com/p/259731234)
 
+[Step by Step: RecyclerView Swipe to Delete and Undo](https://medium.com/@zackcosborn/step-by-step-recyclerview-swipe-to-delete-and-undo-7bbae1fce27e)
+
 [How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged()](https://medium.com/@hanru.yeh/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2)
 
 [RecyclerView Optimisations](https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d)
