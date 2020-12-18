@@ -16,8 +16,6 @@
 
 [RecyclerView你不知道的优化点](https://mp.weixin.qq.com/s/OsxRGgQ1ZO4UxbF56vlayA)
 
-[使用concatadapter顺序链接其它adapter](https://mp.weixin.qq.com/s/ppmokK3__Qx1S1cMU8y7Tg)
-
 [RecyclerView库中的遗珠](https://juejin.im/entry/6844903696833183752)
 
 [恢复 RecyclerView 的滚动位置](https://zhuanlan.zhihu.com/p/259731234)
@@ -43,6 +41,8 @@
 [Update recycler view content without refreshing the data](https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8)
 
 [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+
+[How to Cook the 60 FPS RecyclerView?](https://medium.com/rosberryapps/how-to-cook-the-60-fps-recyclerview-3e7f3885a55)
 
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
@@ -83,6 +83,8 @@
 [Custom ItemDecoration](https://medium.com/@nicolas.duponchel/custom-itemdecoration-3b244de437d9)
 
 # ConcatAdapter
+
+[使用concatadapter顺序链接其它adapter](https://mp.weixin.qq.com/s/ppmokK3__Qx1S1cMU8y7Tg)
 
 [MergeAdapter at first glance](https://proandroiddev.com/mergeadapter-at-first-glance-8faf96528924)
 
