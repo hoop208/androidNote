@@ -92,6 +92,8 @@
 
 [MergeAdapter at first glance](https://proandroiddev.com/mergeadapter-at-first-glance-8faf96528924)
 
+[Concatenate adapters sequentially with ConcatAdapter](https://medium.com/androiddevelopers/merge-adapters-sequentially-with-mergeadapter-294d2942127a)
+
 # 案例
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
