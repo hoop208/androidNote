@@ -80,6 +80,8 @@
 
 [RecyclerView之ItemDecoration由浅入深](https://www.jianshu.com/p/b46a4ff7c10a)
 
+[Custom ItemDecoration](https://medium.com/@nicolas.duponchel/custom-itemdecoration-3b244de437d9)
+
 # ConcatAdapter
 
 [MergeAdapter at first glance](https://proandroiddev.com/mergeadapter-at-first-glance-8faf96528924)
