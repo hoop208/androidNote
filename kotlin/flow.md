@@ -6,6 +6,8 @@
 
 [协程 Flow 最佳实践 | 基于 Android 开发者峰会应用](https://mp.weixin.qq.com/s/YttebOHPLd3LR7rAuOYshg)
 
+[协程flow最佳实践:](https://mp.weixin.qq.com/s/YttebOHPLd3LR7rAuOYshg)
+
 [Android MVI with Kotlin Coroutines & Flow](https://quickbirdstudios.com/blog/android-mvi-kotlin-coroutines-flow/?utm_source=reddit.com)
 
 [Kotlin Coroutines Flow 系列(一) Flow 基本使用](https://www.jianshu.com/p/fe1293e8f15c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
