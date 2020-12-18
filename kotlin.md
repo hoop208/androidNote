@@ -52,6 +52,8 @@
 
 [kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
 
+[Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
+
 [Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
 
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
