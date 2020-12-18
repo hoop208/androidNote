@@ -44,6 +44,8 @@
 
 [How to Cook the 60 FPS RecyclerView?](https://medium.com/rosberryapps/how-to-cook-the-60-fps-recyclerview-3e7f3885a55)
 
+[Fixing RecyclerView nested scrolling in opposite direction](https://medium.com/@BladeCoder/fixing-recyclerview-nested-scrolling-in-opposite-direction-f587be5c1a04)
+
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
