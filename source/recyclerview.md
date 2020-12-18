@@ -20,8 +20,6 @@
 
 [恢复 RecyclerView 的滚动位置](https://zhuanlan.zhihu.com/p/259731234)
 
-[Step by Step: RecyclerView Swipe to Delete and Undo](https://medium.com/@zackcosborn/step-by-step-recyclerview-swipe-to-delete-and-undo-7bbae1fce27e)
-
 [How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged()](https://medium.com/@hanru.yeh/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2)
 
 [RecyclerView Optimisations](https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d)
@@ -33,8 +31,6 @@
 [RecyclerView: How we achieved 60 FPS in Workable’s Android App (tips)](https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.h4gimmdkp)
 
 [RecyclerView Prefetch](https://medium.com/google-developers/recyclerview-prefetch-c2f269075710#.d1e7zj4l3)
-
-[How to use AsyncListUtil](https://android.jlelse.eu/how-to-use-asynclistutil-16b5175bb468)
 
 [Fast Scrolling with RecyclerView](https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688)
 
@@ -74,6 +70,10 @@
 [Myers 差分算法 (Myers Difference Algorithm) —— DiffUtils 之核心算法（一）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872403&idx=1&sn=4aa65e0479a435bba72eadf2c35192fd&scene=19#wechat_redirect)  
 [Myers 差分算法 —— Android DiffUtils 之实现（二）](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872405&idx=1&sn=9354627aba0a89670244f7a4f64d0997&scene=19#wechat_redirect)  
 
+# AsyncListUtil
+
+[How to use AsyncListUtil](https://android.jlelse.eu/how-to-use-asynclistutil-16b5175bb468)
+
 # SnapHelper
 
 使用：
@@ -83,6 +83,8 @@
 # ItemDecoration
 
 [深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)
+
+[【译】RecyclerView+ItemDecorations实现带指示器ViewPager效果](https://juejin.im/post/5a327b996fb9a0452936c936)
 
 [RecyclerView之ItemDecoration由浅入深](https://www.jianshu.com/p/b46a4ff7c10a)
 
@@ -102,6 +104,10 @@
 
 [Why you should be using the new and improved RecyclverView ListAdapter in Android](https://blog.usejournal.com/why-you-should-be-using-the-new-and-improved-listadapter-in-android-17a2ab7ca644)
 
+# ItemTouchHelper
+
+[Step by Step: RecyclerView Swipe to Delete and Undo](https://medium.com/@zackcosborn/step-by-step-recyclerview-swipe-to-delete-and-undo-7bbae1fce27e)
+
 # 案例
 
 [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
@@ -111,8 +117,6 @@
 [给 RecyclerView 加上折叠的效果](https://www.jianshu.com/p/7ddb265f6250)
 
 [用RecyclerView做一个小清新的Gallery效果](https://juejin.im/post/5a30fe5a6fb9a045132ab1bf#heading-6)
-
-[【译】RecyclerView+ItemDecorations实现带指示器ViewPager效果](https://juejin.im/post/5a327b996fb9a0452936c936)
 
 [Get Expandable RecyclerView In A Simple Way](https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573)
 
