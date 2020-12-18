@@ -120,6 +120,10 @@
 [JvmMultifile 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/08/jvmmultifile-annotation-in-kotlin/)  
 [Kotlin 注解 第三篇 @JvmField 与 @JvmStatic](https://droidyue.com/blog/2019/12/22/kotlin-annotation-jvmfiled-and-jvmstatic-and-object/)  
 
+# Sequence
+
+[Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
+
 
 
 
