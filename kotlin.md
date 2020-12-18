@@ -122,9 +122,9 @@
 
 # Sequence
 
-[Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
-[Inside Sequences: Create Your Own Sequence Operations](https://typealias.com/guides/inside-kotlin-sequences/)
-
+[Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)  
+[Inside Sequences: Create Your Own Sequence Operations](https://typealias.com/guides/inside-kotlin-sequences/)  
+[When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)  
 
 
 
