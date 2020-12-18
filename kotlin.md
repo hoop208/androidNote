@@ -52,6 +52,8 @@
 
 [kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
 
+[Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
+
 [Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
 
 [Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
