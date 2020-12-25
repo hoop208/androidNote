@@ -20,8 +20,6 @@
 
 [Kotlin 中如何定义常量](https://jiacheng.site/post/2017/04/11/define-constant-in-kotlin/)
 
-[Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
-
 [Kotlin重载个方法，还有两幅面孔，省代码的同时也带来一个深坑 | Kotlin 原理](https://mp.weixin.qq.com/s/XaN-Nd6_adLL2ZKfEuMvtw)
 
 [Kotlin使用技巧之接口与命名参数的优雅运用](https://www.jianshu.com/p/ac752487fd71?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -167,6 +165,12 @@
 [Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
 
 [Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)
+
+# 集合
+
+[Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
+
+[Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
 
 
 
