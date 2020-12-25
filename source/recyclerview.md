@@ -108,6 +108,8 @@
 
 [Why you should be using the new and improved RecyclverView ListAdapter in Android](https://blog.usejournal.com/why-you-should-be-using-the-new-and-improved-listadapter-in-android-17a2ab7ca644)
 
+[Extending the ListAdapter with a header view](https://www.brightec.co.uk/blog/extending-listadapter-header-view)
+
 # ItemTouchHelper
 
 [Step by Step: RecyclerView Swipe to Delete and Undo](https://medium.com/@zackcosborn/step-by-step-recyclerview-swipe-to-delete-and-undo-7bbae1fce27e)
