@@ -46,6 +46,8 @@
 
 [Glide'ing your way into RecyclerView state invalidation](https://ricardocosteira.com/glideing-your-way-into-recyclerview-state-invalidation)
 
+[How to make Expandable RecyclerView using Kotlin](https://johncodeos.com/how-to-make-expandable-recyclerview-using-kotlin/)
+
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
