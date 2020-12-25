@@ -76,6 +76,8 @@
 
 [Kotlin nullability: Four easy pieces](https://medium.com/@Joseph82/kotlin-nullability-four-easy-pieces-bbef8c6d01a9)
 
+[a-day-with-kotlin-strings](https://charlesmuchene.hashnode.dev/a-day-with-kotlin-strings-ck9fhb5h90680cxs1fgzfrzb8)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
