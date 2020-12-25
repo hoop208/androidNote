@@ -126,6 +126,10 @@
 [Inside Sequences: Create Your Own Sequence Operations](https://typealias.com/guides/inside-kotlin-sequences/)  
 [When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)  
 
+# 内联
+
+[Kotlin’s Noinline & Crossline, once for all](https://proandroiddev.com/kotlins-noinline-crossline-once-for-all-c942fd07b7a3)
+
 
 
 
