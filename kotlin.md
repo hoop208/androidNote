@@ -26,8 +26,6 @@
 
 [Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
 
-[Kotlin干掉了findViewById，但用不好也会有性能问题](https://mp.weixin.qq.com/s/z1yEzR9rqUrTMLulxvWjqw)
-
 [Kotlin重载个方法，还有两幅面孔，省代码的同时也带来一个深坑 | Kotlin 原理](https://mp.weixin.qq.com/s/XaN-Nd6_adLL2ZKfEuMvtw)
 
 [Kotlin使用技巧之接口与命名参数的优雅运用](https://www.jianshu.com/p/ac752487fd71?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -38,17 +36,11 @@
 
 [31 天，从浅到深轻松学习 Kotlin](https://mp.weixin.qq.com/s/1mp5F4A-pqkaRknY6kAKzA)
 
-[Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
-
 [Kotlin编译调校之WarningsAsErrors](https://droidyue.com/blog/2019/08/03/kotlinc-config-warnings-as-errors/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
 
-[Kotlin扩展函数与实现机制探索](https://cloud.tencent.com/developer/article/1146533)
-
 [一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
-
-[再见 kotlin Android extension](https://mp.weixin.qq.com/s/WQMSmlSHZ7-KrRSYoA8Cuw)
 
 [kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
 
@@ -75,6 +67,8 @@
 [How Kotlin implement lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c)
 
 [How Kotlin lambda capture variable](https://medium.com/@yangweigbh/how-kotlin-lambda-capture-variable-ef90e11e531d)
+
+[Pair and Triple in Kotlin](https://blog.mindorks.com/pair-and-triple-in-kotlin)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
@@ -131,6 +125,14 @@
 [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
 
 # 拓展
+
+[再见 kotlin Android extension](https://mp.weixin.qq.com/s/WQMSmlSHZ7-KrRSYoA8Cuw)
+
+[Kotlin扩展函数与实现机制探索](https://cloud.tencent.com/developer/article/1146533)
+
+[Kotlin干掉了findViewById，但用不好也会有性能问题](https://mp.weixin.qq.com/s/z1yEzR9rqUrTMLulxvWjqw)
+
+[Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
 
 [Keep your interfaces simple](https://proandroiddev.com/keep-your-interfaces-simple-e025d515e3b9)
 
