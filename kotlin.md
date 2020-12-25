@@ -72,6 +72,8 @@
 
 [Breaking down destructuring declarations](https://medium.com/androiddevelopers/breaking-down-destructuring-declarations-e21334ac1e9)
 
+[Value-Based Classes and Domain Modelling in Kotlin](https://medium.com/swlh/value-based-classes-and-error-handling-in-kotlin-3f14727c0565)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
