@@ -82,6 +82,8 @@
 
 [Kotlin as scripting language](https://www.danielebonaldo.com/kotlin-script/)
 
+[Kotlin Default Interface Methods and Binary Compatibility](https://helw.net/2019/12/21/kotlin-default-interface-methods-and-binary-compatibility/)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
