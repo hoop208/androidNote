@@ -74,6 +74,8 @@
 
 [Value-Based Classes and Domain Modelling in Kotlin](https://medium.com/swlh/value-based-classes-and-error-handling-in-kotlin-3f14727c0565)
 
+[Kotlin nullability: Four easy pieces](https://medium.com/@Joseph82/kotlin-nullability-four-easy-pieces-bbef8c6d01a9)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
