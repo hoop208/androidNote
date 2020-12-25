@@ -58,13 +58,9 @@
 
 [Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
 
-[Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
-
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
 
 [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
-
-[Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
 
 [Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
 
@@ -122,6 +118,8 @@
 
 # Sequence
 
+[Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
+
 [Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)  
 [Inside Sequences: Create Your Own Sequence Operations](https://typealias.com/guides/inside-kotlin-sequences/)  
 [When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)  
@@ -129,6 +127,10 @@
 # 内联
 
 [Kotlin’s Noinline & Crossline, once for all](https://proandroiddev.com/kotlins-noinline-crossline-once-for-all-c942fd07b7a3)
+
+[Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
+
+
 
 
 
