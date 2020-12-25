@@ -2,8 +2,6 @@
 
 [如何在 Java 和 Kotlin 之间进行互操作](https://mp.weixin.qq.com/s/E5qPbDDgyE_y6Ae53s5SOw)
 
-[Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
-
 [快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&chksm=e8a05ec6dfd7d7d0691826a470e6d0f5de517e485d02082868d037b0fe6306683885e535b87a#rd)
 
 [用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips](https://github.com/heimashi/kotlin_tips?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -17,8 +15,6 @@
 [在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
 
 [Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
-
-[Kotlin 对象与 object 关键字](https://zhuanlan.zhihu.com/p/27183266)
 
 [Kotlin中常量的探究](https://droidyue.com/blog/2017/11/05/dive-into-kotlin-constants/)
 
@@ -48,8 +44,6 @@
 
 [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
 
-[Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
-
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
 
 [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
@@ -61,8 +55,6 @@
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
 
 [Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
-
-[Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)
 
 [How Kotlin implement lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c)
 
@@ -165,6 +157,22 @@
 [Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
 
 [Keep your interfaces simple](https://proandroiddev.com/keep-your-interfaces-simple-e025d515e3b9)
+
+# 对象
+
+[Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
+
+[Kotlin 对象与 object 关键字](https://zhuanlan.zhihu.com/p/27183266)
+
+[Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
+
+[Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)
+
+
+
+
+
+
 
 
 
