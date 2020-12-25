@@ -84,6 +84,8 @@
 
 [Kotlin Default Interface Methods and Binary Compatibility](https://helw.net/2019/12/21/kotlin-default-interface-methods-and-binary-compatibility/)
 
+[Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
