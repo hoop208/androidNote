@@ -130,6 +130,10 @@
 
 [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
 
+# 拓展
+
+[Keep your interfaces simple](https://proandroiddev.com/keep-your-interfaces-simple-e025d515e3b9)
+
 
 
 
