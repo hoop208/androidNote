@@ -92,6 +92,8 @@
 
 [Kotlin Destructuring Declarations and ComponentN](https://www.bignerdranch.com/blog/kotlin-destructuring-declarations-and-componentn/)
 
+[When to use Kotlin's takeIf() and takeUnless() functions](https://todd.ginsberg.com/post/kotlin-takeif-takeunless/)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
