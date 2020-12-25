@@ -34,10 +34,6 @@
 
 [Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
 
-[一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
-
-[kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
-
 [Fewer crashes and more stability with Kotlin](https://medium.com/androiddevelopers/fewer-crashes-and-more-stability-with-kotlin-b606c6a6ac04)
 
 [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
@@ -53,10 +49,6 @@
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
 
 [Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
-
-[How Kotlin implement lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c)
-
-[How Kotlin lambda capture variable](https://medium.com/@yangweigbh/how-kotlin-lambda-capture-variable-ef90e11e531d)
 
 [Pair and Triple in Kotlin](https://blog.mindorks.com/pair-and-triple-in-kotlin)
 
@@ -171,6 +163,25 @@
 [Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
 
 [Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
+
+# 委托
+
+[一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
+
+# Contract
+
+[kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
+
+# lambda 
+
+[How Kotlin implement lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c)
+
+[How Kotlin lambda capture variable](https://medium.com/@yangweigbh/how-kotlin-lambda-capture-variable-ef90e11e531d)
+
+
+
+
+
 
 
 
