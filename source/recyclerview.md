@@ -126,6 +126,8 @@
 
 [Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5)
 
+[Paging Image Carousel with RecyclerView](https://proandroiddev.com/paging-image-gallery-with-recyclerview-f059d035b7e7)
+
 [雕虫晓技(五) 网格分页布局源码解析(上)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-a)  
 [雕虫晓技(六) 网格分页布局源码解析(下)](https://www.gcssloop.com/gebug/pager-grid-layoutmanager-b)
 
