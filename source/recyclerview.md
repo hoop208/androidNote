@@ -49,6 +49,10 @@
 [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)  
 [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)  
 
+
+[深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)  
+[深入理解 RecyclerView 系列之二：ItemAnimator](https://blog.piasy.com/2016/04/04/Insight-Android-RecyclerView-ItemAnimator/index.html)    
+
 # DiffUtil
 
 [AsyncListDiffer-RecyclerView最好的伙伴](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872382&idx=1&sn=5f7add8c8dd09c7aa24a12a0c32650f2&scene=19#wechat_redirect)
@@ -81,8 +85,6 @@
 [让你明明白白的使用RecyclerView——SnapHelper详解](https://www.jianshu.com/p/e54db232df62)
 
 # ItemDecoration
-
-[深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)
 
 [【译】RecyclerView+ItemDecorations实现带指示器ViewPager效果](https://juejin.im/post/5a327b996fb9a0452936c936)
 
