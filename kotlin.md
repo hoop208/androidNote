@@ -86,6 +86,8 @@
 
 [Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
 
+[Immutability we can afford](https://elizarov.medium.com/immutability-we-can-afford-10c0dcb8351d)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
