@@ -127,6 +127,8 @@
 
 [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)
 
+[Nothing (Else) Matters in Kotlin](https://quiro.dev/posts/nothing-else-matters-kotlin/)
+
 # 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
