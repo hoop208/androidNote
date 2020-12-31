@@ -150,6 +150,8 @@
 
 [Keep your interfaces simple](https://proandroiddev.com/keep-your-interfaces-simple-e025d515e3b9)
 
+[Why Are Kotlin Synthetics Deprecated and What Are the Alternatives?](https://medium.com/better-programming/why-are-kotlin-synthetics-deprecated-and-what-are-the-alternatives-5c2b087dda1c)
+
 # 对象
 
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
