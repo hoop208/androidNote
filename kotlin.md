@@ -88,6 +88,8 @@
 
 [Beneath the surface of Lateinit](https://www.kotlindevelopment.com/lateinit-kotlin/)
 
+[Kotlin for Beginners: Immutability and the Value of ‘val’](https://proandroiddev.com/kotlin-for-beginners-immutability-and-the-value-of-val-78ab45b60b57)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
