@@ -62,6 +62,8 @@
 [RecyclerView FastScroll – Part 1](https://blog.stylingandroid.com/recyclerview-fastscroll-part-1/)  
 [RecyclerView FastScroll – Part 2](https://blog.stylingandroid.com/recyclerview-fastscroll-part-2/)
 
+[Tool Time – Part 1](https://blog.stylingandroid.com/tool-time-part-1-2/)
+
 # DiffUtil
 
 [AsyncListDiffer-RecyclerView最好的伙伴](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872382&idx=1&sn=5f7add8c8dd09c7aa24a12a0c32650f2&scene=19#wechat_redirect)
