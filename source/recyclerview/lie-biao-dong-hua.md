@@ -8,3 +8,7 @@
 
 [自定义RecyclerView.ItemAnimator其实很简单（上）](https://www.jianshu.com/p/2a82b0341138)  
 [自定义RecyclerView.ItemAnimator其实很简单（下）](https://www.jianshu.com/p/b9aef3597f2d)
+
+# 源码
+
+[recyclerview动画原理](https://mp.weixin.qq.com/s/Vz6GZOcxxiBi4M4Z8SDEpw)
