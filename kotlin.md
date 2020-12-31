@@ -20,8 +20,6 @@
 
 [Kotlin使用技巧之接口与命名参数的优雅运用](https://www.jianshu.com/p/ac752487fd71?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[从原理分析Kotlin的延迟初始化: lateinit var和by lazy](https://juejin.im/post/5affc369f265da0b9b079629)
-
 [写给Android开发者的Kotlin入门](https://www.jianshu.com/p/bb53cba6c8f4)
 
 [31 天，从浅到深轻松学习 Kotlin](https://mp.weixin.qq.com/s/1mp5F4A-pqkaRknY6kAKzA)
@@ -42,11 +40,7 @@
 
 [Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
 
-[Kotlin nullability: Four easy pieces](https://medium.com/@Joseph82/kotlin-nullability-four-easy-pieces-bbef8c6d01a9)
-
 [a-day-with-kotlin-strings](https://charlesmuchene.hashnode.dev/a-day-with-kotlin-strings-ck9fhb5h90680cxs1fgzfrzb8)
-
-[Expressing Relationships Between Nullable Parameters In Kotlin](https://www.stkent.com/2020/05/07/expressing-relationships-between-nullable-parameters-in-kotlin.html)
 
 [Kotlin as scripting language](https://www.danielebonaldo.com/kotlin-script/)
 
@@ -60,19 +54,11 @@
 
 [Those sneaky Kotlin Exceptions](https://medium.com/google-developer-experts/those-sneaky-kotlin-exceptions-597c93d29358)
 
-[When You Should Use Null in Kotlin](https://handstandsam.com/2019/02/24/when-you-should-use-null-in-kotlin/)
-
-[Beneath the surface of Lateinit](https://www.kotlindevelopment.com/lateinit-kotlin/)
-
 [Kotlin for Beginners: Immutability and the Value of ‘val’](https://proandroiddev.com/kotlin-for-beginners-immutability-and-the-value-of-val-78ab45b60b57)
 
 [Kotlin: Mutability](https://blog.stylingandroid.com/kotlin-mutability/)
 
 [Kotlin programmer dictionary: Statement vs Expression](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-statement-vs-expression-e6743ba1aaa0)
-
-[How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
-
-[Non-null is the Default](https://medium.com/square-corner-blog/non-null-is-the-default-58ffc0bb9111)
 
 [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)
 
@@ -103,7 +89,19 @@
 
 [在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
 
+[从原理分析Kotlin的延迟初始化: lateinit var和by lazy](https://juejin.im/post/5affc369f265da0b9b079629)
 
+[Kotlin nullability: Four easy pieces](https://medium.com/@Joseph82/kotlin-nullability-four-easy-pieces-bbef8c6d01a9)
+
+[Expressing Relationships Between Nullable Parameters In Kotlin](https://www.stkent.com/2020/05/07/expressing-relationships-between-nullable-parameters-in-kotlin.html)
+
+[Beneath the surface of Lateinit](https://www.kotlindevelopment.com/lateinit-kotlin/)
+
+[When You Should Use Null in Kotlin](https://handstandsam.com/2019/02/24/when-you-should-use-null-in-kotlin/)
+
+[How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
+
+[Non-null is the Default](https://medium.com/square-corner-blog/non-null-is-the-default-58ffc0bb9111)
 
 # 类型系统
 
