@@ -10,8 +10,6 @@
 
 [Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
 
-[在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
-
 [Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
 
 [Kotlin中常量的探究](https://droidyue.com/blog/2017/11/05/dive-into-kotlin-constants/)
@@ -37,8 +35,6 @@
 [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
 
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
-
-[Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
 
 [Functional operations over Views in ViewGroup using Kotlin](https://antonioleiva.com/functional-operations-viewgroup-kotlin/)
 
@@ -103,9 +99,17 @@
 [Kotlin Vocabulary | 唯一的 "对象"](https://zhuanlan.zhihu.com/p/269710866)  
 [Kotlin Vocabulary | 操作符重载](https://zhuanlan.zhihu.com/p/269028612)  
 
+# 空安全
+
+[在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
+
+
+
 # 类型系统
 
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
+
+[Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
 
 [Typical Kotlin](https://www.kotlindevelopment.com/typical-kotlin/)
 
