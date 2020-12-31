@@ -62,7 +62,8 @@
 [RecyclerView FastScroll – Part 1](https://blog.stylingandroid.com/recyclerview-fastscroll-part-1/)  
 [RecyclerView FastScroll – Part 2](https://blog.stylingandroid.com/recyclerview-fastscroll-part-2/)
 
-[Tool Time – Part 1](https://blog.stylingandroid.com/tool-time-part-1-2/)
+[Tool Time – Part 1](https://blog.stylingandroid.com/tool-time-part-1-2/)  
+[Tool Time – Part 2](https://blog.stylingandroid.com/tool-time-part-2/)
 
 # DiffUtil
 
