@@ -6,6 +6,8 @@
 
 [RecyclerView Item Change Animations With a Custom Item Animator](https://medium.com/swlh/recyclerview-item-change-animations-ebe2383bb481)
 
+[Layout animations on RecyclerView](https://antonioleiva.com/layout-animations-on-recyclerview/)
+
 [自定义RecyclerView.ItemAnimator其实很简单（上）](https://www.jianshu.com/p/2a82b0341138)  
 [自定义RecyclerView.ItemAnimator其实很简单（下）](https://www.jianshu.com/p/b9aef3597f2d)
 
