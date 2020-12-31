@@ -115,6 +115,8 @@
 
 [Typical Kotlin](https://www.kotlindevelopment.com/typical-kotlin/)
 
+[All About Type Aliases in Kotlin](https://typealias.com/guides/all-about-type-aliases/)
+
 # 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
