@@ -178,6 +178,10 @@
 
 [How Kotlin lambda capture variable](https://medium.com/@yangweigbh/how-kotlin-lambda-capture-variable-ef90e11e531d)
 
+# 序列化
+
+[Parcelable, simplified](https://www.kotlindevelopment.com/parcelable-kotlin-android-extensions/)
+
 
 
 
