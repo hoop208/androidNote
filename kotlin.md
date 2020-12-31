@@ -129,6 +129,8 @@
 
 [Nothing (Else) Matters in Kotlin](https://quiro.dev/posts/nothing-else-matters-kotlin/)
 
+[A Whirlwind Tour of the Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
+
 # 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
