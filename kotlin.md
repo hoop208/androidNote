@@ -10,8 +10,6 @@
 
 [Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
 
-[文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
-
 [在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
 
 [Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
@@ -40,8 +38,6 @@
 
 [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
 
-[Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
-
 [Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
 
 [Functional operations over Views in ViewGroup using Kotlin](https://antonioleiva.com/functional-operations-viewgroup-kotlin/)
@@ -49,12 +45,6 @@
 [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
 
 [Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
-
-[Pair and Triple in Kotlin](https://blog.mindorks.com/pair-and-triple-in-kotlin)
-
-[Breaking down destructuring declarations](https://medium.com/androiddevelopers/breaking-down-destructuring-declarations-e21334ac1e9)
-
-[Value-Based Classes and Domain Modelling in Kotlin](https://medium.com/swlh/value-based-classes-and-error-handling-in-kotlin-3f14727c0565)
 
 [Kotlin nullability: Four easy pieces](https://medium.com/@Joseph82/kotlin-nullability-four-easy-pieces-bbef8c6d01a9)
 
@@ -64,35 +54,23 @@
 
 [Kotlin as scripting language](https://www.danielebonaldo.com/kotlin-script/)
 
-[Kotlin Default Interface Methods and Binary Compatibility](https://helw.net/2019/12/21/kotlin-default-interface-methods-and-binary-compatibility/)
-
 [Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
 
 [Immutability we can afford](https://elizarov.medium.com/immutability-we-can-afford-10c0dcb8351d)
 
 [Kotlin Smart Casting By Immutability](https://brunoaybar.com/kotlin-smart-casting)
 
-[Kotlin Destructuring Declarations and ComponentN](https://www.bignerdranch.com/blog/kotlin-destructuring-declarations-and-componentn/)
-
 [When to use Kotlin's takeIf() and takeUnless() functions](https://todd.ginsberg.com/post/kotlin-takeif-takeunless/)
-
-[Abstract class vs interface in Kotlin](https://blog.kotlin-academy.com/abstract-class-vs-interface-in-kotlin-5ab8697c3a14)
 
 [Those sneaky Kotlin Exceptions](https://medium.com/google-developer-experts/those-sneaky-kotlin-exceptions-597c93d29358)
 
 [When You Should Use Null in Kotlin](https://handstandsam.com/2019/02/24/when-you-should-use-null-in-kotlin/)
-
-[The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
-
-[Destructuring Declarations](https://www.kotlindevelopment.com/destructuring-declarations/)
 
 [Beneath the surface of Lateinit](https://www.kotlindevelopment.com/lateinit-kotlin/)
 
 [Kotlin for Beginners: Immutability and the Value of ‘val’](https://proandroiddev.com/kotlin-for-beginners-immutability-and-the-value-of-val-78ab45b60b57)
 
 [Kotlin: Mutability](https://blog.stylingandroid.com/kotlin-mutability/)
-
-[Safe, concise text parsing with regex destructuring in Kotlin](https://medium.com/@garnop/safe-concise-text-parsing-with-regex-destructuring-in-kotlin-b8f77ef1e30c)
 
 [Kotlin programmer dictionary: Statement vs Expression](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-statement-vs-expression-e6743ba1aaa0)
 
@@ -127,6 +105,8 @@
 
 # 类型系统
 
+[文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
+
 [Typical Kotlin](https://www.kotlindevelopment.com/typical-kotlin/)
 
 [All About Type Aliases in Kotlin](https://typealias.com/guides/all-about-type-aliases/)
@@ -136,6 +116,12 @@
 [Nothing (Else) Matters in Kotlin](https://quiro.dev/posts/nothing-else-matters-kotlin/)
 
 [A Whirlwind Tour of the Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
+
+[Kotlin Default Interface Methods and Binary Compatibility](https://helw.net/2019/12/21/kotlin-default-interface-methods-and-binary-compatibility/)
+
+[Abstract class vs interface in Kotlin](https://blog.kotlin-academy.com/abstract-class-vs-interface-in-kotlin-5ab8697c3a14)
+
+[The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
 
 # 泛型
 
@@ -223,6 +209,34 @@
 # 函数
 
 [Kotlin: should I define Function or Property?](https://blog.kotlin-academy.com/kotlin-should-i-define-function-or-property-6786951da909)
+
+# 数据类
+
+[Value-Based Classes and Domain Modelling in Kotlin](https://medium.com/swlh/value-based-classes-and-error-handling-in-kotlin-3f14727c0565)
+
+[Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
+
+# 析构声明
+
+[Pair and Triple in Kotlin](https://blog.mindorks.com/pair-and-triple-in-kotlin)
+
+[Breaking down destructuring declarations](https://medium.com/androiddevelopers/breaking-down-destructuring-declarations-e21334ac1e9)
+
+[Kotlin Destructuring Declarations and ComponentN](https://www.bignerdranch.com/blog/kotlin-destructuring-declarations-and-componentn/)
+
+[Safe, concise text parsing with regex destructuring in Kotlin](https://medium.com/@garnop/safe-concise-text-parsing-with-regex-destructuring-in-kotlin-b8f77ef1e30c)
+
+[Destructuring Declarations](https://www.kotlindevelopment.com/destructuring-declarations/)
+
+
+
+
+
+
+
+
+
+
 
 
 
