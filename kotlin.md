@@ -82,6 +82,8 @@
 
 [When You Should Use Null in Kotlin](https://handstandsam.com/2019/02/24/when-you-should-use-null-in-kotlin/)
 
+[The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
