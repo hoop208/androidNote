@@ -102,6 +102,8 @@
 
 [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)
 
+[A sneak peek into Kotlin preconditions](https://medium.com/codeexplorers/a-quick-look-into-kotlin-preconditions-9a2d53c8c8ca)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
