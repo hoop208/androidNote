@@ -6,6 +6,8 @@
 
 [RecyclerView源码剖析: 基本显示](https://juejin.im/post/5dd74704f265da7de846bf5e)
 
+[recyclerview源码解析](https://mp.weixin.qq.com/s/iJ8dBktC-7bkylqTNayxFw)
+
 [RecyclerView的基本设计结构](https://juejin.im/post/5c10737de51d457926430f99)  
 [RecyclerView刷新机制](https://juejin.im/post/5c10ad715188253141435f4a)  
 [RecyclerView的复用机制](https://juejin.im/post/5c1369cff265da613b6fa87f)  
