@@ -11,4 +11,5 @@
 
 # 源码
 
-[recyclerview动画原理](https://mp.weixin.qq.com/s/Vz6GZOcxxiBi4M4Z8SDEpw)
+[recyclerview动画原理](https://mp.weixin.qq.com/s/Vz6GZOcxxiBi4M4Z8SDEpw)  
+[recyclerview动画原理二](https://mp.weixin.qq.com/s/GN4OiZVTpGWSvdVas7LfkQ)
