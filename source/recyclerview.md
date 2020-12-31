@@ -55,7 +55,9 @@
 [深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)  
 [深入理解 RecyclerView 系列之二：ItemAnimator](https://blog.piasy.com/2016/04/04/Insight-Android-RecyclerView-ItemAnimator/index.html)    
 
-[Scrolling RecyclerView – Part 1](https://blog.stylingandroid.com/scrolling-recyclerview-part-1/)
+[Scrolling RecyclerView – Part 1](https://blog.stylingandroid.com/scrolling-recyclerview-part-1/)  
+[Scrolling RecyclerView – Part 2](https://blog.stylingandroid.com/scrolling-recycler-view-part-2/)  
+[Scrolling RecyclerView – Part 3](https://blog.stylingandroid.com/scrolling-recyclerview-part-3/)  
 
 [RecyclerView FastScroll – Part 1](https://blog.stylingandroid.com/recyclerview-fastscroll-part-1/)  
 [RecyclerView FastScroll – Part 2](https://blog.stylingandroid.com/recyclerview-fastscroll-part-2/)
