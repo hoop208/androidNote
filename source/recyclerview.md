@@ -55,6 +55,8 @@
 [深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)  
 [深入理解 RecyclerView 系列之二：ItemAnimator](https://blog.piasy.com/2016/04/04/Insight-Android-RecyclerView-ItemAnimator/index.html)    
 
+[RecyclerView FastScroll – Part 1](https://blog.stylingandroid.com/recyclerview-fastscroll-part-1/)
+
 # DiffUtil
 
 [AsyncListDiffer-RecyclerView最好的伙伴](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872382&idx=1&sn=5f7add8c8dd09c7aa24a12a0c32650f2&scene=19#wechat_redirect)
