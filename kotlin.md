@@ -96,6 +96,8 @@
 
 [Kotlin programmer dictionary: Statement vs Expression](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-statement-vs-expression-e6743ba1aaa0)
 
+[How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
