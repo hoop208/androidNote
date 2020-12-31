@@ -162,7 +162,7 @@
 
 [Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
 
-[Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
+[Effective Kotlin: Consider Arrays with primitives for performance critical processing](https://blog.kotlin-academy.com/effective-kotlin-use-arrays-with-primitives-for-performance-critical-processing-297283ed1f90)
 
 # 委托
 
