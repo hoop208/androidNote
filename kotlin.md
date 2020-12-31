@@ -107,6 +107,10 @@
 [Kotlin Vocabulary | 唯一的 "对象"](https://zhuanlan.zhihu.com/p/269710866)  
 [Kotlin Vocabulary | 操作符重载](https://zhuanlan.zhihu.com/p/269028612)  
 
+# 类型系统
+
+[Typical Kotlin](https://www.kotlindevelopment.com/typical-kotlin/)
+
 # 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
