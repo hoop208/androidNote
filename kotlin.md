@@ -182,6 +182,9 @@
 
 [Parcelable, simplified](https://www.kotlindevelopment.com/parcelable-kotlin-android-extensions/)
 
+# 函数
+
+[Kotlin: should I define Function or Property?](https://blog.kotlin-academy.com/kotlin-should-i-define-function-or-property-6786951da909)
 
 
 
