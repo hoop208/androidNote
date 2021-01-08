@@ -64,6 +64,8 @@
 
 [A sneak peek into Kotlin preconditions](https://medium.com/codeexplorers/a-quick-look-into-kotlin-preconditions-9a2d53c8c8ca)
 
+[Kotlin — Beware the Silent Cast](https://android.jlelse.eu/kotlin-beware-the-silent-cast-5fed4f4c4aa6)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
