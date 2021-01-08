@@ -96,6 +96,10 @@
 [Exploring Kotlin’s hidden costs — Part 2](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-2-324a4a50b70)  
 [Exploring Kotlin’s hidden costs — Part 3](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-3-3bf6e0dbf0a4)
 
+[Kotlin Fever : Part 1 — Nullability](https://medium.cobeisfresh.com/kotlin-fever-part-1-nullability-c41ec01a9513)  
+[Kotlin Fever : Part 2 — Functions and Expressions](https://medium.cobeisfresh.com/kotlin-fever-part-2-functions-and-expressions-f93dba724298)  
+[Kotlin Fever : Part 3 — Lambdas and Higher Order Functions](https://medium.cobeisfresh.com/kotlin-fever-part-3-lambdas-and-higher-order-functions-e9d4a7093c71)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
