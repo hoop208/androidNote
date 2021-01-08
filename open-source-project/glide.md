@@ -47,5 +47,7 @@
 
 [Glide 源码分析解读-基于最新版Glide 4.9.0](https://www.jianshu.com/p/9bb50924d42a)
 
+[一文摸懂Glide](https://mp.weixin.qq.com/s/qhDWjqagtKVtgbxQmNC8oQ)
+
 
 
