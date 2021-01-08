@@ -15,3 +15,5 @@
 
 [recyclerview动画原理](https://mp.weixin.qq.com/s/Vz6GZOcxxiBi4M4Z8SDEpw)   
 [recyclerview动画原理二](https://mp.weixin.qq.com/s/GN4OiZVTpGWSvdVas7LfkQ)
+
+[RecyclerView Animations – Add & Remove Items](https://blog.stylingandroid.com/recyclerview-animations-add-remove-items/)
