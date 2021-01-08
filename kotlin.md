@@ -82,6 +82,8 @@
 
 [Kotlin Code Organization](https://arturdryomov.dev/posts/kotlin-code-organization/)
 
+[From Java to Kotlin: life without static](https://jelmini.dev/post/from-java-to-kotlin-life-without-static/)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
