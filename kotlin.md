@@ -104,7 +104,8 @@
 [Moving forward with Kotlin #1: Properties](https://proandroiddev.com/moving-forward-part-1-properties-d8f695b3c812)  
 [Moving forward with Kotlin #2: Inheritance](https://proandroiddev.com/moving-forward-with-kotlin-part-2-inheritance-64bc674e2224)
 
-[Advanced Kotlin - Part 1 - Delegates](https://americanexpress.io/advanced-kotlin-delegates/)
+[Advanced Kotlin - Part 1 - Delegates](https://americanexpress.io/advanced-kotlin-delegates/)  
+[Advanced Kotlin - Part 2 - Use-Site Targets](https://americanexpress.io/advanced-kotlin-use-site-targets/)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
