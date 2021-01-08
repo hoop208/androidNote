@@ -17,4 +17,5 @@
 [recyclerview动画原理二](https://mp.weixin.qq.com/s/GN4OiZVTpGWSvdVas7LfkQ)
 
 [RecyclerView Animations – Add & Remove Items](https://blog.stylingandroid.com/recyclerview-animations-add-remove-items/)  
-[RecyclerView Animations – Changing Items](https://blog.stylingandroid.com/recyclerview-animations-changing-items/)
+[RecyclerView Animations – Changing Items](https://blog.stylingandroid.com/recyclerview-animations-changing-items/)  
+[RecyclerView Animations – Moving Items](https://blog.stylingandroid.com/recyclerview-animations-moving-items/)
