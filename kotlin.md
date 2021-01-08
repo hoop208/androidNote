@@ -86,6 +86,8 @@
 
 [Hello Kotlin](https://medium.com/@magdamiu/hello-kotlin-774b44cd9df0)
 
+[Kotlin: val does not mean immutable, it just means readonly, yeah](https://artemzin.com/blog/kotlin-val-does-not-mean-immutable-it-just-means-readonly-yeah/)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
