@@ -8,3 +8,4 @@
 
 [Android Paging Library with multiple view types](https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d)
 
+[7 steps to implement Paging library in Android](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
