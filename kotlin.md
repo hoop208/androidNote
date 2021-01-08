@@ -110,7 +110,9 @@
 [Variables in Kotlin, differences with Java. var vs val (KAD 02)](https://antonioleiva.com/variables-kotlin/)  
 [Classes in Kotlin: More power with less effort (KAD 03)](https://antonioleiva.com/classes-kotlin/)
 
-[How “Effective Java” may have influenced the design of Kotlin — Part 1](https://medium.com/hackernoon/how-effective-java-may-have-influenced-the-design-of-kotlin-part-1-45fd64c2f974)
+[How “Effective Java” may have influenced the design of Kotlin — Part 1](https://medium.com/hackernoon/how-effective-java-may-have-influenced-the-design-of-kotlin-part-1-45fd64c2f974)  
+[How “Effective Java” may have influenced the design of Kotlin — Part 2](https://medium.com/@lukleDev/how-effective-java-may-have-influenced-the-design-of-kotlin-part-2-89844d62ddf3)  
+[How “Effective Java” may have influenced the design of Kotlin — Part 3](https://medium.com/@lukleDev/how-effective-java-may-have-influenced-the-design-of-kotlin-part-3-7a01c9627e86)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
