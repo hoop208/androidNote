@@ -11,3 +11,5 @@
 [7 steps to implement Paging library in Android](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
 
 [Infinite Scrolling With Android Paging Library and Flow API](https://medium.com/swlh/infinite-scrolling-with-android-paging-library-and-flow-api-e017f47517d6)
+
+[Getting on the same page with Paging 3](https://android-developers.googleblog.com/2020/07/getting-on-same-page-with-paging-3.html)
