@@ -100,6 +100,8 @@
 
 [【译】RecyclerView+ItemDecorations实现带指示器ViewPager效果](https://juejin.im/post/5a327b996fb9a0452936c936)
 
+[视差装饰器](https://mp.weixin.qq.com/s/OidBqC3-GNduym3ZsafG4w)
+
 [RecyclerView之ItemDecoration由浅入深](https://www.jianshu.com/p/b46a4ff7c10a)
 
 [Custom ItemDecoration](https://medium.com/@nicolas.duponchel/custom-itemdecoration-3b244de437d9)
