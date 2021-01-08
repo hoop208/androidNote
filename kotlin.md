@@ -131,6 +131,8 @@
 
 [The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
 
+[Type-safe time calculations using Duration](https://okkotlin.com/duration/)
+
 # 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
