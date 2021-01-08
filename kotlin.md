@@ -74,6 +74,8 @@
 
 [Writing Kotlin the Kotlin(Non Java) Way](https://medium.com/google-developer-experts/writing-kotlin-the-kotlin-non-java-way-c1a636b9b62a)
 
+[Name Mangling in Kotlin](https://proandroiddev.com/name-mangling-in-kotlin-7d0e2a7a173a)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
