@@ -30,6 +30,8 @@
 
 [How to Create Custom LayoutManager in Android](https://www.azoft.com/blog/layoutmanager-android/)
 
+[Mastering RecyclerView Layouts](https://speakerdeck.com/devunwired/mastering-recyclerview-layouts)
+
 [recyclerview-playground](https://github.com/devunwired/recyclerview-playground/tree/experimental)[](https://developer.inthepocket.mobi/2017/01/04/android-layoutmanager-part-1/)
 
 [创建一个 RecyclerView LayoutManager – Part 1](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-9/%E5%88%9B%E5%BB%BA-RecyclerView-LayoutManager-Part-1.md)  
