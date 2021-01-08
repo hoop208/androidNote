@@ -19,3 +19,5 @@
 [RecyclerView Animations – Add & Remove Items](https://blog.stylingandroid.com/recyclerview-animations-add-remove-items/)  
 [RecyclerView Animations – Changing Items](https://blog.stylingandroid.com/recyclerview-animations-changing-items/)  
 [RecyclerView Animations – Moving Items](https://blog.stylingandroid.com/recyclerview-animations-moving-items/)  
+
+[RecyclerView Animations Part 1 - How Animations Work](http://www.birbit.com/recyclerview-animations-part-1-how-animations-work/)
