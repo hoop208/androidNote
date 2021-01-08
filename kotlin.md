@@ -88,6 +88,8 @@
 
 [Kotlin: val does not mean immutable, it just means readonly, yeah](https://artemzin.com/blog/kotlin-val-does-not-mean-immutable-it-just-means-readonly-yeah/)
 
+[Concurrency Primitives in Kotlin](https://blog.egorand.me/concurrency-primitives-in-kotlin/)
+
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
 [Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
