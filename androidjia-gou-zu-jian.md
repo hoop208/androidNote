@@ -63,6 +63,8 @@
 
 [使用视图绑定替代 findViewById](https://zhuanlan.zhihu.com/p/112677276)
 
+[Defining Android Binding Adapter in Kotlin](https://medium.com/@thinkpanda_75045/defining-android-binding-adapter-in-kotlin-b08e82116704)
+
 # LifeCycle
 
 [Android官方架构组件介绍之LifeCycle](https://www.jianshu.com/p/acf8c55533f1)
