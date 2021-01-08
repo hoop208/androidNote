@@ -6,3 +6,5 @@
 
 [Architecture Components:Paging Library](https://androidkt.com/paging-library/)
 
+[Android Paging Library with multiple view types](https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d)
+
