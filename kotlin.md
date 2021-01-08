@@ -107,7 +107,8 @@
 [Advanced Kotlin - Part 1 - Delegates](https://americanexpress.io/advanced-kotlin-delegates/)  
 [Advanced Kotlin - Part 2 - Use-Site Targets](https://americanexpress.io/advanced-kotlin-use-site-targets/)
 
-[Variables in Kotlin, differences with Java. var vs val (KAD 02)](https://antonioleiva.com/variables-kotlin/)
+[Variables in Kotlin, differences with Java. var vs val (KAD 02)](https://antonioleiva.com/variables-kotlin/)  
+[Classes in Kotlin: More power with less effort (KAD 03)](https://antonioleiva.com/classes-kotlin/)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
