@@ -53,7 +53,7 @@
 [When to use Kotlin's takeIf() and takeUnless() functions](https://todd.ginsberg.com/post/kotlin-takeif-takeunless/)
 
 [Those sneaky Kotlin Exceptions](https://medium.com/google-developer-experts/those-sneaky-kotlin-exceptions-597c93d29358)
-
+[](https://proandroiddev.com/is-your-kotlin-code-really-obfuscated-a36abf033dde)
 [Kotlin for Beginners: Immutability and the Value of ‘val’](https://proandroiddev.com/kotlin-for-beginners-immutability-and-the-value-of-val-78ab45b60b57)
 
 [Kotlin: Mutability](https://blog.stylingandroid.com/kotlin-mutability/)
@@ -75,6 +75,8 @@
 [Writing Kotlin the Kotlin(Non Java) Way](https://medium.com/google-developer-experts/writing-kotlin-the-kotlin-non-java-way-c1a636b9b62a)
 
 [Name Mangling in Kotlin](https://proandroiddev.com/name-mangling-in-kotlin-7d0e2a7a173a)
+
+[Is Your Kotlin Code Really Obfuscated?](https://proandroiddev.com/is-your-kotlin-code-really-obfuscated-a36abf033dde)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
