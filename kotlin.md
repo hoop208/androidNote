@@ -101,7 +101,8 @@
 [Kotlin Fever : Part 3 — Lambdas and Higher Order Functions](https://medium.cobeisfresh.com/kotlin-fever-part-3-lambdas-and-higher-order-functions-e9d4a7093c71)
 
 [Moving forward with Kotlin](https://medium.com/@pablisco/moving-forward-with-kotlin-83b0c4df438d)  
-[Moving forward with Kotlin #1: Properties](https://proandroiddev.com/moving-forward-part-1-properties-d8f695b3c812)
+[Moving forward with Kotlin #1: Properties](https://proandroiddev.com/moving-forward-part-1-properties-d8f695b3c812)  
+[Moving forward with Kotlin #2: Inheritance](https://proandroiddev.com/moving-forward-with-kotlin-part-2-inheritance-64bc674e2224)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
