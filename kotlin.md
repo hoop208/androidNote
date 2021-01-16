@@ -115,7 +115,9 @@
 [How “Effective Java” may have influenced the design of Kotlin — Part 3](https://medium.com/@lukleDev/how-effective-java-may-have-influenced-the-design-of-kotlin-part-3-7a01c9627e86)
 
 [Kotlin: An Illustrated Guide • Chapter 1
-Variables, Expressions, and Types](https://typealias.com/start/kotlin-variables-expressions-types/)
+Variables, Expressions, and Types](https://typealias.com/start/kotlin-variables-expressions-types/)  
+[Kotlin: An Illustrated Guide • Chapter 2
+Functions](https://typealias.com/start/kotlin-functions/)
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
 [Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
