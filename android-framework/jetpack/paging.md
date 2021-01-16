@@ -13,3 +13,5 @@
 [Infinite Scrolling With Android Paging Library and Flow API](https://medium.com/swlh/infinite-scrolling-with-android-paging-library-and-flow-api-e017f47517d6)
 
 [Getting on the same page with Paging 3](https://android-developers.googleblog.com/2020/07/getting-on-same-page-with-paging-3.html)
+
+[How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8)
