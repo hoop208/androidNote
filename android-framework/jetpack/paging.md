@@ -14,4 +14,5 @@
 
 [Getting on the same page with Paging 3](https://android-developers.googleblog.com/2020/07/getting-on-same-page-with-paging-3.html)
 
-[How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8)
+[How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8)  
+[How to Use the Paging 3 Library in Android — Part 2](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-part-2-e2011070a37d)
