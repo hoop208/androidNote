@@ -114,14 +114,10 @@
 [How “Effective Java” may have influenced the design of Kotlin — Part 2](https://medium.com/@lukleDev/how-effective-java-may-have-influenced-the-design-of-kotlin-part-2-89844d62ddf3)  
 [How “Effective Java” may have influenced the design of Kotlin — Part 3](https://medium.com/@lukleDev/how-effective-java-may-have-influenced-the-design-of-kotlin-part-3-7a01c9627e86)
 
-[Kotlin: An Illustrated Guide • Chapter 1
-Variables, Expressions, and Types](https://typealias.com/start/kotlin-variables-expressions-types/)  
-[Kotlin: An Illustrated Guide • Chapter 2
-Functions](https://typealias.com/start/kotlin-functions/)  
-[Kotlin: An Illustrated Guide • Chapter 3
-Kotlin Conditionals: When and If](https://typealias.com/start/kotlin-conditionals/)  
-[Kotlin: An Illustrated Guide • Chapter 4
-Introduction to Classes and Objects](https://typealias.com/start/kotlin-classes-and-objects/)  
+[Kotlin: An Illustrated Guide • Chapter 1 Variables, Expressions, and Types](https://typealias.com/start/kotlin-variables-expressions-types/)  
+[Kotlin: An Illustrated Guide • Chapter 2 Functions](https://typealias.com/start/kotlin-functions/)  
+[Kotlin: An Illustrated Guide • Chapter 3 Kotlin Conditionals: When and If](https://typealias.com/start/kotlin-conditionals/)  
+[Kotlin: An Illustrated Guide • Chapter 4 Introduction to Classes and Objects](https://typealias.com/start/kotlin-classes-and-objects/)  
 [Kotlin: An Illustrated Guide • Chapter 5](https://typealias.com/start/kotlin-enum-classes/)  
 
 [Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
