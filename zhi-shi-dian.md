@@ -103,6 +103,8 @@
 
 [WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
 
+[Android Then and Now: Callbacks](https://medium.com/default-to-open/android-then-and-now-callbacks-b0fe9f756b20)
+
 
 
 
