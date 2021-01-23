@@ -123,5 +123,7 @@
 
 [Android Strings XML Tips & Tricks](https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks)
 
+[Android Adaptive Icons Are Easier Than You Think](https://proandroiddev.com/android-adaptive-icons-are-easier-than-you-think-3c66be2dd4dd)
+
 
 
