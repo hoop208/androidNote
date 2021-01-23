@@ -111,6 +111,8 @@
 
 [Android Then and Now: Intro, @IntDef & Enums](https://medium.com/@jamiesanson/android-then-and-now-intro-intdef-enums-bca22d5cca56)
 
+[How To Make A Splash Screen For An Android App](https://medium.com/hackmobile/how-to-make-a-splash-screen-e872656c47a9)
+
 
 
 
