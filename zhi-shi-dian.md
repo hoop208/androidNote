@@ -109,6 +109,8 @@
 
 [Detect Screenshots in Android](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)
 
+[Android Then and Now: Intro, @IntDef & Enums](https://medium.com/@jamiesanson/android-then-and-now-intro-intdef-enums-bca22d5cca56)
+
 
 
 
