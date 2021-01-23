@@ -119,6 +119,7 @@
 
 [Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560#.ya6a0kk70)
 
+[Adaptive Icons and more](https://blog.stylingandroid.com/adaptive-icons/)
 
 
 
