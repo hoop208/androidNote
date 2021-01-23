@@ -26,6 +26,8 @@
 
 [自定义layoutmanager](https://mp.weixin.qq.com/s/tn9_XuA6mWSXDKbYeTuFww)
 
+[自定义无限循环的layoutmanager](https://mp.weixin.qq.com/s/NAI4ZmoGPoW8UubwNHRXtA)
+
 [10 steps to create a custom LayoutManager](https://medium.com/@v.danylo/10-steps-to-create-a-custom-layoutmanager-2f30ab2f979d)
 
 [How to Create Custom LayoutManager in Android](https://www.azoft.com/blog/layoutmanager-android/)
