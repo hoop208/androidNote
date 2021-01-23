@@ -26,6 +26,8 @@
 
 [Android线程间通信机制handler的实现原理](https://mp.weixin.qq.com/s/m944iVkqZJIgdPRVjvz40g)
 
+[handler的runwithscissors()](https://mp.weixin.qq.com/s/Qs9C6m21e3OfS0uo94ohGA)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
