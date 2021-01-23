@@ -99,6 +99,8 @@
 
 [3 Crucial Concepts of gRPC in Android](https://vladsonkin.com/3-crucial-concepts-of-grpc-in-android/)
 
+[Support Android App Links for some domains, and Direct Links for other domains!](https://hanru-yeh.medium.com/android-app-links-and-direct-links-for-different-domains-9f7085bf81c6)
+
 
 
 
