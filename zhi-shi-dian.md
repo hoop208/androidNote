@@ -121,5 +121,7 @@
 
 [Adaptive Icons and more](https://blog.stylingandroid.com/adaptive-icons/)
 
+[Android Strings XML Tips & Tricks](https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks)
+
 
 
