@@ -105,6 +105,8 @@
 
 [Android Then and Now: Callbacks](https://medium.com/default-to-open/android-then-and-now-callbacks-b0fe9f756b20)
 
+[Choose Wisely: 5 Ways To Show A Message In Android](https://vladsonkin.com/choose-wisely-5-ways-to-show-a-message-in-android/)
+
 
 
 
