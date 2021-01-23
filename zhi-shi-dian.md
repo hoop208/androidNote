@@ -117,6 +117,8 @@
 
 [Developing for developers: Working on an Android library](https://proandroiddev.com/developing-for-developers-working-on-an-android-library-e0b49e0488b5)
 
+[Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560#.ya6a0kk70)
+
 
 
 
