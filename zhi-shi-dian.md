@@ -115,6 +115,8 @@
 
 [The easiest way to toggle complete layout to grayscale on Android](https://proandroiddev.com/the-easiest-way-to-toggle-complete-layout-to-grayscale-on-android-fa86ac0a754)
 
+[Developing for developers: Working on an Android library](https://proandroiddev.com/developing-for-developers-working-on-an-android-library-e0b49e0488b5)
+
 
 
 
