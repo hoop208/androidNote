@@ -107,6 +107,8 @@
 
 [Choose Wisely: 5 Ways To Show A Message In Android](https://vladsonkin.com/choose-wisely-5-ways-to-show-a-message-in-android/)
 
+[Detect Screenshots in Android](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)
+
 
 
 
