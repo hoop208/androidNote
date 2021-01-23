@@ -97,6 +97,8 @@
 
 [Effective Java for Android (cheatsheet).](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.xt6omljkt)
 
+[3 Crucial Concepts of gRPC in Android](https://vladsonkin.com/3-crucial-concepts-of-grpc-in-android/)
+
 
 
 
