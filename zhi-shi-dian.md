@@ -101,6 +101,8 @@
 
 [Support Android App Links for some domains, and Direct Links for other domains!](https://hanru-yeh.medium.com/android-app-links-and-direct-links-for-different-domains-9f7085bf81c6)
 
+[WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
+
 
 
 
