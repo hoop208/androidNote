@@ -113,6 +113,8 @@
 
 [How To Make A Splash Screen For An Android App](https://medium.com/hackmobile/how-to-make-a-splash-screen-e872656c47a9)
 
+[The easiest way to toggle complete layout to grayscale on Android](https://proandroiddev.com/the-easiest-way-to-toggle-complete-layout-to-grayscale-on-android-fa86ac0a754)
+
 
 
 
