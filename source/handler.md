@@ -42,6 +42,8 @@
 
 [异步线程大师Handler(源码+图+demo+常见问题)](/ https://cloud.tencent.com/developer/article/1404762)
 
+[handler40个高频问答](https://mp.weixin.qq.com/s/Dq4WyPgQEGDGJQvijEsVYw)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
