@@ -131,4 +131,6 @@
 
 [Modern User Storage on Android](https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9)
 
+[Clean Navigation Between Screens in Android Applications](https://www.techyourchance.com/navigation-between-screens-android/)
+
 
