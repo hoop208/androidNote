@@ -127,4 +127,6 @@
 
 [How to use 9-patch images for resizable backgrounds in Android](https://blog.jakelee.co.uk/how-to-use-9-patch-images-for-resizable-backgrounds-in-android/)
 
+[A cautionary tale on Android: do not call System.exit()](https://proandroiddev.com/a-cautionary-tale-on-android-do-not-call-system-exit-5279e0d5dbe0)
+
 
