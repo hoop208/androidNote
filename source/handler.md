@@ -38,6 +38,8 @@
 
 [搞懂Handler](https://mp.weixin.qq.com/s/8Ox_zAbgBwb3J0lAdE0gIw)
 
+[面试官：“看你简历上写熟悉 Handler 机制，那聊聊 IdleHandler 吧？](https://mp.weixin.qq.com/s/8V0O4A_K4Cj5V0_R8h8R0Q)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
