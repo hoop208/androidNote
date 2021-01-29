@@ -34,6 +34,8 @@
 
 [Android Handler/Looper/Messenger](https://www.jianshu.com/p/48cf21ad637b)
 
+[源码深度解析 Handler 机制及应用](https://mp.weixin.qq.com/s/71OV_K7YJas7pLtsPY-jeQ)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
