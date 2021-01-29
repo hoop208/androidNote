@@ -36,6 +36,8 @@
 
 [源码深度解析 Handler 机制及应用](https://mp.weixin.qq.com/s/71OV_K7YJas7pLtsPY-jeQ)
 
+[搞懂Handler](https://mp.weixin.qq.com/s/8Ox_zAbgBwb3J0lAdE0gIw)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
