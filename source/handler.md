@@ -30,6 +30,8 @@
 
 [Android消息屏障和异步消息](https://mp.weixin.qq.com/s/F9c9q0IO4FvnXVvCntL0Iw)
 
+[介绍handler中的epoll机制](https://mp.weixin.qq.com/s/kcUDaJ6T6poYUhjI1GB9kw)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
