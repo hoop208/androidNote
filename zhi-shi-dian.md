@@ -129,4 +129,6 @@
 
 [A cautionary tale on Android: do not call System.exit()](https://proandroiddev.com/a-cautionary-tale-on-android-do-not-call-system-exit-5279e0d5dbe0)
 
+[Modern User Storage on Android](https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9)
+
 
