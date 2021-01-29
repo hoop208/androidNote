@@ -18,6 +18,8 @@
 
 [ViewTreeObserver简介](http://www.cnblogs.com/xingfuzzhd/archive/2013/06/25/3154674.html)
 
+[Android View 使用总结](https://mp.weixin.qq.com/s/Jh0_ldoW5jPvaGyksjlSyw)
+
 
 
 
