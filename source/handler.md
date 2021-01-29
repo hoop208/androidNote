@@ -32,6 +32,8 @@
 
 [介绍handler中的epoll机制](https://mp.weixin.qq.com/s/kcUDaJ6T6poYUhjI1GB9kw)
 
+[Android Handler/Looper/Messenger](https://www.jianshu.com/p/48cf21ad637b)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
