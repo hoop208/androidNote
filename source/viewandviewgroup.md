@@ -20,6 +20,8 @@
 
 [Android View 使用总结](https://mp.weixin.qq.com/s/Jh0_ldoW5jPvaGyksjlSyw)
 
+[View.post()必知必会](https://mp.weixin.qq.com/s/3Xqi_A0c4oNRhjnUoFWhrQ)
+
 
 
 
