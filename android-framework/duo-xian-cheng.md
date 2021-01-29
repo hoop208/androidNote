@@ -10,6 +10,8 @@
 
 [Android IPC Mechanism](https://www.slideshare.net/nfsnfs/android-ipc-keynote11) 
 
+[Demystify TransactionTooLargeException](https://medium.com/shopback-engineering/handle-transactiontoolargeexception-237961bd5ef8)
+
 [Android为什么要设计出Bundle而不是直接使用HashMap来进行数据传递？](https://www.androidos.net.cn/doc/2019-10-28/39244.html)
 
 [深入了解Bundle和Map](https://www.androidos.net.cn/doc/androidweekly/the-mysterious-case-of-the-bundle-and-the-map.html)
