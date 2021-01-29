@@ -125,5 +125,6 @@
 
 [Android Adaptive Icons Are Easier Than You Think](https://proandroiddev.com/android-adaptive-icons-are-easier-than-you-think-3c66be2dd4dd)
 
+[How to use 9-patch images for resizable backgrounds in Android](https://blog.jakelee.co.uk/how-to-use-9-patch-images-for-resizable-backgrounds-in-android/)
 
 
