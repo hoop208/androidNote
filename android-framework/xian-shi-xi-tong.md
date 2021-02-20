@@ -14,5 +14,7 @@
 
 [vsync choreographer全面理解](https://mp.weixin.qq.com/s/nsFgWZlTkk1YTNvkUVa8MA)
 
+[Android’s Font Renderer](https://medium.com/@romainguy/androids-font-renderer-c368bbde87d9)
+
 [Android Graphics Pipeline: From Button to Framebuffer (Part 1)](https://www.inovex.de/blog/android-graphics-pipeline-from-button-to-framebuffer-part-1/)   
 [Android Graphics Pipeline: From Button to Framebuffer (Part 2)](https://www.inovex.de/blog///android-graphics-pipeline-from-button-to-framebuffer-part-2/)  
