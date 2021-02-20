@@ -37,8 +37,6 @@
 
 # 其它
 
-[Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
-
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
 
 [Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
@@ -51,13 +49,9 @@
 
 [就算不去火星种土豆，也请务必掌握的 Android 状态管理最佳实践！](https://juejin.im/post/5d1a148e6fb9a07ea6488ba3)
 
-[some code tips for android](https://github.com/jiang111/awesome-android-tips)
-
 [Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
 
 [Android开发：最详细的 Toolbar 开发实践总结](https://www.jianshu.com/p/79604c3ddcae)
-
-[Handle screen rotation without onConfigurationChanged](https://medium.com/@tuanchau/handling-screen-orientation-without-onconfigurationchanged-f747037355f4)
 
 [Android应用截图两种方法](https://blog.csdn.net/jokers_i/article/details/39549633)
 
@@ -67,13 +61,15 @@
 
 [我们为什么要用fitsSystemWindows?](https://mp.weixin.qq.com/s/i8ZGsE71oyh-g8Vz9raZKg)
 
+[使用PdfRenderer解析PDF文件](https://www.jianshu.com/p/8d063c2c6a9b)
+
+[Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
+
+[some code tips for android](https://github.com/jiang111/awesome-android-tips)
+
+[Handle screen rotation without onConfigurationChanged](https://medium.com/@tuanchau/handling-screen-orientation-without-onconfigurationchanged-f747037355f4)
+
 [Conversion By Translation - Changing Your Android App Language At Runtime](https://medium.com/ironsource-tech-blog/conversion-by-translation-changing-your-android-app-language-at-runtime-5c9daebf9771)
-
-[Dynamic Icon – Part 1](https://blog.stylingandroid.com/dynamic-icon-part-1/)  
-[Dynamic Icon – Part 2](https://blog.stylingandroid.com/dynamic-icon-part-2/)
-
-[Android样式系统 主题背景和样式](https://mp.weixin.qq.com/s/07rXV6kTG5Sw06MH27Flyg)  
-[Android样式系统 常见的主题背景属性](https://mp.weixin.qq.com/s/bPIXbaqr2-6Huyr_h8S62g)
 
 [How to Find App UID](https://medium.com/swlh/how-to-find-app-uid-9c9029063666)
 
@@ -133,6 +129,13 @@
 
 [Clean Navigation Between Screens in Android Applications](https://www.techyourchance.com/navigation-between-screens-android/)  
 [Returning Data to Previous Screens in Android Applications](https://www.techyourchance.com/returning-data-to-previous-screens-in-android-applications/)  
+
+[Dynamic Icon – Part 1](https://blog.stylingandroid.com/dynamic-icon-part-1/)  
+[Dynamic Icon – Part 2](https://blog.stylingandroid.com/dynamic-icon-part-2/)
+
+[Android样式系统 主题背景和样式](https://mp.weixin.qq.com/s/07rXV6kTG5Sw06MH27Flyg)  
+[Android样式系统 常见的主题背景属性](https://mp.weixin.qq.com/s/bPIXbaqr2-6Huyr_h8S62g)
+
 
 
 
