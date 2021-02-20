@@ -41,6 +41,10 @@
 [聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
 [聊聊 APK —— 脱离 AS 手工创造 APK 文件](https://geminiwen.com/archives/89/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 
+# 签名机制
+
+
+
 # 代码混淆
 
 [Android如何优雅地防止Bean类混淆](https://blog.csdn.net/dbs1215/article/details/53358406)
