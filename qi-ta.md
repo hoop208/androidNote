@@ -10,7 +10,7 @@
 
 [关于Android编译，你需要了解什么](https://segmentfault.com/a/1190000020866199)
 
-[浅谈androiddex文件](https://tech.youzan.com/qian-tan-android-dexwen-jian/)
+[浅谈androiddex文件](https://tech.youzan.com/qian-tan-android-dexwen-jian/)[](https://gizmomind.com/android-make-file-android_mk-cookbook/)
 
 [andresguard原理介绍](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f#rd)
 
@@ -40,6 +40,10 @@
 [聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
 [聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
 [聊聊 APK —— 脱离 AS 手工创造 APK 文件](https://geminiwen.com/archives/89/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+# makefile
+
+[Android Build cookbook| Build Apps or Libraries with Make file](https://gizmomind.com/android-make-file-android_mk-cookbook/)
 
 # 签名机制
 
