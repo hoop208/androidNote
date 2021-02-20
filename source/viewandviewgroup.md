@@ -34,6 +34,8 @@
 
 [Android绘制原理浅析](https://mp.weixin.qq.com/s/qSPszpiyU32uC-GwyMEsLg)
 
+[Android View的生命周期](https://www.jianshu.com/p/08e6dab7886e)
+
 
 
 
