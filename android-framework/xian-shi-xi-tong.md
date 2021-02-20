@@ -7,3 +7,5 @@
 [如何监测应用的fps](https://mp.weixin.qq.com/s/f4slxZqPJRs7L4E6pA7Drg)
 
 [什么是ui线程](https://mp.weixin.qq.com/s/l_w0u3uPAT2lCa5h1qBY-g)
+
+[Android子线程更新ui了吗](https://mp.weixin.qq.com/s/-GBIQMRyV7gnkF4IZqk0xQ)
