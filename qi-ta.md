@@ -24,6 +24,8 @@
 
 [Android增量编译总结](https://mp.weixin.qq.com/s/PiccKf2_ue6OXfwlDk1EBA)
 
+[Android-研究Apk重打包](https://mp.weixin.qq.com/s/apQ47eXausldjKNsFO2o8A)
+
 [Getting inside APK files](https://android.jlelse.eu/getting-inside-apk-files-21dbd01529d4)
 
 [How to manage dependencies in a multi module project?](https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415)
