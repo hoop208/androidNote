@@ -63,6 +63,14 @@
 
 [Bugly Android热更新总结篇](https://buglydevteam.github.io/2017/05/27/summary-of-bugly-android-hotfix/)
 
+[百川解码精彩回顾：热修复的坑和阿里的解](https://mp.weixin.qq.com/s/rLr7NNAb3l9ESSsPkYGzdQ)
+
+[基于Instant Run思想的HotFix方案实现](https://mp.weixin.qq.com/s/uPtJVyIU4NxJYtd_WX7wLg)
+
+[qqzone:	android热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)
+
+[android热修复解析](https://juejin.im/entry/5d3ee28e6fb9a06aee360a23)
+
 
 
 
