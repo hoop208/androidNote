@@ -75,6 +75,8 @@
 
 [Android中的转屏流程](https://jinzhuojun.blog.csdn.net/article/details/50085491)
 
+[activity启动流程](https://www.jianshu.com/p/64a91755a3a3)
+
 [The Journey Of Launching An Android Activity](https://blog.usejournal.com/the-journey-of-launching-an-android-activity-9b64e11dc157)
 
 [Activity是如何显示出来的？（上）](https://mp.weixin.qq.com/s/H28K9104twXkr7GjZZBpNQ)  
