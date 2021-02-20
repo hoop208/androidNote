@@ -106,6 +106,10 @@
 
 [Android 应用构建速度提升的十个小技巧](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652050269&idx=1&sn=079e9e84cda81b24ee4446d404276772&chksm=808cb318b7fb3a0e22a6411ba606b4161790a0a8c17f5f5b579099ae6b0dd5eafc8f4ae6e1c5&scene=178&cur_album_id=1339618889533292546#rd)
 
+[Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
+
+
+
 # r8
 
 [使用r8压缩应用](https://mp.weixin.qq.com/s/zDx-SdsqargT4JB6oMIrTw)
