@@ -36,6 +36,8 @@
 
 [Archive addition Android artifacts with Gradle.](http://wiebe-elsinga.com/blog/archive-addition-android-artifacts-with-gradle/)
 
+[Dynamic Android dependency versions done right](https://brock.io/post/repeatable_android_builds/)
+
 [Gradle for Android 第一篇( 从 Gradle 和 AS 开始 )](https://segmentfault.com/a/1190000004229002)
 [Gradle for Android 第二篇( Build.gradle入门 )](https://segmentfault.com/a/1190000004234712)
 [Gradle for Android 第三篇( 依赖管理 )](https://segmentfault.com/a/1190000004237922)
