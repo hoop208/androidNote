@@ -26,6 +26,8 @@
 
 [细说Android控件体系](https://mp.weixin.qq.com/s/LbMP5BLNFJ-4PlkSt0gytA)
 
+[Android的view绘制机制](https://mp.weixin.qq.com/s/ic__vhXRdVlzDt3cXP3JPw)
+
 
 
 
