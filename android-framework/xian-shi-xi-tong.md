@@ -13,3 +13,5 @@
 [Android图形系统概述](https://mp.weixin.qq.com/s/GoNYhORwshEJ2dsQrs_hlA)
 
 [vsync choreographer全面理解](https://mp.weixin.qq.com/s/nsFgWZlTkk1YTNvkUVa8MA)
+
+[Android Graphics Pipeline: From Button to Framebuffer (Part 1)](https://www.inovex.de/blog/android-graphics-pipeline-from-button-to-framebuffer-part-1/)
