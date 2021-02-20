@@ -44,6 +44,8 @@
 
 [handler40个高频问答](https://mp.weixin.qq.com/s/Dq4WyPgQEGDGJQvijEsVYw)
 
+[面试官带你学安卓 - Handler 这些知识点你都知道吗 | 掘金技术征文-双节特别篇](https://juejin.cn/post/6879376888360501262#heading-4)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
