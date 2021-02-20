@@ -55,6 +55,11 @@
 
 [Debugging Proguard configuration issues](https://krossovochkin.com/posts/2021_01_18_debugging_proguard_configuration_issues/)
 
+[Distinguishing between the different ProGuard “-keep” directives](https://jebware.com/blog/?p=418)  
+[Reading ProGuard’s Outputs](https://jebware.com/blog/?p=484)  
+[Feeding ProGuard’s inputs: where are all of these rules coming from?](https://jebware.com/blog/?p=498)  
+[ProGuard pro-tip: Don’t use ProGuard’s “-include” with Gradle builds](https://jebware.com/blog/?p=434)  
+
 # Multidex
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
@@ -91,7 +96,7 @@
 
 [基于Instant Run思想的HotFix方案实现](https://mp.weixin.qq.com/s/uPtJVyIU4NxJYtd_WX7wLg)
 
-[qqzone:	android热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)
+[qqzone:android热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)
 
 [android热修复解析](https://juejin.im/entry/5d3ee28e6fb9a06aee360a23)
 
