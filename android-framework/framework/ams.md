@@ -73,6 +73,8 @@
 
 [踩坑之路：Activity执行finish以后onStop方法10s以后才调用](https://mp.weixin.qq.com/s/P4FLVzsSpGlYOe2Y4MI-Hw)
 
+[Android中的转屏流程](https://jinzhuojun.blog.csdn.net/article/details/50085491)
+
 [The Journey Of Launching An Android Activity](https://blog.usejournal.com/the-journey-of-launching-an-android-activity-9b64e11dc157)
 
 [Activity是如何显示出来的？（上）](https://mp.weixin.qq.com/s/H28K9104twXkr7GjZZBpNQ)  
