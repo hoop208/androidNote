@@ -14,8 +14,6 @@
 
 [andresguard原理介绍](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f#rd)
 
-[Android V1及V2签名原理简析](https://juejin.im/post/5cd239386fb9a0320f7dfcbe)
-
 [android apk 资源加载流程](https://mp.weixin.qq.com/s/dlsPCIHsVKrh1lARU3sdSg)
 
 [applychanges背后的秘密](https://mp.weixin.qq.com/s/6wsK0nGJkEEI5kiECvaE6A)
@@ -48,6 +46,8 @@
 # 签名机制
 
 [Android签名机制 v1 v2 v3](https://mp.weixin.qq.com/s/D1V4k-pakJLwgEa90_WjWQ)
+
+[Android V1及V2签名原理简析](https://juejin.im/post/5cd239386fb9a0320f7dfcbe)
 
 # 代码混淆
 
