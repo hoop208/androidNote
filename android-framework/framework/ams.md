@@ -73,6 +73,8 @@
 
 [踩坑之路：Activity执行finish以后onStop方法10s以后才调用](https://mp.weixin.qq.com/s/P4FLVzsSpGlYOe2Y4MI-Hw)
 
+[The Journey Of Launching An Android Activity](https://blog.usejournal.com/the-journey-of-launching-an-android-activity-9b64e11dc157)
+
 [Activity是如何显示出来的？（上）](https://mp.weixin.qq.com/s/H28K9104twXkr7GjZZBpNQ)  
 [Activity是如何创建出来的？（下）](https://mp.weixin.qq.com/s/eGc9BjJrlW6Dzrsl6DIA4Q)  
 
