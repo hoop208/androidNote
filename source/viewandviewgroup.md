@@ -22,6 +22,8 @@
 
 [View.post()必知必会](https://mp.weixin.qq.com/s/3Xqi_A0c4oNRhjnUoFWhrQ)
 
+[Android的view工作流程详解](https://mp.weixin.qq.com/s/TWN-V19t1ppgAkBVrOR52Q)
+
 
 
 
