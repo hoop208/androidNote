@@ -108,8 +108,6 @@
 
 [Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
 
-
-
 # r8
 
 [使用r8压缩应用](https://mp.weixin.qq.com/s/zDx-SdsqargT4JB6oMIrTw)
