@@ -36,6 +36,8 @@
 
 [Android View的生命周期](https://www.jianshu.com/p/08e6dab7886e)
 
+[从源码角度理解如何获取 View 的宽高](https://mp.weixin.qq.com/s/_vEOzsEhD8UN_tRHBJxb1g)
+
 
 
 
