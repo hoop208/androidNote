@@ -20,6 +20,8 @@
 
 [applychanges背后的秘密](https://mp.weixin.qq.com/s/6wsK0nGJkEEI5kiECvaE6A)
 
+[Android打包流程详解](https://mp.weixin.qq.com/s/er8sVGi7cZo_7p4jFoiPGg)
+
 [Getting inside APK files](https://android.jlelse.eu/getting-inside-apk-files-21dbd01529d4)
 
 [How to manage dependencies in a multi module project?](https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415)
