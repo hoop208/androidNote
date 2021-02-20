@@ -24,6 +24,8 @@
 
 [Android的view工作流程详解](https://mp.weixin.qq.com/s/TWN-V19t1ppgAkBVrOR52Q)
 
+[细说Android控件体系](https://mp.weixin.qq.com/s/LbMP5BLNFJ-4PlkSt0gytA)
+
 
 
 
