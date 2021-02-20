@@ -12,8 +12,6 @@
 
 [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
 
-[Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
-
 [build.gradle管理依赖的版本](https://juejin.im/entry/59918304518825489151732d)
 
 [重要-作为Android开发者必须了解的Gradle知识](https://www.jianshu.com/p/c31513f5f550)
@@ -29,10 +27,6 @@
 [全面理解Gradle - 定义Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
 
 [深入理解 Android 之 Gradle](http://wiki.jikexueyuan.com/project/deep-android-gradle/)
-
-[通过自定义Gradle插件修改编译后的class文件](https://blog.csdn.net/huachao1001/article/details/51819972)
-
-[使用buildSrc Gradle项目和Codemodel生成java代码](https://www.androidos.net.cn/doc/androidweekly/generate-java-sources-using-buildsrc-gradle-project-and-codemodel.html)
 
 [Gradle工作原理全面了解](https://mp.weixin.qq.com/s/Y5O6W03iJU8e3d3kNDgVqw)
 
@@ -54,7 +48,9 @@
 
 [[译]Kotlin + buildSrc：更好的管理Gadle依赖](https://juejin.im/post/5b0fb0e56fb9a00a012b7fda)
 
-[通过自定义Gradle插件修改编译后的class文件](https://mp.weixin.qq.com/s/lpnUX0ct8a_oKJoPAM6Z-w)
+[通过自定义Gradle插件修改编译后的class文件](https://blog.csdn.net/huachao1001/article/details/51819972)
+
+[使用buildSrc Gradle项目和Codemodel生成java代码](https://www.androidos.net.cn/doc/androidweekly/generate-java-sources-using-buildsrc-gradle-project-and-codemodel.html)
 
 [How to Generate Java Sources Using buildSrc Gradle Project and Codemodel](https://www.thedroidsonroids.com/blog/how-to-generate-java-sources-using-buildsrc-gradle-project/)
 
