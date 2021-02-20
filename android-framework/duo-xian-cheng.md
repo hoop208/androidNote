@@ -32,6 +32,10 @@
 
 [说一说aidl的oneway](https://mp.weixin.qq.com/s/wD3Io-ikS1VCljNkxEb6tQ)
 
+[The legend about AIDL. Part 1. The roots](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-1-the-roots-c144be38d9a4)  
+[The legend about AIDL. Part 2. In Action](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-2-in-action-f3dd552e4d17)  
+[The legend about AIDL. Part 3. The crucial ingredient](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-3-the-crucial-ingredient-71c5e8eea553)  
+
 # Messenger
 
 [Android应用进程间通信之Messenger信使使用及源码浅析](https://blog.csdn.net/yanbober/article/details/48373341)
