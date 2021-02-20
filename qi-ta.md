@@ -71,6 +71,8 @@
 
 [android热修复解析](https://juejin.im/entry/5d3ee28e6fb9a06aee360a23)
 
+[从零开始写一个热修复框架](https://mp.weixin.qq.com/s/1rijnlVyxy6Ng3A7RKMe7A)
+
 
 
 
