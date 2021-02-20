@@ -77,6 +77,8 @@
 
 [activity启动流程](https://www.jianshu.com/p/64a91755a3a3)
 
+[任务栈 返回栈 启动模式](https://mp.weixin.qq.com/s/9fwQscSZ10pFdmi7bUFaaA)
+
 [The Journey Of Launching An Android Activity](https://blog.usejournal.com/the-journey-of-launching-an-android-activity-9b64e11dc157)
 
 [Activity是如何显示出来的？（上）](https://mp.weixin.qq.com/s/H28K9104twXkr7GjZZBpNQ)  
