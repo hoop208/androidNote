@@ -30,6 +30,8 @@
 
 [Android主项目和Module中R类的区别](https://juejin.im/post/5a98f240f265da23830a5193)
 
+[从R文件索引看资源优化](https://linjiang.tech/2020/01/20/r-resources-arsc/)
+
 [Getting inside APK files](https://android.jlelse.eu/getting-inside-apk-files-21dbd01529d4)
 
 [How to manage dependencies in a multi module project?](https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415)
