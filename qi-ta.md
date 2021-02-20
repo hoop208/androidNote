@@ -49,6 +49,8 @@
 
 [Android如何优雅地防止Bean类混淆](https://blog.csdn.net/dbs1215/article/details/53358406)
 
+[Debugging Proguard configuration issues](https://krossovochkin.com/posts/2021_01_18_debugging_proguard_configuration_issues/)
+
 # Multidex
 
 [Android的multidex带来的性能问题－减慢app启动速度](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1223/3796.html)
