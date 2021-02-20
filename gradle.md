@@ -58,6 +58,8 @@
 
 [通过自定义Gradle插件修改编译后的class文件](https://blog.csdn.net/huachao1001/article/details/51819972)
 
+[自定义gradle插件](https://mp.weixin.qq.com/s/D2VkU0-zezo2hMPIMmn6mQ)
+
 [使用buildSrc Gradle项目和Codemodel生成java代码](https://www.androidos.net.cn/doc/androidweekly/generate-java-sources-using-buildsrc-gradle-project-and-codemodel.html)
 
 [How to Generate Java Sources Using buildSrc Gradle Project and Codemodel](https://www.thedroidsonroids.com/blog/how-to-generate-java-sources-using-buildsrc-gradle-project/)
