@@ -1,7 +1,3 @@
-# 代码混淆
-
-[Android如何优雅地防止Bean类混淆](https://blog.csdn.net/dbs1215/article/details/53358406)
-
 #  知识点
 
 [Android执行文件apk的组成结构](https://blog.csdn.net/itachi85/article/details/6460158)
@@ -11,11 +7,6 @@
 [Android Studio 的 build 过程](https://segmentfault.com/a/1190000015373074)
 
 [Android R.java类的手动生成](https://blog.csdn.net/ccpat/article/details/50738811)
-
-[聊聊 APK —— 直接运行 Dex](https://geminiwen.com/archives/77/)  
-[聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
-[聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
-[聊聊 APK —— 脱离 AS 手工创造 APK 文件](https://geminiwen.com/archives/89/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 
 [关于Android编译，你需要了解什么](https://segmentfault.com/a/1190000020866199)
 
@@ -30,6 +21,15 @@
 [Getting inside APK files](https://android.jlelse.eu/getting-inside-apk-files-21dbd01529d4)
 
 [How to manage dependencies in a multi module project?](https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415)
+
+[聊聊 APK —— 直接运行 Dex](https://geminiwen.com/archives/77/)  
+[聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
+[聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
+[聊聊 APK —— 脱离 AS 手工创造 APK 文件](https://geminiwen.com/archives/89/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+# 代码混淆
+
+[Android如何优雅地防止Bean类混淆](https://blog.csdn.net/dbs1215/article/details/53358406)
 
 # Multidex
 
@@ -72,6 +72,10 @@
 [android热修复解析](https://juejin.im/entry/5d3ee28e6fb9a06aee360a23)
 
 [从零开始写一个热修复框架](https://mp.weixin.qq.com/s/1rijnlVyxy6Ng3A7RKMe7A)
+
+# 编译速度优化
+
+[Android 应用构建速度提升的十个小技巧](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652050269&idx=1&sn=079e9e84cda81b24ee4446d404276772&chksm=808cb318b7fb3a0e22a6411ba606b4161790a0a8c17f5f5b579099ae6b0dd5eafc8f4ae6e1c5&scene=178&cur_album_id=1339618889533292546#rd)
 
 
 
