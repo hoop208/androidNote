@@ -28,6 +28,8 @@
 
 [Android的view绘制机制](https://mp.weixin.qq.com/s/ic__vhXRdVlzDt3cXP3JPw)
 
+[View的显示](https://mp.weixin.qq.com/s/6Zpsbu_mZdw3Vx5KINmALg)
+
 
 
 
