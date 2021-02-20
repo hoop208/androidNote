@@ -48,7 +48,6 @@
     * [Android架构组件](androidjia-gou-zu-jian.md)
     * [Paging](android-framework/jetpack/paging.md)
     * [databinding&viewbinding](android-framework/jetpack/databindingandviewbinding.md)
-  * [显示系统](android-framework/xian-shi-xi-tong.md)
   * [输入子系统](android-framework/shu-ru-zi-xi-tong.md)
 * [性能优化](xing-neng-you-hua.md)
   * [界面优化](xing-neng-you-hua/jie-mian-you-hua.md)
