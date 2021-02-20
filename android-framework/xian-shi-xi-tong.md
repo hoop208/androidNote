@@ -11,3 +11,5 @@
 [Android子线程更新ui了吗](https://mp.weixin.qq.com/s/-GBIQMRyV7gnkF4IZqk0xQ)
 
 [Android图形系统概述](https://mp.weixin.qq.com/s/GoNYhORwshEJ2dsQrs_hlA)
+
+[vsync choreographer全面理解](https://mp.weixin.qq.com/s/nsFgWZlTkk1YTNvkUVa8MA)
