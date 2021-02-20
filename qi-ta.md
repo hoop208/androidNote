@@ -43,7 +43,7 @@
 
 # 签名机制
 
-
+[Android签名机制 v1 v2 v3](https://mp.weixin.qq.com/s/D1V4k-pakJLwgEa90_WjWQ)
 
 # 代码混淆
 
