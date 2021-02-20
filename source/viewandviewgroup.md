@@ -30,6 +30,8 @@
 
 [View的显示](https://mp.weixin.qq.com/s/6Zpsbu_mZdw3Vx5KINmALg)
 
+[Android View绘制的三大流程](https://mp.weixin.qq.com/s/i9lxGezxS0eJ3m12mJER2Q)
+
 
 
 
