@@ -101,6 +101,12 @@
 
 [Android 应用构建速度提升的十个小技巧](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652050269&idx=1&sn=079e9e84cda81b24ee4446d404276772&chksm=808cb318b7fb3a0e22a6411ba606b4161790a0a8c17f5f5b579099ae6b0dd5eafc8f4ae6e1c5&scene=178&cur_album_id=1339618889533292546#rd)
 
+# r8
+
+[使用r8压缩应用](https://mp.weixin.qq.com/s/zDx-SdsqargT4JB6oMIrTw)
+
+[r8编译器 为kotlin库和应用瘦身](https://mp.weixin.qq.com/s/E-OPviIm-ndK1I_PRNostA)
+
 
 
 
