@@ -1,3 +1,5 @@
+# 知识点
+
 [Android 视图架构详解](https://juejin.im/entry/571338c7c4c9710054cea455)
 
 [Android中的GraphicBuffer同步机制-Fence](https://blog.csdn.net/jinzhuojun/article/details/39698317)
@@ -18,3 +20,7 @@
 
 [Android Graphics Pipeline: From Button to Framebuffer (Part 1)](https://www.inovex.de/blog/android-graphics-pipeline-from-button-to-framebuffer-part-1/)   
 [Android Graphics Pipeline: From Button to Framebuffer (Part 2)](https://www.inovex.de/blog///android-graphics-pipeline-from-button-to-framebuffer-part-2/)  
+
+# Vsync
+
+[vsync信号生成源码分析](https://mp.weixin.qq.com/s/GmhUDvkjdROZaRabRiuluQ)
