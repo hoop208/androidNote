@@ -88,6 +88,8 @@
 
 [binder处理机制](https://mp.weixin.qq.com/s/M6IUYqQNp--oLRRpyP1ktQ)
 
+[写给 Android 应用工程师的 Binder 原理剖析！](https://mp.weixin.qq.com/s/Q6tqd5sPhTEaVTfNCuJO3Q)
+
 # Parcelable
 
 使用：
