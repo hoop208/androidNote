@@ -43,6 +43,8 @@
 
 [从OKHttp框架看代码设计](https://juejin.im/post/581311cabf22ec0068826aff)
 
+[okhttp源码解析](https://mp.weixin.qq.com/s/DiZyEM77diQhKonoSCjrcQ)
+
 [OkHttp 3.7源码分析（一）——整体架构](https://yq.aliyun.com/articles/78105)  
 [OkHttp 3.7源码分析（二）——拦截器&一个实际网络请求的实现](https://yq.aliyun.com/articles/78104?spm=a2c4e.11153940.0.0.58ec5d13xQTptN)  
 [OkHttp 3.7源码分析（三）——任务队列](https://yq.aliyun.com/articles/78103?spm=a2c4e.11153940.0.0.41fd52462kcUZG)  
