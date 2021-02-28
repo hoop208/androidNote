@@ -31,7 +31,10 @@
 [Android 探索Activity和Window，View之间的关系](https://www.codenong.com/cs105358958/)
 
 [Android窗口机制（一）初识Android的窗口结构](https://www.jianshu.com/p/40a9c93b5a8d)  
-
+[Android窗口机制（二）Window，PhoneWindow，DecorView，setContentView源码理解](https://www.jianshu.com/p/e42b638944ae)  
+[Android窗口机制（三）Window和WindowManager的创建与Activity](https://www.jianshu.com/p/6afb0c17df43)  
+[Android窗口机制（四）ViewRootImpl与View和WindowManager](https://www.jianshu.com/p/9da7bfe18374)  
+[Android窗口机制（五）最终章：WindowManager.LayoutParams和Token以及其他窗口Dialog，Toast](https://www.jianshu.com/p/bac61386d9bf)  
 
 # 画中画
 
