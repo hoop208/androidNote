@@ -10,3 +10,5 @@
 [约束布局（ConstraintLayout）1.1.0的新特性](https://juejin.im/entry/5ad8267f5188252eaf306908)
 
 [理解constrantlayout性能上的好处](https://yuweiguocn.github.io/the-performance-of-constraintlayout/)
+
+[constraintlayout 2.0使用详解](https://mp.weixin.qq.com/s/7wEr6okR-CAAoNDYB4gHig)
