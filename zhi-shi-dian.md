@@ -24,6 +24,8 @@
 
 [应用内切换主题有哪些方案可以实现](https://www.androidos.net.cn/doc/2019-10-28/40127.html)
 
+[Android换肤原理和Android skin loader原理解析](https://mp.weixin.qq.com/s/E8LzqNg_TVD4hmdANmLrBQ)
+
 [Change Theme Dynamically with Circular Reveal Animation on Android](https://proandroiddev.com/change-theme-dynamically-with-circular-reveal-animation-on-android-8cd574f5f0d8)
 
 [Supporting multiple themes in your Android app (Part 1)](https://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)  
