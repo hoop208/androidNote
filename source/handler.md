@@ -48,6 +48,8 @@
 
 [Understanding Android Core: Looper, Handler, and HandlerThread：](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a#.su3swhgaq)
 
+[Android Handler Internals](https://medium.com/@jagsaund/android-handler-internals-b5d49eba6977#.xug3y4fie)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
