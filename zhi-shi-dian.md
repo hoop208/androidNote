@@ -26,6 +26,8 @@
 
 [Android换肤原理和Android skin loader原理解析](https://mp.weixin.qq.com/s/E8LzqNg_TVD4hmdANmLrBQ)
 
+[动态资源加载技术](https://mp.weixin.qq.com/s/9Ci-FhPMa5pr1xCKTWjLXQ)
+
 [Change Theme Dynamically with Circular Reveal Animation on Android](https://proandroiddev.com/change-theme-dynamically-with-circular-reveal-animation-on-android-8cd574f5f0d8)
 
 [Supporting multiple themes in your Android app (Part 1)](https://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)  
