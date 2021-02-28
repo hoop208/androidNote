@@ -84,6 +84,8 @@
 
 [掌握binder机制，先搞懂这几个关键类](https://mp.weixin.qq.com/s/gHtZ9pjMJ-jXA12rvXA4cg)
 
+[Binder 实现原理图解](https://juejin.cn/post/6844903882133356558)
+
 # Parcelable
 
 使用：
