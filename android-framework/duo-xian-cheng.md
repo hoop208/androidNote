@@ -86,6 +86,8 @@
 
 [Binder 实现原理图解](https://juejin.cn/post/6844903882133356558)
 
+[binder处理机制](https://mp.weixin.qq.com/s/M6IUYqQNp--oLRRpyP1ktQ)
+
 # Parcelable
 
 使用：
