@@ -4,8 +4,6 @@
 
 [Android7.0的多窗口实现分析](https://mp.weixin.qq.com/s/eT8F4IXQbO1Bd3gT78M9DQ)
 
-Activity和Window的关系：
-
 [Activity、View、Window的理解一篇文章就够了](https://juejin.im/entry/596329686fb9a06bc903b6fd)
 
 [简述Activity与Window关系](http://gityuan.com/2017/04/16/activity-with-window/)
@@ -31,6 +29,9 @@ Activity和Window的关系：
 [从Activity创建到View呈现中间发生了什么？](https://zhuanlan.zhihu.com/p/69399307)
 
 [Android 探索Activity和Window，View之间的关系](https://www.codenong.com/cs105358958/)
+
+[Android窗口机制（一）初识Android的窗口结构](https://www.jianshu.com/p/40a9c93b5a8d)  
+
 
 # 画中画
 
