@@ -50,6 +50,8 @@
 [Deep Dive into Activity Results API — No More onActivityResult()](https://wajahatkarim.com/2020/05/activity-results-api-onactivityresult/)
 
 [Understand Android Activity's launchMode: standard, singleTop, singleTask and singleInstance](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
+
+[Understand the types of Launch Modes in an Android Activity](https://mohamedyousufmo.medium.com/understand-android-activity-launch-mode-c21fcecf04b8)
  
 源码：
 
