@@ -61,6 +61,8 @@
 
 [requestLayout和invalidate区别](https://www.jianshu.com/p/5ec0f278e0a3)
 
+[从 View 的绘制流程说起](https://juejin.cn/post/6872140986579943438#heading-10)
+
 # 硬件加速
 
 [Android中GPU硬件加速控制及其在2D图形绘制上的局限](https://blog.csdn.net/iispring/article/details/49835061)
