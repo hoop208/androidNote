@@ -65,6 +65,8 @@
 
 [使用PdfRenderer解析PDF文件](https://www.jianshu.com/p/8d063c2c6a9b)
 
+[Android 多语言动态更新方案探索](https://mp.weixin.qq.com/s/jG8rAjQ8QAOmViiQ33SuEg)
+
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
 
 [some code tips for android](https://github.com/jiang111/awesome-android-tips)
