@@ -22,6 +22,8 @@
 
 [BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
 
+[​在 Android 上进行高刷新率渲染](https://zhuanlan.zhihu.com/p/142212769)
+
 # ANR
 
 知识点
