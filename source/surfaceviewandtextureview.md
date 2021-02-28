@@ -7,3 +7,5 @@
 [视频画面帧的展示控件surfaceview及textureview的对比](https://mp.weixin.qq.com/s/VQ6JKWfRSUI2bbQI7IsE6g)
 
 [Android--SurfaceView播放视频](https://www.cnblogs.com/plokmju/p/android_SurfaceView.html)
+
+[Android MediaProjection截屏与录屏（surfaceview截图）](https://blog.csdn.net/u010057266/article/details/53470239)
