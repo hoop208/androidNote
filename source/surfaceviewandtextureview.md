@@ -15,3 +15,5 @@
 [Android控件--TextureView](https://blog.csdn.net/HardWorkingAnt/article/details/72784044)
 
 [用 MediaPlayer+TextureView 封装一个完美实现全屏、小窗口的视频播放器](https://juejin.im/entry/6844903480042192903)
+
+[Android 图形系统 -- TextureView 使用](https://www.heqiangfly.com/2016/09/10/android-graphic-system-textureview/)
