@@ -52,6 +52,8 @@
 
 [Efficient Android Threading](https://www.slideshare.net/andersgoransson/efficient-android-threading)
 
+[Exploring Android Thread Priority](https://medium.com/mindorks/exploring-android-thread-priority-5d0542eebbd1)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
