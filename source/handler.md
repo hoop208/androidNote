@@ -50,6 +50,8 @@
 
 [Android Handler Internals](https://medium.com/@jagsaund/android-handler-internals-b5d49eba6977#.xug3y4fie)
 
+[Efficient Android Threading](https://www.slideshare.net/andersgoransson/efficient-android-threading)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
