@@ -38,6 +38,8 @@
 
 [Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 
+[Android Internals 101: How Android OS Starts You Application](https://proandroiddev.com/android-internals-101-how-android-os-starts-you-application-e1c98a014c05)
+
 [Android Application Launch](https://multi-core-dump.blogspot.com/2010/04/android-application-launch.html)  
 [Android Application Launch Part 2](https://multi-core-dump.blogspot.com/2010/04/android-application-launch-part-2.html)
 
