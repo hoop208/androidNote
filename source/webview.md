@@ -8,6 +8,8 @@
 
 [h5 与原生 app 交互的原理](https://segmentfault.com/a/1190000016759517)
 
+[Webview截屏三种方式](https://www.jianshu.com/p/d0ef41470586)
+
 # 方案
 
 [Android Webview H5 秒开方案实现](https://juejin.im/post/5b94ca52e51d450e7d097f38)
