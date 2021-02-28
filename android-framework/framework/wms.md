@@ -30,7 +30,7 @@
 
 [Android 探索Activity和Window，View之间的关系](https://www.codenong.com/cs105358958/)
 
-[Android应用Activity、Dialog、PopWindow、Toast窗口添加机制及源码分析](https://blog.csdn.net/yanbober/article/details/46361191)
+[Android窗口布局绘制分析](https://mp.weixin.qq.com/s/XRgd-OEDMSjIjfzoaJ0pKQ)
 
 [Android窗口机制（一）初识Android的窗口结构](https://www.jianshu.com/p/40a9c93b5a8d)  
 [Android窗口机制（二）Window，PhoneWindow，DecorView，setContentView源码理解](https://www.jianshu.com/p/e42b638944ae)  
