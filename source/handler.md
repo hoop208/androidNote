@@ -46,6 +46,8 @@
 
 [面试官带你学安卓 - Handler 这些知识点你都知道吗 | 掘金技术征文-双节特别篇](https://juejin.cn/post/6879376888360501262#heading-4)
 
+[Understanding Android Core: Looper, Handler, and HandlerThread：](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a#.su3swhgaq)
+
 # HandlerThread
 
 [Android HandlerThread 完全解析](https://blog.csdn.net/lmj623565791/article/details/47079737)
