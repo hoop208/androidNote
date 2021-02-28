@@ -24,6 +24,8 @@
 
 [​在 Android 上进行高刷新率渲染](https://zhuanlan.zhihu.com/p/142212769)
 
+[用两张底层原理图告诉你，为什么你的App会卡顿?](https://mp.weixin.qq.com/s/MuVs0ETetnIs8jZwVxBhkA)
+
 # ANR
 
 知识点
