@@ -1,4 +1,4 @@
-# 知识点
+# 绘制流程
 
 [android view的绘制流程:](https://www.jianshu.com/p/5a71014e7b1b)
 
