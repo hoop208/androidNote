@@ -36,6 +36,7 @@
     * [ViewRootImpl](source/viewrootimpl.md)
     * [fragment](source/fragment.md)
     * [Canvas相关](source/canvasxiang-guan.md)
+    * [SurfaceView&TextureView](source/surfaceviewandtextureview.md)
   * [framework](android-framework/framework.md)
     * [AMS](android-framework/framework/ams.md)
     * [WMS](android-framework/framework/wms.md)
