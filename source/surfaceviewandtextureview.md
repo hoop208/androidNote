@@ -9,3 +9,7 @@
 [Android--SurfaceView播放视频](https://www.cnblogs.com/plokmju/p/android_SurfaceView.html)
 
 [Android MediaProjection截屏与录屏（surfaceview截图）](https://blog.csdn.net/u010057266/article/details/53470239)
+
+# TextureView
+
+[Android控件--TextureView](https://blog.csdn.net/HardWorkingAnt/article/details/72784044)
