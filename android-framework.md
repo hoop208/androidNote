@@ -19,13 +19,6 @@
 [你需要掌握的事件分发高阶知识](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843337&idx=1&sn=ba9d6e61d5cff4f0ab83a70965d9ea0c&scene=19#wechat_redirect)  
 [你所不知道的输入事件分发机制](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843501&idx=1&sn=407eb2afc10c8de3f6b5b04f844b4ee0&scene=19#wechat_redirect)  
 
-android系统源代码情景分析
-
-[《老罗的Android之旅》导读PPT](https://blog.csdn.net/Luoshengyang/article/details/12957169)
-
-[AOSP基础-系列博客](http://liuwangshu.cn/tags/AOSP%E5%9F%BA%E7%A1%80/)
-
-[Android系统启动-系列博客](http://liuwangshu.cn/tags/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/)
-
+[Android应用进程的创建](https://mp.weixin.qq.com/s/IVU0MYgrh8xDY5vuNhsuuQ)
 
 
