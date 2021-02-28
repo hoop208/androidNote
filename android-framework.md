@@ -19,6 +19,5 @@
 [你需要掌握的事件分发高阶知识](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843337&idx=1&sn=ba9d6e61d5cff4f0ab83a70965d9ea0c&scene=19#wechat_redirect)  
 [你所不知道的输入事件分发机制](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843501&idx=1&sn=407eb2afc10c8de3f6b5b04f844b4ee0&scene=19#wechat_redirect)  
 
-[Android应用进程的创建](https://mp.weixin.qq.com/s/IVU0MYgrh8xDY5vuNhsuuQ)
 
 

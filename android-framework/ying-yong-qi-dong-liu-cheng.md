@@ -36,6 +36,8 @@
 
 [系统 app activity启动过程](https://mp.weixin.qq.com/s/C7oLPsLcOO2Rcelha5oH_w)
 
+[Android应用进程的创建](https://mp.weixin.qq.com/s/IVU0MYgrh8xDY5vuNhsuuQ)
+
 [Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 
 [Android Internals 101: How Android OS Starts You Application](https://proandroiddev.com/android-internals-101-how-android-os-starts-you-application-e1c98a014c05)
