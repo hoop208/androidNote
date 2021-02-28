@@ -12,6 +12,8 @@
 
 [Android 中的“后台无效动画“行为分析](https://www.androidperformance.com/2019/10/24/Android-Background-Animation/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io#%E5%AE%9E%E4%BE%8B-%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB)
 
+[移动端性能监控方案Hertz](https://zhuanlan.zhihu.com/p/24692981)
+
 [Android 性能优化系列 - 01 手把手教你使用 systrace](https://www.jianshu.com/p/19b3245207e8?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
 [Android 性能优化系列 - 02 理解 systrace](https://www.jianshu.com/p/d172fb805988)  
 [Android 性能优化系列 - 03 使用对象池优化内存](https://www.jianshu.com/p/083f8f6ef0c9?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
@@ -30,4 +32,3 @@
 [Android 性能优化（十一）之正确的异步姿势](https://juejin.im/post/591bea3d8d6d8100589c31da)  
 [Android 性能优化（十二）之我为什么写性能优化](https://juejin.im/post/592445fb128fe1005c41a158)  
 
-[移动端性能监控方案Hertz](https://zhuanlan.zhihu.com/p/24692981)
