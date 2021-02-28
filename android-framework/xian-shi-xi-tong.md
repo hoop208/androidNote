@@ -26,3 +26,5 @@
 [vsync信号生成源码分析](https://mp.weixin.qq.com/s/GmhUDvkjdROZaRabRiuluQ)
 
 [vsync信号分发源码解析](https://mp.weixin.qq.com/s/pAOy54pHY6LsburAD6Xjvw)
+
+[Android 4.4(KitKat)中VSync信号的虚拟化](https://jinzhuojun.blog.csdn.net/article/details/17293325)
