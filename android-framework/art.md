@@ -5,3 +5,5 @@
 [Android 中的Dalvik和ART是什么，有啥区别？](https://www.jianshu.com/p/58f817d176b7)
 
 [Android N混合使用AOT编译,解释和JIT三种运行时](https://infoq.cn/article/2016/04/android-n-aot-jit)
+
+[java虚拟机 dalvik art区别](https://mp.weixin.qq.com/s/tr8BkN5i9UitRIPvl1wEKA)
