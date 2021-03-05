@@ -8,11 +8,7 @@
 
 [RemoteView概述](https://www.cnblogs.com/playing/archive/2011/04/22/2024775.html)
 
-[Android资源管理框架（Asset Manager）简要介绍和学习计划](https://blog.csdn.net/Luoshengyang/article/details/8738877)
-
 [完全理解 Android 中的 RemoteViews](https://juejin.im/entry/578ef709c4c971005e0b3251)
-
-[android的窗口机制分析------ViewRoot类](https://blog.csdn.net/windskier/article/details/6957901)
 
 [Android Architecture](https://medium.com/@rao.sithara/android-architecture-4fde59c743ef)
 
