@@ -13,5 +13,8 @@
 [sharedpreference源码解析(上)](https://mp.weixin.qq.com/s/RNWcE9TZl2cfEcGjS-GQAw)  
 [sharedpreference源码解析(下)](https://mp.weixin.qq.com/s/RNWcE9TZl2cfEcGjS-GQAw)  
 
+[锦囊篇｜一文摸懂SharedPreferences和MMKV（一）](https://juejin.im/post/5ef5d1a65188252e7951f881)    
+[锦囊篇｜一文摸懂SharedPreferences和MMKV（二）](https://juejin.im/post/5efe96015188252e654410ac)  
+
 
 
