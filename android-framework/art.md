@@ -21,4 +21,4 @@
 [入门ART虚拟机(3)——加载类和方法](https://mp.weixin.qq.com/s/4Zj-g8aWGlVy-eonabIBaw)  
 [入门ART虚拟机(4)——OAT文件](https://mp.weixin.qq.com/s/uiF-qNRqOoli9bReGL1WTg)  
 [入门ART虚拟机(5)——TLS Entry Points](https://mp.weixin.qq.com/s/v4XXbuwxGdEnVLopr09kqg)  
-[入门ART虚拟机(6)——artInterpreterToCompiledCodeBridge](https://mp.weixin.qq.com/s/3We-9poBttQE8_3owmvw_w)
+[入门ART虚拟机(6)——artInterpreterToCompiledCodeBridge](https://mp.weixin.qq.com/s/3We-9poBttQE8_3owmvw_w)  
