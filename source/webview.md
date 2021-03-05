@@ -10,8 +10,6 @@
 
 [Webview截屏三种方式](https://www.jianshu.com/p/d0ef41470586)
 
-# 方案
-
 [Android Webview H5 秒开方案实现](https://juejin.im/post/5b94ca52e51d450e7d097f38)
 
 [Android：手把手教你构建 全面的WebView 缓存机制 & 资源加载方案](https://www.jianshu.com/p/5e7075f4875f)
@@ -30,4 +28,7 @@
 [有赞webview加速平台探索与建设（二）——静态资源加速](https://tech.youzan.com/youzan-webview-goldwing-two/)  
 [有赞webview加速平台探索与建设（三）——html加速](https://tech.youzan.com/you-zan-webview-goldwing-three/)  
 
+# 浏览器原理
+
+[这些浏览器工作原理你都吃透了吗](https://mp.weixin.qq.com/s/LWoqrHoSN0CiPZ5nT2ylrw)
 
