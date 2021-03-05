@@ -59,6 +59,8 @@
 
 [项目必备功能之 JsBridge源码解析](https://mp.weixin.qq.com/s/cf8idzzy96sLIjr9VXcsSQ)
 
+[使用Google开源库AutoService进行组件化开发](https://mp.weixin.qq.com/s/MWZC6txNAnXUTCPnA9SEfw)
+
 
 
 
