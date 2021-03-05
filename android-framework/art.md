@@ -11,3 +11,5 @@
 [art视角 如何自动回收native内存](https://mp.weixin.qq.com/s/3WQwt33OktdaoXTbWtjh-A)
 
 [深入学习Android：虚拟机&运行时](https://zhuanlan.zhihu.com/p/24414378)
+
+[Dalvik 和 ART 有什么区别？深扒 Android 虚拟机发展史，真相却出乎意料！](https://juejin.im/post/5c232907f265da61662482b4)
