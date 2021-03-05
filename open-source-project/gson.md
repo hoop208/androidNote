@@ -1,11 +1,6 @@
 # 使用
 
-[java——读取JSON文件](https://blog.csdn.net/ALemon_Y/article/details/71436194)
-
-[你真的会用Gson吗?Gson使用指南（一）](https://www.jianshu.com/p/e740196225a4)  
-[你真的会用Gson吗?Gson使用指南（二）](https://www.jianshu.com/p/c88260adaf5e)  
-[你真的会用Gson吗?Gson使用指南（三）](https://www.jianshu.com/p/0e40a52c0063)  
-[你真的会用Gson吗?Gson使用指南（四）](https://www.jianshu.com/p/3108f1e44155)  
+[java——读取JSON文件](https://blog.csdn.net/ALemon_Y/article/details/71436194) 
 
 [如何更好的使用Gson](https://mp.weixin.qq.com/s/OkRamYtbkctc0mIXgfxGxw)
 
@@ -15,7 +10,12 @@
 
 [Json转换利器Gson之实例三-Map处理(上)](https://blog.csdn.net/lk_blog/article/details/7685210)  
 [Json转换利器Gson之实例四-Map处理(下)](https://blog.csdn.net/lk_blog/article/details/7685224)  
-[Json转换利器Gson之实例六-注册TypeAdapter及处理Enum类型](https://blog.csdn.net/lk_blog/article/details/7685347)  
+[Json转换利器Gson之实例六-注册TypeAdapter及处理Enum类型](https://blog.csdn.net/lk_blog/article/details/7685347) 
+
+[你真的会用Gson吗?Gson使用指南（一）](https://www.jianshu.com/p/e740196225a4)  
+[你真的会用Gson吗?Gson使用指南（二）](https://www.jianshu.com/p/c88260adaf5e)  
+[你真的会用Gson吗?Gson使用指南（三）](https://www.jianshu.com/p/0e40a52c0063)  
+[你真的会用Gson吗?Gson使用指南（四）](https://www.jianshu.com/p/3108f1e44155)  
 
 # 源码解析
 
