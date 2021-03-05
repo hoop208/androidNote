@@ -24,6 +24,8 @@
 
 [腾讯祭出大招VasSonic，让你的H5页面首屏秒开](https://segmentfault.com/a/1190000010711024?from=groupmessage&isappinstalled=1)
 
+[前端需要懂的 APP 容器原理](https://mp.weixin.qq.com/s/_m_rf7xlSeVZO1NK58Z7lQ)
+
 [有赞webview加速平台探索与建设（一）](https://tech.youzan.com/youzan-webview-goldwing-one/)  
 [有赞webview加速平台探索与建设（二）——静态资源加速](https://tech.youzan.com/youzan-webview-goldwing-two/)  
 [有赞webview加速平台探索与建设（三）——html加速](https://tech.youzan.com/you-zan-webview-goldwing-three/)  
