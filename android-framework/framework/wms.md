@@ -36,6 +36,8 @@
 
 [Android专题 -Window、View、Activity](https://cloud.tencent.com/developer/article/1601350)
 
+[Window连环十二问你顶得住吗？](https://cloud.tencent.com/developer/article/1791954)
+
 [Android窗口机制（一）初识Android的窗口结构](https://www.jianshu.com/p/40a9c93b5a8d)  
 [Android窗口机制（二）Window，PhoneWindow，DecorView，setContentView源码理解](https://www.jianshu.com/p/e42b638944ae)  
 [Android窗口机制（三）Window和WindowManager的创建与Activity](https://www.jianshu.com/p/6afb0c17df43)  
