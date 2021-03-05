@@ -46,4 +46,6 @@
 
 [Android事件分发之源码分析](https://mp.weixin.qq.com/s/vciuuN7LzY4Tp3saqPsYWg)
 
+[图解Android View的事件传递](https://www.jianshu.com/p/bea1bb4aac95)
+
 [Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
