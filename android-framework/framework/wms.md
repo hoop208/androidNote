@@ -38,6 +38,8 @@
 
 [Window连环十二问你顶得住吗？](https://cloud.tencent.com/developer/article/1791954)
 
+[android的窗口机制分析------ViewRoot类](https://blog.csdn.net/windskier/article/details/6957901)
+
 [Becoming a master window fitter](https://chris.banes.dev/becoming-a-master-window-fitter-lon/)
 
 [Introduction to Android Window System](https://www.slideshare.net/jserv/surfaceflinger)
