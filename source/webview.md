@@ -26,6 +26,8 @@
 
 [前端需要懂的 APP 容器原理](https://mp.weixin.qq.com/s/_m_rf7xlSeVZO1NK58Z7lQ)
 
+[Android WebView 诊断与排查问题的方法和技巧](https://droidyue.com/blog/2019/10/20/how-to-diagnose-webview-in-android/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [有赞webview加速平台探索与建设（一）](https://tech.youzan.com/youzan-webview-goldwing-one/)  
 [有赞webview加速平台探索与建设（二）——静态资源加速](https://tech.youzan.com/youzan-webview-goldwing-two/)  
 [有赞webview加速平台探索与建设（三）——html加速](https://tech.youzan.com/you-zan-webview-goldwing-three/)  
