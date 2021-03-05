@@ -16,6 +16,8 @@
 
 [带你学开源项目：LeakCanary- 如何检测 Activity 是否泄漏](http://wingjay.com/2017/05/14/dig_into_leakcanary/)
 
+[leakcanary源码解析](https://mp.weixin.qq.com/s/WeaZ88yq6f0GJXSOBZoaGg)
+
 [Activity Leak Detection](https://shunix.com/activity-leak-detection/)
 
 [LeakCanary源码分析第一讲](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%b8%80%e8%ae%b2.html)         
