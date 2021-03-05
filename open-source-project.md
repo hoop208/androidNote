@@ -26,6 +26,13 @@
 [activity启动耗时统计方案](https://juejin.im/post/6844903935912722439)  
 [Android核心原理揭秘之函数耗时](https://juejin.im/post/6844904154624688136)  
 
+# Matrix
+
+[matrix源码分析一 概览](https://www.jianshu.com/p/fc77b4807636)  
+[Android 腾讯 Matrix 原理分析（二）：TracePlugin 卡顿分析之主线程监听](https://www.jianshu.com/p/77b89cfd6a7a)  
+[Android 腾讯 Matrix 原理分析（三）：TracePlugin 卡顿分析之帧率监听](https://www.jianshu.com/p/34e84777ad63)  
+[Android 腾讯 Matrix 原理分析（四）：TracePlugin 卡顿分析之丢帧展现](https://www.jianshu.com/p/6e7f3783228b)
+
 # 知识点
 
 [简单好用的阴影库 ShadowLayout](http://lijiankun24.com/%E7%AE%80%E5%8D%95%E5%A5%BD%E7%94%A8%E7%9A%84%E9%98%B4%E5%BD%B1%E5%BA%93-ShadowLayout/)
