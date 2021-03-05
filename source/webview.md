@@ -30,6 +30,8 @@
 
 [Android WebView缓存优化探索](https://mp.weixin.qq.com/s/C5ToLUoemwFtxI_xRy8t3Q)
 
+[android webview网页秒开策略](https://juejin.im/entry/5d260773f265da1b7f29a7b4)
+
 [有赞webview加速平台探索与建设（一）](https://tech.youzan.com/youzan-webview-goldwing-one/)  
 [有赞webview加速平台探索与建设（二）——静态资源加速](https://tech.youzan.com/youzan-webview-goldwing-two/)  
 [有赞webview加速平台探索与建设（三）——html加速](https://tech.youzan.com/you-zan-webview-goldwing-three/)  
