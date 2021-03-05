@@ -9,3 +9,5 @@
 [java虚拟机 dalvik art区别](https://mp.weixin.qq.com/s/tr8BkN5i9UitRIPvl1wEKA)
 
 [art视角 如何自动回收native内存](https://mp.weixin.qq.com/s/3WQwt33OktdaoXTbWtjh-A)
+
+[深入学习Android：虚拟机&运行时](https://zhuanlan.zhihu.com/p/24414378)
