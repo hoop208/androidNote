@@ -18,6 +18,8 @@
 
 [leakcanary源码解析](https://mp.weixin.qq.com/s/WeaZ88yq6f0GJXSOBZoaGg)
 
+[leakcanary 一只优雅的金丝雀](https://mp.weixin.qq.com/s/HuTycJ8QOgyYMA6GRJCOQA)
+
 [Activity Leak Detection](https://shunix.com/activity-leak-detection/)
 
 [LeakCanary源码分析第一讲](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%b8%80%e8%ae%b2.html)         
