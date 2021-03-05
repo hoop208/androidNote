@@ -31,7 +31,7 @@
 [matrix源码分析一 概览](https://www.jianshu.com/p/fc77b4807636)  
 [Android 腾讯 Matrix 原理分析（二）：TracePlugin 卡顿分析之主线程监听](https://www.jianshu.com/p/77b89cfd6a7a)  
 [Android 腾讯 Matrix 原理分析（三）：TracePlugin 卡顿分析之帧率监听](https://www.jianshu.com/p/34e84777ad63)  
-[Android 腾讯 Matrix 原理分析（四）：TracePlugin 卡顿分析之丢帧展现](https://www.jianshu.com/p/6e7f3783228b)
+[Android 腾讯 Matrix 原理分析（四）：TracePlugin 卡顿分析之丢帧展现](https://www.jianshu.com/p/6e7f3783228b)  
 
 # 知识点
 
