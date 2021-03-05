@@ -1,5 +1,9 @@
 # 知识点
 
+[Android样式系统 主题背景和样式](https://mp.weixin.qq.com/s/07rXV6kTG5Sw06MH27Flyg)  
+[Android样式系统 常见的主题背景属性](https://mp.weixin.qq.com/s/bPIXbaqr2-6Huyr_h8S62g)  
+[Android 样式系统 | 主题背景属性](https://zhuanlan.zhihu.com/p/268755008)
+
 # 换肤
 
 [Android换肤原理和Android-Skin-Loader框架解析](https://juejin.im/entry/5a1c0964f265da43305e321d)
