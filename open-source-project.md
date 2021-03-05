@@ -51,6 +51,8 @@
 
 [【源码分析】Lottie 实现炫酷动画背后的原理](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872504&idx=1&sn=eaa20e66dfdc99517a2511784a2a9ff0&scene=19#wechat_redirect)
 
+[摆脱edittext内容规则的枯燥判断](https://mp.weixin.qq.com/s/lWtsZuxo8onAC1wkVe7IbQ)
+
 
 
 
