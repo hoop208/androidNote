@@ -47,6 +47,8 @@
 
 [MMKV——基于 mmap 的高性能通用 key-value 组件](https://github.com/Tencent/MMKV)
 
+[热修复框架HotFix源码解析](https://mp.weixin.qq.com/s/UShzjqCdYS__LcXBVHFvtw)
+
 
 
 
