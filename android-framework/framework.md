@@ -12,6 +12,10 @@ activitythread:
 
 [ActivityThread的main方法究竟做了什么？](https://www.jianshu.com/p/0efc71f349c8)
 
+# PMS
+
+[Android 4.4(KitKat)中apk包的安装过程](https://jinzhuojun.blog.csdn.net/article/details/25542011)
+
 
 
 
