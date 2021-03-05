@@ -57,6 +57,8 @@
 
 [美团-litho的使用和原理](https://juejin.im/entry/5c8b0f48e51d45192722e9b7)
 
+[项目必备功能之 JsBridge源码解析](https://mp.weixin.qq.com/s/cf8idzzy96sLIjr9VXcsSQ)
+
 
 
 
