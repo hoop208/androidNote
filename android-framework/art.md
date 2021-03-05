@@ -13,3 +13,5 @@
 [深入学习Android：虚拟机&运行时](https://zhuanlan.zhihu.com/p/24414378)
 
 [Dalvik 和 ART 有什么区别？深扒 Android 虚拟机发展史，真相却出乎意料！](https://juejin.im/post/5c232907f265da61662482b4)
+
+[Google I/O 2017上推出的新 GC 算法的原理是怎样的？](https://www.zhihu.com/question/60067354/answer/172058525)
