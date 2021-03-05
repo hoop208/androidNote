@@ -48,4 +48,6 @@
 
 [图解Android View的事件传递](https://www.jianshu.com/p/bea1bb4aac95)
 
+[讲解Android事件分发最好的文章](https://mp.weixin.qq.com/s/8mA7ZZbFEex7BMorBcgOqA)
+
 [Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
