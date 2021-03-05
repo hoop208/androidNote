@@ -1,5 +1,7 @@
 # 知识点
 
+[How to name a color in Android](https://proandroiddev.com/how-to-name-a-color-in-android-f267f2a16172)
+
 [Android样式系统 主题背景和样式](https://mp.weixin.qq.com/s/07rXV6kTG5Sw06MH27Flyg)  
 [Android样式系统 常见的主题背景属性](https://mp.weixin.qq.com/s/bPIXbaqr2-6Huyr_h8S62g)  
 [Android 样式系统 | 主题背景属性](https://zhuanlan.zhihu.com/p/268755008)  

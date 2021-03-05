@@ -64,8 +64,6 @@
 
 [Android InboxStyle Notification As Deep As Possible](https://itnext.io/android-inboxstyle-notification-as-deep-as-possible-4d74c0c725f1)
 
-[How to name a color in Android](https://proandroiddev.com/how-to-name-a-color-in-android-f267f2a16172)
-
 [Rendering PDFs on Android the easy way](https://proandroiddev.com/rendering-pdfs-on-android-the-easy-way-c05635b2c3a8)
 
 [Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
