@@ -48,6 +48,8 @@ Android 10：
 
 [android q要来了 给你一份全面的适配指南](https://mp.weixin.qq.com/s/aiDMyAfAZvaYIHuIMLAlcg)
 
+[走心的Android 10 适配指南，手把手上代码](https://mp.weixin.qq.com/s/3N0JH-97ug9L9TNBzOLo0A)
+
 # 知识点
 
 [rtl应用适配](https://mp.weixin.qq.com/s/n0uetc2lCzuu14p6ME2tOQ)
