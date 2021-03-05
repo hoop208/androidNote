@@ -34,6 +34,8 @@
 
 [设计一个健壮的webview](https://juejin.im/post/5a94f9d15188257a63113a74)
 
+[webview区分安全](https://mp.weixin.qq.com/s/QcQMHl4SkFOuJUBrL4f2dQ)
+
 [有赞webview加速平台探索与建设（一）](https://tech.youzan.com/youzan-webview-goldwing-one/)  
 [有赞webview加速平台探索与建设（二）——静态资源加速](https://tech.youzan.com/youzan-webview-goldwing-two/)  
 [有赞webview加速平台探索与建设（三）——html加速](https://tech.youzan.com/you-zan-webview-goldwing-three/)  
