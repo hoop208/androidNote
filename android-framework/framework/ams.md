@@ -134,6 +134,10 @@
 
 [谈谈你对Application类的理解](https://www.androidos.net.cn/doc/2019-10-24/10.html)
 
+# Broardcast
+
+[Android LocalBroadcastManager 的使用总结](https://www.cnblogs.com/zhaoyanjun/p/6048369.html)
+
 
 
 
