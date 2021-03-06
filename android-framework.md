@@ -22,6 +22,8 @@
 
 [Diving inside Android Wifi](https://www.slideshare.net/nanik/diving-inside-android-wifi)
 
+[Android for Embedded Linux Developers](https://www.slideshare.net/opersys/android-for-embedded-linux-developers?qid=ab629b81-ba98-42cb-8ef2-e93ca66c57a8&v=&b=&from_search=64)
+
 
 
 
