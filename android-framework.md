@@ -18,6 +18,8 @@
 
 [The Android Operating System](https://atifkhurshid.medium.com/the-android-operating-system-1faf271e07d)
 
+[Android Architecture](https://www.slideshare.net/LopeEmano/android-architecture-37988779)
+
 
 
 
