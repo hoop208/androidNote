@@ -16,6 +16,8 @@
 
 [Android System Services Patterns](https://pierrchen.blogspot.com/2015/04/android-system-services-patterns.html)
 
+[The Android Operating System](https://atifkhurshid.medium.com/the-android-operating-system-1faf271e07d)
+
 
 
 
