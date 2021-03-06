@@ -20,6 +20,8 @@
 
 [Android Architecture](https://www.slideshare.net/LopeEmano/android-architecture-37988779)
 
+[Diving inside Android Wifi](https://www.slideshare.net/nanik/diving-inside-android-wifi)
+
 
 
 
