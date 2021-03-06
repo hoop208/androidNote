@@ -46,3 +46,5 @@
 
 [Chrome浏览器渲染原理](https://mp.weixin.qq.com/s/_-2NC_1Awq9EHo9INsaQmQ)
 
+[浏览器是怎样工作的](https://mp.weixin.qq.com/s/4cfFSOZhC6-CxvOYULHs6A)
+
