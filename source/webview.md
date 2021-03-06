@@ -44,3 +44,5 @@
 
 [这些浏览器工作原理你都吃透了吗](https://mp.weixin.qq.com/s/LWoqrHoSN0CiPZ5nT2ylrw)
 
+[Chrome浏览器渲染原理](https://mp.weixin.qq.com/s/_-2NC_1Awq9EHo9INsaQmQ)
+
