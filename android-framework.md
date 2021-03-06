@@ -24,6 +24,8 @@
 
 [Android for Embedded Linux Developers](https://www.slideshare.net/opersys/android-for-embedded-linux-developers?qid=ab629b81-ba98-42cb-8ef2-e93ca66c57a8&v=&b=&from_search=64)
 
+[An Introduction to the Android Framework -- a core architecture view from apps to the kernel ](https://www.slideshare.net/williamwyliang/an-introduction-to-the-android-framework-a-core-architecture-view-from-apps-to-the-kernel)
+
 
 
 
