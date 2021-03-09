@@ -64,20 +64,4 @@
 [在 Android 开发中使用协程 | 上手指南](https://mp.weixin.qq.com/s/kPvWOCkMjYRKJSTX4I5VKg)  
 [在 Android 开发中使用协程 | 代码实战](https://mp.weixin.qq.com/s/p5kp9WfkI_atVn9A2ePb3Q)  
 
-[破解kotlin协程-入门篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484388&idx=1&sn=fcb232691cb77fe2124c1b635d28986b&scene=19#wechat_redirect)  
-[破解kotlin协程(2)-协程启动篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484391&idx=1&sn=b69b4593b11f31b2a8610fbe52302e2c&scene=19#wechat_redirect)  
-[破解kotlin协程(3)-协程调度篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484393&idx=1&sn=12a71643d78bce7c294bfe3944d167a8&scene=19#wechat_redirect)  
-[破解kotlin协程—(4) 异常处理篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484395&idx=1&sn=a0eb29edf8f014e72b4d03d75adee71e&scene=19#wechat_redirect)  
-[破解kotlin协程(5) 协程取消篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484395&idx=1&sn=a0eb29edf8f014e72b4d03d75adee71e&scene=19#wechat_redirect)  
-[破解kotlin协程(6) 协程挂起篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484399&idx=1&sn=36a6d697eeabb9e87c8c0b3baf2407d4&scene=19#wechat_redirect)  
-[破解kotlin协程(7) 序列生成器篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
-[破解kotlin协程(8) Android篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)
-[破解kotlin协程(9) channel篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
-[破解kotlin协程(10) select篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484443&idx=1&sn=337956872814dc210d91bf64bc6d41d4&scene=19#wechat_redirect)  
-[破解kotlin协程(11) flow篇](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484564&idx=1&sn=4ff762ee5978e6d2996c13a8af3428ec&scene=19#wechat_redirect)  
-[破解kotlin协程 番外篇(1) 协程为什么被称为轻量级线程](https://developer.android.google.cn/training/testing/ui-testing/uiautomator-testing)  
-[kotlin协程版本的autodispose](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484328&idx=1&sn=38ef62f15db92e4342e1c3e71726fcd9&scene=19#wechat_redirect)  
-[协程源码中的原子操作为什么使用automaticreferencefieldupdater？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247484172&idx=1&sn=56fc0a0524001f9e283f5e5a5efbc0ce&scene=19#wechat_redirect)
-
-
 
