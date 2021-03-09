@@ -40,7 +40,7 @@
 
 [Dissection of an APK](https://proandroiddev.com/dissection-of-an-apk-7ae9321c7b9a)
 
-[The Dex File Format]https://www.bugsnag.com/blog/dex-and-d8
+[The Dex File Format](https://www.bugsnag.com/blog/dex-and-d8)
 
 [聊聊 APK —— 直接运行 Dex](https://geminiwen.com/archives/77/)  
 [聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
