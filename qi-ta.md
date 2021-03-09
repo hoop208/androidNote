@@ -34,6 +34,14 @@
 
 [How to manage dependencies in a multi module project?](https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415)
 
+[To ∞ (~65K) and beyond!](https://speakerdeck.com/dextor/to-65k-and-beyond)
+
+[Instant Run: How Does it Work?!](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.qw7xnzrpm)
+
+[Dissection of an APK](https://proandroiddev.com/dissection-of-an-apk-7ae9321c7b9a)
+
+[The Dex File Format]https://www.bugsnag.com/blog/dex-and-d8
+
 [聊聊 APK —— 直接运行 Dex](https://geminiwen.com/archives/77/)  
 [聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
 [聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
