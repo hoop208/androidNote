@@ -10,8 +10,6 @@
 
 [探究在 TextView 中显示 HTML 的正确方法](https://zhuanlan.zhihu.com/p/27830863)
 
-[Styling internationalized text in Android](https://medium.com/androiddevelopers/styling-internationalized-text-in-android-f99759fb7b8f)
-
 [textview的breakstrategy属性](https://mp.weixin.qq.com/s/WO5Iu6EFbFOdju5vufdOvw)
 
 [实现各种展开、收回TextView需求](https://mp.weixin.qq.com/s/q78FT1KqNfI6im7u9WSPJQ)
@@ -23,6 +21,10 @@
 [TextView预渲染研究](https://www.androidos.net.cn/doc/day/2018-10-01/14930.html)
 
 [Draw Text in Deep(android群英传作者)](https://zhuanlan.zhihu.com/p/96701452)
+
+[Drawing multiline text to Canvas on Android](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a )
+
+[Styling internationalized text in Android](https://medium.com/androiddevelopers/styling-internationalized-text-in-android-f99759fb7b8f)
 
 # 源码
 
