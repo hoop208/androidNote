@@ -14,6 +14,8 @@
 
 [Kotlin 协程和 Android SQLite API 中的线程模型](https://zhuanlan.zhihu.com/p/250511061?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[图解协程原理](https://mp.weixin.qq.com/s/7nAs1T4hh_lGpEEEYjTVDg)
+
 [A glimpse of Async-Await on Android](https://medium.com/@nhaarman/async-await-in-android-f0202cf31088#.bpzsiyz97)
 
 [Coroutines in Kotlin 1.3 explained: Suspending functions, contexts, builders and scopes](https://antonioleiva.com/kotlin-coroutines/)
