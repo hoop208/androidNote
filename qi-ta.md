@@ -116,6 +116,10 @@
 
 [Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
 
+# D8
+
+[The D8 dexer](https://proandroiddev.com/the-d8-dexer-6736deb55fb8)
+
 # r8
 
 [使用r8压缩应用](https://mp.weixin.qq.com/s/zDx-SdsqargT4JB6oMIrTw)
