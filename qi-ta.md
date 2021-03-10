@@ -126,6 +126,13 @@
 
 [r8编译器 为kotlin库和应用瘦身](https://mp.weixin.qq.com/s/E-OPviIm-ndK1I_PRNostA)
 
+[Shrinking Kotlin Libraries and Applications using Kotlin Reflection with R8](https://medium.com/androiddevelopers/shrinking-kotlin-libraries-and-applications-using-kotlin-reflection-with-r8-6fe0a0e2d115)
+
+[How to break your Android App with proguard / R8](https://medium.com/@woitaschek/how-to-break-your-android-app-with-proguard-r8-6566bc387b63)
+
+[Proguard/R8 in the world of modularity](https://android.jlelse.eu/proguard-r8-in-the-world-of-modularity-f599650b4553)
+
+[When using enums and R8…](https://medium.com/androiddevelopers/when-using-enums-and-r8-3f8f314c0a13)
 
 
 
