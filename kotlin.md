@@ -232,6 +232,18 @@
 
 [Why Are Kotlin Synthetics Deprecated and What Are the Alternatives?](https://medium.com/better-programming/why-are-kotlin-synthetics-deprecated-and-what-are-the-alternatives-5c2b087dda1c)
 
+[9 Beloved Extensions From The Android KTX](https://vladsonkin.com/9-beloved-extensions-from-the-android-ktx/?utm_source=feedly&utm_medium=rss&utm_campaign=9-beloved-extensions-from-the-android-ktx)
+
+[Concise codebase using KTX extensions](https://navczydev.medium.com/concise-codebase-using-ktx-extensions-5e5250e4ce29)
+
+[Even Sweeter Android development with Android KTX](https://www.kotlindevelopment.com/even-sweeter-android-ktx-kotlin/)
+
+[Using KTX libraries](https://medium.com/androiddevelopers/using-ktx-libraries-da1dc81c6ecf)
+
+[KTX: Views](https://blog.stylingandroid.com/ktx-views/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StylingAndroid+%28Styling+Android%29)  
+[KTX: Miscellaneous](https://blog.stylingandroid.com/ktx-miscellaneous/)  
+[KTX: Graphics](https://blog.stylingandroid.com/ktx-graphics/)  
+
 # 对象
 
 [Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
