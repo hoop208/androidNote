@@ -63,6 +63,8 @@
 
 [Debugging Proguard configuration issues](https://krossovochkin.com/posts/2021_01_18_debugging_proguard_configuration_issues/)
 
+[How to generate Proguard/R8 rules for Navigation component arguments](https://android.jlelse.eu/how-to-generate-proguard-r8-rules-for-navigation-component-arguments-466e72e75ca7)
+
 [Distinguishing between the different ProGuard “-keep” directives](https://jebware.com/blog/?p=418)  
 [Reading ProGuard’s Outputs](https://jebware.com/blog/?p=484)  
 [Feeding ProGuard’s inputs: where are all of these rules coming from?](https://jebware.com/blog/?p=498)  
