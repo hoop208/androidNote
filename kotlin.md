@@ -28,6 +28,8 @@
 
 [Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
 
+[Make your deprecation clear in Android(Kotlin)](https://bvantur.medium.com/make-your-deprecation-clear-in-android-kotlin-ac25a49c2bc5)
+
 [Fewer crashes and more stability with Kotlin](https://medium.com/androiddevelopers/fewer-crashes-and-more-stability-with-kotlin-b606c6a6ac04)
 
 [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
