@@ -50,6 +50,8 @@
 
 [讲解Android事件分发最好的文章](https://mp.weixin.qq.com/s/8mA7ZZbFEex7BMorBcgOqA)
 
+[必问的事件分发 你答的上来吗](https://mp.weixin.qq.com/s/jkxMaN3v2xohjBuSfNdV8g)
+
 [Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
 
 [Android输入系统的事件传递流程和IMS的诞生](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843048&idx=1&sn=816b7ebf3e5301af44167130445d98ad&chksm=83bf6c33b4c8e52556e77b3a12b9a1d1a1b48a9bb6dc7ccb8800d79fc8315f3981db3299b942&scene=21#wechat_redirect)  
