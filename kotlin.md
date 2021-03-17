@@ -266,9 +266,17 @@
 
 [一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
 
+[kotlin vocabulary kotlin委托代理](https://mp.weixin.qq.com/s/5UuXsWA0_xf9cNvRtI-fQw)
+
 [Kotlin — Faster Lazy for Android](https://proandroiddev.com/kotlin-faster-lazy-for-android-7328ec8d8d57)
 
 [Kotlin variable, to be Lazy, or to be Late?](https://medium.com/mobile-app-development-publication/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61)
+
+[Lifecycle-aware Lazy Property in Kotlin for Android Development](https://proandroiddev.com/lifecycle-aware-lazy-property-in-kotlin-for-android-development-94e5615d087f)
+
+[Better Custom Views with Delegates](https://blog.autsoft.hu/better-custom-views-with-delegates/)
+
+[Delightful Delegate Design](https://blog.autsoft.hu/delightful-delegate-design/)
 
 # Contract
 
