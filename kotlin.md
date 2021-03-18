@@ -268,6 +268,12 @@
 
 [kotlin vocabulary kotlin委托代理](https://mp.weixin.qq.com/s/5UuXsWA0_xf9cNvRtI-fQw)
 
+[Simpler Kotlin class hierarchies using class delegation](https://proandroiddev.com/simpler-kotlin-class-hierarchies-using-class-delegation-35464106fed5)
+
+[Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
+
+[Built-in Delegates](https://medium.com/androiddevelopers/built-in-delegates-4811947e781f)
+
 [Kotlin — Faster Lazy for Android](https://proandroiddev.com/kotlin-faster-lazy-for-android-7328ec8d8d57)
 
 [Kotlin variable, to be Lazy, or to be Late?](https://medium.com/mobile-app-development-publication/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61)
