@@ -52,7 +52,12 @@
 
 [必问的事件分发 你答的上来吗](https://mp.weixin.qq.com/s/jkxMaN3v2xohjBuSfNdV8g)
 
+[反思|Android 事件分发机制的设计与实现](https://mp.weixin.qq.com/s/9rycOCr5GyfiQwJy0YSUUw)
+
 [Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
+
+[事件分发一 activity对触摸事件的分发流程](https://mp.weixin.qq.com/s/-Y3yCl2ONVQnBkWnp2UVGQ)  
+[事件分发二 viewgroup和view对触摸事件的分发流程](https://mp.weixin.qq.com/s/yyShC5KlucD4I_u-hb1Zyw)  
 
 [Android输入系统的事件传递流程和IMS的诞生](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843048&idx=1&sn=816b7ebf3e5301af44167130445d98ad&chksm=83bf6c33b4c8e52556e77b3a12b9a1d1a1b48a9bb6dc7ccb8800d79fc8315f3981db3299b942&scene=21#wechat_redirect)  
 [只了解View的事件分发是不够的，来看下输入系统对事件的处理](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843199&idx=1&sn=dbbffd681f32303f3761335ee9453907&chksm=83bf6ca4b4c8e5b2a39774e355558c0b1ac61af2666334511f9f9379985eaee13d33ce41e19c&scene=21#wechat_redirect)  
