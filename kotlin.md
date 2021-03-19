@@ -268,6 +268,18 @@
 
 [kotlin vocabulary kotlin委托代理](https://mp.weixin.qq.com/s/5UuXsWA0_xf9cNvRtI-fQw)
 
+[Delegation in Kotlin](https://proandroiddev.com/delegation-in-kotlin-e1efb849641)
+
+[Delegated properties in Kotlin](https://www.rockandnull.com/delegated-properties-in-kotlin/)
+
+[Interface delegation in Kotlin](https://medium.com/@Joseph82/interface-delegation-in-kotlin-1404dfcd9167)
+
+[Make your code beautiful with Kotlin Property Delegates](https://dev.to/mreichelt/make-your-code-beautiful-with-kotlin-property-degelates-1ld5)
+
+[Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
+
+[Kotlin is Dope And So Are Its Custom Property Delegates](https://thoughtbot.com/blog/kotlin-is-dope-and-so-are-its-custom-property-delegates)
+
 [Simpler Kotlin class hierarchies using class delegation](https://proandroiddev.com/simpler-kotlin-class-hierarchies-using-class-delegation-35464106fed5)
 
 [Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
