@@ -296,6 +296,20 @@
 
 [Delightful Delegate Design](https://blog.autsoft.hu/delightful-delegate-design/)
 
+[Kotlin Delegates in Android: Utilizing the power of Delegated Properties in Android development](https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d)
+
+[ViewBinding with Kotlin Property Delegate](https://proandroiddev.com/viewbinding-with-kotlin-property-delegate-c907682e24c9)
+
+[Effective Class Delegation](https://zsmb.co/effective-class-delegation/)
+
+[Zero boilerplate delegation in Kotlin](https://proandroiddev.com/zero-boilerplate-delegation-in-kotlin-e383fdef28eb#.swz23xpyi)
+
+[Delegates - Composition over Inheritance in Kotlin](https://kiranrao.in/blog/2017/03/05/kotlin-coi/)
+
+[Under the hood of Kotlin Class Delegation](https://medium.com/snapp-mobile/under-the-hood-of-kotlin-class-delegation-24d53f9aa924)
+
+[Kotlin Explained: Property delegation](https://medium.com/kotlin-arsenal/kotlin-explained-property-delegation-c2d92ff9d7fc)
+
 # Contract
 
 [kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
