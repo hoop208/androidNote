@@ -310,6 +310,16 @@
 
 [Kotlin Explained: Property delegation](https://medium.com/kotlin-arsenal/kotlin-explained-property-delegation-c2d92ff9d7fc)
 
+[Class delegation in Kotlin](https://hackernoon.com/kotlin-what-is-class-delegation-all-about-683eb543e391)
+
+[Kotlin's Lazy Property Delegate](https://todd.ginsberg.com/post/kotlin-lazy-delegate/)
+
+[Kotlin 1.4 lazy optimization](https://www.lotharschulz.info/2020/04/07/kotlin-1-4-lazy-optimization/)
+
+[Don’t Reinvent the Wheel, Delegate It!](https://proandroiddev.com/dont-reinvent-the-wheel-delegate-it-eac132f2aa64)
+
+[Lazy properties](https://www.kotlindevelopment.com/lazy-property/)
+
 # Contract
 
 [kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
