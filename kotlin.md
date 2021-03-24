@@ -320,6 +320,9 @@
 
 [Lazy properties](https://www.kotlindevelopment.com/lazy-property/)
 
+[Kotlin delegates in Android development — Part 1](https://hackernoon.com/kotlin-delegates-in-android-development-part-1-50346cf4aed7)  
+[Kotlin delegates in Android development — Part 2](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)  
+  
 # Contract
 
 [kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
