@@ -15,6 +15,16 @@
 
 [constraintlayout 2.0 一探究竟](https://mp.weixin.qq.com/s/pF1Xo-CzNkWN706Be7XPnw)
 
+[Programmatically laying out views in ConstraintLayout with Flow](https://adavis.info/2021/03/programmatically-laying-out-views-in-constraintlayout-with-flow.html)
+
+[Building interfaces with ConstraintLayout](https://medium.com/androiddevelopers/building-interfaces-with-constraintlayout-3958fa38a9f7#.29e0n1i4v)
+
+[Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
+
+[Understanding the performance benefits of ConstraintLayout](https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html)
+
+[ConstraintLayout – Guidelines, Barriers, Chains and Groups](https://riggaroo.dev/constraintlayout-guidelines-barriers-chains-groups/)
+
 # MotionLayout
 
 [『译』ConstrainLayout 2.0 之 MotionLayout（Part1.1）](https://www.jianshu.com/p/5203cf11d943)  
