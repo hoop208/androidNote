@@ -1,5 +1,7 @@
 # 知识点
 
+[kotlin技巧与原理解析](https://mp.weixin.qq.com/s/-Zcth8uO10jAMH1BIghq6w)
+
 [如何在 Java 和 Kotlin 之间进行互操作](https://mp.weixin.qq.com/s/E5qPbDDgyE_y6Ae53s5SOw)
 
 [快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&chksm=e8a05ec6dfd7d7d0691826a470e6d0f5de517e485d02082868d037b0fe6306683885e535b87a#rd)
@@ -142,6 +144,9 @@
 [Kotlin Vocabulary | Reified: 类型擦除后再生计划](https://zhuanlan.zhihu.com/p/255198214)  
 [Kotlin Vocabulary | 唯一的 "对象"](https://zhuanlan.zhihu.com/p/269710866)  
 [Kotlin Vocabulary | 操作符重载](https://zhuanlan.zhihu.com/p/269028612)  
+
+[Kotlin Standard Library Safari: Strings](https://dev.to/kotlin/kotlin-standard-library-safari-strings-3lj1)  
+[Tips and tricks for your Kotlin code explorations](https://dev.to/kotlin/tips-and-tricks-for-your-kotlin-code-explorations-40i9)  
 
 # 空安全
 
