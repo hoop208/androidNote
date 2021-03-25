@@ -96,6 +96,8 @@
 
 [Measuring execution times in Kotlin](https://proandroiddev.com/measuring-execution-times-in-kotlin-460a0285e5ea)
 
+[An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://proandroiddev.com/an-opinionated-guide-on-how-to-make-your-kotlin-code-fun-to-read-and-joy-to-work-with-caa3a4036f9e)
+
 [Exploring Kotlin’s hidden costs — Part 1](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62)  
 [Exploring Kotlin’s hidden costs — Part 2](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-2-324a4a50b70)  
 [Exploring Kotlin’s hidden costs — Part 3](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-3-3bf6e0dbf0a4)
