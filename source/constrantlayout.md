@@ -25,6 +25,12 @@
 
 [ConstraintLayout – Guidelines, Barriers, Chains and Groups](https://riggaroo.dev/constraintlayout-guidelines-barriers-chains-groups/)
 
+[Animations with ConstraintLayout and ConstraintSet](https://www.hellsoft.se/animations-with-constraintlayout-and-constraintset/)
+
+[Constraint Layout performance](https://android.jlelse.eu/constraint-layout-performance-870e5f238100)
+
+[ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726)
+
 # MotionLayout
 
 [『译』ConstrainLayout 2.0 之 MotionLayout（Part1.1）](https://www.jianshu.com/p/5203cf11d943)  
