@@ -354,6 +354,10 @@
 
 [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
 
+[functional-domain-modeling-in-kotlin](https://www.47deg.com/blog/functional-domain-modeling/#functional-domain-modeling-in-kotlin-0)
+
+[Learning about Explicit API mode in Kotlin](https://dev.to/tommykw/learning-about-explicit-api-mode-in-kotlin-2cna)
+
 # 析构声明
 
 [Pair and Triple in Kotlin](https://blog.mindorks.com/pair-and-triple-in-kotlin)
