@@ -31,6 +31,18 @@
 
 [ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726)
 
+[ConstraintLayout: Sized Align](https://blog.stylingandroid.com/constraintlayout-sized-align/?utm_source=feedly&utm_medium=rss&utm_campaign=constraintlayout-sized-align)
+
+[The making of AccordionView using ConstraintLayout](https://proandroiddev.com/the-making-of-accordionview-using-constraintlayout-c86992ffbb7b)
+
+[Build awesome animations with 7 lines of code using ConstraintLayout](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
+
+[ConstraintLayout Flow: Simple Grid Building Without Nested Layouts](https://www.bignerdranch.com/blog/constraintlayout-flow-simple-grid-building-without-nested-layouts/)
+
+[Awesomeness of ConstraintLayout Flow](https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df)
+
+[Introducing Constraint Layout 2.0](https://medium.com/androiddevelopers/introducing-constraint-layout-2-0-9daa3e99995b)
+
 # MotionLayout
 
 [『译』ConstrainLayout 2.0 之 MotionLayout（Part1.1）](https://www.jianshu.com/p/5203cf11d943)  
