@@ -43,6 +43,9 @@
 
 [Introducing Constraint Layout 2.0](https://medium.com/androiddevelopers/introducing-constraint-layout-2-0-9daa3e99995b)
 
+[ConstraintLayout Chains – Part 1](https://blog.stylingandroid.com/constraintlayout-chains-spread-chains/)  
+[ConstraintLayout Chains – Part 2](https://blog.stylingandroid.com/constraintlayout-chains-part-2/)  
+
 # MotionLayout
 
 [『译』ConstrainLayout 2.0 之 MotionLayout（Part1.1）](https://www.jianshu.com/p/5203cf11d943)  
