@@ -10,6 +10,16 @@
 
 [完全理解 Android 中的 RemoteViews](https://juejin.im/entry/578ef709c4c971005e0b3251)
 
+[系统 app activity启动过程](https://mp.weixin.qq.com/s/mJXC-xsODATtjYXft_Ni_w)
+
+[Android app是如何杀掉的](https://www.jianshu.com/p/1180886b3ff3)
+
+[Android mk使用详解](https://mp.weixin.qq.com/s/EHfDoyYTokvdWA_h4zXdbg)
+
+[Android deeplink applink原理简析](https://mp.weixin.qq.com/s/ZoWIzNM76bCOxyx84faJbg)
+
+[Android debug调试原理](https://mp.weixin.qq.com/s/VmlAc_o_QcKD4Iia-_Joqw)
+
 [Android Architecture](https://medium.com/@rao.sithara/android-architecture-4fde59c743ef)
 
 [Android Internals for Developers](https://speakerdeck.com/codingchick/android-internals-for-developers)
