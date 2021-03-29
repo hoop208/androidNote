@@ -12,6 +12,25 @@
 
 [Data Binding Cookbook: tasty recipes for more logic in your code](https://proandroiddev.com/data-binding-cookbook-tasty-recipes-for-more-logic-in-your-code-4878f3f7a6ca)
 
+[Avoiding memory leaks when using Data Binding and View Binding](https://proandroiddev.com/avoiding-memory-leaks-when-using-data-binding-and-view-binding-3b91d571c150)
+
+[Data Binding Techniques](https://speakerdeck.com/jacobtabak/data-binding-techniques-at-droidcon-nyc-2015)
+
+[Android Data Binding: Adding some variability](https://medium.com/google-developers/android-data-binding-adding-some-variability-1fe001b3abcc#.usmabanjv)
+
+[Android Data Binding: The Big Event](https://medium.com/androiddevelopers/android-data-binding-the-big-event-2697089dd0d7#.ku4wu5few)
+
+[Two-Way Data Binding on Android: Observing Your View with XML](https://www.bignerdranch.com/blog/two-way-data-binding-on-android-observing-your-view-with-xml/)
+
+[Android Data Binding + ListAdapter](https://proandroiddev.com/android-data-binding-listadapter-9e72ce50e8c7)
+
+[Android Data Binding: RecyclerView](https://medium.com/androiddevelopers/android-data-binding-recyclerview-db7c40d9f0e4)
+
+[Android by example : MVVM +Data Binding -> Introduction (Part 1)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)  
+[Android by example : MVVM +Data Binding -> Model (Part 2)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-model-part-2-82b5e3ee6ccb)  
+[Android by example : MVVM +Data Binding -> View Model (Part 3)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-model-part-3-3dcd08caf650)  
+[Android by example : MVVM +Data Binding -> View (Part 4)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-part-4-ecfda0c45db8)
+
 # viewbinding
 
 [使用视图绑定替代 findViewById](https://zhuanlan.zhihu.com/p/112677276)
