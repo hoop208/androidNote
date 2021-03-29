@@ -8,6 +8,8 @@
 
 # 事件分发机制
 
+[事件如何到达activity](https://mp.weixin.qq.com/s/cDuSEUAXjZ5vXBdeqjLlyQ)
+
 [从安卓的事件分发说起](https://juejin.cn/post/6874589638925746190#heading-4)
 
 [Android触摸事件源码解析](https://mp.weixin.qq.com/s/LmyXVFs9wvToAYHpqEYEMA)
