@@ -26,10 +26,16 @@
 
 [Android Data Binding: RecyclerView](https://medium.com/androiddevelopers/android-data-binding-recyclerview-db7c40d9f0e4)
 
+[Understanding Data-Binding's generated code and How does Android Data-Binding compiler work](https://viblo.asia/p/understanding-data-bindings-generated-code-and-how-does-android-data-binding-compiler-work-Ljy5Vd1yZra)
+
 [Android by example : MVVM +Data Binding -> Introduction (Part 1)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)  
 [Android by example : MVVM +Data Binding -> Model (Part 2)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-model-part-2-82b5e3ee6ccb)  
 [Android by example : MVVM +Data Binding -> View Model (Part 3)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-model-part-3-3dcd08caf650)  
 [Android by example : MVVM +Data Binding -> View (Part 4)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-part-4-ecfda0c45db8)
+
+[Android Data Binding: Under the Hood (Part 1)](https://proandroiddev.com/android-data-binding-under-the-hood-part-1-33b8c7adfb7c)  
+[Android Data Binding: Under the Hood (Part 2)](https://proandroiddev.com/android-data-binding-under-the-hood-part-2-fdcbb0f54700)  
+[Android Data Binding: Under the Hood (Part 3)](https://proandroiddev.com/android-data-binding-under-the-hood-part-3-7c5378f360eb)
 
 # viewbinding
 
