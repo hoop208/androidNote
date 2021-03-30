@@ -22,7 +22,7 @@
 
 [android系统预设app](https://mp.weixin.qq.com/s/jE4ZMu44PI-EQ_WJFI_k6A)
 
-
+[zygote工作原理](https://mp.weixin.qq.com/s/t2I0aFoxPEdaq69kJstkEw)
 
 [Android Architecture](https://medium.com/@rao.sithara/android-architecture-4fde59c743ef)
 
