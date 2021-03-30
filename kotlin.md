@@ -168,6 +168,8 @@
 
 [Non-null is the Default](https://medium.com/square-corner-blog/non-null-is-the-default-58ffc0bb9111)
 
+[Cleanup your Kotlin: Handling nullable reference](https://medium.com/@linhartos/cleanup-your-kotlin-handling-nullable-reference-3aba04c553e1)
+
 # 类型系统
 
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
