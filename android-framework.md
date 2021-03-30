@@ -20,6 +20,10 @@
 
 [Android debug调试原理](https://mp.weixin.qq.com/s/VmlAc_o_QcKD4Iia-_Joqw)
 
+[android系统预设app](https://mp.weixin.qq.com/s/jE4ZMu44PI-EQ_WJFI_k6A)
+
+
+
 [Android Architecture](https://medium.com/@rao.sithara/android-architecture-4fde59c743ef)
 
 [Android Internals for Developers](https://speakerdeck.com/codingchick/android-internals-for-developers)
