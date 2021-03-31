@@ -18,9 +18,9 @@
 
 [Android 架构组件 - 让天下没有难做的 App](https://mp.weixin.qq.com/s/-2z7lAGQ3GeSqFfkPGPWNA)
 
-[Android 应用架构新时代来临! | 开发者说·DTalk](https://mp.weixin.qq.com/s/O97QOlZF1LtMfta_l8JE0A)
-[【AAC 系列二】深入理解架构组件的基石：Lifecycle](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872556&idx=1&sn=6734027d9ca7e4db67fdbad657f7c862&scene=19#wechat_redirect)
-[【AAC 系列三】深入理解架构组件：LiveData](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872586&idx=1&sn=a241722abdcec06a7fc364742660dc32&scene=19#wechat_redirect)
+[Android 应用架构新时代来临! | 开发者说·DTalk](https://mp.weixin.qq.com/s/O97QOlZF1LtMfta_l8JE0A)  
+[【AAC 系列二】深入理解架构组件的基石：Lifecycle](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872556&idx=1&sn=6734027d9ca7e4db67fdbad657f7c862&scene=19#wechat_redirect)  
+[【AAC 系列三】深入理解架构组件：LiveData](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872586&idx=1&sn=a241722abdcec06a7fc364742660dc32&scene=19#wechat_redirect)  
 
 # Room
 
@@ -30,8 +30,24 @@
 
 [AndroidX 你好，android.support 再见 | 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
 
+[谷歌强推 AndroidX ,你还在应Support？](https://mp.weixin.qq.com/s/UFiQeDbGYFRXttiIsqUBvA)
+
+[AndroidX下你得知道的Activity和Fragment的变化](https://mp.weixin.qq.com/s/CCZaJs0cI625jSWO2PRdFw)
+
 [Activity and Fragment Layouts with AndroidX](https://www.bignerdranch.com/blog/activity-and-fragment-layouts-with-androidx/)
 
 [How AndroidX changes the way we work with Activities and Fragments](https://medium.com/@miloszlewandowski/how-androidx-changes-the-way-we-work-with-activities-and-fragments-73b88d157678)
+
+# Security
+
+[使用 Jetpack Security 在 Android 上进行数据加密](https://zhuanlan.zhihu.com/p/140287851)
+
+# SaveState
+
+[【背上Jetpack】绝不丢失的状态 androidx SaveState ViewModel-SaveState 分析](https://juejin.im/post/6844904097351467015)
+
+# start up
+
+[使用start up减少应用启动时间](https://mp.weixin.qq.com/s/Pw0QgVwHntWwoLD0ChQihg)
 
 
