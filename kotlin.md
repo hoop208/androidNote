@@ -156,6 +156,10 @@
 
 [从原理分析Kotlin的延迟初始化: lateinit var和by lazy](https://juejin.im/post/5affc369f265da0b9b079629)
 
+[Kotlin and null safety: Yet Again!:](https://android.jlelse.eu/kotlin-and-null-safety-yet-again-1b9fe84a7ec9)
+
+[Java Optionals and Kotlin Nulls](https://typealias.com/guides/java-optionals-and-kotlin-nulls/)
+
 [Kotlin nullability: Four easy pieces](https://medium.com/@Joseph82/kotlin-nullability-four-easy-pieces-bbef8c6d01a9)
 
 [Expressing Relationships Between Nullable Parameters In Kotlin](https://www.stkent.com/2020/05/07/expressing-relationships-between-nullable-parameters-in-kotlin.html)
