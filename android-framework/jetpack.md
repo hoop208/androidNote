@@ -46,8 +46,20 @@
 
 [【背上Jetpack】绝不丢失的状态 androidx SaveState ViewModel-SaveState 分析](https://juejin.im/post/6844904097351467015)
 
-# start up
+# Start up
 
 [使用start up减少应用启动时间](https://mp.weixin.qq.com/s/Pw0QgVwHntWwoLD0ChQihg)
+
+[jetpack组件之appstartup](https://mp.weixin.qq.com/s/M_sNwlNheXKfiwBm3jJVBA)
+
+# WorkManager
+
+[WorkManager: 周期性任务](https://zhuanlan.zhihu.com/p/265051417?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[workmanager流程分析和源码解读](https://mp.weixin.qq.com/s/MPZD9LbSbJYx1BLAolIbIg)
+
+[WorkManager 基础入门](https://mp.weixin.qq.com/s/2_bvYRUkmDPY2O3wY8ADIg)
+
+[WorkManager 在 Kotlin 中的实践](https://mp.weixin.qq.com/s/V7Ylsm7lnvp4GxXM72mPkg)
 
 
