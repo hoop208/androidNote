@@ -178,6 +178,18 @@
 
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
 
+[Enum Classes in Kotlin](https://typealias.com/start/kotlin-enum-classes/)
+
+[Phantom Types in Kotlin](https://proandroiddev.com/phantom-types-in-kotlin-afd3f59fde10?)
+
+[Kotlin closed classes: how to compose with them](https://jelmini.dev/post/kotlin-closed-classes-how-to-compose-with-them/)
+
+[Any, Unit, Nothing and all their friends](https://itnext.io/any-unit-nothing-and-all-their-friends-e39613b48235)
+
+[Alter type with typealias](https://medium.com/androiddevelopers/alter-type-with-typealias-4c03302fbe43)
+
+[Zero-cost* abstractions in Kotlin](https://medium.com/androiddevelopers/zero-cost-abstractions-in-kotlin-19b953f3a936)
+
 [Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
 
 [Typical Kotlin](https://www.kotlindevelopment.com/typical-kotlin/)
