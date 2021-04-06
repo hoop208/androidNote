@@ -8,6 +8,10 @@
 
 [【译】LiveData 使用详解](https://www.jianshu.com/p/dab2ee97d680)
 
+[两步使用 LiveData 替换 Observable Field](https://zhuanlan.zhihu.com/p/133949967)
+
+[livedata源码解析](https://mp.weixin.qq.com/s/joT2I6HT6UgxKZEQUfqG9Q)
+
 [MediatorLiveData to the Rescue](https://proandroiddev.com/mediatorlivedata-to-the-rescue-5d27645b9bc3)
 
 [Stateful.Live.Data](https://medium.com/swlh/stateful-live-data-d484799da63c)
@@ -34,6 +38,14 @@
 
 [Android-Lifecycle超能解析-生命周期的那些事](https://segmentfault.com/a/1190000016443108)
 
+[一文带你了解lifecycle](https://mp.weixin.qq.com/s/lR7ArxNdyMEL1O61uVxZ0g)
+
+[lifecycle源码解析](https://mp.weixin.qq.com/s/lbPbqMeVMtJaTbqo55-UXQ)
+
+[一文掌握lifecycle的原理](https://mp.weixin.qq.com/s/P22w7K0vS5s0A9M4HkBgzQ)
+
+[Androidlifecycle源码解剖](https://mp.weixin.qq.com/s/utQgAvL8nPNPm82f-1vkAg)
+
 # ViewModel
 
 使用：
@@ -41,6 +53,8 @@
 [Android Jetpack组件之ViewModel篇](https://mp.weixin.qq.com/s/x20jjsxMrU-5TwLEZniq5w)
 
 [深入AAC架构，彻底理解ViewModel的用法](https://mp.weixin.qq.com/s/5styXJWY5YvEvile-v9mkA)
+
+[知识点 | ViewModel 四种集成方式](https://zhuanlan.zhihu.com/p/143346337)
 
 [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/androiddevelopers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
 
