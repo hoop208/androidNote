@@ -1,4 +1,6 @@
-# 知识点
+# WMS
+
+## 知识点
 
 [Android窗口机制系列博客](https://www.jianshu.com/p/40a9c93b5a8d)
 
@@ -48,26 +50,13 @@
 [Android窗口机制（二）Window，PhoneWindow，DecorView，setContentView源码理解](https://www.jianshu.com/p/e42b638944ae)  
 [Android窗口机制（三）Window和WindowManager的创建与Activity](https://www.jianshu.com/p/6afb0c17df43)  
 [Android窗口机制（四）ViewRootImpl与View和WindowManager](https://www.jianshu.com/p/9da7bfe18374)  
-[Android窗口机制（五）最终章：WindowManager.LayoutParams和Token以及其他窗口Dialog，Toast](https://www.jianshu.com/p/bac61386d9bf)  
+[Android窗口机制（五）最终章：WindowManager.LayoutParams和Token以及其他窗口Dialog，Toast](https://www.jianshu.com/p/bac61386d9bf)
 
-# 画中画
+## 画中画
 
-[Android 8.0 中如何实现视频通话的画中画模式](https://juejin.im/post/6844903511377887245)  
+[Android 8.0 中如何实现视频通话的画中画模式](https://juejin.im/post/6844903511377887245)
 
 [Android 8.0 Oreo 画中画模式](https://www.jianshu.com/p/d76105b8ec30)
 
 [Android Oreo Picture In Picture](https://www.journaldev.com/20907/android-oreo-picture-in-picture)
-
-
-
-
-
-
-
-
-
-
-
-
-
 

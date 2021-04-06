@@ -1,8 +1,8 @@
-# 知识点
+# Paging
 
 [使用paging3实现分页加载](https://mp.weixin.qq.com/s/_eUYkmjIQKRugd29wE2w0g)
 
-[A comprehensive guide to implementing Modern Paging on Android(JAVA)](https://medium.com/dev-crumbs/a-comprehensive-guide-to-paging-on-android-java-4cebe7c76934)
+[A comprehensive guide to implementing Modern Paging on Android\(JAVA\)](https://medium.com/dev-crumbs/a-comprehensive-guide-to-paging-on-android-java-4cebe7c76934)
 
 [Architecture Components:Paging Library](https://androidkt.com/paging-library/)
 
@@ -15,4 +15,5 @@
 [Getting on the same page with Paging 3](https://android-developers.googleblog.com/2020/07/getting-on-same-page-with-paging-3.html)
 
 [How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8)  
-[How to Use the Paging 3 Library in Android — Part 2](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-part-2-e2011070a37d)  
+[How to Use the Paging 3 Library in Android — Part 2](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-part-2-e2011070a37d)
+

@@ -1,4 +1,6 @@
-# 使用
+# Glide
+
+## 使用
 
 [Android 图片加载缓存问题：为什么你的Glide缓存没有起作用？](https://juejin.im/post/5ad3fd336fb9a028b5485713)
 
@@ -19,11 +21,11 @@
 [Glide like a Boss — Advanced Android Glide Tips](https://medium.com/@elvischidera/glide-like-a-boss-advanced-android-glide-tips-d0288ea77de9)  
 [Loading Images From JSON Response — Advanced Android Glide Tips Part 2](https://codeburst.io/loading-images-from-json-response-advanced-android-glide-tips-part-2-47150772151c)
 
-# 源码
+## 源码
 
-[[Android] Glide 源码解析（一）](http://blog.qiji.tech/archives/8807)  
-[[Android] Glide 源码解析（二）](http://blog.qiji.tech/archives/9366)  
-[[Android] Glide 源码解析（三）](http://blog.qiji.tech/archives/9698)  
+[\[Android\] Glide 源码解析（一）](http://blog.qiji.tech/archives/8807)  
+[\[Android\] Glide 源码解析（二）](http://blog.qiji.tech/archives/9366)  
+[\[Android\] Glide 源码解析（三）](http://blog.qiji.tech/archives/9698)
 
 [Glide 源码解析](https://fuckcode.xyz/2015/10/25/Glide%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.html)
 
@@ -50,6 +52,4 @@
 [一文摸懂Glide](https://mp.weixin.qq.com/s/qhDWjqagtKVtgbxQmNC8oQ)
 
 [glide万字解密](https://mp.weixin.qq.com/s/e1E-S0jvCogHLOc6GjM2Og)
-
-
 

@@ -1,4 +1,6 @@
-# 知识点
+# IPC
+
+## 知识点
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
 
@@ -12,7 +14,7 @@
 
 [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
 
-[Android IPC Mechanism](https://www.slideshare.net/nfsnfs/android-ipc-keynote11) 
+[Android IPC Mechanism](https://www.slideshare.net/nfsnfs/android-ipc-keynote11)
 
 [Demystify TransactionTooLargeException](https://medium.com/shopback-engineering/handle-transactiontoolargeexception-237961bd5ef8)
 
@@ -20,9 +22,9 @@
 [Android IPC机制（二）用Messenger进行进程间通信](http://liuwangshu.cn/application/ipc/2-messenger.html)  
 [Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)  
 [Android IPC机制（四）用ContentProvider进行进程间通信](http://liuwangshu.cn/application/ipc/4-contentprovider.html)  
-[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html) 
+[Android IPC机制（五）用Socket实现跨进程聊天程序](http://liuwangshu.cn/application/ipc/5-socket.html)
 
-# aidl
+## aidl
 
 [Android aidl Binder框架浅析](https://blog.csdn.net/lmj623565791/article/details/38461079)
 
@@ -34,15 +36,15 @@
 
 [The legend about AIDL. Part 1. The roots](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-1-the-roots-c144be38d9a4)  
 [The legend about AIDL. Part 2. In Action](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-2-in-action-f3dd552e4d17)  
-[The legend about AIDL. Part 3. The crucial ingredient](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-3-the-crucial-ingredient-71c5e8eea553)  
+[The legend about AIDL. Part 3. The crucial ingredient](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-3-the-crucial-ingredient-71c5e8eea553)
 
-# Messenger
+## Messenger
 
 [Android应用进程间通信之Messenger信使使用及源码浅析](https://blog.csdn.net/yanbober/article/details/48373341)
 
 [Android 基于Message的进程间通信 Messenger完全解析](https://blog.csdn.net/lmj623565791/article/details/47017485)
 
-# Binder
+## Binder
 
 [安卓Binder架构概述](https://www.androidos.net.cn/doc/android/issue/an-overview-of-android-binder-framework.html)
 
@@ -54,7 +56,7 @@
 
 [写给 Android 应用工程师的 Binder 原理剖析](https://zhuanlan.zhihu.com/p/35519585)
 
-[从 Android 6.0 源码的角度剖析 Binder 工作原理 | CSDN 博文精选](https://mp.weixin.qq.com/s/zdrIOqCBIofAjEnIck9gOQ)
+[从 Android 6.0 源码的角度剖析 Binder 工作原理 \| CSDN 博文精选](https://mp.weixin.qq.com/s/zdrIOqCBIofAjEnIck9gOQ)
 
 [Android Binder机制浅析](https://blog.csdn.net/singwhatiwanna/article/details/19756201)
 
@@ -78,7 +80,7 @@
 
 [图解Android中的binder机制](https://juejin.im/post/6844904115777044488)
 
-[谈谈你对binder的理解](https://mp.weixin.qq.com/s/Ef2Qy_xFeI6WU3Q0wf5czA)  
+[谈谈你对binder的理解](https://mp.weixin.qq.com/s/Ef2Qy_xFeI6WU3Q0wf5czA)
 
 [说说你对binder驱动的理解](https://mp.weixin.qq.com/s/LH_JR5Rwh1JL4B6qQkEv9Q)
 
@@ -90,7 +92,7 @@
 
 [写给 Android 应用工程师的 Binder 原理剖析！](https://mp.weixin.qq.com/s/Q6tqd5sPhTEaVTfNCuJO3Q)
 
-# Parcelable
+## Parcelable
 
 使用：
 
@@ -102,19 +104,9 @@
 
 [Android Parcelable 源码解析](http://www.manongjc.com/article/62792.html)
 
-# Intent
+## Intent
 
 [将 Intent 序列化，像 Uri 一样传递 Intent！！！](https://juejin.im/post/59e0554951882578c6736ec8)
 
 [Android组件系列----Intent详解](https://www.cnblogs.com/qianguyihao/p/3959204.html)
-
-
-
-
-
-
-
-
-
-
 

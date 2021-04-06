@@ -1,22 +1,24 @@
+# 应用启动流程
+
 [Android应用程序的Activity启动过程简要介绍和学习计划](https://blog.csdn.net/luoshengyang/article/details/6685853)
 
 [ActivityThread的理解和APP的启动过程](https://blog.csdn.net/hzwailll/article/details/85339714)
 
-[Android源码解析之（十一）-->应用进程启动流程](https://blog.csdn.net/qq_23547831/article/details/51119333)
+[Android源码解析之（十一）--&gt;应用进程启动流程](https://blog.csdn.net/qq_23547831/article/details/51119333)
 
-[Android应用启动流程分析](https://www.jianshu.com/p/009dac047b72) 
+[Android应用启动流程分析](https://www.jianshu.com/p/009dac047b72)
 
-[Android 系统及应用启动流程](https://juejin.im/entry/59cf0b5e6fb9a00a4247905c) 
+[Android 系统及应用启动流程](https://juejin.im/entry/59cf0b5e6fb9a00a4247905c)
 
 [Android应用启动流程](https://juejin.im/post/5d88db38f265da03f565244d)
 
-[[译]Android Application启动流程分析](https://www.jianshu.com/p/a5532ecc8377)
+[\[译\]Android Application启动流程分析](https://www.jianshu.com/p/a5532ecc8377)
 
-[App 启动过程（含 Activity 启动过程） | 安卓 offer 收割基](https://blankj.com/2018/09/29/the-process-of-app-start/)
+[App 启动过程（含 Activity 启动过程） \| 安卓 offer 收割基](https://blankj.com/2018/09/29/the-process-of-app-start/)
 
 [Android应用启动流程分析](http://solart.cc/2016/08/20/launch_app/)
 
-[Android启动过程分析(图+文)](https://cloud.tencent.com/developer/article/1356506)
+[Android启动过程分析\(图+文\)](https://cloud.tencent.com/developer/article/1356506)
 
 [Android应用程序入口源码解析](https://awenzeng.me/2017/11/23/tech_android_framework_appstart/)
 
@@ -38,7 +40,7 @@
 
 [Android应用进程的创建](https://mp.weixin.qq.com/s/IVU0MYgrh8xDY5vuNhsuuQ)
 
-[Android Application Launch explained: from Zygote to your Activity.onCreate()](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
+[Android Application Launch explained: from Zygote to your Activity.onCreate\(\)](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 
 [Android Internals 101: How Android OS Starts You Application](https://proandroiddev.com/android-internals-101-how-android-os-starts-you-application-e1c98a014c05)
 
@@ -49,24 +51,17 @@
 [Android应用程序进程启动过程（后篇）](https://liuwangshu.cn/framework/applicationprocess/2.html)
 
 [Android应用程序启动过程（一）——进程创建](https://my.oschina.net/u/2504786/blog/3189394)  
-[Android应用程序启动过程（二）——ProcessState和Binder线程池](https://my.oschina.net/u/2504786/blog/3189406)  
+[Android应用程序启动过程（二）——ProcessState和Binder线程池](https://my.oschina.net/u/2504786/blog/3189406)
 
 [Android P APP冷启动过程全解析（之一）](https://xiaozhuanlan.com/topic/2094678513)  
 [Android P APP冷启动过程全解析（之二）](https://xiaozhuanlan.com/topic/7502314698)  
 [Android P APP冷启动过程全解析（之三）](https://xiaozhuanlan.com/topic/3152047986)  
-[Android P APP冷启动过程全解析（之四）](https://xiaozhuanlan.com/topic/7508194362)   
+[Android P APP冷启动过程全解析（之四）](https://xiaozhuanlan.com/topic/7508194362)  
 [Android P APP冷启动过程（总结篇）](https://xiaozhuanlan.com/topic/5084326971)
 
-[深入理解Activity启动流程(一)–Activity启动的概要流程](http://www.cloudchou.com/android/post-788.html)  
-[深入理解Activity启动流程(二)–Activity启动相关类的类图](http://www.cloudchou.com/android/post-793.html)  
-[深入理解Activity启动流程(三)–Activity启动的详细流程1](http://www.cloudchou.com/android/post-805.html)  
-[深入理解Activity启动流程(三)–Activity启动的详细流程2](http://www.cloudchou.com/android/post-815.html)  
-[深入理解Activity启动流程(四)–Activity Task的调度算法](http://www.cloudchou.com/android/post-858.html)  
-
-
-
-
-
-
-
+[深入理解Activity启动流程\(一\)–Activity启动的概要流程](http://www.cloudchou.com/android/post-788.html)  
+[深入理解Activity启动流程\(二\)–Activity启动相关类的类图](http://www.cloudchou.com/android/post-793.html)  
+[深入理解Activity启动流程\(三\)–Activity启动的详细流程1](http://www.cloudchou.com/android/post-805.html)  
+[深入理解Activity启动流程\(三\)–Activity启动的详细流程2](http://www.cloudchou.com/android/post-815.html)  
+[深入理解Activity启动流程\(四\)–Activity Task的调度算法](http://www.cloudchou.com/android/post-858.html)
 

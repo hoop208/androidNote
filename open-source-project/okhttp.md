@@ -1,13 +1,14 @@
-# 使用
+# OKHTTP
+
+## 使用
 
 [OKHTTP之缓存配置详解](https://blog.csdn.net/briblue/article/details/52920531)
 
-[文加图, 理解Http请求与响应](https://www.jianshu.com/p/51a61845e66a#)  
+[文加图, 理解Http请求与响应](https://www.jianshu.com/p/51a61845e66a#)
 
 [OkHttp使用完全教程](https://www.jianshu.com/p/ca8a982a116b)
 
-[Android OKHttp使用详解
-](https://www.jianshu.com/p/2663ce3da0db)
+[Android OKHttp使用详解 ](https://www.jianshu.com/p/2663ce3da0db)
 
 [OkHttp必须弄清楚的几个原理性问题](https://juejin.im/post/5e185d3c6fb9a02ff254a44c)
 
@@ -15,7 +16,7 @@
 
 [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/index.html)
 
-[OkHttp踩坑记：为何 response.body().string() 只能调用一次？](https://segmentfault.com/a/1190000012740215)
+[OkHttp踩坑记：为何 response.body\(\).string\(\) 只能调用一次？](https://segmentfault.com/a/1190000012740215)
 
 [OkHttp’s New URL Class](https://medium.com/square-corner-blog/okhttps-new-url-class-515460eea661)
 
@@ -37,7 +38,7 @@
 
 [OkHttp Interceptor - Making the most of it](https://blog.mindorks.com/okhttp-interceptor-making-the-most-of-it)
 
-# 源码学习
+## 源码学习
 
 [拆轮子系列：拆 OkHttp](https://blog.piasy.com/2016/07/11/Understand-OkHttp/index.html)
 
@@ -60,6 +61,4 @@
 [OkHttp 3.7源码分析（三）——任务队列](https://yq.aliyun.com/articles/78103?spm=a2c4e.11153940.0.0.41fd52462kcUZG)  
 [OkHttp 3.7源码分析（四）——缓存策略](https://yq.aliyun.com/articles/78102?spm=a2c4e.11153940.0.0.7a4d2ae6zFd2ZK)  
 [OkHttp 3.7源码分析（五）——连接池](https://yq.aliyun.com/articles/78101?spm=a2c4e.11153940.0.0.2a182e38tvNe4N)
-
-
 

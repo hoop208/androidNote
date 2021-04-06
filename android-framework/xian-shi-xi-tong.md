@@ -1,4 +1,6 @@
-# 知识点
+# 显示系统
+
+## 知识点
 
 [Android 视图架构详解](https://juejin.im/entry/571338c7c4c9710054cea455)
 
@@ -18,20 +20,20 @@
 
 [Android’s Font Renderer](https://medium.com/@romainguy/androids-font-renderer-c368bbde87d9)
 
-[Android Graphics Pipeline: From Button to Framebuffer (Part 1)](https://www.inovex.de/blog/android-graphics-pipeline-from-button-to-framebuffer-part-1/)   
-[Android Graphics Pipeline: From Button to Framebuffer (Part 2)](https://www.inovex.de/blog///android-graphics-pipeline-from-button-to-framebuffer-part-2/)  
+[Android Graphics Pipeline: From Button to Framebuffer \(Part 1\)](https://www.inovex.de/blog/android-graphics-pipeline-from-button-to-framebuffer-part-1/)  
+[Android Graphics Pipeline: From Button to Framebuffer \(Part 2\)](https://www.inovex.de/blog///android-graphics-pipeline-from-button-to-framebuffer-part-2/)
 
-# Vsync
+## Vsync
 
 [vsync信号生成源码分析](https://mp.weixin.qq.com/s/GmhUDvkjdROZaRabRiuluQ)
 
 [vsync信号分发源码解析](https://mp.weixin.qq.com/s/pAOy54pHY6LsburAD6Xjvw)
 
-[Android 4.4(KitKat)中VSync信号的虚拟化](https://jinzhuojun.blog.csdn.net/article/details/17293325)
+[Android 4.4\(KitKat\)中VSync信号的虚拟化](https://jinzhuojun.blog.csdn.net/article/details/17293325)
 
 [Android 5.1 SurfaceFlinger VSYNC详解](https://blog.csdn.net/newchenxf/article/details/49131167)
 
-# 绘制流程
+## 绘制流程
 
 [android view的绘制流程:](https://www.jianshu.com/p/5a71014e7b1b)
 
@@ -41,11 +43,11 @@
 
 [Android应用层View绘制流程与源码分析](https://blog.csdn.net/yanbober/article/details/46128379)
 
-[Android视图绘制流程完全解析，带你一步步深入了解View(二)](https://blog.csdn.net/guolin_blog/article/details/16330267)
+[Android视图绘制流程完全解析，带你一步步深入了解View\(二\)](https://blog.csdn.net/guolin_blog/article/details/16330267)
 
-[Android视图状态及重绘流程分析，带你一步步深入了解View(三)](https://blog.csdn.net/guolin_blog/article/details/17045157)
+[Android视图状态及重绘流程分析，带你一步步深入了解View\(三\)](https://blog.csdn.net/guolin_blog/article/details/17045157)
 
-[Android中View绘制流程以及invalidate()等相关方法分析](https://blog.csdn.net/qinjuning/article/details/7110211)
+[Android中View绘制流程以及invalidate\(\)等相关方法分析](https://blog.csdn.net/qinjuning/article/details/7110211)
 
 [Android中View的量算、布局及绘图机制](https://blog.csdn.net/iispring/article/details/49203945)
 
@@ -63,7 +65,7 @@
 
 [从 View 的绘制流程说起](https://juejin.cn/post/6872140986579943438#heading-10)
 
-# 硬件加速
+## 硬件加速
 
 [Android中GPU硬件加速控制及其在2D图形绘制上的局限](https://blog.csdn.net/iispring/article/details/49835061)
 
@@ -71,5 +73,5 @@
 
 [理解Android硬件加速的小白文](https://juejin.im/post/5a1f7b3e6fb9a0451b0451bb#heading-3)
 
-[Android 中的 Hardware Layer 详解 | 开发者说·DTalk](https://mp.weixin.qq.com/s/z-eH1o9Bc0_Cijp2T-qcSg)
+[Android 中的 Hardware Layer 详解 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/z-eH1o9Bc0_Cijp2T-qcSg)
 

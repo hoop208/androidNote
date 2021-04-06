@@ -1,0 +1,390 @@
+# kotlin
+
+## 知识点
+
+[kotlin技巧与原理解析](https://mp.weixin.qq.com/s/-Zcth8uO10jAMH1BIghq6w)
+
+[如何在 Java 和 Kotlin 之间进行互操作](https://mp.weixin.qq.com/s/E5qPbDDgyE_y6Ae53s5SOw)
+
+[快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&chksm=e8a05ec6dfd7d7d0691826a470e6d0f5de517e485d02082868d037b0fe6306683885e535b87a#rd)
+
+[用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips](https://github.com/heimashi/kotlin_tips?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[编写地道的 Kotlin 代码](https://droidyue.com/blog/2019/05/19/do-and-dont-in-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
+
+[Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
+
+[Kotlin中常量的探究](https://droidyue.com/blog/2017/11/05/dive-into-kotlin-constants/)
+
+[Kotlin 中如何定义常量](https://jiacheng.site/post/2017/04/11/define-constant-in-kotlin/)
+
+[Kotlin重载个方法，还有两幅面孔，省代码的同时也带来一个深坑 \| Kotlin 原理](https://mp.weixin.qq.com/s/XaN-Nd6_adLL2ZKfEuMvtw)
+
+[Kotlin使用技巧之接口与命名参数的优雅运用](https://www.jianshu.com/p/ac752487fd71?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[写给Android开发者的Kotlin入门](https://www.jianshu.com/p/bb53cba6c8f4)
+
+[31 天，从浅到深轻松学习 Kotlin](https://mp.weixin.qq.com/s/1mp5F4A-pqkaRknY6kAKzA)
+
+[Kotlin编译调校之WarningsAsErrors](https://droidyue.com/blog/2019/08/03/kotlinc-config-warnings-as-errors/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
+
+[Make your deprecation clear in Android\(Kotlin\)](https://bvantur.medium.com/make-your-deprecation-clear-in-android-kotlin-ac25a49c2bc5)
+
+[Fewer crashes and more stability with Kotlin](https://medium.com/androiddevelopers/fewer-crashes-and-more-stability-with-kotlin-b606c6a6ac04)
+
+[Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
+
+[Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
+
+[Functional operations over Views in ViewGroup using Kotlin](https://antonioleiva.com/functional-operations-viewgroup-kotlin/)
+
+[From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
+
+[Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
+
+[a-day-with-kotlin-strings](https://charlesmuchene.hashnode.dev/a-day-with-kotlin-strings-ck9fhb5h90680cxs1fgzfrzb8)
+
+[Kotlin as scripting language](https://www.danielebonaldo.com/kotlin-script/)
+
+[Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
+
+[Immutability we can afford](https://elizarov.medium.com/immutability-we-can-afford-10c0dcb8351d)
+
+[Kotlin Smart Casting By Immutability](https://brunoaybar.com/kotlin-smart-casting)
+
+[When to use Kotlin's takeIf\(\) and takeUnless\(\) functions](https://todd.ginsberg.com/post/kotlin-takeif-takeunless/)
+
+[Those sneaky Kotlin Exceptions](https://medium.com/google-developer-experts/those-sneaky-kotlin-exceptions-597c93d29358)  [Kotlin for Beginners: Immutability and the Value of ‘val’](https://proandroiddev.com/kotlin-for-beginners-immutability-and-the-value-of-val-78ab45b60b57)
+
+[Kotlin: Mutability](https://blog.stylingandroid.com/kotlin-mutability/)
+
+[Kotlin programmer dictionary: Statement vs Expression](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-statement-vs-expression-e6743ba1aaa0)
+
+[Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)
+
+[A sneak peek into Kotlin preconditions](https://medium.com/codeexplorers/a-quick-look-into-kotlin-preconditions-9a2d53c8c8ca)
+
+[Kotlin — Beware the Silent Cast](https://android.jlelse.eu/kotlin-beware-the-silent-cast-5fed4f4c4aa6)
+
+[You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
+
+[Preconditions.kt: Validate Your Kotlin](https://blog.egorand.me/preconditions-kt-validate-your-kotlin/)
+
+[Parameters and Arguments: An Easy Way to Remember the Difference](https://typealias.com/guides/parameters-arguments/)
+
+[Writing Kotlin the Kotlin\(Non Java\) Way](https://medium.com/google-developer-experts/writing-kotlin-the-kotlin-non-java-way-c1a636b9b62a)
+
+[Name Mangling in Kotlin](https://proandroiddev.com/name-mangling-in-kotlin-7d0e2a7a173a)
+
+[Is Your Kotlin Code Really Obfuscated?](https://proandroiddev.com/is-your-kotlin-code-really-obfuscated-a36abf033dde)
+
+[Utils class in Kotlin](https://proandroiddev.com/utils-class-in-kotlin-387a09b8d495)
+
+[Kotlin Code Organization](https://arturdryomov.dev/posts/kotlin-code-organization/)
+
+[From Java to Kotlin: life without static](https://jelmini.dev/post/from-java-to-kotlin-life-without-static/)
+
+[Hello Kotlin](https://medium.com/@magdamiu/hello-kotlin-774b44cd9df0)
+
+[Kotlin: val does not mean immutable, it just means readonly, yeah](https://artemzin.com/blog/kotlin-val-does-not-mean-immutable-it-just-means-readonly-yeah/)
+
+[Concurrency Primitives in Kotlin](https://blog.egorand.me/concurrency-primitives-in-kotlin/)
+
+[Measuring execution times in Kotlin](https://proandroiddev.com/measuring-execution-times-in-kotlin-460a0285e5ea)
+
+[An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://proandroiddev.com/an-opinionated-guide-on-how-to-make-your-kotlin-code-fun-to-read-and-joy-to-work-with-caa3a4036f9e)
+
+[Exploring Kotlin’s hidden costs — Part 1](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62)  
+[Exploring Kotlin’s hidden costs — Part 2](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-2-324a4a50b70)  
+[Exploring Kotlin’s hidden costs — Part 3](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-3-3bf6e0dbf0a4)
+
+[Kotlin Fever : Part 1 — Nullability](https://medium.cobeisfresh.com/kotlin-fever-part-1-nullability-c41ec01a9513)  
+[Kotlin Fever : Part 2 — Functions and Expressions](https://medium.cobeisfresh.com/kotlin-fever-part-2-functions-and-expressions-f93dba724298)  
+[Kotlin Fever : Part 3 — Lambdas and Higher Order Functions](https://medium.cobeisfresh.com/kotlin-fever-part-3-lambdas-and-higher-order-functions-e9d4a7093c71)
+
+[Moving forward with Kotlin](https://medium.com/@pablisco/moving-forward-with-kotlin-83b0c4df438d)  
+[Moving forward with Kotlin \#1: Properties](https://proandroiddev.com/moving-forward-part-1-properties-d8f695b3c812)  
+[Moving forward with Kotlin \#2: Inheritance](https://proandroiddev.com/moving-forward-with-kotlin-part-2-inheritance-64bc674e2224)
+
+[Advanced Kotlin - Part 1 - Delegates](https://americanexpress.io/advanced-kotlin-delegates/)  
+[Advanced Kotlin - Part 2 - Use-Site Targets](https://americanexpress.io/advanced-kotlin-use-site-targets/)
+
+[Variables in Kotlin, differences with Java. var vs val \(KAD 02\)](https://antonioleiva.com/variables-kotlin/)  
+[Classes in Kotlin: More power with less effort \(KAD 03\)](https://antonioleiva.com/classes-kotlin/)
+
+[How “Effective Java” may have influenced the design of Kotlin — Part 1](https://medium.com/hackernoon/how-effective-java-may-have-influenced-the-design-of-kotlin-part-1-45fd64c2f974)  
+[How “Effective Java” may have influenced the design of Kotlin — Part 2](https://medium.com/@lukleDev/how-effective-java-may-have-influenced-the-design-of-kotlin-part-2-89844d62ddf3)  
+[How “Effective Java” may have influenced the design of Kotlin — Part 3](https://medium.com/@lukleDev/how-effective-java-may-have-influenced-the-design-of-kotlin-part-3-7a01c9627e86)
+
+[Kotlin: An Illustrated Guide • Chapter 1 Variables, Expressions, and Types](https://typealias.com/start/kotlin-variables-expressions-types/)  
+[Kotlin: An Illustrated Guide • Chapter 2 Functions](https://typealias.com/start/kotlin-functions/)  
+[Kotlin: An Illustrated Guide • Chapter 3 Kotlin Conditionals: When and If](https://typealias.com/start/kotlin-conditionals/)  
+[Kotlin: An Illustrated Guide • Chapter 4 Introduction to Classes and Objects](https://typealias.com/start/kotlin-classes-and-objects/)  
+[Kotlin: An Illustrated Guide • Chapter 5](https://typealias.com/start/kotlin-enum-classes/)
+
+[Kotlin 的 Lambda 表达式，大多数人学得连皮毛都不算](https://kaixue.io/kotlin-lambda/)  
+[Kotlin 的泛型](https://kaixue.io/kotlin-generics/)  
+[Kotlin 里那些「更方便的」](https://kaixue.io/kotlin-basic-3/)  
+[Kotlin 里那些「不是那么写的」](https://kaixue.io/kotlin-basic-2/)  
+[Kotlin 的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)
+
+[使用 Kotlin 构建 Android 应用 \| Kotlin 迁移指南 \(上篇\)](https://mp.weixin.qq.com/s/9Ly-WnkDGOfZV2rj_DwOVQ)  
+[开始迁移到 Kotlin \| Kotlin 迁移指南 \(中篇\)](https://mp.weixin.qq.com/s/TTRh5bsr_zsGl2J4lnkhXQ)  
+[使用 Kotlin 构建的常见问题解答 \| Kotlin 迁移指南 \(下篇\)](https://mp.weixin.qq.com/s/PqHMVt50QVgK525vYFD0Xg)
+
+[Kotlin Vocabulary \| 枚举和 R8 编译器](https://zhuanlan.zhihu.com/p/138420650)  
+[Kotlin Vocabulary \| 类型别名 typealias](https://zhuanlan.zhihu.com/p/134224648)  
+[Kotlin Vocabulary \| Collection 和 Sequence](https://zhuanlan.zhihu.com/p/133934634)  
+[Kotlin Vocabulary \| 密封类 sealed class](https://zhuanlan.zhihu.com/p/122244787)  
+[Kotlin Vocabulary \| 内联函数的原理与应用](https://zhuanlan.zhihu.com/p/149927629)  
+[Kotlin Vocabulary \| 揭秘协程中的 suspend 修饰符](https://zhuanlan.zhihu.com/p/145001592)  
+[Kotlin Vocabulary \| 内联类 inline class](https://zhuanlan.zhihu.com/p/141707337)  
+[Kotlin Vocabulary \| Reified: 类型擦除后再生计划](https://zhuanlan.zhihu.com/p/255198214)  
+[Kotlin Vocabulary \| 唯一的 "对象"](https://zhuanlan.zhihu.com/p/269710866)  
+[Kotlin Vocabulary \| 操作符重载](https://zhuanlan.zhihu.com/p/269028612)
+
+[Kotlin Standard Library Safari: Strings](https://dev.to/kotlin/kotlin-standard-library-safari-strings-3lj1)  
+[Tips and tricks for your Kotlin code explorations](https://dev.to/kotlin/tips-and-tricks-for-your-kotlin-code-explorations-40i9)
+
+## 空安全
+
+[在 Kotlin 代码中慎用 lateinit 属性](https://zhuanlan.zhihu.com/p/31297995)
+
+[从原理分析Kotlin的延迟初始化: lateinit var和by lazy](https://juejin.im/post/5affc369f265da0b9b079629)
+
+[Kotlin and null safety: Yet Again!:](https://android.jlelse.eu/kotlin-and-null-safety-yet-again-1b9fe84a7ec9)
+
+[Java Optionals and Kotlin Nulls](https://typealias.com/guides/java-optionals-and-kotlin-nulls/)
+
+[Kotlin nullability: Four easy pieces](https://medium.com/@Joseph82/kotlin-nullability-four-easy-pieces-bbef8c6d01a9)
+
+[Expressing Relationships Between Nullable Parameters In Kotlin](https://www.stkent.com/2020/05/07/expressing-relationships-between-nullable-parameters-in-kotlin.html)
+
+[Beneath the surface of Lateinit](https://www.kotlindevelopment.com/lateinit-kotlin/)
+
+[When You Should Use Null in Kotlin](https://handstandsam.com/2019/02/24/when-you-should-use-null-in-kotlin/)
+
+[How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
+
+[Non-null is the Default](https://medium.com/square-corner-blog/non-null-is-the-default-58ffc0bb9111)
+
+[Cleanup your Kotlin: Handling nullable reference](https://medium.com/@linhartos/cleanup-your-kotlin-handling-nullable-reference-3aba04c553e1)
+
+## 类型系统
+
+[文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
+
+[Enum Classes in Kotlin](https://typealias.com/start/kotlin-enum-classes/)
+
+[Phantom Types in Kotlin](https://proandroiddev.com/phantom-types-in-kotlin-afd3f59fde10?)
+
+[Kotlin closed classes: how to compose with them](https://jelmini.dev/post/kotlin-closed-classes-how-to-compose-with-them/)
+
+[Any, Unit, Nothing and all their friends](https://itnext.io/any-unit-nothing-and-all-their-friends-e39613b48235)
+
+[Alter type with typealias](https://medium.com/androiddevelopers/alter-type-with-typealias-4c03302fbe43)
+
+[Zero-cost\* abstractions in Kotlin](https://medium.com/androiddevelopers/zero-cost-abstractions-in-kotlin-19b953f3a936)
+
+[Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
+
+[Typical Kotlin](https://www.kotlindevelopment.com/typical-kotlin/)
+
+[All About Type Aliases in Kotlin](https://typealias.com/guides/all-about-type-aliases/)
+
+[Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)
+
+[Nothing \(Else\) Matters in Kotlin](https://quiro.dev/posts/nothing-else-matters-kotlin/)
+
+[A Whirlwind Tour of the Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
+
+[Kotlin Default Interface Methods and Binary Compatibility](https://helw.net/2019/12/21/kotlin-default-interface-methods-and-binary-compatibility/)
+
+[Abstract class vs interface in Kotlin](https://blog.kotlin-academy.com/abstract-class-vs-interface-in-kotlin-5ab8697c3a14)
+
+[The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
+
+[Type-safe time calculations using Duration](https://okkotlin.com/duration/)
+
+## 泛型
+
+[Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[使用Kotlin Reified 让泛型更简单安全](https://droidyue.com/blog/2019/07/28/kotlin-reified-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[kotlin泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51)  
+[kotlin泛型之协变 逆变](https://www.jianshu.com/p/056d53e699ce)  
+[Kotlin 范型之泛型约束、类型投影、星号投影](https://www.jianshu.com/p/ce9b093f6967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
+[Kotlin泛型-你可能需要知道这些](https://www.jianshu.com/p/9f5e355a1e65)
+
+## 注解
+
+[Do not always trust @JvmOverloads](https://medium.com/@mmlodawski/https-medium-com-mmlodawski-do-not-always-trust-jvmoverloads-5251f1ad2cfe)
+
+[@JvmOverloads for Android Views](https://zsmb.co/jvmoverloads-for-android-views/)
+
+[JvmName 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/01/jvm-name-annotations-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
+[JvmMultifile 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/08/jvmmultifile-annotation-in-kotlin/)  
+[Kotlin 注解 第三篇 @JvmField 与 @JvmStatic](https://droidyue.com/blog/2019/12/22/kotlin-annotation-jvmfiled-and-jvmstatic-and-object/)
+
+## Sequence
+
+[Kotlin exploration — sequence or not sequence](https://blog.usejournal.com/kotlin-exploration-sequence-or-not-sequence-b8df285493c8)
+
+[Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)  
+[Inside Sequences: Create Your Own Sequence Operations](https://typealias.com/guides/inside-kotlin-sequences/)  
+[When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)
+
+## 内联
+
+[Kotlin’s Noinline & Crossline, once for all](https://proandroiddev.com/kotlins-noinline-crossline-once-for-all-c942fd07b7a3)
+
+[Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
+
+## 拓展
+
+[再见 kotlin Android extension](https://mp.weixin.qq.com/s/WQMSmlSHZ7-KrRSYoA8Cuw)
+
+[Kotlin扩展函数与实现机制探索](https://cloud.tencent.com/developer/article/1146533)
+
+[Kotlin干掉了findViewById，但用不好也会有性能问题](https://mp.weixin.qq.com/s/z1yEzR9rqUrTMLulxvWjqw)
+
+[Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
+
+[Keep your interfaces simple](https://proandroiddev.com/keep-your-interfaces-simple-e025d515e3b9)
+
+[Why Are Kotlin Synthetics Deprecated and What Are the Alternatives?](https://medium.com/better-programming/why-are-kotlin-synthetics-deprecated-and-what-are-the-alternatives-5c2b087dda1c)
+
+[9 Beloved Extensions From The Android KTX](https://vladsonkin.com/9-beloved-extensions-from-the-android-ktx/?utm_source=feedly&utm_medium=rss&utm_campaign=9-beloved-extensions-from-the-android-ktx)
+
+[Concise codebase using KTX extensions](https://navczydev.medium.com/concise-codebase-using-ktx-extensions-5e5250e4ce29)
+
+[Even Sweeter Android development with Android KTX](https://www.kotlindevelopment.com/even-sweeter-android-ktx-kotlin/)
+
+[Using KTX libraries](https://medium.com/androiddevelopers/using-ktx-libraries-da1dc81c6ecf)
+
+[KTX: Views](https://blog.stylingandroid.com/ktx-views/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StylingAndroid+%28Styling+Android%29)  
+[KTX: Miscellaneous](https://blog.stylingandroid.com/ktx-miscellaneous/)  
+[KTX: Graphics](https://blog.stylingandroid.com/ktx-graphics/)
+
+## 对象
+
+[Kotlin中的object 与companion object的区别](https://www.jianshu.com/p/14db81e1576a)
+
+[Kotlin 对象与 object 关键字](https://zhuanlan.zhihu.com/p/27183266)
+
+[Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
+
+[Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)
+
+## 集合
+
+[Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
+
+[Effective Kotlin: Consider Arrays with primitives for performance critical processing](https://blog.kotlin-academy.com/effective-kotlin-use-arrays-with-primitives-for-performance-critical-processing-297283ed1f90)
+
+## 委托
+
+[一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
+
+[kotlin vocabulary kotlin委托代理](https://mp.weixin.qq.com/s/5UuXsWA0_xf9cNvRtI-fQw)
+
+[Delegation in Kotlin](https://proandroiddev.com/delegation-in-kotlin-e1efb849641)
+
+[Delegated properties in Kotlin](https://www.rockandnull.com/delegated-properties-in-kotlin/)
+
+[Interface delegation in Kotlin](https://medium.com/@Joseph82/interface-delegation-in-kotlin-1404dfcd9167)
+
+[Make your code beautiful with Kotlin Property Delegates](https://dev.to/mreichelt/make-your-code-beautiful-with-kotlin-property-degelates-1ld5)
+
+[Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
+
+[Kotlin is Dope And So Are Its Custom Property Delegates](https://thoughtbot.com/blog/kotlin-is-dope-and-so-are-its-custom-property-delegates)
+
+[Simpler Kotlin class hierarchies using class delegation](https://proandroiddev.com/simpler-kotlin-class-hierarchies-using-class-delegation-35464106fed5)
+
+[Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
+
+[Built-in Delegates](https://medium.com/androiddevelopers/built-in-delegates-4811947e781f)
+
+[Kotlin — Faster Lazy for Android](https://proandroiddev.com/kotlin-faster-lazy-for-android-7328ec8d8d57)
+
+[Kotlin variable, to be Lazy, or to be Late?](https://medium.com/mobile-app-development-publication/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61)
+
+[Lifecycle-aware Lazy Property in Kotlin for Android Development](https://proandroiddev.com/lifecycle-aware-lazy-property-in-kotlin-for-android-development-94e5615d087f)
+
+[Better Custom Views with Delegates](https://blog.autsoft.hu/better-custom-views-with-delegates/)
+
+[Delightful Delegate Design](https://blog.autsoft.hu/delightful-delegate-design/)
+
+[Kotlin Delegates in Android: Utilizing the power of Delegated Properties in Android development](https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d)
+
+[ViewBinding with Kotlin Property Delegate](https://proandroiddev.com/viewbinding-with-kotlin-property-delegate-c907682e24c9)
+
+[Effective Class Delegation](https://zsmb.co/effective-class-delegation/)
+
+[Zero boilerplate delegation in Kotlin](https://proandroiddev.com/zero-boilerplate-delegation-in-kotlin-e383fdef28eb#.swz23xpyi)
+
+[Delegates - Composition over Inheritance in Kotlin](https://kiranrao.in/blog/2017/03/05/kotlin-coi/)
+
+[Under the hood of Kotlin Class Delegation](https://medium.com/snapp-mobile/under-the-hood-of-kotlin-class-delegation-24d53f9aa924)
+
+[Kotlin Explained: Property delegation](https://medium.com/kotlin-arsenal/kotlin-explained-property-delegation-c2d92ff9d7fc)
+
+[Class delegation in Kotlin](https://hackernoon.com/kotlin-what-is-class-delegation-all-about-683eb543e391)
+
+[Kotlin's Lazy Property Delegate](https://todd.ginsberg.com/post/kotlin-lazy-delegate/)
+
+[Kotlin 1.4 lazy optimization](https://www.lotharschulz.info/2020/04/07/kotlin-1-4-lazy-optimization/)
+
+[Don’t Reinvent the Wheel, Delegate It!](https://proandroiddev.com/dont-reinvent-the-wheel-delegate-it-eac132f2aa64)
+
+[Lazy properties](https://www.kotlindevelopment.com/lazy-property/)
+
+[Kotlin delegates in Android development — Part 1](https://hackernoon.com/kotlin-delegates-in-android-development-part-1-50346cf4aed7)  
+[Kotlin delegates in Android development — Part 2](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)
+
+## Contract
+
+[kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
+
+## lambda
+
+[How Kotlin implement lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c)
+
+[How Kotlin lambda capture variable](https://medium.com/@yangweigbh/how-kotlin-lambda-capture-variable-ef90e11e531d)
+
+## 序列化
+
+[Parcelable, simplified](https://www.kotlindevelopment.com/parcelable-kotlin-android-extensions/)
+
+## 函数
+
+[Kotlin: should I define Function or Property?](https://blog.kotlin-academy.com/kotlin-should-i-define-function-or-property-6786951da909)
+
+## 数据类
+
+[Value-Based Classes and Domain Modelling in Kotlin](https://medium.com/swlh/value-based-classes-and-error-handling-in-kotlin-3f14727c0565)
+
+[Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
+
+[functional-domain-modeling-in-kotlin](https://www.47deg.com/blog/functional-domain-modeling/#functional-domain-modeling-in-kotlin-0)
+
+[Learning about Explicit API mode in Kotlin](https://dev.to/tommykw/learning-about-explicit-api-mode-in-kotlin-2cna)
+
+## 析构声明
+
+[Pair and Triple in Kotlin](https://blog.mindorks.com/pair-and-triple-in-kotlin)
+
+[Breaking down destructuring declarations](https://medium.com/androiddevelopers/breaking-down-destructuring-declarations-e21334ac1e9)
+
+[Kotlin Destructuring Declarations and ComponentN](https://www.bignerdranch.com/blog/kotlin-destructuring-declarations-and-componentn/)
+
+[Safe, concise text parsing with regex destructuring in Kotlin](https://medium.com/@garnop/safe-concise-text-parsing-with-regex-destructuring-in-kotlin-b8f77ef1e30c)
+
+[Destructuring Declarations](https://www.kotlindevelopment.com/destructuring-declarations/)
+

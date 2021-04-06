@@ -1,8 +1,10 @@
-# databinding
+# databinding&viewbinding
+
+## databinding
 
 [Android Data Binding（数据绑定）用户指南](https://blog.gokit.info/post/android-data-binding/)
 
-[精通 Android Data Binding](https://github.com/LyndonChin/MasteringAndroidDataBinding)	
+[精通 Android Data Binding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
 [Defining Android Binding Adapter in Kotlin](https://medium.com/@thinkpanda_75045/defining-android-binding-adapter-in-kotlin-b08e82116704)
 
@@ -28,16 +30,16 @@
 
 [Understanding Data-Binding's generated code and How does Android Data-Binding compiler work](https://viblo.asia/p/understanding-data-bindings-generated-code-and-how-does-android-data-binding-compiler-work-Ljy5Vd1yZra)
 
-[Android by example : MVVM +Data Binding -> Introduction (Part 1)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)  
-[Android by example : MVVM +Data Binding -> Model (Part 2)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-model-part-2-82b5e3ee6ccb)  
-[Android by example : MVVM +Data Binding -> View Model (Part 3)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-model-part-3-3dcd08caf650)  
-[Android by example : MVVM +Data Binding -> View (Part 4)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-part-4-ecfda0c45db8)
+[Android by example : MVVM +Data Binding -&gt; Introduction \(Part 1\)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)  
+[Android by example : MVVM +Data Binding -&gt; Model \(Part 2\)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-model-part-2-82b5e3ee6ccb)  
+[Android by example : MVVM +Data Binding -&gt; View Model \(Part 3\)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-model-part-3-3dcd08caf650)  
+[Android by example : MVVM +Data Binding -&gt; View \(Part 4\)](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-view-part-4-ecfda0c45db8)
 
-[Android Data Binding: Under the Hood (Part 1)](https://proandroiddev.com/android-data-binding-under-the-hood-part-1-33b8c7adfb7c)  
-[Android Data Binding: Under the Hood (Part 2)](https://proandroiddev.com/android-data-binding-under-the-hood-part-2-fdcbb0f54700)  
-[Android Data Binding: Under the Hood (Part 3)](https://proandroiddev.com/android-data-binding-under-the-hood-part-3-7c5378f360eb)
+[Android Data Binding: Under the Hood \(Part 1\)](https://proandroiddev.com/android-data-binding-under-the-hood-part-1-33b8c7adfb7c)  
+[Android Data Binding: Under the Hood \(Part 2\)](https://proandroiddev.com/android-data-binding-under-the-hood-part-2-fdcbb0f54700)  
+[Android Data Binding: Under the Hood \(Part 3\)](https://proandroiddev.com/android-data-binding-under-the-hood-part-3-7c5378f360eb)
 
-# viewbinding
+## viewbinding
 
 [使用视图绑定替代 findViewById](https://zhuanlan.zhihu.com/p/112677276)
 
@@ -57,7 +59,5 @@
 
 [View Binding: Merge](https://blog.stylingandroid.com/view-binding-merge/)  
 [View Binding: Performance](https://blog.stylingandroid.com/view-binding-performance/)  
-[View Binding: Internals](https://blog.stylingandroid.com/view-binding-internals/)  
-
-
+[View Binding: Internals](https://blog.stylingandroid.com/view-binding-internals/)
 

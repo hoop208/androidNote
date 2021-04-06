@@ -1,13 +1,15 @@
 # AMS
 
+## AMS
+
 [Android 8.0 ActivityManagerService 启动流程](https://www.jianshu.com/p/98ccde25a57c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Android AMS 架构之 ApplicationThread](https://a284628487.github.io/2017/09/24/Android-AMS-ApplicationThread/)
 
 [ActivityManagerService Part 1: Structure and Basic](https://edwardlu0904.wordpress.com/2015/09/28/activitymanagerservice-part-1-structure-and-basic/)  
-[ActivityManagerService Part 2: Activity Start Procedure](https://edwardlu0904.wordpress.com/2015/10/01/activitymanagerservice-part-2-activity-start-procedure/)  
+[ActivityManagerService Part 2: Activity Start Procedure](https://edwardlu0904.wordpress.com/2015/10/01/activitymanagerservice-part-2-activity-start-procedure/)
 
-# Activity
+## Activity
 
 使用
 
@@ -17,9 +19,9 @@
 
 [酷炫的Activity切换动画，打造更好的用户体验](https://www.jianshu.com/p/37e94f8b6f59)
 
-[[译] Android 开发中 Activity 的正确打开方式](https://juejin.im/entry/57b9bfc3c4c9710061481310)
+[\[译\] Android 开发中 Activity 的正确打开方式](https://juejin.im/entry/57b9bfc3c4c9710061481310)
 
-[Android：Activity 与 Fragment 通信 (99%) 完美解决方案](https://juejin.im/entry/56a87b2b2e958a0051906227)
+[Android：Activity 与 Fragment 通信 \(99%\) 完美解决方案](https://juejin.im/entry/56a87b2b2e958a0051906227)
 
 [关于 Android，用多个 activity，还是单 activity 配合 fragment？](https://www.zhihu.com/question/39662488/answer/82469372)
 
@@ -35,7 +37,7 @@
 [The Android Lifecycle cheat sheet — part I: Single Activities](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)  
 [The Android Lifecycle cheat sheet — part II: Multiple activities](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-ii-multiple-activities-a411fd139f24)  
 [The Android Lifecycle cheat sheet — part III : Fragments](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)  
-[The Android Lifecycle cheat sheet — part IV : ViewModels, Translucent Activities and Launch Modes](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094)  
+[The Android Lifecycle cheat sheet — part IV : ViewModels, Translucent Activities and Launch Modes](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094)
 
 [Getting started with C++ and Android Native Activities](https://medium.com/androiddevelopers/getting-started-with-c-and-android-native-activities-2213b402ffff)
 
@@ -49,15 +51,15 @@
 
 [Activity Results API: A better way to pass data between Activities](https://proandroiddev.com/is-onactivityresult-deprecated-in-activity-results-api-lets-deep-dive-into-it-302d5cf6edd)
 
-[Deep Dive into Activity Results API — No More onActivityResult()](https://wajahatkarim.com/2020/05/activity-results-api-onactivityresult/)
+[Deep Dive into Activity Results API — No More onActivityResult\(\)](https://wajahatkarim.com/2020/05/activity-results-api-onactivityresult/)
 
 [Understand Android Activity's launchMode: standard, singleTop, singleTask and singleInstance](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
 
 [Understand the types of Launch Modes in an Android Activity](https://mohamedyousufmo.medium.com/understand-android-activity-launch-mode-c21fcecf04b8)
- 
+
 源码：
 
-[在 Android 中如何确定 App(Activity) 的启动者](https://droidyue.com/blog/2019/12/01/android-uid-process-name/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[在 Android 中如何确定 App\(Activity\) 的启动者](https://droidyue.com/blog/2019/12/01/android-uid-process-name/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Android 源码解析 之 setContentView](https://blog.csdn.net/lmj623565791/article/details/41894125)
 
@@ -65,7 +67,7 @@
 
 [Activity是什么时候显示出来的？](https://mp.weixin.qq.com/s/Ujpp6rBwGCSZFTI9WHBy_g)
 
-[Android中启动Activity(startActivity)流程图分析](https://blog.csdn.net/qinjuning/article/details/7277225)
+[Android中启动Activity\(startActivity\)流程图分析](https://blog.csdn.net/qinjuning/article/details/7277225)
 
 [Android 8.0 ActivityManagerService 启动流程](https://www.jianshu.com/p/98ccde25a57c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -88,9 +90,9 @@
 [The Journey Of Launching An Android Activity](https://blog.usejournal.com/the-journey-of-launching-an-android-activity-9b64e11dc157)
 
 [Activity是如何显示出来的？（上）](https://mp.weixin.qq.com/s/H28K9104twXkr7GjZZBpNQ)  
-[Activity是如何创建出来的？（下）](https://mp.weixin.qq.com/s/eGc9BjJrlW6Dzrsl6DIA4Q)  
+[Activity是如何创建出来的？（下）](https://mp.weixin.qq.com/s/eGc9BjJrlW6Dzrsl6DIA4Q)
 
-# Service
+## Service
 
 使用：
 
@@ -104,7 +106,7 @@
 
 [Service源码解析.md](https://github.com/asLody/SourceAnalysis/blob/master/Service%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 
-# ContentProvider
+## ContentProvider
 
 使用
 
@@ -112,7 +114,7 @@
 
 [ContentProvider和Uri详解](https://www.cnblogs.com/linjiqin/archive/2011/05/28/2061396.html)
 
-# Context
+## Context
 
 [Context都没弄明白，还怎么做Android开发？](https://www.jianshu.com/p/94e0f9ab3f1d)
 
@@ -126,7 +128,7 @@
 
 [你真的懂上下文吗](https://mp.weixin.qq.com/s/pYU3aNrXd3cBFjby-u-0JQ)
 
-# application
+## application
 
 [Android：全面解析 熟悉而陌生 的Application类使用](https://www.jianshu.com/p/f665366b2a47)
 
@@ -134,17 +136,7 @@
 
 [谈谈你对Application类的理解](https://www.androidos.net.cn/doc/2019-10-24/10.html)
 
-# Broardcast
+## Broardcast
 
 [Android LocalBroadcastManager 的使用总结](https://www.cnblogs.com/zhaoyanjun/p/6048369.html)
-
-
-
-
-
-
-
-
-
-
 

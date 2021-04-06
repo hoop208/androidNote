@@ -1,7 +1,9 @@
-# 使用
+# Retrofit
+
+## 使用
 
 [解决Retrofit多BaseUrl及运行时动态改变BaseUrl?](https://www.jianshu.com/p/2919bdb8d09a)  
-[解决Retrofit多BaseUrl及运行时动态改变BaseUrl(二)](https://www.jianshu.com/p/35a8959c2f86)
+[解决Retrofit多BaseUrl及运行时动态改变BaseUrl\(二\)](https://www.jianshu.com/p/35a8959c2f86)
 
 [你不知道的Retrofit缓存库RxCache](https://www.jianshu.com/p/b58ef6b0624b)
 
@@ -27,14 +29,14 @@
 
 [Building your own Retrofit Call Adapter](https://android.jlelse.eu/building-your-own-retrofit-call-adapter-b198169bab69)
 
-[Retrofit详解(上)](https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3(%E4%B8%8A).md)  
-[Retrofit详解(下)](https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3(%E4%B8%8B).md)
+\[Retrofit详解\(上\)\]\([https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3\(%E4%B8%8A\).md](https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3%28%E4%B8%8A%29.md)\)  
+\[Retrofit详解\(下\)\]\([https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3\(%E4%B8%8B\).md](https://github.com/CharonChui/AndroidNote/blob/master/SourceAnalysis/Netowork/Retrofit%E8%AF%A6%E8%A7%A3%28%E4%B8%8B%29.md)\)
 
 [【腾讯Bugly干货分享】深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](https://zhuanlan.zhihu.com/p/24109629)
 
 [Retrofit 动态参数（非固定参数、非必须参数）（Get、Post请求）](https://blog.csdn.net/jdsjlzx/article/details/51694572)
 
-# 源码
+## 源码
 
 [Retrofit 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/tool-lib/network/retrofit)
 

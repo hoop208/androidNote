@@ -1,4 +1,4 @@
-# 知识点
+# NDK
 
 [Android NDK 入门](https://xiaozhuanlan.com/crayfish)
 
@@ -12,11 +12,12 @@
 
 [Android深入理解JNI（二）类型转换、方法签名和JNIEnv](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841644&idx=1&sn=f8f8ea9a7e8040106b39bf1bb5f0aedf&scene=19#wechat_redirect)
 
-[使用JNI进行Java与C/C++语言混合编程(1)--在Java中调用C/C++本地库](https://www.cnblogs.com/icejoywoo/archive/2012/02/22/2363709.html)  
-[使用JNI进行Java与C/C++语言混合编程(2)--在C/C++中调用Java代码](https://www.cnblogs.com/icejoywoo/archive/2012/02/24/2367116.html)
+[使用JNI进行Java与C/C++语言混合编程\(1\)--在Java中调用C/C++本地库](https://www.cnblogs.com/icejoywoo/archive/2012/02/22/2363709.html)  
+[使用JNI进行Java与C/C++语言混合编程\(2\)--在C/C++中调用Java代码](https://www.cnblogs.com/icejoywoo/archive/2012/02/24/2367116.html)
 
 [与 .so 有关的一个长年大坑](https://zhuanlan.zhihu.com/p/21359984)
 
 [Android NDK开发-LLDB调试](https://xucanhui.com/2018/07/15/android-ndk-lldb-debug/)
 
 [JNI/NDK开发指南](https://www.kancloud.cn/xyang0917/blogjnindk/117012)
+
