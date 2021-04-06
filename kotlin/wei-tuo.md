@@ -1,7 +1,5 @@
 # 委托
 
-## 委托
-
 [一文彻底搞懂kotlin中的委托](https://mp.weixin.qq.com/s/BD1zT80IADDZS4CAxmooPg)
 
 [kotlin vocabulary kotlin委托代理](https://mp.weixin.qq.com/s/5UuXsWA0_xf9cNvRtI-fQw)
