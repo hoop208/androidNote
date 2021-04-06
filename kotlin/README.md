@@ -178,6 +178,12 @@
 
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
 
+[The power of types for errors](https://proandroiddev.com/the-power-of-types-for-errors-42e2325ed9c5)
+
+[An in-depth look at Kotlin’s initializers](https://medium.com/keepsafe-engineering/an-in-depth-look-at-kotlins-initializers-a0420fcbf546)
+
+[Composition over inheritance (and Kotlin)](https://www.rockandnull.com/composition-over-inheridance/)
+
 [Enum Classes in Kotlin](https://typealias.com/start/kotlin-enum-classes/)
 
 [Phantom Types in Kotlin](https://proandroiddev.com/phantom-types-in-kotlin-afd3f59fde10?)
@@ -209,6 +215,9 @@
 [The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
 
 [Type-safe time calculations using Duration](https://okkotlin.com/duration/)
+
+[Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)  
+[Exploring the .class side of Kotlin — Part 2](https://proandroiddev.com/exploring-the-class-side-of-kotlin-part-2-60d71a780279)  
 
 ## 泛型
 
@@ -314,6 +323,10 @@
 [functional-domain-modeling-in-kotlin](https://www.47deg.com/blog/functional-domain-modeling/#functional-domain-modeling-in-kotlin-0)
 
 [Learning about Explicit API mode in Kotlin](https://dev.to/tommykw/learning-about-explicit-api-mode-in-kotlin-2cna)
+
+[Kotlin and Domain-Driven Design—Value Objects](https://dev.to/flbenz/kotlin-and-domain-driven-design-value-objects-4m32)
+
+[Data classes aren't (that) magical](https://zsmb.co/data-classes-arent-that-magical/)
 
 ## 析构声明
 
