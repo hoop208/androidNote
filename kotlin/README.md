@@ -290,6 +290,14 @@
 
 [Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)
 
+[A true companion: exploring Kotlin’s companion objects](https://proandroiddev.com/a-true-companion-exploring-kotlins-companion-objects-dbd864c0f7f5)
+
+[A few facts about Companion objects](https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725)
+
+[The one and only object](https://medium.com/androiddevelopers/the-one-and-only-object-5dfd2cf7ab9b)
+
+[Companion Objects Are Real Objects Too](https://thoughtbot.com/blog/companion-objects-are-real-objects-too)
+
 ## 集合
 
 [Kotlin 集合排序](https://www.jianshu.com/p/a6aae0037f79)
@@ -299,6 +307,8 @@
 ## Contract
 
 [kotlin新特性 contract](https://mp.weixin.qq.com/s/7twpt48UjG2HgZYt7ZbPxg)
+
+[Help Yourself and the Compiler with Contracts](https://www.kotlindevelopment.com/help-yourself-and-the-compiler-with-contracts/)
 
 ## lambda
 
@@ -327,6 +337,10 @@
 [Kotlin and Domain-Driven Design—Value Objects](https://dev.to/flbenz/kotlin-and-domain-driven-design-value-objects-4m32)
 
 [Data classes aren't (that) magical](https://zsmb.co/data-classes-arent-that-magical/)
+
+[Kotlin data classes and sensitive information](https://mustafaali.net/2018/01/14/Kotlin-data-classes-and-sensitive-information/)
+
+[Data Classes in Kotlin: save a good bunch of lines of code (KAD 10)](https://antonioleiva.com/data-classes-kotlin/)
 
 ## 析构声明
 
