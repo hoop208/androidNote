@@ -60,6 +60,7 @@
   * [MD](zhi-shi-dian/md.md)
   * [样式系统](zhi-shi-dian/yang-shi-xi-tong.md)
 * [kotlin](kotlin/README.md)
+  * [类型系统](kotlin/lei-xing-xi-tong.md)
   * [委托](kotlin/wei-tuo.md)
   * [协程](kotlin/xie-cheng.md)
   * [DSL](kotlin/dsl.md)
