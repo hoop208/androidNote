@@ -28,6 +28,8 @@
 
 [谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
 
+[Room 中的数据库关系](https://zhuanlan.zhihu.com/p/111267510)
+
 ## AndroidX
 
 [AndroidX 你好，android.support 再见 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
