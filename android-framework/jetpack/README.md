@@ -66,3 +66,13 @@
 
 [WorkManager 在 Kotlin 中的实践](https://mp.weixin.qq.com/s/V7Ylsm7lnvp4GxXM72mPkg)
 
+## jetpack compose
+
+[android jetpack compose最全上手指南](https://mp.weixin.qq.com/s/oXbnY970yOT65s3aNUcm8Q)
+
+[聚焦 Android 11: UI 与 Compose](https://zhuanlan.zhihu.com/p/232303512)
+
+[对于Jetpack Compose的一次尝试](https://mp.weixin.qq.com/s/RawkmisxTJi444t1IQtQNg)
+
+[【译】Jetpack Compose,不止是一个UI框架！](https://juejin.im/post/5ec721ce51882543152ce93e)
+
