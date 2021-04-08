@@ -22,6 +22,11 @@
 
 [AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
 
+# 存储
+
+[Android存储空间的最佳实践(上)](https://mp.weixin.qq.com/s/pXhpBYYTjlF_CJWQr4gj9w)  
+[Android存储空间的最佳实践(下)](https://mp.weixin.qq.com/s/URu3eeAwgxSOJzLom1PfMw)  
+
 ## 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
