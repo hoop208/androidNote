@@ -56,6 +56,8 @@
 
 [Lazy properties](https://www.kotlindevelopment.com/lazy-property/)
 
+[Fragment View Binding initialisation using Delegates](https://sarthak1-garg.medium.com/fragment-view-binding-initialisation-using-delegates-8cd50b41e1d2)
+
 [Kotlin delegates in Android development — Part 1](https://hackernoon.com/kotlin-delegates-in-android-development-part-1-50346cf4aed7)  
 [Kotlin delegates in Android development — Part 2](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)
 
