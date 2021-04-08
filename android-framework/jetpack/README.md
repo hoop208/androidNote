@@ -76,3 +76,11 @@
 
 [【译】Jetpack Compose,不止是一个UI框架！](https://juejin.im/post/5ec721ce51882543152ce93e)
 
+[一文带你了解jetpack compose ui框架](https://mp.weixin.qq.com/s/YCoPqNsnXxvJUzqdYXs66Q)
+
+[jetpack compose自定义绘制](https://mp.weixin.qq.com/s/-BjkrDQFCicA15GN6oByTQ)
+
+[jetpack compose ui终结篇](https://mp.weixin.qq.com/s/KAIJ2baqQo1772RfTCtZeQ)
+
+[深入详解jetpack compose-优化ui构建](https://mp.weixin.qq.com/s/pRurO-7upTk4sRgJbJyUFw)  
+[深入详解jetpackcompose实现原理](https://mp.weixin.qq.com/s/cFLDF0CDmRropKLfzNKUiw)  
