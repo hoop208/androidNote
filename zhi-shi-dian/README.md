@@ -29,19 +29,23 @@
 
 [Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
 
-### 其它
-
-[Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
-
-[AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
+## 截图&截屏
 
 [Android应用截图两种方法](https://blog.csdn.net/jokers_i/article/details/39549633)
 
-[Android hook机制之简单实现](https://mp.weixin.qq.com/s/DmEHVK68ex_LtF2LhEQydQ)
+[Detect Screenshots in Android](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)
 
-[我们为什么要用fitsSystemWindows?](https://mp.weixin.qq.com/s/i8ZGsE71oyh-g8Vz9raZKg)
+## 加载PDF
 
 [使用PdfRenderer解析PDF文件](https://www.jianshu.com/p/8d063c2c6a9b)
+
+[Rendering PDFs on Android the easy way](https://proandroiddev.com/rendering-pdfs-on-android-the-easy-way-c05635b2c3a8)
+
+### 其它
+
+[AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
+
+[Android hook机制之简单实现](https://mp.weixin.qq.com/s/DmEHVK68ex_LtF2LhEQydQ)
 
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
 
@@ -51,29 +55,19 @@
 
 [How to Find App UID](https://medium.com/swlh/how-to-find-app-uid-9c9029063666)
 
-[How To Share Files With Android FileProvider](https://vladsonkin.com/how-to-share-files-with-android-fileprovider/)
-
 [Android InboxStyle Notification As Deep As Possible](https://itnext.io/android-inboxstyle-notification-as-deep-as-possible-4d74c0c725f1)
-
-[Rendering PDFs on Android the easy way](https://proandroiddev.com/rendering-pdfs-on-android-the-easy-way-c05635b2c3a8)
 
 [Deep Dive Into Android State Restoration](https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration)
 
 [Why You Should Use a GIT SHA in Your Crash Reporting](https://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
 
-[Why would I want to fitsSystemWindows?](https://medium.com/androiddevelopers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec#.tjiswxqwo)
-
 [Effective Java for Android \(cheatsheet\).](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.xt6omljkt)
 
 [3 Crucial Concepts of gRPC in Android](https://vladsonkin.com/3-crucial-concepts-of-grpc-in-android/)
 
-[WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
-
 [Android Then and Now: Callbacks](https://medium.com/default-to-open/android-then-and-now-callbacks-b0fe9f756b20)
 
 [Choose Wisely: 5 Ways To Show A Message In Android](https://vladsonkin.com/choose-wisely-5-ways-to-show-a-message-in-android/)
-
-[Detect Screenshots in Android](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)
 
 [Android Then and Now: Intro, @IntDef & Enums](https://medium.com/@jamiesanson/android-then-and-now-intro-intdef-enums-bca22d5cca56)
 
@@ -82,8 +76,6 @@
 [Developing for developers: Working on an Android library](https://proandroiddev.com/developing-for-developers-working-on-an-android-library-e0b49e0488b5)
 
 [Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560#.ya6a0kk70)
-
-[How to use 9-patch images for resizable backgrounds in Android](https://blog.jakelee.co.uk/how-to-use-9-patch-images-for-resizable-backgrounds-in-android/)
 
 [A cautionary tale on Android: do not call System.exit\(\)](https://proandroiddev.com/a-cautionary-tale-on-android-do-not-call-system-exit-5279e0d5dbe0)
 

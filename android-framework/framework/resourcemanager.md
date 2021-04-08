@@ -59,3 +59,7 @@
 [Dynamic Icon – Part 1](https://blog.stylingandroid.com/dynamic-icon-part-1/)  
 [Dynamic Icon – Part 2](https://blog.stylingandroid.com/dynamic-icon-part-2/)
 
+## .9图
+
+[How to use 9-patch images for resizable backgrounds in Android](https://blog.jakelee.co.uk/how-to-use-9-patch-images-for-resizable-backgrounds-in-android/)
+
