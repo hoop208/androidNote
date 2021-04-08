@@ -18,12 +18,6 @@
 
 [Android字节码插桩采坑笔记](https://juejin.im/post/5aa0e7eff265da2395308f48)
 
-### androidmanefest.xml
-
-[Android学习笔记之AndroidManifest.xml文件解析](https://www.cnblogs.com/pilang/archive/2011/04/20/2022932.html)
-
-[AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
-
 ## 存储
 
 [Android存储空间的最佳实践\(上\)](https://mp.weixin.qq.com/s/pXhpBYYTjlF_CJWQr4gj9w)  
@@ -43,10 +37,6 @@
 
 [就算不去火星种土豆，也请务必掌握的 Android 状态管理最佳实践！](https://juejin.im/post/5d1a148e6fb9a07ea6488ba3)
 
-[Android产品研发（十二）--&gt;App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
-
-[Android开发：最详细的 Toolbar 开发实践总结](https://www.jianshu.com/p/79604c3ddcae)
-
 [Android应用截图两种方法](https://blog.csdn.net/jokers_i/article/details/39549633)
 
 [分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
@@ -58,8 +48,6 @@
 [使用PdfRenderer解析PDF文件](https://www.jianshu.com/p/8d063c2c6a9b)
 
 [Android 多语言动态更新方案探索](https://mp.weixin.qq.com/s/jG8rAjQ8QAOmViiQ33SuEg)
-
-[Android Nesting Intents](https://medium.com/androiddevelopers/android-nesting-intents-e472fafc1933)
 
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
 

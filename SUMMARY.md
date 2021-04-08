@@ -14,6 +14,7 @@
   * [ART](android-framework/art.md)
   * [线程间通信](android-framework/handler.md)
   * [framework](android-framework/framework/README.md)
+    * [PMS](android-framework/framework/pms.md)
     * [AMS](android-framework/framework/ams.md)
     * [WMS](android-framework/framework/wms.md)
   * [sdk](android-framework/sdk-source/README.md)

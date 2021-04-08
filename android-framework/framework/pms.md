@@ -1,0 +1,16 @@
+# PMS
+
+## 知识点
+
+[Android 4.4\(KitKat\)中apk包的安装过程](https://jinzhuojun.blog.csdn.net/article/details/25542011)
+
+### 清单文件
+
+[Android学习笔记之AndroidManifest.xml文件解析](https://www.cnblogs.com/pilang/archive/2011/04/20/2022932.html)
+
+[AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
+
+## Intent
+
+[Android Nesting Intents](https://medium.com/androiddevelopers/android-nesting-intents-e472fafc1933)
+
