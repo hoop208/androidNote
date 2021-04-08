@@ -69,6 +69,10 @@
 
 [Cleanup your Kotlin: Handling nullable reference](https://medium.com/@linhartos/cleanup-your-kotlin-handling-nullable-reference-3aba04c553e1)
 
+[Nulls and Null Safety](https://typealias.com/start/kotlin-nulls/)
+
+[7 ways to null crash Android Kotlin without using !!](https://medium.com/mobile-app-development-publication/7-ways-to-null-crash-android-kotlin-without-using-a759751860c6)
+
 ## 泛型
 
 [Kotlin 泛型之类型擦除](https://www.jianshu.com/p/17b6a6cbcb51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -85,6 +89,8 @@
 [Do not always trust @JvmOverloads](https://medium.com/@mmlodawski/https-medium-com-mmlodawski-do-not-always-trust-jvmoverloads-5251f1ad2cfe)
 
 [@JvmOverloads for Android Views](https://zsmb.co/jvmoverloads-for-android-views/)
+
+[Enhanced Deprecation in Kotlin](https://todd.ginsberg.com/post/kotlin/deprecation/)
 
 [JvmName 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/01/jvm-name-annotations-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
 [JvmMultifile 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/08/jvmmultifile-annotation-in-kotlin/)  
