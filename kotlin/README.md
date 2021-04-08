@@ -12,6 +12,10 @@
 
 [编写地道的 Kotlin 代码](https://droidyue.com/blog/2019/05/19/do-and-dont-in-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[Kotlin 势必取代 Java？](https://mp.weixin.qq.com/s/Ud4M9v-OYqDw1ZyUdGpSWw)
+
+[Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
+
 [Kotlin中常量的探究](https://droidyue.com/blog/2017/11/05/dive-into-kotlin-constants/)
 
 [Kotlin 中如何定义常量](https://jiacheng.site/post/2017/04/11/define-constant-in-kotlin/)
@@ -27,6 +31,8 @@
 [Kotlin编译调校之WarningsAsErrors](https://droidyue.com/blog/2019/08/03/kotlinc-config-warnings-as-errors/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Kotlin 什么是幕后字段？](https://juejin.im/post/5b95321ae51d450e6475b7c6)
+
+[Make your deprecation clear in Android\(Kotlin\)](https://bvantur.medium.com/make-your-deprecation-clear-in-android-kotlin-ac25a49c2bc5)
 
 [Fewer crashes and more stability with Kotlin](https://medium.com/androiddevelopers/fewer-crashes-and-more-stability-with-kotlin-b606c6a6ac04)
 

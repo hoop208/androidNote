@@ -2,7 +2,7 @@
 
 ## 知识点
 
-activitythread:
+## activitythread
 
 [ActivityThread](https://www.jianshu.com/p/d8972b4188df)
 

@@ -4,6 +4,8 @@
 
 [Android根据资源名获取资源ID](https://droidyue.com/blog/2014/09/12/get-resource-id-by-name-in-android/)
 
+[分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
+
 ## 样式系统
 
 [How to name a color in Android](https://proandroiddev.com/how-to-name-a-color-in-android-f267f2a16172)
@@ -29,6 +31,8 @@
 
 [Change Theme Dynamically with Circular Reveal Animation on Android](https://proandroiddev.com/change-theme-dynamically-with-circular-reveal-animation-on-android-8cd574f5f0d8)
 
+[The easiest way to toggle complete layout to grayscale on Android](https://proandroiddev.com/the-easiest-way-to-toggle-complete-layout-to-grayscale-on-android-fa86ac0a754)
+
 [Supporting multiple themes in your Android app \(Part 1\)](https://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)  
 [Supporting multiple themes in your Android app \(Part 2\)](https://www.hidroh.com/2015/02/25/support-multiple-themes-android-app-part-2/)
 
@@ -39,4 +43,19 @@
 [Android Strings XML Tips & Tricks](https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks)
 
 [Conversion By Translation - Changing Your Android App Language At Runtime](https://medium.com/ironsource-tech-blog/conversion-by-translation-changing-your-android-app-language-at-runtime-5c9daebf9771)
+
+## Shape
+
+[Android Shape使用](https://www.jianshu.com/p/ef734937b521)
+
+[无需自定义View，彻底解放shape，selector吧](https://juejin.im/post/5b9682ebe51d450e543e3495)
+
+## Icon
+
+[Adaptive Icons and more](https://blog.stylingandroid.com/adaptive-icons/)
+
+[Android Adaptive Icons Are Easier Than You Think](https://proandroiddev.com/android-adaptive-icons-are-easier-than-you-think-3c66be2dd4dd)
+
+[Dynamic Icon – Part 1](https://blog.stylingandroid.com/dynamic-icon-part-1/)  
+[Dynamic Icon – Part 2](https://blog.stylingandroid.com/dynamic-icon-part-2/)
 

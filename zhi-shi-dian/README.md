@@ -23,23 +23,19 @@
 [Android存储空间的最佳实践\(上\)](https://mp.weixin.qq.com/s/pXhpBYYTjlF_CJWQr4gj9w)  
 [Android存储空间的最佳实践\(下\)](https://mp.weixin.qq.com/s/URu3eeAwgxSOJzLom1PfMw)
 
+[就算不去火星种土豆，也请务必掌握的 Android 状态管理最佳实践！](https://juejin.im/post/5d1a148e6fb9a07ea6488ba3)
+
 [Modern User Storage on Android](https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9)
 
-### 其它
+[Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
 
-[Android Shape使用](https://www.jianshu.com/p/ef734937b521)
+### 其它
 
 [Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
 
 [AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
 
-[无需自定义View，彻底解放shape，selector吧](https://juejin.im/post/5b9682ebe51d450e543e3495)
-
-[就算不去火星种土豆，也请务必掌握的 Android 状态管理最佳实践！](https://juejin.im/post/5d1a148e6fb9a07ea6488ba3)
-
 [Android应用截图两种方法](https://blog.csdn.net/jokers_i/article/details/39549633)
-
-[分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
 
 [Android hook机制之简单实现](https://mp.weixin.qq.com/s/DmEHVK68ex_LtF2LhEQydQ)
 
@@ -61,8 +57,6 @@
 
 [Rendering PDFs on Android the easy way](https://proandroiddev.com/rendering-pdfs-on-android-the-easy-way-c05635b2c3a8)
 
-[Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
-
 [Deep Dive Into Android State Restoration](https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration)
 
 [Why You Should Use a GIT SHA in Your Crash Reporting](https://www.donnfelker.com/why-you-should-use-a-git-sha-in-your-crash-reporting/)
@@ -72,8 +66,6 @@
 [Effective Java for Android \(cheatsheet\).](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.xt6omljkt)
 
 [3 Crucial Concepts of gRPC in Android](https://vladsonkin.com/3-crucial-concepts-of-grpc-in-android/)
-
-[Support Android App Links for some domains, and Direct Links for other domains!](https://hanru-yeh.medium.com/android-app-links-and-direct-links-for-different-domains-9f7085bf81c6)
 
 [WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
 
@@ -87,15 +79,9 @@
 
 [How To Make A Splash Screen For An Android App](https://medium.com/hackmobile/how-to-make-a-splash-screen-e872656c47a9)
 
-[The easiest way to toggle complete layout to grayscale on Android](https://proandroiddev.com/the-easiest-way-to-toggle-complete-layout-to-grayscale-on-android-fa86ac0a754)
-
 [Developing for developers: Working on an Android library](https://proandroiddev.com/developing-for-developers-working-on-an-android-library-e0b49e0488b5)
 
 [Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560#.ya6a0kk70)
-
-[Adaptive Icons and more](https://blog.stylingandroid.com/adaptive-icons/)
-
-[Android Adaptive Icons Are Easier Than You Think](https://proandroiddev.com/android-adaptive-icons-are-easier-than-you-think-3c66be2dd4dd)
 
 [How to use 9-patch images for resizable backgrounds in Android](https://blog.jakelee.co.uk/how-to-use-9-patch-images-for-resizable-backgrounds-in-android/)
 
@@ -104,6 +90,5 @@
 [Clean Navigation Between Screens in Android Applications](https://www.techyourchance.com/navigation-between-screens-android/)  
 [Returning Data to Previous Screens in Android Applications](https://www.techyourchance.com/returning-data-to-previous-screens-in-android-applications/)
 
-[Dynamic Icon – Part 1](https://blog.stylingandroid.com/dynamic-icon-part-1/)  
-[Dynamic Icon – Part 2](https://blog.stylingandroid.com/dynamic-icon-part-2/)
+
 
