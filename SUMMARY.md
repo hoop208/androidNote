@@ -53,7 +53,6 @@
   * [相关工具](xing-neng-you-hua/xiang-guan-gong-ju.md)
 * [知识点](zhi-shi-dian/README.md)
   * [适配](zhi-shi-dian/ping-mu-shi-pei.md)
-  * [项目学习](zhi-shi-dian/xiang-mu-xue-xi.md)
   * [系统UI](zhi-shi-dian/xi-tong-ui.md)
   * [应用安全](zhi-shi-dian/ying-yong-an-quan.md)
   * [响应式编程](zhi-shi-dian/xiang-ying-shi-bian-cheng.md)

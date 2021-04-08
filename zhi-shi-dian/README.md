@@ -1,12 +1,14 @@
 # 知识点
 
-## 第三方登录
+## 知识点
+
+### 第三方登录
 
 [微信、QQ、新浪微博等第三方登录，你想知道的都在这了（上）](https://www.jianshu.com/p/133d84042483)
 
 [微信、QQ、新浪微博等第三方登录，你想知道的都在这了（下）](https://www.jianshu.com/p/e2636421eba5)
 
-## 埋点
+### 埋点
 
 [Android埋点技术分析](https://unclechen.github.io/2017/12/18/Android%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/)
 
@@ -16,18 +18,18 @@
 
 [Android字节码插桩采坑笔记](https://juejin.im/post/5aa0e7eff265da2395308f48)
 
-## androidmanefest.xml
+### androidmanefest.xml
 
 [Android学习笔记之AndroidManifest.xml文件解析](https://www.cnblogs.com/pilang/archive/2011/04/20/2022932.html)
 
 [AndroidManifest.xml详解](https://www.jianshu.com/p/3b5b89d4e154)
 
-# 存储
+## 存储
 
-[Android存储空间的最佳实践(上)](https://mp.weixin.qq.com/s/pXhpBYYTjlF_CJWQr4gj9w)  
-[Android存储空间的最佳实践(下)](https://mp.weixin.qq.com/s/URu3eeAwgxSOJzLom1PfMw)  
+[Android存储空间的最佳实践\(上\)](https://mp.weixin.qq.com/s/pXhpBYYTjlF_CJWQr4gj9w)  
+[Android存储空间的最佳实践\(下\)](https://mp.weixin.qq.com/s/URu3eeAwgxSOJzLom1PfMw)
 
-## 其它
+### 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
 
