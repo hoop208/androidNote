@@ -1,6 +1,10 @@
-# 样式系统
+# ResourceManager
 
 ## 知识点
+
+[Android根据资源名获取资源ID](https://droidyue.com/blog/2014/09/12/get-resource-id-by-name-in-android/)
+
+## 样式系统
 
 [How to name a color in Android](https://proandroiddev.com/how-to-name-a-color-in-android-f267f2a16172)
 
@@ -27,4 +31,12 @@
 
 [Supporting multiple themes in your Android app \(Part 1\)](https://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/)  
 [Supporting multiple themes in your Android app \(Part 2\)](https://www.hidroh.com/2015/02/25/support-multiple-themes-android-app-part-2/)
+
+## 多语言
+
+[Android 多语言动态更新方案探索](https://mp.weixin.qq.com/s/jG8rAjQ8QAOmViiQ33SuEg)
+
+[Android Strings XML Tips & Tricks](https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks)
+
+[Conversion By Translation - Changing Your Android App Language At Runtime](https://medium.com/ironsource-tech-blog/conversion-by-translation-changing-your-android-app-language-at-runtime-5c9daebf9771)
 

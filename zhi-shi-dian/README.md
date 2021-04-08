@@ -23,6 +23,8 @@
 [Android存储空间的最佳实践\(上\)](https://mp.weixin.qq.com/s/pXhpBYYTjlF_CJWQr4gj9w)  
 [Android存储空间的最佳实践\(下\)](https://mp.weixin.qq.com/s/URu3eeAwgxSOJzLom1PfMw)
 
+[Modern User Storage on Android](https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9)
+
 ### 其它
 
 [Android Shape使用](https://www.jianshu.com/p/ef734937b521)
@@ -30,8 +32,6 @@
 [Uri详解之——Uri结构与代码提取](https://blog.csdn.net/harvic880925/article/details/44679239)
 
 [AppWidgetProvider使用介绍](https://blog.csdn.net/singwhatiwanna/article/details/16961661)
-
-[Android根据资源名获取资源ID](https://droidyue.com/blog/2014/09/12/get-resource-id-by-name-in-android/)
 
 [无需自定义View，彻底解放shape，selector吧](https://juejin.im/post/5b9682ebe51d450e543e3495)
 
@@ -47,15 +47,11 @@
 
 [使用PdfRenderer解析PDF文件](https://www.jianshu.com/p/8d063c2c6a9b)
 
-[Android 多语言动态更新方案探索](https://mp.weixin.qq.com/s/jG8rAjQ8QAOmViiQ33SuEg)
-
 [Android development: What I wish I had known earlier](https://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
 
 [some code tips for android](https://github.com/jiang111/awesome-android-tips)
 
 [Handle screen rotation without onConfigurationChanged](https://medium.com/@tuanchau/handling-screen-orientation-without-onconfigurationchanged-f747037355f4)
-
-[Conversion By Translation - Changing Your Android App Language At Runtime](https://medium.com/ironsource-tech-blog/conversion-by-translation-changing-your-android-app-language-at-runtime-5c9daebf9771)
 
 [How to Find App UID](https://medium.com/swlh/how-to-find-app-uid-9c9029063666)
 
@@ -99,15 +95,11 @@
 
 [Adaptive Icons and more](https://blog.stylingandroid.com/adaptive-icons/)
 
-[Android Strings XML Tips & Tricks](https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks)
-
 [Android Adaptive Icons Are Easier Than You Think](https://proandroiddev.com/android-adaptive-icons-are-easier-than-you-think-3c66be2dd4dd)
 
 [How to use 9-patch images for resizable backgrounds in Android](https://blog.jakelee.co.uk/how-to-use-9-patch-images-for-resizable-backgrounds-in-android/)
 
 [A cautionary tale on Android: do not call System.exit\(\)](https://proandroiddev.com/a-cautionary-tale-on-android-do-not-call-system-exit-5279e0d5dbe0)
-
-[Modern User Storage on Android](https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9)
 
 [Clean Navigation Between Screens in Android Applications](https://www.techyourchance.com/navigation-between-screens-android/)  
 [Returning Data to Previous Screens in Android Applications](https://www.techyourchance.com/returning-data-to-previous-screens-in-android-applications/)
