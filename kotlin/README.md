@@ -172,6 +172,8 @@
 
 [Help Yourself and the Compiler with Contracts](https://www.kotlindevelopment.com/help-yourself-and-the-compiler-with-contracts/)
 
+[How to Make the Compiler Smarter](https://proandroiddev.com/how-to-make-the-compiler-smarter-b37f414875ac)
+
 ## lambda
 
 [How Kotlin implement lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c)
