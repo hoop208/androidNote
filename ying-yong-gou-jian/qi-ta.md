@@ -44,6 +44,8 @@
 
 [The Dex File Format](https://www.bugsnag.com/blog/dex-and-d8)
 
+[HB Blog 42: What Is The Purpose Of R.java File In Android Application?](https://harshalbenake.blogspot.com/2014/12/hb-blog-42-what-is-purpose-of-rjava-file.html)
+
 [聊聊 APK —— 直接运行 Dex](https://geminiwen.com/archives/77/)  
 [聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
 [聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
@@ -66,6 +68,8 @@
 [Debugging Proguard configuration issues](https://krossovochkin.com/posts/2021_01_18_debugging_proguard_configuration_issues/)
 
 [How to generate Proguard/R8 rules for Navigation component arguments](https://android.jlelse.eu/how-to-generate-proguard-r8-rules-for-navigation-component-arguments-466e72e75ca7)
+
+[Proguard in (Multi-Module Android App || Custom Library).](https://medium.com/native-mobile-bits/proguard-in-multi-module-android-app-custom-library-4893a2143e8b)
 
 [Distinguishing between the different ProGuard “-keep” directives](https://jebware.com/blog/?p=418)  
 [Reading ProGuard’s Outputs](https://jebware.com/blog/?p=484)  
@@ -120,6 +124,8 @@
 
 [Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
 
+[Free Up System Resources For Faster Gradle Builds](https://goobar.io/free-up-system-resources-for-faster-gradle-builds/)
+
 ## D8
 
 [The D8 dexer](https://proandroiddev.com/the-d8-dexer-6736deb55fb8)
@@ -137,4 +143,6 @@
 [Proguard/R8 in the world of modularity](https://android.jlelse.eu/proguard-r8-in-the-world-of-modularity-f599650b4553)
 
 [When using enums and R8…](https://medium.com/androiddevelopers/when-using-enums-and-r8-3f8f314c0a13)
+
+[Shrinking Your App with R8](https://medium.com/androiddevelopers/shrinking-your-app-with-r8-909efac25de4)
 
