@@ -44,7 +44,17 @@
 
 [Experimenting with Gradle dependencies](https://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
 
-[Gradle for Android 第一篇\( 从 Gradle 和 AS 开始 \)](https://segmentfault.com/a/1190000004229002) [Gradle for Android 第二篇\( Build.gradle入门 \)](https://segmentfault.com/a/1190000004234712) [Gradle for Android 第三篇\( 依赖管理 \)](https://segmentfault.com/a/1190000004237922) [Gradle for Android 第四篇\( 构建变体 \)](https://segmentfault.com/a/1190000004241503) [Gradle for Android 第五篇\( 多模块构建 \)](https://segmentfault.com/a/1190000004247809) [Gradle for Android 第六篇\( 测试\)](https://segmentfault.com/a/1190000004260141) [Gradle for Android 第七篇\( Groovy入门 \)](https://segmentfault.com/a/1190000004276167)
+[Using Repository Artifact Safelists in Gradle](https://commonsware.com/blog/2021/02/20/using-repository-safelist-gradle.html)
+
+[How to Store Credentials in Android Projects Using gradle.properties](https://medium.com/swlh/how-to-safely-store-credentials-in-android-projects-using-gradle-properties-8cf500561095)
+
+[Gradle for Android 第一篇\( 从 Gradle 和 AS 开始 \)](https://segmentfault.com/a/1190000004229002)   
+[Gradle for Android 第二篇\( Build.gradle入门 \)](https://segmentfault.com/a/1190000004234712)  
+[Gradle for Android 第三篇\( 依赖管理 \)](https://segmentfault.com/a/1190000004237922)   
+[Gradle for Android 第四篇\( 构建变体 \)](https://segmentfault.com/a/1190000004241503)   
+[Gradle for Android 第五篇\( 多模块构建 \)](https://segmentfault.com/a/1190000004247809)   
+[Gradle for Android 第六篇\( 测试\)](https://segmentfault.com/a/1190000004260141)   
+[Gradle for Android 第七篇\( Groovy入门 \)](https://segmentfault.com/a/1190000004276167)  
 
 ## Gradle插件
 
