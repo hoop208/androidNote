@@ -46,6 +46,10 @@
 
 [HB Blog 42: What Is The Purpose Of R.java File In Android Application?](https://harshalbenake.blogspot.com/2014/12/hb-blog-42-what-is-purpose-of-rjava-file.html)
 
+[Optimizing Android bytecode with ReDex](https://engineering.fb.com/android/optimizing-android-bytecode-with-redex/?refid=8&_ft_=qid.6200742327944805904%253Amf_story_key.6249203789055394671%253AeligibleForSeeFirstBumping.1&__tn__=H)
+
+[Efficiently reducing your method count](https://jeroenmols.com/blog/2016/05/06/methodcount/)
+
 [聊聊 APK —— 直接运行 Dex](https://geminiwen.com/archives/77/)  
 [聊聊 APK —— Dex 热修复与 Classpath](https://geminiwen.com/archives/79/)  
 [聊聊 APK —— aapt 编译资源](https://geminiwen.com/archives/82/)  
@@ -70,6 +74,12 @@
 [How to generate Proguard/R8 rules for Navigation component arguments](https://android.jlelse.eu/how-to-generate-proguard-r8-rules-for-navigation-component-arguments-466e72e75ca7)
 
 [Proguard in (Multi-Module Android App || Custom Library).](https://medium.com/native-mobile-bits/proguard-in-multi-module-android-app-custom-library-4893a2143e8b)
+
+[Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
+
+[Practical ProGuard rules examples](https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9)
+
+[Android's Built-in ProGuard Rules: The Missing Guide](https://www.zacsweers.dev/android-proguard-rules/)
 
 [Distinguishing between the different ProGuard “-keep” directives](https://jebware.com/blog/?p=418)  
 [Reading ProGuard’s Outputs](https://jebware.com/blog/?p=484)  
