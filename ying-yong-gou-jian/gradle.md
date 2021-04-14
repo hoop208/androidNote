@@ -22,8 +22,6 @@
 
 [Save time and reduce risk with Gradle’s includeGroup](https://jebware.com/blog/?p=573)
 
-[Benchmarking Gradle Builds Using Gradle-Profiler](https://goobar.io/benchmarking-gradle-builds-using-gradle-profiler/)
-
 [Archive addition Android artifacts with Gradle.](http://wiebe-elsinga.com/blog/archive-addition-android-artifacts-with-gradle/)
 
 [How to Store Credentials in Android Projects Using gradle.properties](https://medium.com/swlh/how-to-safely-store-credentials-in-android-projects-using-gradle-properties-8cf500561095)
@@ -36,17 +34,13 @@
 
 [Name your .apk & .aab files](https://www.giorgosneokleous.com/2019/12/01/name-your-apk-aab-files/)
 
-[Understanding your build with the Build Analyzer](https://medium.com/androiddevelopers/understanding-your-build-with-the-build-analyzer-5c15688ec72e)
-
-[Improving build speed in Android Studio](https://medium.com/androiddevelopers/improving-build-speed-in-android-studio-3e1425274837)
-
-[Gradle for Android 第一篇\( 从 Gradle 和 AS 开始 \)](https://segmentfault.com/a/1190000004229002)   
+[Gradle for Android 第一篇\( 从 Gradle 和 AS 开始 \)](https://segmentfault.com/a/1190000004229002)  
 [Gradle for Android 第二篇\( Build.gradle入门 \)](https://segmentfault.com/a/1190000004234712)  
-[Gradle for Android 第三篇\( 依赖管理 \)](https://segmentfault.com/a/1190000004237922)   
-[Gradle for Android 第四篇\( 构建变体 \)](https://segmentfault.com/a/1190000004241503)   
-[Gradle for Android 第五篇\( 多模块构建 \)](https://segmentfault.com/a/1190000004247809)   
-[Gradle for Android 第六篇\( 测试\)](https://segmentfault.com/a/1190000004260141)   
-[Gradle for Android 第七篇\( Groovy入门 \)](https://segmentfault.com/a/1190000004276167)  
+[Gradle for Android 第三篇\( 依赖管理 \)](https://segmentfault.com/a/1190000004237922)  
+[Gradle for Android 第四篇\( 构建变体 \)](https://segmentfault.com/a/1190000004241503)  
+[Gradle for Android 第五篇\( 多模块构建 \)](https://segmentfault.com/a/1190000004247809)  
+[Gradle for Android 第六篇\( 测试\)](https://segmentfault.com/a/1190000004260141)  
+[Gradle for Android 第七篇\( Groovy入门 \)](https://segmentfault.com/a/1190000004276167)
 
 ## 依赖管理
 

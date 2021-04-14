@@ -73,7 +73,7 @@
 
 [How to generate Proguard/R8 rules for Navigation component arguments](https://android.jlelse.eu/how-to-generate-proguard-r8-rules-for-navigation-component-arguments-466e72e75ca7)
 
-[Proguard in (Multi-Module Android App || Custom Library).](https://medium.com/native-mobile-bits/proguard-in-multi-module-android-app-custom-library-4893a2143e8b)
+[Proguard in \(Multi-Module Android App \|\| Custom Library\).](https://medium.com/native-mobile-bits/proguard-in-multi-module-android-app-custom-library-4893a2143e8b)
 
 [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 
@@ -135,6 +135,12 @@
 [Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
 
 [Free Up System Resources For Faster Gradle Builds](https://goobar.io/free-up-system-resources-for-faster-gradle-builds/)
+
+[Benchmarking Gradle Builds Using Gradle-Profiler](https://goobar.io/benchmarking-gradle-builds-using-gradle-profiler/)
+
+[Understanding your build with the Build Analyzer](https://medium.com/androiddevelopers/understanding-your-build-with-the-build-analyzer-5c15688ec72e)
+
+[Improving build speed in Android Studio](https://medium.com/androiddevelopers/improving-build-speed-in-android-studio-3e1425274837)
 
 ## D8
 
