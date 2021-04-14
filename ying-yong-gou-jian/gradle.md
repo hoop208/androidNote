@@ -30,6 +30,16 @@
 
 [Build Variations using Gradle and Resource Folders](https://ptrprograms.blogspot.com/2014/08/build-variations-using-gradle-and.html)
 
+[Make your build.gradle great again](https://proandroiddev.com/make-your-build-gradle-great-again-c84cc172a654#.offlm7l97)
+
+[Understanding the Gradle Wrapper](https://medium.com/@bherbst/understanding-the-gradle-wrapper-a62f35662ab7)
+
+[Name your .apk & .aab files](https://www.giorgosneokleous.com/2019/12/01/name-your-apk-aab-files/)
+
+[Understanding your build with the Build Analyzer](https://medium.com/androiddevelopers/understanding-your-build-with-the-build-analyzer-5c15688ec72e)
+
+[Improving build speed in Android Studio](https://medium.com/androiddevelopers/improving-build-speed-in-android-studio-3e1425274837)
+
 [Gradle for Android 第一篇\( 从 Gradle 和 AS 开始 \)](https://segmentfault.com/a/1190000004229002)   
 [Gradle for Android 第二篇\( Build.gradle入门 \)](https://segmentfault.com/a/1190000004234712)  
 [Gradle for Android 第三篇\( 依赖管理 \)](https://segmentfault.com/a/1190000004237922)   
@@ -67,6 +77,10 @@
 [How we stay up to date with our dependencies](https://levelup.gitconnected.com/how-we-stay-up-to-date-with-our-dependencies-7365528a3ec8)
 
 [How to centralize the support libraries dependencies in gradle](https://gmariotti.blogspot.com/2015/07/how-to-centralize-support-libraries.html)
+
+[Resolving Conflicts in android gradle dependencies](https://medium.com/mindorks/avoiding-conflicts-in-android-gradle-dependencies-28e4200ca235#.x66q6p4v4)
+
+[Implementation vs API dependency](https://jeroenmols.com/blog/2017/06/14/androidstudio3/)
 
 ## Gradle插件
 
