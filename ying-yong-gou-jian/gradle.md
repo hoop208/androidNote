@@ -76,7 +76,7 @@
 
 [Implementation vs API dependency](https://jeroenmols.com/blog/2017/06/14/androidstudio3/)
 
-## Gradle插件
+## 自定义插件
 
 [在AndroidStudio中自定义Gradle插件](https://blog.csdn.net/huachao1001/article/details/51810328)
 
@@ -101,6 +101,16 @@
 [Developing a Custom Gradle Plugin](https://dzone.com/articles/gradle-plugin)
 
 [Kotlin + buildSrc for Better Gradle Dependency Management](https://handstandsam.com/2018/02/11/kotlin-buildsrc-for-better-gradle-dependency-management/)
+
+[Transform API — a real world example](https://medium.com/grandcentrix/transform-api-a-real-world-example-cfd49990d3e1)
+
+[I hated Gradle! Kotlin and the buildSrc Plugin made me love it](https://quickbirdstudios.com/blog/gradle-kotlin-buildsrc-plugin-android/)
+
+[Managing Android Multi-module Project with Gradle Plugin and Kotlin](https://medium.com/wantedly-engineering/managing-android-multi-module-project-with-gradle-plugin-and-kotlin-4fcc126e7e49)
+
+[Gradle Plugins and Composite Builds](https://proandroiddev.com/gradle-plugins-and-composite-builds-962350501c38)
+
+[Stop using Gradle buildSrc. Use composite builds instead](https://proandroiddev.com/stop-using-gradle-buildsrc-use-composite-builds-instead-3c38ac7a2ab3)
 
 [通俗易懂的Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843752&idx=1&sn=b3b01ea8e56a3397de90b385a8b50c66&scene=19#wechat_redirect)  
 [通俗易懂的自定义Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843781&idx=1&sn=a7ee811d2bf739adf019c6cef405c8ef&scene=19#wechat_redirect)
