@@ -112,6 +112,24 @@
 
 [Stop using Gradle buildSrc. Use composite builds instead](https://proandroiddev.com/stop-using-gradle-buildsrc-use-composite-builds-instead-3c38ac7a2ab3)
 
+[Building a Gradle Plugin 101](https://proandroiddev.com/building-a-gradle-plugin-101-e80553664ba3)
+
+[Creating custom Gradle plugins](https://equaleyes.com/blog/2018/06/27/creating-custom-gradle-plugins/)
+
+[Custom Gradle plugin in Java](https://medium.com/@q2ad/custom-gradle-plugin-in-java-5d04866e9e53)
+
+[Getting started with building your own standalone Gradle plugin](https://www.slideshare.net/tobiaspreuss/getting-started-with-building-your-own-standalone-gradle-plugin)
+
+[Writing Custom Gradle Plugin using Java](http://crazyadmins.com/writing-custom-gradle-plugin-using-java/)
+
+[How to write a custom Gradle plugin in groovy](https://rileymacdonald.ca/2017/12/28/write-custom-gradle-plugin-groovy/)
+
+[Writing a custom Gradle plugin: Groovy + buildSrc/](https://malsandroid.blogspot.com/2014/08/writing-custom-gradle-plugin-groovy.html)
+
+[Quash boring tasks with Custom Gradle Plugin.](https://android.jlelse.eu/quash-boring-tasks-with-custom-gradle-plugin-b25f619c01f7)
+
+[Injecting Resources with standalone Gradle Plugin.](https://medium.com/android-news/injecting-resources-with-standalone-gradle-plugin-d8396e151efd)
+
 [通俗易懂的Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843752&idx=1&sn=b3b01ea8e56a3397de90b385a8b50c66&scene=19#wechat_redirect)  
 [通俗易懂的自定义Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843781&idx=1&sn=a7ee811d2bf739adf019c6cef405c8ef&scene=19#wechat_redirect)
 
