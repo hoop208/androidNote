@@ -4,6 +4,8 @@
 
 [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 
+[微信终端跨平台组件 mars 系列（一） - 高性能日志模块xlog](https://mp.weixin.qq.com/s/cnhuEodJGIbdodh0IxNeXQ)
+
 ## GreenDao
 
 [【Android 数据库框架总结，总有一个适合你！】](https://blog.csdn.net/da_caoyuan/article/details/61414626)
