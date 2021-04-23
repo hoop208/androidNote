@@ -42,6 +42,8 @@
 
 原理
 
+[anr弹窗的显示原理](https://mp.weixin.qq.com/s/mFR7TV69LLQxsg40N_25ZQ)
+
 [理解Android ANR的触发原理](http://gityuan.com/2016/07/02/android-anr/)  
 [Input系统—ANR原理分析](http://gityuan.com/2017/01/01/input-anr/)  
 [理解Android ANR的信息收集过程](http://gityuan.com/2016/12/02/app-not-response/)  
