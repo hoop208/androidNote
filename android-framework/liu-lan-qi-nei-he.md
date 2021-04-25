@@ -52,3 +52,5 @@
 
 ## 浏览器内核
 
+> [开发者需要了解的 WebKit](https://www.infoq.cn/article/webkit-for-developers)
+

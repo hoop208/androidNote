@@ -130,8 +130,8 @@
 
 [Injecting Resources with standalone Gradle Plugin.](https://medium.com/android-news/injecting-resources-with-standalone-gradle-plugin-d8396e151efd)
 
-[Write a Custom Gradle Plugin for Your Android App \(Part 1\)](https://medium.com/better-programming/write-a-custom-gradle-plugin-part-1-22b37c3b7326)  
-[Write a custom Gradle Plugin \(Part 2\)](https://rupeshurmaliya.medium.com/write-a-custom-gradle-plugin-part-2-1732ac39ff96)
+[Write a Custom Gradle Plugin for Your Android App (Part 1)](https://medium.com/better-programming/write-a-custom-gradle-plugin-part-1-22b37c3b7326)  
+[Write a custom Gradle Plugin (Part 2)](https://rupeshurmaliya.medium.com/write-a-custom-gradle-plugin-part-2-1732ac39ff96)  
 
 [通俗易懂的Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843752&idx=1&sn=b3b01ea8e56a3397de90b385a8b50c66&scene=19#wechat_redirect)  
 [通俗易懂的自定义Gradle插件讲解](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843781&idx=1&sn=a7ee811d2bf739adf019c6cef405c8ef&scene=19#wechat_redirect)

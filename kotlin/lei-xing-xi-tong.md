@@ -4,8 +4,6 @@
 
 [文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
 
-[Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
-
 [The power of types for errors](https://proandroiddev.com/the-power-of-types-for-errors-42e2325ed9c5)
 
 [An in-depth look at Kotlin’s initializers](https://medium.com/keepsafe-engineering/an-in-depth-look-at-kotlins-initializers-a0420fcbf546)
@@ -93,8 +91,6 @@
 [@JvmOverloads for Android Views](https://zsmb.co/jvmoverloads-for-android-views/)
 
 [Enhanced Deprecation in Kotlin](https://todd.ginsberg.com/post/kotlin/deprecation/)
-
-[Make your deprecation clear in Android\(Kotlin\)](https://bvantur.medium.com/make-your-deprecation-clear-in-android-kotlin-ac25a49c2bc5)
 
 [JvmName 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/01/jvm-name-annotations-kotlin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)  
 [JvmMultifile 注解在 Kotlin 中的应用](https://droidyue.com/blog/2019/09/08/jvmmultifile-annotation-in-kotlin/)  
