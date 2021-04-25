@@ -40,6 +40,8 @@
 
 ## 源码学习
 
+[从通信流程聊okhttp拦截器](https://mp.weixin.qq.com/s/x6T-m5FOPB_N9vzxmJOQTQ)
+
 [拆轮子系列：拆 OkHttp](https://blog.piasy.com/2016/07/11/Understand-OkHttp/index.html)
 
 [从OKHttp框架看代码设计](https://juejin.im/post/581311cabf22ec0068826aff)
