@@ -5,7 +5,7 @@
 ### 第三方登录
 
 [微信、QQ、新浪微博等第三方登录，你想知道的都在这了（上）](https://www.jianshu.com/p/133d84042483)  
-[微信、QQ、新浪微博等第三方登录，你想知道的都在这了（下）](https://www.jianshu.com/p/e2636421eba5)  
+[微信、QQ、新浪微博等第三方登录，你想知道的都在这了（下）](https://www.jianshu.com/p/e2636421eba5)
 
 ### 埋点
 
@@ -82,6 +82,4 @@
 
 [Clean Navigation Between Screens in Android Applications](https://www.techyourchance.com/navigation-between-screens-android/)  
 [Returning Data to Previous Screens in Android Applications](https://www.techyourchance.com/returning-data-to-previous-screens-in-android-applications/)
-
-
 
