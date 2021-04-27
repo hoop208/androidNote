@@ -24,7 +24,9 @@
 
 [Activity Leak Detection](https://shunix.com/activity-leak-detection/)
 
-[leakcanary实现原理](https://mp.weixin.qq.com/s/DXlq011vewvblP-8LxGTWw)
+[LeakCanary源码分析第一讲](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%b8%80%e8%ae%b2.html)  
+[LeakCanary源码分析第二讲－RefWatcher详解](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%ba%8c%e8%ae%b2%ef%bc%8drefwatcher%e8%af%a6%e8%a7%a3.html)  
+[LeakCanary源码分析第三讲－HeapAnalyzerService详解](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%b8%89%e8%ae%b2%ef%bc%8dheapanalyzerservice%e8%af%a6%e8%a7%a3.html)
 
 [LeakCanary详解与源码分析](https://www.wandouip.com/t5i20432/)
 
@@ -39,8 +41,4 @@
 [LeakCanary—Deobfuscation Feature Explained](https://www.polidea.com/blog/leakcanary-deobfuscation-feature-explained/)
 
 [一步步拆解leakcanary](https://mp.weixin.qq.com/s/CmoLyAj7MtsYRJWoIyp8QA)
-
-[LeakCanary源码分析第一讲](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%b8%80%e8%ae%b2.html)  
-[LeakCanary源码分析第二讲－RefWatcher详解](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%ba%8c%e8%ae%b2%ef%bc%8drefwatcher%e8%af%a6%e8%a7%a3.html)  
-[LeakCanary源码分析第三讲－HeapAnalyzerService详解](http://vjson.com/wordpress/leakcanary%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90%e7%ac%ac%e4%b8%89%e8%ae%b2%ef%bc%8dheapanalyzerservice%e8%af%a6%e8%a7%a3.html)
 
