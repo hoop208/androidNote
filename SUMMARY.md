@@ -1,7 +1,6 @@
 # Table of contents
 
 * [索引](README.md)
-* [自定义控件&动画](customview.md)
 * [开源项目](open-source-project/README.md)
   * [Glide](open-source-project/glide.md)
   * [dagger2](open-source-project/dagger2.md)
@@ -54,6 +53,8 @@
   * [内存优化](xing-neng-you-hua/nei-cun-you-hua.md)
   * [相关工具](xing-neng-you-hua/xiang-guan-gong-ju.md)
 * [知识点](zhi-shi-dian/README.md)
+  * [NDK](zhi-shi-dian/ndk.md)
+  * [自定义控件&动画](zhi-shi-dian/customview.md)
   * [适配](zhi-shi-dian/ping-mu-shi-pei.md)
   * [系统UI](zhi-shi-dian/xi-tong-ui.md)
   * [应用安全](zhi-shi-dian/ying-yong-an-quan.md)
@@ -65,7 +66,6 @@
   * [协程](kotlin/xie-cheng.md)
   * [DSL](kotlin/dsl.md)
   * [Flow](kotlin/flow.md)
-* [NDK](ndk.md)
 * [应用构建](ying-yong-gou-jian/README.md)
   * [gradle](ying-yong-gou-jian/gradle.md)
   * [其它](ying-yong-gou-jian/qi-ta.md)

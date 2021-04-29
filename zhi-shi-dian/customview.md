@@ -35,6 +35,14 @@
 
 [用户手势检测-GestureDetector使用详解](https://blog.csdn.net/harvic880925/article/details/39520901)
 
+[Android自定义频道选择器、频道定制](https://www.jianshu.com/p/53af72e8a4ba)
+
+[手撕一个让人「欲罢不能」的水波纹选中控件](https://www.jianshu.com/p/3febe60adb97?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[书籍翻页](https://juejin.im/post/5a3215c96fb9a045186ac0fe)
+
+[雪花飘落](https://juejin.im/post/5a32b34c51882506146ef1a0)
+
 [Android 图像绘制之 Drawable](https://www.jianshu.com/p/4cd87e3c43d6)  
 [Android 图像绘制之 Drawable\(二\)](https://www.jianshu.com/p/4134e2352d65)
 
