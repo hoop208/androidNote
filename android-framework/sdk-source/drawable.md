@@ -8,6 +8,9 @@
 [8.1.2 Android中的13种Drawable小结 Part 2](https://www.runoob.com/w3cnote/android-tutorial-drawable2.html)    
 [8.1.3 Android中的13种Drawable小结 Part 3](https://www.runoob.com/w3cnote/android-tutorial-drawable3.html)  
 
+[Android 图像绘制之 Drawable](https://www.jianshu.com/p/4cd87e3c43d6)  
+[Android 图像绘制之 Drawable\(二\)](https://www.jianshu.com/p/4134e2352d65)
+
 [Implementing and Using Custom Drawable States](https://ptrprograms.blogspot.com/2015/01/implementing-and-using-custom-drawable.html)
 
 [Custom Drawables](https://ryanharter.com/blog/2015/04/custom-drawables/)

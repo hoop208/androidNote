@@ -15,8 +15,6 @@
 
 [给高级 Android 工程师的进阶手册](https://hencoder.com/)
 
-[Android 所有动画系列详尽教程](https://github.com/OCNYang/Android-Animation-Set)
-
 ## 自定义控件
 
 [Android Drawable 那些不为人知的高效用法](https://blog.csdn.net/lmj623565791/article/details/43752383)
@@ -43,11 +41,6 @@
 
 [雪花飘落](https://juejin.im/post/5a32b34c51882506146ef1a0)
 
-[Android 图像绘制之 Drawable](https://www.jianshu.com/p/4cd87e3c43d6)  
-[Android 图像绘制之 Drawable\(二\)](https://www.jianshu.com/p/4134e2352d65)
-
-## 示例
-
 [Android自定义View教你一步一步实现即刻点赞效果](https://juejin.im/post/5c2190fbf265da615f774a33)
 
 [一步步教你写StepView（流程指示器](https://www.jianshu.com/p/df03c1276121)
@@ -59,6 +52,18 @@
 [文字路径动画控件TextPathView解析](https://juejin.im/post/5a9677b16fb9a063375765ad)
 
 [自定义View：播放、暂停按钮优雅的过渡](https://www.jianshu.com/p/74f38e9b16fc)
+
+[听FackBook工程师讲_Custom ViewGroups_](https://www.androidos.net.cn/doc/android/issue/custom-viewgroups.html)
+
+[滑动卷尺](https://mp.weixin.qq.com/s?__biz=MzIyNTY4NjU0OQ==&mid=2247485213&idx=1&sn=97fb5d0645f0bb0eb2c5c51db4454b59&chksm=e87aa267df0d2b71d53fa2267b12afae265df585246e8ce5e2edc32d9c57bad6fbd78ec0469c&mpshare=1&scene=23&srcid=0717uZbDuuzfAGiZKvVaft9k#rd)
+
+[贝赛尔曲线 qq消息气包拖拽](https://mp.weixin.qq.com/s/uBn7QE6aWyIF_KxC_4TZEA)
+
+[自定义控件的细节](https://mp.weixin.qq.com/s/Th-pVqUiVXNwNKyAkoGUEQ)
+
+[自定义view之双层波纹气泡](https://mp.weixin.qq.com/s/xzoCTN9-qpUW0HO-d44Tzg)
+
+[更优雅的Android UI界面控件高亮的实现](https://mp.weixin.qq.com/s/8q-wQ6yS2-LoghfmI7WQ2w)
 
 [Android 手势检测实战 打造支持缩放平移的图片预览效果（上）](https://blog.csdn.net/lmj623565791/article/details/39474553)  
 [Android 手势检测实战 打造支持缩放平移的图片预览效果（下）](https://blog.csdn.net/lmj623565791/article/details/39480503)
