@@ -65,6 +65,10 @@
 
 [更优雅的Android UI界面控件高亮的实现](https://mp.weixin.qq.com/s/8q-wQ6yS2-LoghfmI7WQ2w)
 
+[绳子拉动的弹弹球](https://mp.weixin.qq.com/s/vCSs7clLBx8jzEvU9Mscag)
+
+[便利贴翻页效果](https://mp.weixin.qq.com/s/iOBl1Gc9FFM0cBYj6P2U8A)
+
 [Android 手势检测实战 打造支持缩放平移的图片预览效果（上）](https://blog.csdn.net/lmj623565791/article/details/39474553)  
 [Android 手势检测实战 打造支持缩放平移的图片预览效果（下）](https://blog.csdn.net/lmj623565791/article/details/39480503)
 

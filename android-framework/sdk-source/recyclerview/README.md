@@ -56,6 +56,10 @@
 [深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)  
 [深入理解 RecyclerView 系列之二：ItemAnimator](https://blog.piasy.com/2016/04/04/Insight-Android-RecyclerView-ItemAnimator/index.html)
 
+[RecyclerView 性能优化 \| 把加载表项耗时减半 \(一\)](https://juejin.cn/post/6939666015500369950)    
+[RecyclerView 性能优化 \| 把加载表项耗时减半 \(二\)](https://juejin.cn/post/6942276625090215943)    
+[RecyclerView 性能优化 \| 把加载表项耗时减半 \(三\)](https://juejin.cn/post/6954892589539524615)
+
 [Scrolling RecyclerView – Part 1](https://blog.stylingandroid.com/scrolling-recyclerview-part-1/)  
 [Scrolling RecyclerView – Part 2](https://blog.stylingandroid.com/scrolling-recycler-view-part-2/)  
 [Scrolling RecyclerView – Part 3](https://blog.stylingandroid.com/scrolling-recyclerview-part-3/)

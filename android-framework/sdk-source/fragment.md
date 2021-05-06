@@ -119,6 +119,12 @@
 
 [源码分析commitAllowingStateLoss\(\) 和commit\(\)的区别](https://blog.csdn.net/freelander_j/article/details/52925745)
 
+[fragment事务源码流程分析](https://mp.weixin.qq.com/s/KGlU9PhNX61Qd2JlmWkbog)
+
+[fragment状态管理源码解析](https://mp.weixin.qq.com/s/nvoBtDCz2DJVsBKmOr3ySA)
+
 [Fragment源码中的七把利刃\(上\)](https://www.jianshu.com/p/e15c74f86303)  
 [Fragment源码中的七把利刃\(下\)](https://www.jianshu.com/p/0415cc245ee7)
+
+
 
