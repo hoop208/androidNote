@@ -20,6 +20,8 @@
 
 [协程初探](https://mp.weixin.qq.com/s/ow08QIgilYRSRMjqC-yL8w)
 
+[了解Kotlin协程实现原理这篇就够了](https://mp.weixin.qq.com/s/lIUsrJZumxqYexzW_x_t7A)
+
 [A glimpse of Async-Await on Android](https://medium.com/@nhaarman/async-await-in-android-f0202cf31088#.bpzsiyz97)
 
 [Coroutines in Kotlin 1.3 explained: Suspending functions, contexts, builders and scopes](https://antonioleiva.com/kotlin-coroutines/)
