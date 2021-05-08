@@ -8,6 +8,8 @@
 
 [WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
 
+[Implementing Android App Shortcuts](https://medium.com/@andreworobator/implementing-android-app-shortcuts-74feb524959b)
+
 ## 状态栏
 
 [随手记Android沉浸式状态栏的踩坑之路](https://juejin.im/post/5a25f6146fb9a0452405ad5b)
