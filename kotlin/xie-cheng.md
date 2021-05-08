@@ -22,6 +22,12 @@
 
 [了解Kotlin协程实现原理这篇就够了](https://mp.weixin.qq.com/s/lIUsrJZumxqYexzW_x_t7A)
 
+[Kotlin协程是个什么东西？](https://mp.weixin.qq.com/s/ROU5rjS2aLBgOORDlZo47A)
+
+[Kotlin协程-特殊的阻塞协程](https://mp.weixin.qq.com/s/wYugZcfKH8r1DiAKPVcRww)
+
+[使用协程和flow简化api设计](https://mp.weixin.qq.com/s/eDwjhynLVwIgzuu2OFRluQ)
+
 [A glimpse of Async-Await on Android](https://medium.com/@nhaarman/async-await-in-android-f0202cf31088#.bpzsiyz97)
 
 [Coroutines in Kotlin 1.3 explained: Suspending functions, contexts, builders and scopes](https://antonioleiva.com/kotlin-coroutines/)
