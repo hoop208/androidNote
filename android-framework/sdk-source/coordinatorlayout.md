@@ -96,6 +96,8 @@ behavior
 
 [BottomNavigationView--基本使用总结](https://www.jianshu.com/p/aa499cc64f72)
 
+[Android -Working with Bottom Sheet](https://ahmedbasalib17.medium.com/android-working-with-bottom-sheet-d7ab41c277e7)
+
 源码解析
 
 [BottomSheets源码解析](https://github.com/android-cjj/SourceAnalysis)
@@ -117,6 +119,10 @@ behavior
 [嵌套滑动机制解析](https://blog.csdn.net/lmj623565791/article/details/52204039)
 
 [嵌套滚动设计和源码分析 VerticalNestedScrollLayout 的使用](https://blog.klmobile.app/2018/04/03/vertical-nested-scroll-layout/)
+
+[Nested scrolling - living life on the edge](https://chris.banes.dev/designing-the-design-library-jp/)
+
+[Experimenting with Nested Scrolling](https://www.androiddesignpatterns.com/2018/01/experimenting-with-nested-scrolling.html)
 
 ## SwipeRefreshLayout
 
