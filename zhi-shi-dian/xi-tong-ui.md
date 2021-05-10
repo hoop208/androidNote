@@ -10,6 +10,10 @@
 
 [Implementing Android App Shortcuts](https://medium.com/@andreworobator/implementing-android-app-shortcuts-74feb524959b)
 
+[Android Widgets](https://medium.com/android-bits/android-widgets-ad3d166458d3)
+
+[Exploring Android Nougat 7.1 App Shortcuts](https://blog.novoda.com/exploring-android-nougat-7-1-app-shortcuts/)
+
 ## 状态栏
 
 [随手记Android沉浸式状态栏的踩坑之路](https://juejin.im/post/5a25f6146fb9a0452405ad5b)
