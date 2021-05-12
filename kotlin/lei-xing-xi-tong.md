@@ -170,6 +170,8 @@
 
 ## 析构声明
 
+[析构函数声明](https://mp.weixin.qq.com/s/UW94-RwMgjFCce8dsJhWaA)
+
 [Pair and Triple in Kotlin](https://blog.mindorks.com/pair-and-triple-in-kotlin)
 
 [Breaking down destructuring declarations](https://medium.com/androiddevelopers/breaking-down-destructuring-declarations-e21334ac1e9)

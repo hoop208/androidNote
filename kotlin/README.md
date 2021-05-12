@@ -147,7 +147,8 @@
 [Kotlin Vocabulary \| 内联类 inline class](https://zhuanlan.zhihu.com/p/141707337)  
 [Kotlin Vocabulary \| Reified: 类型擦除后再生计划](https://zhuanlan.zhihu.com/p/255198214)  
 [Kotlin Vocabulary \| 唯一的 "对象"](https://zhuanlan.zhihu.com/p/269710866)  
-[Kotlin Vocabulary \| 操作符重载](https://zhuanlan.zhihu.com/p/269028612)
+[Kotlin Vocabulary \| 操作符重载](https://zhuanlan.zhihu.com/p/269028612)    
+[Kotlin Vocabulary \| Kotlin 内建代理](https://mp.weixin.qq.com/s/nbM6qSa5mtPGIC2JCqhmGQ)
 
 [Kotlin Standard Library Safari: Strings](https://dev.to/kotlin/kotlin-standard-library-safari-strings-3lj1)  
 [Tips and tricks for your Kotlin code explorations](https://dev.to/kotlin/tips-and-tricks-for-your-kotlin-code-explorations-40i9)
