@@ -66,3 +66,10 @@
 
 [使用Google开源库AutoService进行组件化开发](https://mp.weixin.qq.com/s/MWZC6txNAnXUTCPnA9SEfw)
 
+[Shimmer Effect in Android](https://medium.com/geekculture/shimmer-effect-in-android-2b6840cc0097)
+
+
+
+[  
+](https://emre-arslan.medium.com/?source=post_page-----2b6840cc0097--------------------------------)
+
