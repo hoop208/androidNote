@@ -30,6 +30,9 @@
 
 [Room 中的数据库关系](https://zhuanlan.zhihu.com/p/111267510)
 
+[Room 🔗 Flow](https://medium.com/androiddevelopers/room-flow-273acffe5b57)[  
+](https://medium.com/@florina.muntenescu?source=post_page-----273acffe5b57--------------------------------)
+
 ## AndroidX
 
 [AndroidX 你好，android.support 再见 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
