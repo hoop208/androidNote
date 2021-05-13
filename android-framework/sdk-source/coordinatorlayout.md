@@ -58,6 +58,8 @@ behavior
 
 [Quick return with CoordinatorLayout](https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1)
 
+[Creating an interactive and collapsible toolbar on Android](https://dzolnai.medium.com/creating-an-interactive-and-collapsible-toolbar-on-android-53ae93d9b343)
+
 ## AppBarlayout
 
 使用
