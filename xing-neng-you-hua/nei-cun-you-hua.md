@@ -20,6 +20,10 @@
 
 [高效 Android 非托管内存分析解决方案 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/YceurxZiLjlVQn54nceAbg)
 
+[全民K歌内存篇1——线上监控与综合治理](https://mp.weixin.qq.com/s/KWaueLMZwwLSjGGJya6qFA)    
+[全民K歌内存篇2——虚拟内存浅析](https://mp.weixin.qq.com/s/pbLLLCXlkz6gp9ps65rMYA)    
+[全民K歌内存篇3——native内存分析与监控](https://mp.weixin.qq.com/s/0cF5Q6_LXrkLAdjkXIwrVQ)
+
 ## OOM
 
 [Probe：Android线上OOM问题定位组件](https://mp.weixin.qq.com/s/UUTPl8MoPJUJqTd3PCkuJw)
