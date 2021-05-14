@@ -30,8 +30,10 @@
 
 [Room 中的数据库关系](https://zhuanlan.zhihu.com/p/111267510)
 
-[Room 🔗 Flow](https://medium.com/androiddevelopers/room-flow-273acffe5b57)[  
-](https://medium.com/@florina.muntenescu?source=post_page-----273acffe5b57--------------------------------)
+[Room 🔗 Flow](https://medium.com/androiddevelopers/room-flow-273acffe5b57)
+
+[Database relations with Room](https://medium.com/androiddevelopers/database-relations-with-room-544ab95e4542)[  
+](https://medium.com/@florina.muntenescu?source=post_page-----544ab95e4542--------------------------------)
 
 ## AndroidX
 
