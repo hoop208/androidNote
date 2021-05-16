@@ -78,6 +78,8 @@ behavior
 
 [Android 详细分析AppBarLayout的五种ScrollFlags](https://www.jianshu.com/p/7caa5f4f49bd)
 
+[Overscroll AppBarLayout Behavior](https://medium.com/@nullthemall/overscroll-appbarlayout-behavior-e58f1ee2807#.xpvxdfan4)
+
 源码:
 
 [关于CoordinatorLayout AppBarLayout原理的一些分析](https://www.jianshu.com/p/cef61247fd30)
