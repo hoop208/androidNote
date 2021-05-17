@@ -20,6 +20,12 @@
 
 [Gradle工作原理全面了解](https://mp.weixin.qq.com/s/Y5O6W03iJU8e3d3kNDgVqw)
 
+[使用构建分析器分析应用性能](https://mp.weixin.qq.com/s/WUEgWCua81_4w8xP1Z8MNA)
+
+[Gradle 引入构建审视（Build Scans）功能](https://www.infoq.cn/article/2017/01/gradle-build-scans)
+
+[快速迁移gradle脚本至kts](https://mp.weixin.qq.com/s/mVqShijGTExtQ_nLslchpQ)
+
 [Save time and reduce risk with Gradle’s includeGroup](https://jebware.com/blog/?p=573)
 
 [Archive addition Android artifacts with Gradle.](http://wiebe-elsinga.com/blog/archive-addition-android-artifacts-with-gradle/)
@@ -51,6 +57,8 @@
 [implementation、api、compileOnly区别详解](https://blog.csdn.net/yuzhiqiang_1993/article/details/78366985)
 
 [build.gradle管理依赖的版本](https://juejin.im/entry/59918304518825489151732d)
+
+[kotlin+buildsrc:更好的管理gradle依赖](https://mp.weixin.qq.com/s/FvPHS-_5sLftUFhUe9Ktcg)
 
 [Dynamic Android dependency versions done right](https://brock.io/post/repeatable_android_builds/)
 
