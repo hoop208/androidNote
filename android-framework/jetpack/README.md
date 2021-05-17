@@ -35,6 +35,8 @@
 [Database relations with Room](https://medium.com/androiddevelopers/database-relations-with-room-544ab95e4542)[  
 ](https://medium.com/@florina.muntenescu?source=post_page-----544ab95e4542--------------------------------)
 
+[7 Steps To Room](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)
+
 ## AndroidX
 
 [AndroidX 你好，android.support 再见 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
