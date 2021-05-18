@@ -32,12 +32,23 @@
 
 [Room 🔗 Flow](https://medium.com/androiddevelopers/room-flow-273acffe5b57)
 
-[Database relations with Room](https://medium.com/androiddevelopers/database-relations-with-room-544ab95e4542)[  
-](https://medium.com/@florina.muntenescu?source=post_page-----544ab95e4542--------------------------------)
+[Database relations with Room](https://medium.com/androiddevelopers/database-relations-with-room-544ab95e4542)
+
+[Testing Room migrations](https://medium.com/androiddevelopers/testing-room-migrations-be93cdb0d975)
 
 [7 Steps To Room](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)
 
-## AndroidX
+[Testing Room migrations](https://medium.com/androiddevelopers/testing-room-migrations-be93cdb0d975)
+
+[7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
+
+[Room 🔗 Coroutines](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5)
+
+[Packing the Room: pre-populate your database with this one method](https://medium.com/androiddevelopers/packing-the-room-pre-populate-your-database-with-this-one-method-333ae190e680)
+
+[Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)
+
+### AndroidX
 
 [AndroidX 你好，android.support 再见 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)
 
