@@ -6,8 +6,6 @@
 
 [Android性能调优利器StrictMode](https://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
 
-[弱网下移动端网络连接处理策略](https://segmentfault.com/a/1190000006733978)
-
 [android app性能优化系列笔记](https://www.jianshu.com/p/f7006ab64da7)
 
 [app定位过于频繁，我用反射+动态代理揪出元凶](https://mp.weixin.qq.com/s/MymuAmMWyshUxQqGDYhBKA)
@@ -35,4 +33,12 @@
 [Android性能优化（十）之App瘦身攻略](https://juejin.im/post/59113583ac502e450280e5f3)  
 [Android 性能优化（十一）之正确的异步姿势](https://juejin.im/post/591bea3d8d6d8100589c31da)  
 [Android 性能优化（十二）之我为什么写性能优化](https://juejin.im/post/592445fb128fe1005c41a158)
+
+### 网络优化
+
+[HttpDns 原理是什么](http://www.linkedkeeper.com/171.html)
+
+[Android 网络优化，使用 HTTPDNS 优化 DNS，从原理到 OkHttp 集成](https://www.cnblogs.com/plokmju/p/okhttp_httpdns.html)
+
+[弱网下移动端网络连接处理策略](https://segmentfault.com/a/1190000006733978)
 
