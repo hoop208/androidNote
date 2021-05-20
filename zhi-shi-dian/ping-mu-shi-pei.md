@@ -58,6 +58,8 @@ Android 10：
 
 ## 知识点
 
+[12 年！Android 系统的漫漫设计路](https://mp.weixin.qq.com/s/au-YtM51PKOuez4mUWA5BQ)
+
 [rtl应用适配](https://mp.weixin.qq.com/s/n0uetc2lCzuu14p6ME2tOQ)
 
 [DARK MODE MUSINGS: BEWARE OF THE CONTEXT](https://riggaroo.co.za/dark-mode-musings-beware-of-the-context/)
