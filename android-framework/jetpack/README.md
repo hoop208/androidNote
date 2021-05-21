@@ -48,6 +48,16 @@
 
 [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)
 
+[Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
+
+[Room DB Migrations in Android](https://medium.com/swlh/room-db-migrations-in-android-be9d5a045235)
+
+[How does Room work internally?](https://medium.com/mindorks/how-does-room-work-internally-c17572b03bed)
+
+[How to create M:N Relationship with Room and Kotlin  
+](https://itnext.io/how-to-create-m-n-relationship-with-room-and-kotlin-ddbdebf0ee38)[  
+](https://pavelparradomarin.medium.com/?source=post_page-----be9d5a045235--------------------------------)
+
 ### AndroidX
 
 [AndroidX 你好，android.support 再见 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/JZumvYYR0TmYkg-J_unSAw)

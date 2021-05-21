@@ -2,8 +2,6 @@
 
 ## 知识点
 
-[深入浅出，Andorid 端屏幕采集技术实践](https://mp.weixin.qq.com/s/zyyokaRNLhY5OI55OfRttA)
-
 [Android 视图架构详解](https://juejin.im/entry/571338c7c4c9710054cea455)
 
 [Android中的GraphicBuffer同步机制-Fence](https://blog.csdn.net/jinzhuojun/article/details/39698317)
