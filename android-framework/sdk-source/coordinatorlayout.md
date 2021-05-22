@@ -60,6 +60,10 @@ behavior
 
 [Creating an interactive and collapsible toolbar on Android](https://dzolnai.medium.com/creating-an-interactive-and-collapsible-toolbar-on-android-53ae93d9b343)
 
+[Customizing CoordinatorLayout’s Behavior](https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/)
+
+[Integrate CoordinatorLayout + BottomNavigationView + Toolbar + TabLayout + ViewPager + Fragment + DrawerLayout](https://medium.com/@tonythompsoncmu/integrate-coordinatorlayout-bottomnavigationview-toolbar-tablayout-viewpager-fragment-e4268e83b475)
+
 ## AppBarlayout
 
 使用
@@ -79,6 +83,11 @@ behavior
 [Android 详细分析AppBarLayout的五种ScrollFlags](https://www.jianshu.com/p/7caa5f4f49bd)
 
 [Overscroll AppBarLayout Behavior](https://medium.com/@nullthemall/overscroll-appbarlayout-behavior-e58f1ee2807#.xpvxdfan4)
+
+[AppBar – Part 1](https://blog.stylingandroid.com/appbar-part-1/)    
+[AppBar – Part 2](https://blog.stylingandroid.com/appbar-part-2/)    
+[AppBar – Part 3](https://blog.stylingandroid.com/appbar-part-3/)    
+[AppBar – Part 4](https://blog.stylingandroid.com/appbar-part-4/)
 
 源码:
 
