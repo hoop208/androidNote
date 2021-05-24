@@ -22,40 +22,7 @@
 
 [Android 应用架构新时代来临! \| 开发者说·DTalk](https://mp.weixin.qq.com/s/O97QOlZF1LtMfta_l8JE0A)  
 [【AAC 系列二】深入理解架构组件的基石：Lifecycle](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872556&idx=1&sn=6734027d9ca7e4db67fdbad657f7c862&scene=19#wechat_redirect)  
-[【AAC 系列三】深入理解架构组件：LiveData](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872586&idx=1&sn=a241722abdcec06a7fc364742660dc32&scene=19#wechat_redirect)
-
-## Room
-
-[谷歌官方Android应用架构库——Room 持久化库](http://blog.csdn.net/hubinqiang/article/details/73012353)
-
-[Room 中的数据库关系](https://zhuanlan.zhihu.com/p/111267510)
-
-[Room 🔗 Flow](https://medium.com/androiddevelopers/room-flow-273acffe5b57)
-
-[Database relations with Room](https://medium.com/androiddevelopers/database-relations-with-room-544ab95e4542)
-
-[Testing Room migrations](https://medium.com/androiddevelopers/testing-room-migrations-be93cdb0d975)
-
-[7 Steps To Room](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)
-
-[Testing Room migrations](https://medium.com/androiddevelopers/testing-room-migrations-be93cdb0d975)
-
-[7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
-
-[Room 🔗 Coroutines](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5)
-
-[Packing the Room: pre-populate your database with this one method](https://medium.com/androiddevelopers/packing-the-room-pre-populate-your-database-with-this-one-method-333ae190e680)
-
-[Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)
-
-[Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
-
-[Room DB Migrations in Android](https://medium.com/swlh/room-db-migrations-in-android-be9d5a045235)
-
-[How does Room work internally?](https://medium.com/mindorks/how-does-room-work-internally-c17572b03bed)
-
-[How to create M:N Relationship with Room and Kotlin  
-](https://itnext.io/how-to-create-m-n-relationship-with-room-and-kotlin-ddbdebf0ee38)[  
+[【AAC 系列三】深入理解架构组件：LiveData](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872586&idx=1&sn=a241722abdcec06a7fc364742660dc32&scene=19#wechat_redirect)[  
 ](https://pavelparradomarin.medium.com/?source=post_page-----be9d5a045235--------------------------------)
 
 ### AndroidX
