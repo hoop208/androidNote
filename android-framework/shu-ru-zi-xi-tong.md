@@ -58,6 +58,8 @@
 
 [反思\|Android 事件分发机制的设计与实现](https://mp.weixin.qq.com/s/9rycOCr5GyfiQwJy0YSUUw)
 
+[View 事件分发机制，看这一篇就够了](https://mp.weixin.qq.com/s/MhHTKwywee_GQBOKqZv3Eg)
+
 [Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
 
 [事件分发一 activity对触摸事件的分发流程](https://mp.weixin.qq.com/s/-Y3yCl2ONVQnBkWnp2UVGQ)  
