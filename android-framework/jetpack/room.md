@@ -26,25 +26,23 @@
 
 [Room DB Migrations in Android](https://medium.com/swlh/room-db-migrations-in-android-be9d5a045235)
 
-[How does Room work internally?](https://medium.com/mindorks/how-does-room-work-internally-c17572b03bed)
-
 [How to create M:N Relationship with Room and Kotlin](https://itnext.io/how-to-create-m-n-relationship-with-room-and-kotlin-ddbdebf0ee38)
 
-[Data Access Objects — DAO in Room](https://medium.com/mindorks/data-access-objects-dao-in-room-3d108d6b4b54)
+[How to map Custom SQL queries to Data Objects in Android Room Database](https://medium.com/wonderquill/how-to-map-custom-sql-queries-to-data-objects-in-android-room-database-80270ace00d8)
 
-[Entity Relationship in Room](https://medium.com/mindorks/entity-relationship-in-room-b61cfcbf395)
-
-[Introduction to Room Persistent Library in Android](https://medium.com/mindorks/introduction-to-room-persistent-library-in-android-5d7c340d0fbc)
-
-[Room Database Migrations](https://medium.com/mindorks/room-database-migrations-35a57bdd0ce6)
-
+[Introduction to Room Persistent Library in Android](https://medium.com/mindorks/introduction-to-room-persistent-library-in-android-5d7c340d0fbc)    
+[Data Access Objects — DAO in Room](https://medium.com/mindorks/data-access-objects-dao-in-room-3d108d6b4b54)    
+[Entity Relationship in Room](https://medium.com/mindorks/entity-relationship-in-room-b61cfcbf395)    
+[How does Room work internally?](https://medium.com/mindorks/how-does-room-work-internally-c17572b03bed)    
+[Room Database Migrations](https://medium.com/mindorks/room-database-migrations-35a57bdd0ce6)    
 [Using Room with LiveData and other third-party libraries](https://medium.com/mindorks/using-room-with-live-data-and-other-third-party-libraries-18000fe017b2)
 
-[Android Architecture Components: Room — Relationships](https://medium.com/android-news/android-architecture-components-room-relationships-bf473510c14a)
-
+[Android Architecture Components: Room — Introduction](https://medium.com/android-news/android-architecture-components-room-introduction-4774dd72a1ae)    
+[Android Architecture Components: Room — Relationships](https://medium.com/android-news/android-architecture-components-room-relationships-bf473510c14a)    
+[Android Architecture Components: Room — Custom Types](https://medium.com/android-news/android-architecture-components-room-custom-types-ad6a477004e0)    
 [Android Architecture Components: Room — Migration](https://medium.com/android-news/android-architecture-components-room-migration-1a269e1aeef7)
 
-[Android Architecture Components: Room — Custom Types](https://medium.com/android-news/android-architecture-components-room-custom-types-ad6a477004e0)
+
 
 [  
 ](https://pszklarska.medium.com/?source=post_page-----ad6a477004e0--------------------------------)[  
