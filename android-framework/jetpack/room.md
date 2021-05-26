@@ -26,34 +26,25 @@
 
 [Room DB Migrations in Android](https://medium.com/swlh/room-db-migrations-in-android-be9d5a045235)
 
+[How does Room work internally?](https://medium.com/mindorks/how-does-room-work-internally-c17572b03bed)
+
 [How to create M:N Relationship with Room and Kotlin](https://itnext.io/how-to-create-m-n-relationship-with-room-and-kotlin-ddbdebf0ee38)
 
-[How to map Custom SQL queries to Data Objects in Android Room Database](https://medium.com/wonderquill/how-to-map-custom-sql-queries-to-data-objects-in-android-room-database-80270ace00d8)
+[Data Access Objects — DAO in Room](https://medium.com/mindorks/data-access-objects-dao-in-room-3d108d6b4b54)
 
-[How to make an offline cache in android using Room database and MVVM architecture? 👨‍💻](https://divyanshutw.medium.com/how-to-make-an-offline-cache-in-android-using-room-database-and-mvvm-architecture-6d1b011e819c)[  
-](https://divyanshutw.medium.com/how-to-make-an-offline-cache-in-android-using-room-database-and-mvvm-architecture-6d1b011e819c)
+[Entity Relationship in Room](https://medium.com/mindorks/entity-relationship-in-room-b61cfcbf395)
 
-[Using Room Database- Android](https://nandishswarup.medium.com/using-room-database-android-123918d3b795)
+[Introduction to Room Persistent Library in Android](https://medium.com/mindorks/introduction-to-room-persistent-library-in-android-5d7c340d0fbc)
 
-[Using Room Database \| Android Jetpack in Android Apps](https://medium.com/swlh/using-room-database-android-jetpack-in-android-apps-dc8526517b6a)
+[Room Database Migrations](https://medium.com/mindorks/room-database-migrations-35a57bdd0ce6)
 
-[Android Room Hidden Costs](https://krossovochkin.com/posts/2020_12_18_android_room_hidden_costs/)
-
-[Basic Implementation of Room Database With Repository and ViewModel \| Android Jetpack](https://medium.com/swlh/basic-implementation-of-room-database-with-repository-and-viewmodel-android-jetpack-8945b364d322)
-
-[Introduction to Room Persistent Library in Android](https://medium.com/mindorks/introduction-to-room-persistent-library-in-android-5d7c340d0fbc)    
-[Data Access Objects — DAO in Room](https://medium.com/mindorks/data-access-objects-dao-in-room-3d108d6b4b54)    
-[Entity Relationship in Room](https://medium.com/mindorks/entity-relationship-in-room-b61cfcbf395)    
-[How does Room work internally?](https://medium.com/mindorks/how-does-room-work-internally-c17572b03bed)    
-[Room Database Migrations](https://medium.com/mindorks/room-database-migrations-35a57bdd0ce6)    
 [Using Room with LiveData and other third-party libraries](https://medium.com/mindorks/using-room-with-live-data-and-other-third-party-libraries-18000fe017b2)
 
-[Android Architecture Components: Room — Introduction](https://medium.com/android-news/android-architecture-components-room-introduction-4774dd72a1ae)    
-[Android Architecture Components: Room — Relationships](https://medium.com/android-news/android-architecture-components-room-relationships-bf473510c14a)    
-[Android Architecture Components: Room — Custom Types](https://medium.com/android-news/android-architecture-components-room-custom-types-ad6a477004e0)    
+[Android Architecture Components: Room — Relationships](https://medium.com/android-news/android-architecture-components-room-relationships-bf473510c14a)
+
 [Android Architecture Components: Room — Migration](https://medium.com/android-news/android-architecture-components-room-migration-1a269e1aeef7)
 
-
+[Android Architecture Components: Room — Custom Types](https://medium.com/android-news/android-architecture-components-room-custom-types-ad6a477004e0)
 
 [  
 ](https://pszklarska.medium.com/?source=post_page-----ad6a477004e0--------------------------------)[  

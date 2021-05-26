@@ -4,7 +4,11 @@
 
 [Android input 子系统:input进程的创建 监听线程的启动](https://mp.weixin.qq.com/s/h0kGWizIYn6FqBItwQJ7kQ)
 
+[我把Android 10手势导航的侧滑返回效果优化了一波](https://mp.weixin.qq.com/s/1a9VAjsKW25rJUxH5pBG9A)
+
 ## 软键盘
+
+[Android软键盘原理篇](https://mp.weixin.qq.com/s/vq0V1JWpyg6T5USCvGx_zA)
 
 [Keyboard Handling on Android](https://pspdfkit.com/blog/2016/keyboard-handling-on-android/)
 
