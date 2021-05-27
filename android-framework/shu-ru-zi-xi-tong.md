@@ -6,6 +6,10 @@
 
 [我把Android 10手势导航的侧滑返回效果优化了一波](https://mp.weixin.qq.com/s/1a9VAjsKW25rJUxH5pBG9A)
 
+[Android input之ims初始化](https://mp.weixin.qq.com/s/Q9-T5fYg3TC3eMMfOl1Zhg)
+
+[Android设备按键详解](https://mp.weixin.qq.com/s/3wPz7kO96RH8ZMJpuEceFA)
+
 ## 软键盘
 
 [Android软键盘原理篇](https://mp.weixin.qq.com/s/vq0V1JWpyg6T5USCvGx_zA)
