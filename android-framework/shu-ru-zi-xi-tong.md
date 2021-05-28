@@ -16,6 +16,9 @@
 
 [Keyboard Handling on Android](https://pspdfkit.com/blog/2016/keyboard-handling-on-android/)
 
+[实现边到边的体验 让你的软键盘动起来\(一\)](https://mp.weixin.qq.com/s/U_c1l25kSUwnVLcIWYVBcQ)     
+[响应窗口视图动画 让你的软键盘动起来\(二\)](https://mp.weixin.qq.com/s/RhTHRh41xDSx-wBtuZvP8w)
+
 ## 事件分发机制
 
 [事件如何到达activity](https://mp.weixin.qq.com/s/cDuSEUAXjZ5vXBdeqjLlyQ)
