@@ -10,16 +10,21 @@
 
 [Android设备按键详解](https://mp.weixin.qq.com/s/3wPz7kO96RH8ZMJpuEceFA)
 
-## 软键盘
+[开启全面屏体验 \| 手势导航 \(一\)](https://zhuanlan.zhihu.com/p/92906684)    
+[处理视觉冲突 \| 手势导航 \(二\)](https://zhuanlan.zhihu.com/p/94082454)
+
+[实现边到边的体验 让你的软键盘动起来\(一\)](https://mp.weixin.qq.com/s/U_c1l25kSUwnVLcIWYVBcQ)     
+[响应窗口视图动画 让你的软键盘动起来\(二\)](https://mp.weixin.qq.com/s/RhTHRh41xDSx-wBtuZvP8w)    
+[如何处理手势冲突 \| 手势导航连载 \(三\)](https://zhuanlan.zhihu.com/p/97576915)    
+[沉浸模式 \| 手势导航连载 \(四\)](https://zhuanlan.zhihu.com/p/99696248)
+
+## 软键盘  
 
 [Android软键盘原理篇](https://mp.weixin.qq.com/s/vq0V1JWpyg6T5USCvGx_zA)
 
 [Keyboard Handling on Android](https://pspdfkit.com/blog/2016/keyboard-handling-on-android/)
 
-[实现边到边的体验 让你的软键盘动起来\(一\)](https://mp.weixin.qq.com/s/U_c1l25kSUwnVLcIWYVBcQ)     
-[响应窗口视图动画 让你的软键盘动起来\(二\)](https://mp.weixin.qq.com/s/RhTHRh41xDSx-wBtuZvP8w)
-
-## 事件分发机制
+### 事件分发机制
 
 [事件如何到达activity](https://mp.weixin.qq.com/s/cDuSEUAXjZ5vXBdeqjLlyQ)
 
@@ -70,6 +75,8 @@
 [反思\|Android 事件分发机制的设计与实现](https://mp.weixin.qq.com/s/9rycOCr5GyfiQwJy0YSUUw)
 
 [View 事件分发机制，看这一篇就够了](https://mp.weixin.qq.com/s/MhHTKwywee_GQBOKqZv3Eg)
+
+[TouchDelegate 的这些盲区了解一下？](https://mp.weixin.qq.com/s/FOjnC8djhrBfFtoIWvMk5A)
 
 [Android change touch area of View by TouchDelegate](https://android.jlelse.eu/android-change-touch-area-of-view-by-touchdelegate-fc19f2a34021)
 
