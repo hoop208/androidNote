@@ -6,6 +6,8 @@
 
 [Android 所有动画系列详尽教程](https://github.com/OCNYang/Android-Animation-Set)
 
+[Android到底有多少种动画？准确告诉你](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843877&idx=1&sn=be972af7dcb8babcb29778f102646254&scene=19#wechat_redirect)
+
 [Android 属性动画（Property Animation） 完全解析 （上）](https://blog.csdn.net/lmj623565791/article/details/38067475)  
 [Android 属性动画（Property Animation） 完全解析 （下）](https://blog.csdn.net/lmj623565791/article/details/38092093)
 
