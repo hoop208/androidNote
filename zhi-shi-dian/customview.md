@@ -6,14 +6,6 @@
 
 [Android 所有动画系列详尽教程](https://github.com/OCNYang/Android-Animation-Set)
 
-[Android到底有多少种动画？准确告诉你](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843877&idx=1&sn=be972af7dcb8babcb29778f102646254&scene=19#wechat_redirect)
-
-[深入浅出讲解丝滑般动画特效实现原理](https://mp.weixin.qq.com/s/6u17dHCUhCEW3UquCur8EQ)
-
-[Exploring Meaningful Motion on Android](https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d#.5g5wuvdao)
-
-[Using Transitions API to Create Android App Animations](https://www.azoft.com/blog/android-app-animations/)
-
 [Android 属性动画（Property Animation） 完全解析 （上）](https://blog.csdn.net/lmj623565791/article/details/38067475)  
 [Android 属性动画（Property Animation） 完全解析 （下）](https://blog.csdn.net/lmj623565791/article/details/38092093)
 

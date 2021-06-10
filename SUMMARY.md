@@ -3,7 +3,7 @@
 * [索引](README.md)
 * [开源项目](open-source-project/README.md)
   * [Glide](open-source-project/glide.md)
-  * [dagger2](open-source-project/dagger2.md)
+  * [依赖注入](open-source-project/dagger2.md)
   * [Gson](open-source-project/gson.md)
   * [OKHTTP](open-source-project/okhttp.md)
   * [Retrofit](open-source-project/retrofit.md)

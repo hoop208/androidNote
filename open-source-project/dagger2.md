@@ -1,6 +1,10 @@
-# dagger2
+# 依赖注入
 
-## Dagger
+## 知识点
+
+[A quick intro to Dependency Injection: what it is, and when to use it](https://medium.com/free-code-camp/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
+
+### Dagger
 
 [实战dagger2教程](https://github.com/luxiaoming/dagger2Demo)
 
