@@ -68,5 +68,5 @@
   * [Flow](kotlin/flow.md)
 * [应用构建](ying-yong-gou-jian/README.md)
   * [gradle](ying-yong-gou-jian/gradle.md)
-  * [其它](ying-yong-gou-jian/qi-ta.md)
+  * [热更新](ying-yong-gou-jian/qi-ta.md)
 
