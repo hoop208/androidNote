@@ -1,39 +1,12 @@
-# 自定义控件&动画
+# 自定义控件
 
-## 动画
-
-[Android 属性动画 源码解析 深入了解其内部实现](https://blog.csdn.net/lmj623565791/article/details/42056859)
-
-[Android 所有动画系列详尽教程](https://github.com/OCNYang/Android-Animation-Set)
-
-[Android到底有多少种动画？准确告诉你](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843877&idx=1&sn=be972af7dcb8babcb29778f102646254&scene=19#wechat_redirect)
-
-[深入浅出讲解丝滑般动画特效实现原理](https://mp.weixin.qq.com/s/6u17dHCUhCEW3UquCur8EQ)
-
-[Exploring Meaningful Motion on Android](https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d#.5g5wuvdao)
-
-[Using Transitions API to Create Android App Animations](https://www.azoft.com/blog/android-app-animations/)
-
-[Polishing UI: Android StateListAnimator](https://medium.com/android-news/polishing-ui-android-statelistanimator-7b74a06b85a5)
-
-[Animate all the things. Transitions in Android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.jlctdpkq0)
-
-[StateListAnimator](https://blog.stylingandroid.com/statelistanimator/)
-
-[Animation: Jump-through](https://medium.com/androiddevelopers/animation-jump-through-861f4f5b3de4#.psphnug0b)
-
-[An Introduction to Icon Animation Techniques](https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
-
-[Android 属性动画（Property Animation） 完全解析 （上）](https://blog.csdn.net/lmj623565791/article/details/38067475)  
-[Android 属性动画（Property Animation） 完全解析 （下）](https://blog.csdn.net/lmj623565791/article/details/38092093)
-
-## 资料
+### 资料
 
 [android学习笔记](https://github.com/GcsSloop/AndroidNote)
 
 [给高级 Android 工程师的进阶手册](https://hencoder.com/)
 
-## 自定义控件
+### 知识点
 
 [Android Drawable 那些不为人知的高效用法](https://blog.csdn.net/lmj623565791/article/details/43752383)
 
