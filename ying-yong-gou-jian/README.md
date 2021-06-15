@@ -114,6 +114,8 @@
 
 [Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
 
+[Android全量编译加速——（透明依赖）](https://mp.weixin.qq.com/s/tK9z6QjMvMeakpTHdTBBBg)
+
 [Free Up System Resources For Faster Gradle Builds](https://goobar.io/free-up-system-resources-for-faster-gradle-builds/)
 
 [Benchmarking Gradle Builds Using Gradle-Profiler](https://goobar.io/benchmarking-gradle-builds-using-gradle-profiler/)

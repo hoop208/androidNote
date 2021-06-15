@@ -2,6 +2,8 @@
 
 ## 知识点
 
+[在 Android 中使用生物识别](https://mp.weixin.qq.com/s/udQSRo7YaywhF7JffwTZtA)
+
 ### 第三方登录
 
 [微信、QQ、新浪微博等第三方登录，你想知道的都在这了（上）](https://www.jianshu.com/p/133d84042483)  
@@ -16,6 +18,8 @@
 [Android ASM自动埋点方案实践](https://www.jianshu.com/p/9039a3e46dbc)
 
 [Android字节码插桩采坑笔记](https://juejin.im/post/5aa0e7eff265da2395308f48)
+
+[强大！ASM插桩实现Android端无埋点性能监控！](https://mp.weixin.qq.com/s/OZvuIyQkdd_IrIKcUpJxRg)
 
 [View的有效曝光监控（上）｜RecyclerView 篇](https://mp.weixin.qq.com/s/pldgHkHPxESvr3ovfcOvTw)    
 [View的有效曝光监控（下）｜ScrollView NestScrollView篇](https://mp.weixin.qq.com/s/_01ZhQG7kVcCWxMXrwANkQ)  

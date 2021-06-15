@@ -44,6 +44,10 @@
 
 [Simple Animations in Android](https://medium.com/@yasmineayad/simple-animation-in-android-acfd26e46998)
 
+[Complex UI/Animations on Android](https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4)
+
+[How to Create a Morphing Animation: A Step-by-Step Guide](https://rubygarage.org/blog/how-to-create-morphing-animation)
+
 [Android 属性动画（Property Animation） 完全解析 （上）](https://blog.csdn.net/lmj623565791/article/details/38067475)  
 [Android 属性动画（Property Animation） 完全解析 （下）](https://blog.csdn.net/lmj623565791/article/details/38092093)
 

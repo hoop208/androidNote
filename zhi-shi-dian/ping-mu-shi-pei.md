@@ -16,7 +16,7 @@
 
 [Android屏幕适配方案分析](https://segmentfault.com/a/1190000019089019?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader3)
 
-## 系统适配&新特性
+### 系统适配&新特性
 
 知识点：
 
@@ -56,7 +56,13 @@ Android 10：
 
 [Android 10 暗黑模式适配，你需要知道的一切](https://mp.weixin.qq.com/s/-YfXiRiTqp9JIPO4vvWizw)
 
-## 知识点
+Android 12:
+
+[Android 12 上全新的应用启动画面，适配一下？](https://mp.weixin.qq.com/s/yfp4uyXXlkVJyDRyuNRAow)
+
+### 知识点
+
+[12 年！Android 系统的漫漫设计路](https://mp.weixin.qq.com/s/au-YtM51PKOuez4mUWA5BQ)
 
 [rtl应用适配](https://mp.weixin.qq.com/s/n0uetc2lCzuu14p6ME2tOQ)
 
