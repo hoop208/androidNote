@@ -26,5 +26,12 @@
 
 ## MDC
 
+[使用mdc实现深色主题](https://mp.weixin.qq.com/s/KDmFIcfGEyx13ChY_gimUg)
+
+[打造material颜色主题 设计篇](https://mp.weixin.qq.com/s/IDwP2GBcMe0VSO4H27z75Q)    
+[打造material颜色主题 实现篇](https://mp.weixin.qq.com/s/ykkaWrpvcuAOF1WO3f42RA)
+
+[打造 Material 形状主题 \| 实现篇](https://mp.weixin.qq.com/s/dUGjvB6yMTKf5gBLkMrEhQ)
+
 [Hands-on with Material Components for Android: Bottom Sheets](https://medium.com/over-engineering/hands-on-with-material-components-for-android-bottom-sheet-970c5f0f1840)
 

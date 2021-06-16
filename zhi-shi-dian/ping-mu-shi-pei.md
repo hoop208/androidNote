@@ -22,6 +22,8 @@
 
 [Android 1.5到10.0 都有哪些新特性？](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843709&idx=1&sn=408c05ae6f5620076cba77d1f72116a3&scene=19#wechat_redirect)
 
+[targetSdkVersion 升级到 29、30 文件处理](https://mp.weixin.qq.com/s/6GMweMK7HeXlErf-6JIomw)
+
 [How To Share Files With Android FileProvider](https://vladsonkin.com/how-to-share-files-with-android-fileprovider/)
 
 Android8.0：
