@@ -116,6 +116,8 @@
 
 [Kotlin扩展函数run,with,let,also和apply的使用和区别](https://mp.weixin.qq.com/s/TzOPjYqiTBO2Wpld2eW-OQ)
 
+[优先使用ktx库](https://mp.weixin.qq.com/s/S0guD327nB0BD7uU05-q3Q)
+
 [Keep your interfaces simple](https://proandroiddev.com/keep-your-interfaces-simple-e025d515e3b9)
 
 [Why Are Kotlin Synthetics Deprecated and What Are the Alternatives?](https://medium.com/better-programming/why-are-kotlin-synthetics-deprecated-and-what-are-the-alternatives-5c2b087dda1c)

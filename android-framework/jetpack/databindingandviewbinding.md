@@ -43,6 +43,8 @@
 
 [使用视图绑定替代 findViewById](https://zhuanlan.zhihu.com/p/112677276)
 
+[kotlin插件的落幕 viewbinding的崛起](https://mp.weixin.qq.com/s/lQUQNJvlOP9GawjlAAJ0VQ)
+
 [View Binding: farewell to Kotlin Syntetic](https://www.rockandnull.com/kotlin-android-extensions-view-binding/)
 
 [Make Android View Binding great with Kotlin](https://proandroiddev.com/make-android-view-binding-great-with-kotlin-b71dd9c87719)
