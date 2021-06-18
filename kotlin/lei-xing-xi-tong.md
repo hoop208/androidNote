@@ -6,6 +6,8 @@
 
 [Kotlin中init代码块和构造方法以及伴生对象中代码的调用时机及执行顺序](https://blog.csdn.net/yuzhiqiang_1993/article/details/87863589)
 
+[Kotlin 中的密封类 优于 带标签的类](https://mp.weixin.qq.com/s/VNxFVGvDU-X3lfenehkGtw)
+
 [The power of types for errors](https://proandroiddev.com/the-power-of-types-for-errors-42e2325ed9c5)
 
 [An in-depth look at Kotlin’s initializers](https://medium.com/keepsafe-engineering/an-in-depth-look-at-kotlins-initializers-a0420fcbf546)
