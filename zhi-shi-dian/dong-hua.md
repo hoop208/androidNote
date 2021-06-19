@@ -48,6 +48,13 @@
 
 [How to Create a Morphing Animation: A Step-by-Step Guide](https://rubygarage.org/blog/how-to-create-morphing-animation)
 
+[View Hierarchy Animations](https://guides.codepath.com/android/View-Hierarchy-Animations)
+
 [Android 属性动画（Property Animation） 完全解析 （上）](https://blog.csdn.net/lmj623565791/article/details/38067475)  
 [Android 属性动画（Property Animation） 完全解析 （下）](https://blog.csdn.net/lmj623565791/article/details/38092093)
+
+[Transition Animations – Part 1](https://blog.stylingandroid.com/transition-animation-part-1/)    
+[Transition Animations – Part 2](https://blog.stylingandroid.com/transition-animations-part-2/)    
+[Transition Animations – Part 3](https://blog.stylingandroid.com/transition-animations-part-3/)    
+[Transition Animations – Part 4](https://blog.stylingandroid.com/transition-animations-part-4/)
 
