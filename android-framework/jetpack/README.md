@@ -57,6 +57,9 @@
 
 [Androidx App Startup Jetpack library](https://nyamebismark12-nb.medium.com/androidx-app-startup-jetpack-library-b87809f6e3ae)
 
+[App Startup, Part 1](https://medium.com/androiddevelopers/app-startup-part-1-34f57b65cacd)    
+[App Startup, Part 2](https://medium.com/androiddevelopers/app-startup-part-2-c431e80d0df)
+
 ### WorkManager
 
 [WorkManager: 周期性任务](https://zhuanlan.zhihu.com/p/265051417?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

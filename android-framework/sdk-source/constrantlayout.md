@@ -42,6 +42,8 @@
 
 [Introducing Constraint Layout 2.0](https://medium.com/androiddevelopers/introducing-constraint-layout-2-0-9daa3e99995b)
 
+[Exploring helper CircularFlow](https://rodrigomartind.medium.com/exploring-helper-circularflow-6ef168abf4fe)
+
 [ConstraintLayout Chains – Part 1](https://blog.stylingandroid.com/constraintlayout-chains-spread-chains/)  
 [ConstraintLayout Chains – Part 2](https://blog.stylingandroid.com/constraintlayout-chains-part-2/)
 
@@ -51,4 +53,14 @@
 [「译」MotionLayout 介绍 \(part II\)](https://juejin.im/post/5c1c8f74f265da61682b591c)  
 [「译」MotionLayout介绍 \(part III\)](https://juejin.cn/post/6844903746892382216#heading-2)  
 [「译」 MotionLayout 介绍 \(Part IV\) 深入理解关键帧](https://juejin.cn/post/6844903746896396295)
+
+[Motion Layout — Basics, Setup, and Examples](https://jatinjuneja.medium.com/motion-layout-basics-setup-and-examples-8601a94a5efc)
+
+[Learn Motion Layout in Android Using the Twitter Splash Screen](https://medium.com/geekculture/learn-motion-layout-in-android-using-twitter-splash-screen-9c38160c46d)
+
+[Creating a MotionScene programmatically](https://veldan1202.medium.com/creating-a-motionscene-programmatically-3529248b44e9)
+
+[Motion Layout: Creating Simple Recycler View Animation](https://mjmanaog.medium.com/motion-layout-creating-simple-recycler-view-animation-e55d5c33ca6e)
+
+[MotionLayout](https://emre-arslan.medium.com/motionlayout-bba34ce7fa69)
 
