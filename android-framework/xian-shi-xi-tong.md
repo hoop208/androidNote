@@ -2,6 +2,8 @@
 
 ## 知识点
 
+[深入浅出，Andorid 端屏幕采集技术实践](https://mp.weixin.qq.com/s/zyyokaRNLhY5OI55OfRttA)
+
 [Android 视图架构详解](https://juejin.im/entry/571338c7c4c9710054cea455)
 
 [Android中的GraphicBuffer同步机制-Fence](https://blog.csdn.net/jinzhuojun/article/details/39698317)
@@ -17,6 +19,8 @@
 [Android图形系统概述](https://mp.weixin.qq.com/s/GoNYhORwshEJ2dsQrs_hlA)
 
 [vsync choreographer全面理解](https://mp.weixin.qq.com/s/nsFgWZlTkk1YTNvkUVa8MA)
+
+[又卡了～从王者荣耀看 Android 屏幕刷新机制](https://mp.weixin.qq.com/s/sLPE-fHXCXuCgfFc8axTjA)
 
 [Android’s Font Renderer](https://medium.com/@romainguy/androids-font-renderer-c368bbde87d9)
 

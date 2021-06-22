@@ -8,6 +8,8 @@
 
 [谷歌官方也救不了sharedpreference](https://mp.weixin.qq.com/s/eMJz-8jCw6kZCbklRhtMVA)
 
+[今日头条 ANR 优化实践系列 - 告别 SharedPreference 等待](https://mp.weixin.qq.com/s/kfF83UmsGM5w43rDCH544g)
+
 ## 源码解析
 
 [Android应用Preference相关及源码浅析\(SharePreferences篇\)](https://blog.csdn.net/yanbober/article/details/47866369)
