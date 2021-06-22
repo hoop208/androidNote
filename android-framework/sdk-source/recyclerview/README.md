@@ -56,10 +56,6 @@
 [深入理解 RecyclerView 系列之一：ItemDecoration](https://blog.piasy.com/2016/03/26/Insight-Android-RecyclerView-ItemDecoration/index.html)  
 [深入理解 RecyclerView 系列之二：ItemAnimator](https://blog.piasy.com/2016/04/04/Insight-Android-RecyclerView-ItemAnimator/index.html)
 
-[RecyclerView \| 在 RecyclerView 中使用 ListAdapter](https://mp.weixin.qq.com/s/2d2hZlGVT_PaftjjGutV4Q)    
-[RecyclerView \| 处理 RecyclerView 中的点击事件](https://mp.weixin.qq.com/s/xtYtmn2zPRFcM4-uTVW3HA)    
-[RecyclerView \| 在 RecyclerView 中使用 header 快人一步](https://mp.weixin.qq.com/s/-_9JOG27-XUQzMW5vSVjlA)
-
 [RecyclerView 性能优化 \| 把加载表项耗时减半 \(一\)](https://juejin.cn/post/6939666015500369950)    
 [RecyclerView 性能优化 \| 把加载表项耗时减半 \(二\)](https://juejin.cn/post/6942276625090215943)    
 [RecyclerView 性能优化 \| 把加载表项耗时减半 \(三\)](https://juejin.cn/post/6954892589539524615)
