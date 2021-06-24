@@ -45,6 +45,8 @@
 
 [Android 5.1 SurfaceFlinger VSYNC详解](https://blog.csdn.net/newchenxf/article/details/49131167)
 
+[直面底层技术： Android 之 VSYNC、 Choreographer 起源！：](https://mp.weixin.qq.com/s/_BtdfUFon5P9mU49q-d0CA)
+
 ## 绘制流程
 
 [android view的绘制流程:](https://www.jianshu.com/p/5a71014e7b1b)
@@ -86,4 +88,6 @@
 [理解Android硬件加速的小白文](https://juejin.im/post/5a1f7b3e6fb9a0451b0451bb#heading-3)
 
 [Android 中的 Hardware Layer 详解 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/z-eH1o9Bc0_Cijp2T-qcSg)
+
+[Android硬件加速原理与实现简介](https://mp.weixin.qq.com/s/6IzZyMWANE4aT9cOZdMIWA)
 
