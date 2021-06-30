@@ -26,6 +26,8 @@
 
 [How To Share Files With Android FileProvider](https://vladsonkin.com/how-to-share-files-with-android-fileprovider/)
 
+[Android 10、11 存储完全适配](https://mp.weixin.qq.com/s/rRltWQZORbbfAe8LjTpdSQ)
+
 Android8.0：
 
 [Android 8.0 适配](https://www.jianshu.com/p/d9f5b0801c6b)
@@ -61,6 +63,8 @@ Android 10：
 Android 12:
 
 [Android 12 上全新的应用启动画面，适配一下？](https://mp.weixin.qq.com/s/yfp4uyXXlkVJyDRyuNRAow)
+
+[Android 12 上焕然一新的小组件: 美观、便捷和实用 \| 开发者说·DTalk](https://mp.weixin.qq.com/s/SSlzSufOacVj9OZiQXC3Eg)
 
 ### 知识点
 
