@@ -37,3 +37,5 @@
 
 [基于 Facebook Redex 实现 Android APK 的压缩和优化](https://www.jianshu.com/p/78ad578251ef)
 
+[App性能优化——内存、CPU、耗电、启动时间指标获取分析](https://mp.weixin.qq.com/s/ntVhGtKrd0ulqVWUQbIerw)
+
