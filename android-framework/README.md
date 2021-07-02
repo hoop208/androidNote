@@ -44,6 +44,8 @@
 
 [android系统预设app](https://mp.weixin.qq.com/s/jE4ZMu44PI-EQ_WJFI_k6A)
 
+[负一屏和桌面交互实现原理](https://juejin.cn/post/6876749370734493709)
+
 [Android Architecture](https://medium.com/@rao.sithara/android-architecture-4fde59c743ef)
 
 [Android Internals for Developers](https://speakerdeck.com/codingchick/android-internals-for-developers)
