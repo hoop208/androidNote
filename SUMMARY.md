@@ -51,7 +51,6 @@
 * [性能优化](xing-neng-you-hua/README.md)
   * [界面优化](xing-neng-you-hua/jie-mian-you-hua.md)
   * [内存优化](xing-neng-you-hua/nei-cun-you-hua.md)
-  * [相关工具](xing-neng-you-hua/xiang-guan-gong-ju.md)
 * [知识点](zhi-shi-dian/README.md)
   * [动画](zhi-shi-dian/dong-hua.md)
   * [NDK](zhi-shi-dian/ndk.md)
