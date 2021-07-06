@@ -142,8 +142,6 @@
 
 [Kotlin 对象与 object 关键字](https://zhuanlan.zhihu.com/p/27183266)
 
-[\[译\]Object的局限性——Kotlin中的带参单例模式](https://juejin.cn/post/6844903775669321735)
-
 [Kotlin data class — Behind the mask 🧐](https://proandroiddev.com/kotlin-data-class-behind-the-mask-51a05ad92ae9)
 
 [Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)

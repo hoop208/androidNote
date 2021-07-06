@@ -62,6 +62,8 @@
 
 [花式“液体流动”侧滑效果，隔壁产品都馋哭了！](https://mp.weixin.qq.com/s/C9kPqGXhqI9pq1PwZnQ2Dg)
 
+[Android如何实现3D效果](https://mp.weixin.qq.com/s/EwYkyCiJjhkeahhS8szNAg)
+
 [Android 手势检测实战 打造支持缩放平移的图片预览效果（上）](https://blog.csdn.net/lmj623565791/article/details/39474553)  
 [Android 手势检测实战 打造支持缩放平移的图片预览效果（下）](https://blog.csdn.net/lmj623565791/article/details/39480503)
 
