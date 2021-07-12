@@ -33,6 +33,8 @@
 
 [AndroidX下你得知道的Activity和Fragment的变化](https://mp.weixin.qq.com/s/CCZaJs0cI625jSWO2PRdFw)
 
+[AppCompat 发布两年了，还没了解? \| 开发者说·DTalk](https://mp.weixin.qq.com/s/e1Eq_7Jrs2BnXxsTNu88Ew)
+
 [Activity and Fragment Layouts with AndroidX](https://www.bignerdranch.com/blog/activity-and-fragment-layouts-with-androidx/)
 
 [How AndroidX changes the way we work with Activities and Fragments](https://medium.com/@miloszlewandowski/how-androidx-changes-the-way-we-work-with-activities-and-fragments-73b88d157678)
