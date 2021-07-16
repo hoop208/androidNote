@@ -34,6 +34,8 @@
 
 [研究apk重打包](https://mp.weixin.qq.com/s/apQ47eXausldjKNsFO2o8A)
 
+[从构建工具看 Android APK 编译打包流程](https://mp.weixin.qq.com/s/cJ3qnlz40SbkSCC-jq_rlg)
+
 [Getting inside APK files](https://android.jlelse.eu/getting-inside-apk-files-21dbd01529d4)
 
 [How to manage dependencies in a multi module project?](https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415)

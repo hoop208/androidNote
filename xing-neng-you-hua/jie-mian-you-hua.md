@@ -28,6 +28,8 @@
 
 [用两张底层原理图告诉你，为什么你的App会卡顿?](https://mp.weixin.qq.com/s/MuVs0ETetnIs8jZwVxBhkA)
 
+[微信Android客户端的卡顿监控方案](https://mp.weixin.qq.com/s/3dubi2GVW_rVFZZztCpsKg)
+
 ## ANR
 
 知识点

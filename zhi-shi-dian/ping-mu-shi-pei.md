@@ -60,6 +60,8 @@ Android 10：
 
 [Android 10 暗黑模式适配，你需要知道的一切](https://mp.weixin.qq.com/s/-YfXiRiTqp9JIPO4vvWizw)
 
+[Android 10、11 存储完全适配！（建议收藏）](https://mp.weixin.qq.com/s/paGH1KbONV8kRvSYk7lNGw)
+
 Android 12:
 
 [Android 12 上全新的应用启动画面，适配一下？](https://mp.weixin.qq.com/s/yfp4uyXXlkVJyDRyuNRAow)
